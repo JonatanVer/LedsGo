@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestPlan type="OpenTap.TestPlan" Locked="false">
+  <Steps>
+    <TestStep type="OpenTap.Plugins.BasicSteps.DelayStep" Version="9.17.4+ea67c63a" Id="9fda72a9-76f6-4fe5-be89-f87a71e3ddff">
+      <DelaySecs>0.5</DelaySecs>
+      <Enabled>true</Enabled>
+      <Name>Delay</Name>
+      <ChildTestSteps />
+      <BreakConditions>Inherit</BreakConditions>
+    </TestStep>
+    <TestStep type="LedsGo.Steps.LabJackStep" Version="0.1.0-Development" Id="c218de91-124a-41a3-99a9-cd38d2f6ff75">
+      <Device Source="OpenTap.InstrumentSettings">Labjack</Device>
+      <Signal>Analog</Signal>
+      <Direction>Input</Direction>
+      <DIN_Channel>undefined</DIN_Channel>
+      <Readtype>Singe_Shot</Readtype>
+      <AIN_Channel>AIN1</AIN_Channel>
+      <sampleRate>0</sampleRate>
+      <sampleDuration>0</sampleDuration>
+      <DAC_Channel>Undefined</DAC_Channel>
+      <DOutputState>Undefined</DOutputState>
+      <DExpectedInputState>Undefined</DExpectedInputState>
+      <AnalogVoltageOut>0</AnalogVoltageOut>
+      <Singleshottype>MeasOne</Singleshottype>
+      <Min>0</Min>
+      <Max>4</Max>
+      <Factor>1</Factor>
+      <Enabled>true</Enabled>
+      <Name>DAQLJStep</Name>
+      <ChildTestSteps />
+      <BreakConditions>BreakOnError, BreakOnFail, BreakOnInconclusive</BreakConditions>
+    </TestStep>
+    <TestStep type="LedsGo.Steps.LabJackStep" Version="0.1.0-Development" Id="33951153-61d4-4c96-a4cf-c83f7f3b0c87">
+      <Device Source="OpenTap.InstrumentSettings">Labjack</Device>
+      <Signal>Digital</Signal>
+      <Direction>Output</Direction>
+      <DIN_Channel>FIO2</DIN_Channel>
+      <Readtype>Undefined</Readtype>
+      <AIN_Channel>Undefined</AIN_Channel>
+      <sampleRate>0</sampleRate>
+      <sampleDuration>0</sampleDuration>
+      <DAC_Channel>Undefined</DAC_Channel>
+      <DOutputState>Low</DOutputState>
+      <DExpectedInputState>Undefined</DExpectedInputState>
+      <AnalogVoltageOut>0</AnalogVoltageOut>
+      <Singleshottype>Undefined</Singleshottype>
+      <Min>0</Min>
+      <Max>0</Max>
+      <Factor>0</Factor>
+      <Enabled>true</Enabled>
+      <Name>DAQLJStep (1)</Name>
+      <ChildTestSteps />
+      <BreakConditions>Inherit</BreakConditions>
+    </TestStep>
+  </Steps>
+  <BreakConditions>Inherit</BreakConditions>
+  <OpenTap.Description />
+  <Package.Dependencies>
+    <Package Name="OpenTAP" Version="^9.17.4+ea67c63a" />
+  </Package.Dependencies>
+</TestPlan>

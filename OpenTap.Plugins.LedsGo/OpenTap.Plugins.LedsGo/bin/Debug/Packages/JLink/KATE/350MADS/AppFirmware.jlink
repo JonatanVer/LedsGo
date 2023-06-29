@@ -1,0 +1,9 @@
+device MKL03Z32xxx4
+si SWD
+speed 1000
+Sleep 600
+erase
+loadfile C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\KATE\350MADS\Rx-DIM1_v1.0.bin, 0x00
+r
+g
+qc

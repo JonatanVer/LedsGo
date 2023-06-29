@@ -1,0 +1,185 @@
+﻿2022-07-26 14:48:06.389351 ; Session        ; Debug       ; Session log loaded as 'C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\editor 2022-07-26 14-48-05.txt'. [8.11 ms]
+2022-07-26 14:48:06.442172 ; Session        ; Debug       ; Running '"C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\editor.exe" ' in 'C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2022-07-26 14:48:06.586797 ; Session        ; Debug       ; Microsoft Windows 10.0.19044 X64
+2022-07-26 14:48:06.586797 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2022-07-26 14:48:06.629670 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2022-07-26 14:48:06.632675 ; AssemblyFinder ; Debug       ; Found 38/93 assembly files. [34.6 ms]
+2022-07-26 14:48:06.693541 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-07-26 14:48:06.819164 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-07-26 14:48:07.102142 ; Searcher       ; Debug       ; Ordered 34 assemblies according to references. [462 ms]
+2022-07-26 14:48:07.453987 ; PluginManager  ; Debug       ; Found 18 plugin assemblies containing 267 plugin types. [816 ms]
+2022-07-26 14:48:07.455167 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2022-07-26 14:48:07.455167 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2022-07-26 14:48:07.455167 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2022-07-26 14:48:07.455167 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2022-07-26 14:48:07.455167 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2022-07-26 14:48:07.455167 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2022-07-26 14:48:07.455167 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2022-07-26 14:48:07.455167 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of OpenTap.Plugins.LedsGo.dll
+2022-07-26 14:48:07.455167 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-07-26 14:48:07.455167 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of ResultsViewer.exe
+2022-07-26 14:48:07.455167 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of RunExplorer.exe
+2022-07-26 14:48:07.455167 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2022-07-26 14:48:07.455167 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-07-26 14:48:07.455167 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2022-07-26 14:48:07.455167 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-07-26 14:48:07.455167 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-07-26 14:48:07.455167 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-07-26 14:48:07.455167 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2022-07-26 14:48:07.455167 ; PluginManager  ; Debug       ; Searched 38 Assemblies. [817 ms]
+2022-07-26 14:48:07.501858 ; PluginManager  ; Debug       ; Loaded OpenTap. [739 us]
+2022-07-26 14:48:07.556713 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [24.4 ms]
+2022-07-26 14:48:07.567683 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [22.9 ms]
+2022-07-26 14:48:07.583642 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [437 us]
+2022-07-26 14:48:07.639492 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [16.9 ms]
+2022-07-26 14:48:07.893811 ; PluginManager  ; Debug       ; Loaded mscorlib. [900 ns]
+2022-07-26 14:48:08.313906 ; Settings       ; Debug       ; EditorSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [1.19 s]
+2022-07-26 14:48:08.666981 ; GUI            ; Debug       ; Loaded Light Theme. [41.3 ms]
+2022-07-26 14:48:08.705856 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2022-07-26 14:48:09.216534 ; Settings       ; Debug       ; GuiControlsSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [287 ms]
+2022-07-26 14:48:09.216534 ; Main           ; Debug       ; Window initial dimensions: 1934px, 1054px.
+2022-07-26 14:48:09.282314 ; Settings       ; Debug       ; EngineSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [61.7 ms]
+2022-07-26 14:48:09.284310 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [1.85 ms]
+2022-07-26 14:48:09.386240 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2022-07-26 14-48-09.txt'. [43.6 ms]
+2022-07-26 14:48:09.996917 ; Main           ; Debug       ; GUI initialized. [777 ms]
+2022-07-26 14:48:09.996917 ; Main           ; Debug       ; Docking manager initialized. [102 us]
+2022-07-26 14:48:10.002389 ; OpenTAP        ; Information ; OpenTAP version '9.17.4+ea67c63a' 64-bit initialized 07/26/2022 [4.16 s]
+2022-07-26 14:48:10.078690 ; PluginManager  ; Debug       ; Loaded PackageManager. [636 us]
+2022-07-26 14:48:10.078690 ; PluginManager  ; Debug       ; Loaded Editor. [45.1 us]
+2022-07-26 14:48:10.094691 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [15.6 ms]
+2022-07-26 14:48:10.111375 ; PluginManager  ; Debug       ; Loaded RunExplorer. [15.9 ms]
+2022-07-26 14:48:10.115364 ; Settings       ; Debug       ; ConnectionSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [2.23 ms]
+2022-07-26 14:48:10.116362 ; Settings       ; Debug       ; DutSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [921 us]
+2022-07-26 14:48:10.139992 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.LedsGo. [17.0 ms]
+2022-07-26 14:48:10.148274 ; Settings       ; Debug       ; InstrumentSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [32.1 ms]
+2022-07-26 14:48:10.155615 ; Settings       ; Debug       ; ResultSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [7.09 ms]
+2022-07-26 14:48:10.676286 ; Main           ; Information ; Latest version of 'Keysight Licensing' is 1.2, your version is 1.1. Please consider updating. [672 ms]
+2022-07-26 14:48:10.676286 ; Main           ; Information ; Latest version of 'OpenTAP' is 9.18, your version is 9.17. Please consider updating. [672 ms]
+2022-07-26 14:48:10.676286 ; Main           ; Debug       ; Update check complete. [672 ms]
+2022-07-26 14:48:12.181842 ; Settings       ; Debug       ; PanelSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [2.91 ms]
+2022-07-26 14:48:14.683306 ; Main           ; Debug       ; Application startup finished. [8.84 s]
+2022-07-26 14:48:18.796556 ; Main           ; Debug       ; Loaded Test plan C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTapPrograms\SIDDALI.TapPlan [973 ms]
+2022-07-26 14:48:22.398673 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-26 14:48:22.521345 ; TestPlan       ; Information ; Starting TestPlan 'SIDDALI' on 07/26/2022 14:48:22, 15 of 22 TestSteps enabled.
+2022-07-26 14:48:22.671953 ; TestPlan       ; Debug       ; Saved Test Plan XML [13.6 ms]
+2022-07-26 14:48:22.676942 ; Settings       ; Debug       ; No settings file exists for TestPlanRunPackageParameterMonitor. A new instance with default values has been created. [233 us]
+2022-07-26 14:48:22.823534 ; Labjack        ; Information ; Resource "Labjack" opened. [13.7 ms]
+2022-07-26 14:48:22.934310 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PrePlanRun completed. [18.6 ms]
+2022-07-26 14:48:22.945384 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PrePlanRun completed. [12.3 ms]
+2022-07-26 14:48:22.946206 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PrePlanRun completed. [171 us]
+2022-07-26 14:48:22.946298 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PrePlanRun completed. [126 us]
+2022-07-26 14:48:22.947203 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PrePlanRun completed. [117 us]
+2022-07-26 14:48:22.958175 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PrePlanRun completed. [11.1 ms]
+2022-07-26 14:48:22.958771 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Top EIO3" PrePlanRun completed. [162 us]
+2022-07-26 14:48:22.958771 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Mid EIO1" PrePlanRun completed. [134 us]
+2022-07-26 14:48:22.959176 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Bot CIO2" PrePlanRun completed. [147 us]
+2022-07-26 14:48:22.959292 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PrePlanRun completed. [13.0 ms]
+2022-07-26 14:48:22.959292 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [50.3 ms]
+2022-07-26 14:48:22.987099 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" started.
+2022-07-26 14:49:00.762356 ; TestPlan       ; Error       ; Error running "48V nr DUT afleggen begin FIO2": LJME_DEVICE_NOT_OPEN.
+2022-07-26 14:49:00.769337 ; TestPlan       ; Debug       ; Exception: LJME_DEVICE_NOT_OPEN
+2022-07-26 14:49:00.786290 ; TestPlan       ; Debug       ;     bij LedsGo.Utilities.LabJackClass.DigitalWrite(DIO channel, STATE value) in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Utilities\LabJack.cs:regel 353
+2022-07-26 14:49:00.786290 ; TestPlan       ; Debug       ;     bij LedsGo.Instruments.LabJackInstrument.DigitalWrite(DIO channel, STATE value) in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Instruments\LabJackInstrument.cs:regel 216
+2022-07-26 14:49:00.786290 ; TestPlan       ; Debug       ;     bij LedsGo.Steps.LabJackStep.WriteDigital() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Steps\LabJackStep.cs:regel 184
+2022-07-26 14:49:00.786290 ; TestPlan       ; Debug       ;     bij LedsGo.Steps.LabJackStep.Run() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Steps\LabJackStep.cs:regel 124
+2022-07-26 14:49:00.786290 ; TestPlan       ; Debug       ;     bij OpenTap.TestStepExtensions.DoRun(ITestStep Step, TestPlanRun planRun, TestRun parentRun, IEnumerable`1 attachedParameters)
+2022-07-26 14:49:00.789398 ; TestPlan       ; Debug       ; Exception caught at:
+2022-07-26 14:49:00.809228 ; TestPlan       ; Debug       ;     at failState execTestPlan(OpenTap.TestPlanRun, System.Collections.Generic.IList`1[OpenTap.ITestStep])
+2022-07-26 14:49:00.809228 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun DoExecute(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-26 14:49:00.809228 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun executeInContext(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-26 14:49:00.809228 ; TestPlan       ; Debug       ;     at Void g()
+2022-07-26 14:49:00.809228 ; TestPlan       ; Debug       ;     ...
+2022-07-26 14:49:00.819203 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" completed with verdict 'Error'. [37.8 s]
+2022-07-26 14:49:00.823247 ; Test Step      ; Debug       ; Break issued from '48V nr DUT afleggen begin FIO2' due to verdict Error. See Break Conditions settings.
+2022-07-26 14:49:00.824387 ; TestPlan       ; Debug       ; Test step runs finished. [37.8 s]
+2022-07-26 14:49:03.800217 ; TestPlan       ; Warning     ; Error during post plan run of "48V naar DUT afleggen einde FIO2".
+2022-07-26 14:49:03.800217 ; TestPlan       ; Debug       ; Exception: LJME_DEVICE_NOT_OPEN
+2022-07-26 14:49:03.805204 ; TestPlan       ; Debug       ;     bij LabJack.LJM.Close(Int32 Handle)
+2022-07-26 14:49:03.805204 ; TestPlan       ; Debug       ;     bij LedsGo.Utilities.LabJackClass.Close() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Utilities\LabJack.cs:regel 254
+2022-07-26 14:49:03.805204 ; TestPlan       ; Debug       ;     bij LedsGo.Instruments.LabJackInstrument.Close() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Instruments\LabJackInstrument.cs:regel 209
+2022-07-26 14:49:03.805204 ; TestPlan       ; Debug       ;     bij LedsGo.Steps.LabJackStep.PostPlanRun() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Steps\LabJackStep.cs:regel 262
+2022-07-26 14:49:03.805204 ; TestPlan       ; Debug       ;     bij OpenTap.TestPlan.finishTestPlanRun(TestPlanRun run, Stopwatch testPlanTimer, failState runWentOk, TraceListener Logger, HybridStream logStream)
+2022-07-26 14:49:03.805204 ; TestPlan       ; Debug       ; Exception caught at:
+2022-07-26 14:49:03.805204 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun DoExecute(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-26 14:49:03.805204 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun executeInContext(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-26 14:49:03.805204 ; TestPlan       ; Debug       ;     at Void g()
+2022-07-26 14:49:03.805204 ; TestPlan       ; Debug       ;     at Void Process()
+2022-07-26 14:49:03.805204 ; TestPlan       ; Debug       ;     ...
+2022-07-26 14:49:05.180320 ; TestPlan       ; Warning     ; Error during post plan run of "Soldeerlinken controleren \ SL Bot CIO2".
+2022-07-26 14:49:05.180320 ; TestPlan       ; Debug       ; Exception: LJME_DEVICE_NOT_OPEN
+2022-07-26 14:49:05.180320 ; TestPlan       ; Debug       ;     bij LabJack.LJM.Close(Int32 Handle)
+2022-07-26 14:49:05.180320 ; TestPlan       ; Debug       ;     bij LedsGo.Utilities.LabJackClass.Close() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Utilities\LabJack.cs:regel 254
+2022-07-26 14:49:05.180320 ; TestPlan       ; Debug       ;     bij LedsGo.Instruments.LabJackInstrument.Close() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Instruments\LabJackInstrument.cs:regel 209
+2022-07-26 14:49:05.180320 ; TestPlan       ; Debug       ;     bij LedsGo.Steps.LabJackStep.PostPlanRun() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Steps\LabJackStep.cs:regel 262
+2022-07-26 14:49:05.180320 ; TestPlan       ; Debug       ;     bij OpenTap.TestPlan.finishTestPlanRun(TestPlanRun run, Stopwatch testPlanTimer, failState runWentOk, TraceListener Logger, HybridStream logStream)
+2022-07-26 14:49:05.181316 ; TestPlan       ; Debug       ; Exception caught at:
+2022-07-26 14:49:05.181316 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun DoExecute(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-26 14:49:05.181316 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun executeInContext(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-26 14:49:05.181316 ; TestPlan       ; Debug       ;     at Void g()
+2022-07-26 14:49:05.181316 ; TestPlan       ; Debug       ;     at Void Process()
+2022-07-26 14:49:05.181316 ; TestPlan       ; Debug       ;     ...
+2022-07-26 14:49:05.949995 ; TestPlan       ; Warning     ; Error during post plan run of "Soldeerlinken controleren \ SL Mid EIO1".
+2022-07-26 14:49:05.949995 ; TestPlan       ; Debug       ; Exception: LJME_DEVICE_NOT_OPEN
+2022-07-26 14:49:05.951005 ; TestPlan       ; Debug       ;     bij LabJack.LJM.Close(Int32 Handle)
+2022-07-26 14:49:05.951005 ; TestPlan       ; Debug       ;     bij LedsGo.Utilities.LabJackClass.Close() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Utilities\LabJack.cs:regel 254
+2022-07-26 14:49:05.951005 ; TestPlan       ; Debug       ;     bij LedsGo.Instruments.LabJackInstrument.Close() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Instruments\LabJackInstrument.cs:regel 209
+2022-07-26 14:49:05.951005 ; TestPlan       ; Debug       ;     bij LedsGo.Steps.LabJackStep.PostPlanRun() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Steps\LabJackStep.cs:regel 262
+2022-07-26 14:49:05.951005 ; TestPlan       ; Debug       ;     bij OpenTap.TestPlan.finishTestPlanRun(TestPlanRun run, Stopwatch testPlanTimer, failState runWentOk, TraceListener Logger, HybridStream logStream)
+2022-07-26 14:49:05.951005 ; TestPlan       ; Debug       ; Exception caught at:
+2022-07-26 14:49:05.951005 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun DoExecute(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-26 14:49:05.951005 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun executeInContext(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-26 14:49:05.951005 ; TestPlan       ; Debug       ;     at Void g()
+2022-07-26 14:49:05.951005 ; TestPlan       ; Debug       ;     at Void Process()
+2022-07-26 14:49:05.951005 ; TestPlan       ; Debug       ;     ...
+2022-07-26 14:49:06.635981 ; TestPlan       ; Warning     ; Error during post plan run of "Soldeerlinken controleren \ SL Top EIO3".
+2022-07-26 14:49:06.635981 ; TestPlan       ; Debug       ; Exception: LJME_DEVICE_NOT_OPEN
+2022-07-26 14:49:06.635981 ; TestPlan       ; Debug       ;     bij LabJack.LJM.Close(Int32 Handle)
+2022-07-26 14:49:06.635981 ; TestPlan       ; Debug       ;     bij LedsGo.Utilities.LabJackClass.Close() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Utilities\LabJack.cs:regel 254
+2022-07-26 14:49:06.635981 ; TestPlan       ; Debug       ;     bij LedsGo.Instruments.LabJackInstrument.Close() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Instruments\LabJackInstrument.cs:regel 209
+2022-07-26 14:49:06.635981 ; TestPlan       ; Debug       ;     bij LedsGo.Steps.LabJackStep.PostPlanRun() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Steps\LabJackStep.cs:regel 262
+2022-07-26 14:49:06.635981 ; TestPlan       ; Debug       ;     bij OpenTap.TestPlan.finishTestPlanRun(TestPlanRun run, Stopwatch testPlanTimer, failState runWentOk, TraceListener Logger, HybridStream logStream)
+2022-07-26 14:49:06.635981 ; TestPlan       ; Debug       ; Exception caught at:
+2022-07-26 14:49:06.635981 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun DoExecute(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-26 14:49:06.635981 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun executeInContext(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-26 14:49:06.635981 ; TestPlan       ; Debug       ;     at Void g()
+2022-07-26 14:49:06.635981 ; TestPlan       ; Debug       ;     at Void Process()
+2022-07-26 14:49:06.635981 ; TestPlan       ; Debug       ;     ...
+2022-07-26 14:49:07.280208 ; TestPlan       ; Warning     ; Error during post plan run of "Stromen controleren \ DUT nt kortgesloten AIN0".
+2022-07-26 14:49:07.280208 ; TestPlan       ; Debug       ; Exception: LJME_DEVICE_NOT_OPEN
+2022-07-26 14:49:07.281042 ; TestPlan       ; Debug       ;     bij LabJack.LJM.Close(Int32 Handle)
+2022-07-26 14:49:07.281042 ; TestPlan       ; Debug       ;     bij LedsGo.Utilities.LabJackClass.Close() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Utilities\LabJack.cs:regel 254
+2022-07-26 14:49:07.281042 ; TestPlan       ; Debug       ;     bij LedsGo.Instruments.LabJackInstrument.Close() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Instruments\LabJackInstrument.cs:regel 209
+2022-07-26 14:49:07.281042 ; TestPlan       ; Debug       ;     bij LedsGo.Steps.LabJackStep.PostPlanRun() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Steps\LabJackStep.cs:regel 262
+2022-07-26 14:49:07.281042 ; TestPlan       ; Debug       ;     bij OpenTap.TestPlan.finishTestPlanRun(TestPlanRun run, Stopwatch testPlanTimer, failState runWentOk, TraceListener Logger, HybridStream logStream)
+2022-07-26 14:49:07.281042 ; TestPlan       ; Debug       ; Exception caught at:
+2022-07-26 14:49:07.281042 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun DoExecute(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-26 14:49:07.281042 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun executeInContext(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-26 14:49:07.281042 ; TestPlan       ; Debug       ;     at Void g()
+2022-07-26 14:49:07.281042 ; TestPlan       ; Debug       ;     at Void Process()
+2022-07-26 14:49:07.281042 ; TestPlan       ; Debug       ;     ...
+2022-07-26 14:49:07.900526 ; TestPlan       ; Warning     ; Error during post plan run of "Spanningen controleren \ 3V3 Meten AIN1".
+2022-07-26 14:49:07.900526 ; TestPlan       ; Debug       ; Exception: LJME_DEVICE_NOT_OPEN
+2022-07-26 14:49:07.901210 ; TestPlan       ; Debug       ;     bij LabJack.LJM.Close(Int32 Handle)
+2022-07-26 14:49:07.901210 ; TestPlan       ; Debug       ;     bij LedsGo.Utilities.LabJackClass.Close() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Utilities\LabJack.cs:regel 254
+2022-07-26 14:49:07.901210 ; TestPlan       ; Debug       ;     bij LedsGo.Instruments.LabJackInstrument.Close() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Instruments\LabJackInstrument.cs:regel 209
+2022-07-26 14:49:07.901210 ; TestPlan       ; Debug       ;     bij LedsGo.Steps.LabJackStep.PostPlanRun() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Steps\LabJackStep.cs:regel 262
+2022-07-26 14:49:07.901210 ; TestPlan       ; Debug       ;     bij OpenTap.TestPlan.finishTestPlanRun(TestPlanRun run, Stopwatch testPlanTimer, failState runWentOk, TraceListener Logger, HybridStream logStream)
+2022-07-26 14:49:07.902215 ; TestPlan       ; Debug       ; Exception caught at:
+2022-07-26 14:49:07.902215 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun DoExecute(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-26 14:49:07.902215 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun executeInContext(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-26 14:49:07.902215 ; TestPlan       ; Debug       ;     at Void g()
+2022-07-26 14:49:07.902215 ; TestPlan       ; Debug       ;     at Void Process()
+2022-07-26 14:49:07.902215 ; TestPlan       ; Debug       ;     ...
+2022-07-26 14:49:08.617362 ; TestPlan       ; Warning     ; Error during post plan run of "48V nr DUT aanleggen FIO2".
+2022-07-26 14:49:08.617362 ; TestPlan       ; Debug       ; Exception: LJME_DEVICE_NOT_OPEN
+2022-07-26 14:49:08.618318 ; TestPlan       ; Debug       ;     bij LabJack.LJM.Close(Int32 Handle)
+2022-07-26 14:49:08.618318 ; TestPlan       ; Debug       ;     bij LedsGo.Utilities.LabJackClass.Close() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Utilities\LabJack.cs:regel 254
+2022-07-26 14:49:08.618318 ; TestPlan       ; Debug       ;     bij LedsGo.Instruments.LabJackInstrument.Close() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Instruments\LabJackInstrument.cs:regel 209
+2022-07-26 14:49:08.618318 ; TestPlan       ; Debug       ;     bij LedsGo.Steps.LabJackStep.PostPlanRun() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Steps\LabJackStep.cs:regel 262
+2022-07-26 14:49:08.618318 ; TestPlan       ; Debug       ;     bij OpenTap.TestPlan.finishTestPlanRun(TestPlanRun run, Stopwatch testPlanTimer, failState runWentOk, TraceListener Logger, HybridStream logStream)
+2022-07-26 14:49:08.618318 ; TestPlan       ; Debug       ; Exception caught at:
+2022-07-26 14:49:08.618318 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun DoExecute(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-26 14:49:08.618318 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun executeInContext(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-26 14:49:08.618318 ; TestPlan       ; Debug       ;     at Void g()
+2022-07-26 14:49:08.618318 ; TestPlan       ; Debug       ;     at Void Process()
+2022-07-26 14:49:08.618318 ; TestPlan       ; Debug       ;     ...

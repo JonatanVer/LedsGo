@@ -1,0 +1,92 @@
+﻿2022-07-14 16:13:39.222854 ; Session        ; Debug       ; Session log loaded as 'D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\editor 2022-07-14 16-13-38.txt'. [4.52 ms]
+2022-07-14 16:13:39.252773 ; Session        ; Debug       ; Running '"D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\editor.exe" ' in 'D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2022-07-14 16:13:39.405364 ; Session        ; Debug       ; Microsoft Windows 10.0.19043 X64
+2022-07-14 16:13:39.405364 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2022-07-14 16:13:39.432292 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2022-07-14 16:13:39.439276 ; AssemblyFinder ; Debug       ; Found 30/85 assembly files. [27.9 ms]
+2022-07-14 16:13:39.519061 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-07-14 16:13:39.524047 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Wpf, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\WPF Controls\Keysight.OpenTap.Wpf.dll
+2022-07-14 16:13:39.548980 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-07-14 16:13:39.704517 ; Searcher       ; Debug       ; Ordered 28 assemblies according to references. [260 ms]
+2022-07-14 16:13:40.063483 ; PluginManager  ; Debug       ; Found 18 plugin assemblies containing 265 plugin types. [620 ms]
+2022-07-14 16:13:40.063483 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2022-07-14 16:13:40.063483 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2022-07-14 16:13:40.063483 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2022-07-14 16:13:40.063483 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2022-07-14 16:13:40.063483 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2022-07-14 16:13:40.063483 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2022-07-14 16:13:40.063483 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2022-07-14 16:13:40.063483 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of OpenTap.Plugins.LedsGo.dll
+2022-07-14 16:13:40.063483 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-07-14 16:13:40.063483 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of ResultsViewer.exe
+2022-07-14 16:13:40.063483 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of RunExplorer.exe
+2022-07-14 16:13:40.063483 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2022-07-14 16:13:40.063483 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-07-14 16:13:40.063483 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2022-07-14 16:13:40.063483 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-07-14 16:13:40.063483 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-07-14 16:13:40.063483 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-07-14 16:13:40.063483 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2022-07-14 16:13:40.063483 ; PluginManager  ; Debug       ; Searched 30 Assemblies. [621 ms]
+2022-07-14 16:13:40.083427 ; PluginManager  ; Debug       ; Loaded OpenTap. [581 us]
+2022-07-14 16:13:40.102376 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [8.86 ms]
+2022-07-14 16:13:40.104372 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [11.0 ms]
+2022-07-14 16:13:40.107364 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [293 us]
+2022-07-14 16:13:40.141273 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [8.15 ms]
+2022-07-14 16:13:40.243998 ; PluginManager  ; Debug       ; Loaded mscorlib. [800 ns]
+2022-07-14 16:13:40.483358 ; Settings       ; Debug       ; EditorSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [661 ms]
+2022-07-14 16:13:40.506297 ; Resolver       ; Debug       ; Found match for MahApps.Metro, Version=1.3.0.0, Culture=neutral, PublicKeyToken=f4fb5a3c4d1e5b4f in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\MahApps.Metro.1.3.0.0\MahApps.Metro.dll
+2022-07-14 16:13:41.071839 ; GUI            ; Debug       ; Loaded Light Theme. [33.2 ms]
+2022-07-14 16:13:41.146639 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2022-07-14 16:13:41.714122 ; Settings       ; Debug       ; GuiControlsSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [341 ms]
+2022-07-14 16:13:41.714122 ; Main           ; Debug       ; Window initial dimensions: 1934px, 1054px.
+2022-07-14 16:13:41.800890 ; Settings       ; Debug       ; EngineSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [81.5 ms]
+2022-07-14 16:13:41.814851 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [1.95 ms]
+2022-07-14 16:13:41.829811 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Licensing, Version=1.1.1.0, Culture=neutral, PublicKeyToken=null in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\Keysight Licensing\Keysight.OpenTap.Licensing.dll
+2022-07-14 16:13:41.865715 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2022-07-14 16-13-41.txt'. [9.96 ms]
+2022-07-14 16:13:42.924884 ; Main           ; Debug       ; GUI initialized. [1.20 s]
+2022-07-14 16:13:42.924884 ; Main           ; Debug       ; Docking manager initialized. [140 us]
+2022-07-14 16:13:42.928873 ; OpenTAP        ; Information ; OpenTAP version '9.17.4+ea67c63a' 64-bit initialized 07/14/2022 [4.16 s]
+2022-07-14 16:13:43.008660 ; PluginManager  ; Debug       ; Loaded PackageManager. [1.08 ms]
+2022-07-14 16:13:43.008660 ; PluginManager  ; Debug       ; Loaded Editor. [74.6 us]
+2022-07-14 16:13:43.134324 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [125 ms]
+2022-07-14 16:13:43.152277 ; PluginManager  ; Debug       ; Loaded RunExplorer. [16.5 ms]
+2022-07-14 16:13:43.157278 ; Settings       ; Debug       ; ConnectionSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [2.91 ms]
+2022-07-14 16:13:43.160255 ; Settings       ; Debug       ; DutSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [1.80 ms]
+2022-07-14 16:13:43.229071 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.LedsGo. [57.6 ms]
+2022-07-14 16:13:44.013183 ; Resolver       ; Debug       ; Found match for Keysight.Kal.Licensing.Api, Version=4.0.0.0, Culture=neutral, PublicKeyToken=55333af07c70062e in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\Keysight.Kal.Licensing.Api.4.0.0\Keysight.Kal.Licensing.Api.dll
+2022-07-14 16:13:44.069035 ; KAL            ; Debug       ; KAL signature verified. [42.5 ms]
+2022-07-14 16:13:44.093969 ; KAL Process    ; Debug       ; Initialized [68.0 ms]
+2022-07-14 16:13:44.097959 ; KAL            ; Debug       ; Initialized [74.6 ms]
+2022-07-14 16:13:55.857731 ; Serializer     ; Error       ; XML Line 8: Object value was not read correctly.
+2022-07-14 16:13:55.858728 ; Serializer     ; Debug       ; Exception: Het doel van een aanroep heeft een uitzondering veroorzaakt.
+2022-07-14 16:13:55.867705 ; Serializer     ; Debug       ;     bij System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+2022-07-14 16:13:55.867705 ; Serializer     ; Debug       ;     bij System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+2022-07-14 16:13:55.867705 ; Serializer     ; Debug       ;     bij System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+2022-07-14 16:13:55.867705 ; Serializer     ; Debug       ;     bij System.Reflection.RuntimePropertyInfo.SetValue(Object obj, Object value, Object[] index)
+2022-07-14 16:13:55.867705 ; Serializer     ; Debug       ;     bij OpenTap.MemberData.SetValue(Object owner, Object value)
+2022-07-14 16:13:55.867705 ; Serializer     ; Debug       ;     bij OpenTap.Plugins.ObjectSerializer.<>c__DisplayClass12_3.<TryDeserializeObject>b__10(Object x)
+2022-07-14 16:13:55.867705 ; Serializer     ; Debug       ;     bij OpenTap.Plugins.ObjectSerializer.Deserialize(XElement element, ITypeData t, Action`1 setter)
+2022-07-14 16:13:55.867705 ; Serializer     ; Debug       ;   Inner exception: LJME_DEVICE_NOT_FOUND
+2022-07-14 16:13:55.870696 ; Serializer     ; Debug       ;     bij LedsGo.Utilities.LabJackClass.Open(String DeviceName) in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Utilities\LabJack.cs:regel 260
+2022-07-14 16:13:55.870696 ; Serializer     ; Debug       ;     bij LedsGo.Instruments.LabJackInstrument.set_DeviceNameUSB(String value) in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Instruments\LabJackInstrument.cs:regel 75
+2022-07-14 16:13:55.875683 ; Serializer     ; Debug       ; Exception caught at:
+2022-07-14 16:13:55.885656 ; Serializer     ; Debug       ;     at System.Object Deserialize(System.Xml.Linq.XDocument, OpenTap.ITypeData, Boolean, System.String)
+2022-07-14 16:13:55.885656 ; Serializer     ; Debug       ;     at OpenTap.ComponentSettings Load(System.Type)
+2022-07-14 16:13:55.885656 ; Serializer     ; Debug       ;     at ResultT Invoke(ArgT)
+2022-07-14 16:13:55.885656 ; Serializer     ; Debug       ;     at OpenTap.ComponentSettings GetCurrent(System.Type)
+2022-07-14 16:13:55.885656 ; Serializer     ; Debug       ;     ...
+2022-07-14 16:13:55.885656 ; Settings       ; Debug       ; InstrumentSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [12.7 s]
+2022-07-14 16:13:55.886654 ; Settings       ; Debug       ; ResultSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [1.34 ms]
+2022-07-14 16:13:55.888648 ; Main           ; Information ; Latest version of 'Keysight Licensing' is 1.2, your version is 1.1. Please consider updating. [12.9 s]
+2022-07-14 16:13:55.888648 ; Main           ; Information ; Latest version of 'PathWave License Manager' is 2.5, your version is 2.4. Please consider updating. [12.9 s]
+2022-07-14 16:13:55.888648 ; Main           ; Information ; Latest version of 'OpenTAP' is 9.18, your version is 9.17. Please consider updating. [12.9 s]
+2022-07-14 16:13:55.888648 ; Main           ; Debug       ; Update check complete. [12.9 s]
+2022-07-14 16:13:57.762024 ; Settings       ; Debug       ; PanelSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [4.92 ms]
+2022-07-14 16:13:58.326512 ; Main           ; Debug       ; Application startup finished. [19.5 s]
+2022-07-14 16:14:02.407827 ; Settings       ; Debug       ; Saved GuiControlsSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [17.6 ms]
+2022-07-14 16:14:02.423784 ; Settings       ; Debug       ; Saved PanelSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [1.55 ms]
+2022-07-14 16:14:02.426775 ; Settings       ; Debug       ; Saved EditorSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [2.89 ms]
+2022-07-14 16:14:11.531218 ; Settings       ; Debug       ; Saved GuiControlsSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [9.96 ms]
+2022-07-14 16:14:11.533175 ; Settings       ; Debug       ; Saved PanelSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [1.24 ms]
+2022-07-14 16:14:11.535171 ; Settings       ; Debug       ; Saved EditorSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [1.01 ms]

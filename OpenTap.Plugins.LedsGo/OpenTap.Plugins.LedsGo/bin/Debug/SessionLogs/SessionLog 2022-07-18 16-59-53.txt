@@ -1,0 +1,644 @@
+﻿2022-07-18 16:59:51.322446 ; Session        ; Debug       ; Session log loaded as 'D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\editor 2022-07-18 16-59-50.txt'. [6.57 ms]
+2022-07-18 16:59:51.354363 ; Session        ; Debug       ; Running '"D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\editor.exe" ' in 'D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2022-07-18 16:59:51.555828 ; Session        ; Debug       ; Microsoft Windows 10.0.19043 X64
+2022-07-18 16:59:51.555828 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2022-07-18 16:59:51.767266 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2022-07-18 16:59:51.852040 ; AssemblyFinder ; Debug       ; Found 30/85 assembly files. [73.5 ms]
+2022-07-18 16:59:52.015607 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Wpf, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\WPF Controls\Keysight.OpenTap.Wpf.dll
+2022-07-18 16:59:52.120329 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-07-18 16:59:52.225050 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-07-18 16:59:52.490346 ; Searcher       ; Debug       ; Ordered 28 assemblies according to references. [624 ms]
+2022-07-18 16:59:52.689817 ; PluginManager  ; Debug       ; Found 18 plugin assemblies containing 265 plugin types. [830 ms]
+2022-07-18 16:59:52.689817 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2022-07-18 16:59:52.689817 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2022-07-18 16:59:52.689817 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2022-07-18 16:59:52.689817 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2022-07-18 16:59:52.689817 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2022-07-18 16:59:52.689817 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2022-07-18 16:59:52.689817 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2022-07-18 16:59:52.689817 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of OpenTap.Plugins.LedsGo.dll
+2022-07-18 16:59:52.689817 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-07-18 16:59:52.689817 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of ResultsViewer.exe
+2022-07-18 16:59:52.689817 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of RunExplorer.exe
+2022-07-18 16:59:52.689817 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2022-07-18 16:59:52.689817 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-07-18 16:59:52.689817 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2022-07-18 16:59:52.689817 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-07-18 16:59:52.689817 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-07-18 16:59:52.689817 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-07-18 16:59:52.689817 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2022-07-18 16:59:52.689817 ; PluginManager  ; Debug       ; Searched 30 Assemblies. [831 ms]
+2022-07-18 16:59:52.716745 ; PluginManager  ; Debug       ; Loaded OpenTap. [854 us]
+2022-07-18 16:59:52.749657 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [412 us]
+2022-07-18 16:59:52.755641 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [12.7 ms]
+2022-07-18 16:59:52.759632 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [19.0 ms]
+2022-07-18 16:59:52.796532 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [9.71 ms]
+2022-07-18 16:59:52.957104 ; PluginManager  ; Debug       ; Loaded mscorlib. [600 ns]
+2022-07-18 16:59:53.314157 ; Settings       ; Debug       ; EditorSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [837 ms]
+2022-07-18 16:59:53.325129 ; Resolver       ; Debug       ; Found match for MahApps.Metro, Version=1.3.0.0, Culture=neutral, PublicKeyToken=f4fb5a3c4d1e5b4f in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\MahApps.Metro.1.3.0.0\MahApps.Metro.dll
+2022-07-18 16:59:53.570476 ; GUI            ; Debug       ; Loaded Light Theme. [26.0 ms]
+2022-07-18 16:59:53.592876 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2022-07-18 16:59:53.907006 ; Settings       ; Debug       ; GuiControlsSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [167 ms]
+2022-07-18 16:59:53.907006 ; Main           ; Debug       ; Window initial dimensions: 1934px, 1054px.
+2022-07-18 16:59:53.964850 ; Settings       ; Debug       ; EngineSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [53.8 ms]
+2022-07-18 16:59:53.967842 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Licensing, Version=1.1.1.0, Culture=neutral, PublicKeyToken=null in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\Keysight Licensing\Keysight.OpenTap.Licensing.dll
+2022-07-18 16:59:53.968844 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [1.95 ms]
+2022-07-18 16:59:54.013721 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2022-07-18 16-59-53.txt'. [6.00 ms]
+2022-07-18 16:59:54.568254 ; Main           ; Debug       ; GUI initialized. [658 ms]
+2022-07-18 16:59:54.568254 ; Main           ; Debug       ; Docking manager initialized. [209 us]
+2022-07-18 16:59:54.572238 ; OpenTAP        ; Information ; OpenTAP version '9.17.4+ea67c63a' 64-bit initialized 07/18/2022 [4.15 s]
+2022-07-18 16:59:54.624104 ; PluginManager  ; Debug       ; Loaded PackageManager. [450 us]
+2022-07-18 16:59:54.624104 ; PluginManager  ; Debug       ; Loaded Editor. [30.0 us]
+2022-07-18 16:59:54.635069 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [10.3 ms]
+2022-07-18 16:59:54.645045 ; PluginManager  ; Debug       ; Loaded RunExplorer. [9.81 ms]
+2022-07-18 16:59:54.649069 ; Settings       ; Debug       ; ConnectionSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [2.02 ms]
+2022-07-18 16:59:54.650068 ; Settings       ; Debug       ; DutSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [932 us]
+2022-07-18 16:59:54.669977 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.LedsGo. [13.8 ms]
+2022-07-18 16:59:54.676961 ; Settings       ; Debug       ; InstrumentSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [26.7 ms]
+2022-07-18 16:59:54.677959 ; Settings       ; Debug       ; ResultSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [652 us]
+2022-07-18 16:59:55.152999 ; Main           ; Information ; Latest version of 'PathWave License Manager' is 2.5, your version is 2.4. Please consider updating. [579 ms]
+2022-07-18 16:59:55.152999 ; Main           ; Information ; Latest version of 'Keysight Licensing' is 1.2, your version is 1.1. Please consider updating. [579 ms]
+2022-07-18 16:59:55.152999 ; Main           ; Information ; Latest version of 'OpenTAP' is 9.18, your version is 9.17. Please consider updating. [579 ms]
+2022-07-18 16:59:55.152999 ; Main           ; Debug       ; Update check complete. [579 ms]
+2022-07-18 16:59:55.633725 ; Resolver       ; Debug       ; Found match for Keysight.Kal.Licensing.Api, Version=4.0.0.0, Culture=neutral, PublicKeyToken=55333af07c70062e in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\Keysight.Kal.Licensing.Api.4.0.0\Keysight.Kal.Licensing.Api.dll
+2022-07-18 16:59:55.702546 ; KAL            ; Debug       ; KAL signature verified. [46.2 ms]
+2022-07-18 16:59:55.734458 ; KAL Process    ; Debug       ; Initialized [81.4 ms]
+2022-07-18 16:59:55.741439 ; KAL            ; Debug       ; Initialized [89.6 ms]
+2022-07-18 16:59:56.832222 ; Settings       ; Debug       ; PanelSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [1.95 ms]
+2022-07-18 16:59:57.623892 ; Main           ; Debug       ; Application startup finished. [7.21 s]
+2022-07-18 17:00:00.465761 ; Serializer     ; Error       ; XML Line 10: Unable to read element 'DoutValue'. The property does not exist.
+2022-07-18 17:00:02.441164 ; Main           ; Debug       ; Loaded Test plan D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\test.TapPlan [2.02 s]
+2022-07-18 17:00:06.741715 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:00:06.791771 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:00:06, 1 of 1 TestSteps enabled.
+2022-07-18 17:00:06.863580 ; TestPlan       ; Debug       ; Saved Test Plan XML [3.32 ms]
+2022-07-18 17:00:06.872559 ; Settings       ; Debug       ; No settings file exists for TestPlanRunPackageParameterMonitor. A new instance with default values has been created. [180 us]
+2022-07-18 17:00:07.057529 ; Labjack        ; Information ; Resource "Labjack" opened. [112 ms]
+2022-07-18 17:00:07.085461 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [4.54 ms]
+2022-07-18 17:00:07.085461 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [8.62 ms]
+2022-07-18 17:00:07.099417 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:00:07.115375 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [14.1 ms]
+2022-07-18 17:00:07.116372 ; TestPlan       ; Debug       ; Test step runs finished. [31.1 ms]
+2022-07-18 17:00:07.120367 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [400 us]
+2022-07-18 17:00:07.141348 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:00:06 -----------
+2022-07-18 17:00:07.145296 ; Summary        ; Information ;  LabJackStep                                      14.1 ms  Inconclusive
+2022-07-18 17:00:07.146293 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:00:07.147290 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 249 ms --------
+2022-07-18 17:00:07.178209 ; Labjack        ; Information ; Resource "Labjack" closed. [13.1 us]
+2022-07-18 17:00:12.110742 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:00:12.110742 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:00:12, 1 of 1 TestSteps enabled.
+2022-07-18 17:00:12.111739 ; Labjack        ; Information ; Resource "Labjack" opened. [196 us]
+2022-07-18 17:00:12.113734 ; TestPlan       ; Debug       ; Saved Test Plan XML [3.00 ms]
+2022-07-18 17:00:12.132684 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [130 us]
+2022-07-18 17:00:12.132684 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [156 us]
+2022-07-18 17:00:12.132684 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:00:12.134678 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [2.53 ms]
+2022-07-18 17:00:12.135676 ; TestPlan       ; Debug       ; Test step runs finished. [2.71 ms]
+2022-07-18 17:00:12.135676 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [117 us]
+2022-07-18 17:00:12.135676 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:00:12 -----------
+2022-07-18 17:00:12.135676 ; Summary        ; Information ;  LabJackStep                                      2.53 ms  Inconclusive
+2022-07-18 17:00:12.135676 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:00:12.135676 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 24.2 ms -------
+2022-07-18 17:00:12.142660 ; Labjack        ; Information ; Resource "Labjack" closed. [2.20 us]
+2022-07-18 17:04:23.705073 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:04:23.708066 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:04:23, 1 of 1 TestSteps enabled.
+2022-07-18 17:04:23.726018 ; TestPlan       ; Debug       ; Saved Test Plan XML [15.3 ms]
+2022-07-18 17:04:23.734994 ; Labjack        ; Information ; Resource "Labjack" opened. [11.8 ms]
+2022-07-18 17:04:23.767907 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [106 us]
+2022-07-18 17:04:23.767907 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [131 us]
+2022-07-18 17:04:23.767907 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:04:23.778878 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [10.5 ms]
+2022-07-18 17:04:23.778878 ; TestPlan       ; Debug       ; Test step runs finished. [10.8 ms]
+2022-07-18 17:04:23.778878 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [16.2 us]
+2022-07-18 17:04:23.778878 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:04:23 -----------
+2022-07-18 17:04:23.778878 ; Summary        ; Information ;  LabJackStep                                      10.5 ms  Inconclusive
+2022-07-18 17:04:23.778878 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:04:23.778878 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 60.2 ms -------
+2022-07-18 17:04:23.786857 ; Labjack        ; Information ; Resource "Labjack" closed. [1.60 us]
+2022-07-18 17:04:37.598120 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:04:37.599118 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:04:37, 1 of 1 TestSteps enabled.
+2022-07-18 17:04:37.605108 ; Labjack        ; Information ; Resource "Labjack" opened. [268 us]
+2022-07-18 17:04:37.608105 ; TestPlan       ; Debug       ; Saved Test Plan XML [8.44 ms]
+2022-07-18 17:04:37.642005 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [125 us]
+2022-07-18 17:04:37.642005 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [171 us]
+2022-07-18 17:04:37.642005 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:04:37.662949 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [20.7 ms]
+2022-07-18 17:04:37.662949 ; TestPlan       ; Debug       ; Test step runs finished. [20.9 ms]
+2022-07-18 17:04:37.662949 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [39.4 us]
+2022-07-18 17:04:37.662949 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:04:37 -----------
+2022-07-18 17:04:37.662949 ; Summary        ; Information ;  LabJackStep                                      20.7 ms  Inconclusive
+2022-07-18 17:04:37.662949 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:04:37.662949 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 60.1 ms -------
+2022-07-18 17:04:37.668937 ; Labjack        ; Information ; Resource "Labjack" closed. [1.60 us]
+2022-07-18 17:04:53.734234 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:04:53.734234 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:04:53, 1 of 1 TestSteps enabled.
+2022-07-18 17:04:53.736231 ; Labjack        ; Information ; Resource "Labjack" opened. [818 us]
+2022-07-18 17:04:53.737226 ; TestPlan       ; Debug       ; Saved Test Plan XML [3.47 ms]
+2022-07-18 17:04:53.774129 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [91.9 us]
+2022-07-18 17:04:53.774129 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [133 us]
+2022-07-18 17:04:53.774129 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:04:53.777122 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [3.46 ms]
+2022-07-18 17:04:53.777122 ; TestPlan       ; Debug       ; Test step runs finished. [3.70 ms]
+2022-07-18 17:04:53.777122 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [12.2 us]
+2022-07-18 17:04:53.777122 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:04:53 -----------
+2022-07-18 17:04:53.777122 ; Summary        ; Information ;  LabJackStep                                      3.46 ms  Inconclusive
+2022-07-18 17:04:53.777122 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:04:53.777122 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 43.0 ms -------
+2022-07-18 17:04:53.784103 ; Labjack        ; Information ; Resource "Labjack" closed. [1.40 us]
+2022-07-18 17:04:55.034062 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:04:55.036057 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:04:55, 1 of 1 TestSteps enabled.
+2022-07-18 17:04:55.041043 ; Labjack        ; Information ; Resource "Labjack" opened. [474 us]
+2022-07-18 17:04:55.043038 ; TestPlan       ; Debug       ; Saved Test Plan XML [6.51 ms]
+2022-07-18 17:04:55.088918 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [149 us]
+2022-07-18 17:04:55.088918 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [440 us]
+2022-07-18 17:04:55.088918 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:04:55.090911 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [2.57 ms]
+2022-07-18 17:04:55.091909 ; TestPlan       ; Debug       ; Test step runs finished. [2.75 ms]
+2022-07-18 17:04:55.091909 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [13.2 us]
+2022-07-18 17:04:55.091909 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:04:55 -----------
+2022-07-18 17:04:55.091909 ; Summary        ; Information ;  LabJackStep                                      2.57 ms  Inconclusive
+2022-07-18 17:04:55.091909 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:04:55.091909 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 54.6 ms -------
+2022-07-18 17:04:55.097891 ; Labjack        ; Information ; Resource "Labjack" closed. [1.70 us]
+2022-07-18 17:05:09.705062 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:05:09.705062 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:05:09, 1 of 1 TestSteps enabled.
+2022-07-18 17:05:09.708297 ; Labjack        ; Information ; Resource "Labjack" opened. [318 us]
+2022-07-18 17:05:09.711434 ; TestPlan       ; Debug       ; Saved Test Plan XML [5.64 ms]
+2022-07-18 17:05:09.736360 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [79.7 us]
+2022-07-18 17:05:09.736360 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [101 us]
+2022-07-18 17:05:09.736360 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:05:09.770271 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [33.6 ms]
+2022-07-18 17:05:09.770271 ; TestPlan       ; Debug       ; Test step runs finished. [33.8 ms]
+2022-07-18 17:05:09.770271 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [13.3 us]
+2022-07-18 17:05:09.770271 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:05:09 -----------
+2022-07-18 17:05:09.770271 ; Summary        ; Information ;  LabJackStep                                      33.6 ms  Inconclusive
+2022-07-18 17:05:09.770271 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:05:09.770271 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 64.2 ms -------
+2022-07-18 17:05:09.781241 ; Labjack        ; Information ; Resource "Labjack" closed. [1.80 us]
+2022-07-18 17:05:10.884119 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:05:10.884119 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:05:10, 1 of 1 TestSteps enabled.
+2022-07-18 17:05:10.886115 ; Labjack        ; Information ; Resource "Labjack" opened. [219 us]
+2022-07-18 17:05:10.888109 ; TestPlan       ; Debug       ; Saved Test Plan XML [3.97 ms]
+2022-07-18 17:05:10.915040 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [115 us]
+2022-07-18 17:05:10.915040 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [147 us]
+2022-07-18 17:05:10.915040 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:05:10.917033 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [2.11 ms]
+2022-07-18 17:05:10.917033 ; TestPlan       ; Debug       ; Test step runs finished. [2.32 ms]
+2022-07-18 17:05:10.917033 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [28.4 us]
+2022-07-18 17:05:10.917033 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:05:10 -----------
+2022-07-18 17:05:10.917033 ; Summary        ; Information ;  LabJackStep                                      2.11 ms  Inconclusive
+2022-07-18 17:05:10.917033 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:05:10.917033 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 32.7 ms -------
+2022-07-18 17:05:10.923019 ; Labjack        ; Information ; Resource "Labjack" closed. [1.90 us]
+2022-07-18 17:05:20.945269 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:05:20.945269 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:05:20, 1 of 1 TestSteps enabled.
+2022-07-18 17:05:20.947264 ; Labjack        ; Information ; Resource "Labjack" opened. [320 us]
+2022-07-18 17:05:20.950270 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.56 ms]
+2022-07-18 17:05:20.985165 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [103 us]
+2022-07-18 17:05:20.985165 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [137 us]
+2022-07-18 17:05:20.985165 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:05:20.997169 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [11.9 ms]
+2022-07-18 17:05:20.997169 ; TestPlan       ; Debug       ; Test step runs finished. [12.1 ms]
+2022-07-18 17:05:20.997169 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [12.0 us]
+2022-07-18 17:05:20.997169 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:05:20 -----------
+2022-07-18 17:05:20.997169 ; Summary        ; Information ;  LabJackStep                                      11.9 ms  Inconclusive
+2022-07-18 17:05:20.997169 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:05:20.997169 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 51.1 ms -------
+2022-07-18 17:05:21.003115 ; Labjack        ; Information ; Resource "Labjack" closed. [2.40 us]
+2022-07-18 17:05:33.417184 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:05:33.417184 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:05:33, 1 of 1 TestSteps enabled.
+2022-07-18 17:05:33.424174 ; Labjack        ; Information ; Resource "Labjack" opened. [656 us]
+2022-07-18 17:05:33.426160 ; TestPlan       ; Debug       ; Saved Test Plan XML [7.97 ms]
+2022-07-18 17:05:33.461065 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [95.5 us]
+2022-07-18 17:05:33.461065 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [136 us]
+2022-07-18 17:05:33.461065 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:05:33.463061 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [2.13 ms]
+2022-07-18 17:05:33.463061 ; TestPlan       ; Debug       ; Test step runs finished. [2.31 ms]
+2022-07-18 17:05:33.463061 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [13.0 us]
+2022-07-18 17:05:33.463061 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:05:33 -----------
+2022-07-18 17:05:33.463061 ; Summary        ; Information ;  LabJackStep                                      2.13 ms  Inconclusive
+2022-07-18 17:05:33.463061 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:05:33.463061 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 43.0 ms -------
+2022-07-18 17:05:33.469044 ; Labjack        ; Information ; Resource "Labjack" closed. [1.60 us]
+2022-07-18 17:05:34.527232 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:05:34.527232 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:05:34, 1 of 1 TestSteps enabled.
+2022-07-18 17:05:34.529226 ; Labjack        ; Information ; Resource "Labjack" opened. [243 us]
+2022-07-18 17:05:34.533216 ; TestPlan       ; Debug       ; Saved Test Plan XML [5.36 ms]
+2022-07-18 17:05:34.559149 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [144 us]
+2022-07-18 17:05:34.559149 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [170 us]
+2022-07-18 17:05:34.559149 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:05:34.573112 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [14.4 ms]
+2022-07-18 17:05:34.573112 ; TestPlan       ; Debug       ; Test step runs finished. [14.6 ms]
+2022-07-18 17:05:34.573112 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [16.6 us]
+2022-07-18 17:05:34.573112 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:05:34 -----------
+2022-07-18 17:05:34.573112 ; Summary        ; Information ;  LabJackStep                                      14.4 ms  Inconclusive
+2022-07-18 17:05:34.573112 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:05:34.573112 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 45.6 ms -------
+2022-07-18 17:05:34.574107 ; Labjack        ; Information ; Resource "Labjack" closed. [1.10 us]
+2022-07-18 17:05:35.559488 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:05:35.559488 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:05:35, 1 of 1 TestSteps enabled.
+2022-07-18 17:05:35.563477 ; Labjack        ; Information ; Resource "Labjack" opened. [703 us]
+2022-07-18 17:05:35.564487 ; TestPlan       ; Debug       ; Saved Test Plan XML [5.18 ms]
+2022-07-18 17:05:35.595392 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [100 us]
+2022-07-18 17:05:35.595392 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [124 us]
+2022-07-18 17:05:35.595392 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:05:35.599382 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [4.33 ms]
+2022-07-18 17:05:35.599382 ; TestPlan       ; Debug       ; Test step runs finished. [4.53 ms]
+2022-07-18 17:05:35.600380 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [14.5 us]
+2022-07-18 17:05:35.600380 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:05:35 -----------
+2022-07-18 17:05:35.600380 ; Summary        ; Information ;  LabJackStep                                      4.33 ms  Inconclusive
+2022-07-18 17:05:35.600380 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:05:35.600380 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 39.8 ms -------
+2022-07-18 17:05:35.600380 ; Labjack        ; Information ; Resource "Labjack" closed. [1.20 us]
+2022-07-18 17:06:01.027128 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:06:01.028130 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:06:01, 1 of 1 TestSteps enabled.
+2022-07-18 17:06:01.029124 ; Labjack        ; Information ; Resource "Labjack" opened. [297 us]
+2022-07-18 17:06:01.032113 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.31 ms]
+2022-07-18 17:06:01.054054 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [96.2 us]
+2022-07-18 17:06:01.054054 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [120 us]
+2022-07-18 17:06:01.054054 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:06:01.056484 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [2.45 ms]
+2022-07-18 17:06:01.056484 ; TestPlan       ; Debug       ; Test step runs finished. [2.66 ms]
+2022-07-18 17:06:01.056484 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [11.1 us]
+2022-07-18 17:06:01.056484 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:06:01 -----------
+2022-07-18 17:06:01.056484 ; Summary        ; Information ;  LabJackStep                                      2.45 ms  Inconclusive
+2022-07-18 17:06:01.056484 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:06:01.056484 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 28.2 ms -------
+2022-07-18 17:06:01.057047 ; Labjack        ; Information ; Resource "Labjack" closed. [1.10 us]
+2022-07-18 17:06:01.926440 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:06:01.926440 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:06:01, 1 of 1 TestSteps enabled.
+2022-07-18 17:06:01.929431 ; Labjack        ; Information ; Resource "Labjack" opened. [443 us]
+2022-07-18 17:06:01.930429 ; TestPlan       ; Debug       ; Saved Test Plan XML [3.66 ms]
+2022-07-18 17:06:01.951719 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [117 us]
+2022-07-18 17:06:01.951719 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [138 us]
+2022-07-18 17:06:01.951719 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:06:01.956169 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [3.59 ms]
+2022-07-18 17:06:01.956169 ; TestPlan       ; Debug       ; Test step runs finished. [3.82 ms]
+2022-07-18 17:06:01.956169 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [13.8 us]
+2022-07-18 17:06:01.956169 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:06:01 -----------
+2022-07-18 17:06:01.956169 ; Summary        ; Information ;  LabJackStep                                      3.59 ms  Inconclusive
+2022-07-18 17:06:01.956169 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:06:01.956169 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 27.9 ms -------
+2022-07-18 17:06:01.956707 ; Labjack        ; Information ; Resource "Labjack" closed. [900 ns]
+2022-07-18 17:06:02.749163 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:06:02.749163 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:06:02, 1 of 1 TestSteps enabled.
+2022-07-18 17:06:02.753152 ; Labjack        ; Information ; Resource "Labjack" opened. [287 us]
+2022-07-18 17:06:02.754150 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.64 ms]
+2022-07-18 17:06:02.779084 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [101 us]
+2022-07-18 17:06:02.779084 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [120 us]
+2022-07-18 17:06:02.779084 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:06:02.781077 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [2.13 ms]
+2022-07-18 17:06:02.781077 ; TestPlan       ; Debug       ; Test step runs finished. [2.24 ms]
+2022-07-18 17:06:02.781077 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [7.10 us]
+2022-07-18 17:06:02.781077 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:06:02 -----------
+2022-07-18 17:06:02.781077 ; Summary        ; Information ;  LabJackStep                                      2.13 ms  Inconclusive
+2022-07-18 17:06:02.781077 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:06:02.781077 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 30.2 ms -------
+2022-07-18 17:06:02.788059 ; Labjack        ; Information ; Resource "Labjack" closed. [4.50 us]
+2022-07-18 17:06:03.417585 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:06:03.418584 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:06:03, 1 of 1 TestSteps enabled.
+2022-07-18 17:06:03.421575 ; Labjack        ; Information ; Resource "Labjack" opened. [493 us]
+2022-07-18 17:06:03.436535 ; TestPlan       ; Debug       ; Saved Test Plan XML [16.7 ms]
+2022-07-18 17:06:03.459476 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [97.9 us]
+2022-07-18 17:06:03.459476 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [133 us]
+2022-07-18 17:06:03.459476 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:06:03.466455 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [7.22 ms]
+2022-07-18 17:06:03.466455 ; TestPlan       ; Debug       ; Test step runs finished. [7.40 ms]
+2022-07-18 17:06:03.466455 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [20.3 us]
+2022-07-18 17:06:03.466455 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:06:03 -----------
+2022-07-18 17:06:03.466455 ; Summary        ; Information ;  LabJackStep                                      7.22 ms  Inconclusive
+2022-07-18 17:06:03.466455 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:06:03.466455 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 46.8 ms -------
+2022-07-18 17:06:03.473437 ; Labjack        ; Information ; Resource "Labjack" closed. [2.50 us]
+2022-07-18 17:06:04.024937 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:06:04.024937 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:06:04, 1 of 1 TestSteps enabled.
+2022-07-18 17:06:04.027929 ; Labjack        ; Information ; Resource "Labjack" opened. [653 us]
+2022-07-18 17:06:04.030923 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.81 ms]
+2022-07-18 17:06:04.056851 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [114 us]
+2022-07-18 17:06:04.056851 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [140 us]
+2022-07-18 17:06:04.056851 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:06:04.058847 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [2.33 ms]
+2022-07-18 17:06:04.058847 ; TestPlan       ; Debug       ; Test step runs finished. [2.53 ms]
+2022-07-18 17:06:04.058847 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [13.3 us]
+2022-07-18 17:06:04.058847 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:06:04 -----------
+2022-07-18 17:06:04.058847 ; Summary        ; Information ;  LabJackStep                                      2.33 ms  Inconclusive
+2022-07-18 17:06:04.058847 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:06:04.058847 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 33.4 ms -------
+2022-07-18 17:06:04.065827 ; Labjack        ; Information ; Resource "Labjack" closed. [1.80 us]
+2022-07-18 17:06:04.740818 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:06:04.740818 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:06:04, 1 of 1 TestSteps enabled.
+2022-07-18 17:06:04.742812 ; Labjack        ; Information ; Resource "Labjack" opened. [319 us]
+2022-07-18 17:06:04.745803 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.36 ms]
+2022-07-18 17:06:04.762191 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [133 us]
+2022-07-18 17:06:04.762191 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [157 us]
+2022-07-18 17:06:04.762191 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:06:04.764186 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [1.97 ms]
+2022-07-18 17:06:04.764186 ; TestPlan       ; Debug       ; Test step runs finished. [2.16 ms]
+2022-07-18 17:06:04.764186 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [8.90 us]
+2022-07-18 17:06:04.764186 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:06:04 -----------
+2022-07-18 17:06:04.764186 ; Summary        ; Information ;  LabJackStep                                      1.97 ms  Inconclusive
+2022-07-18 17:06:04.764186 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:06:04.764186 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 23.2 ms -------
+2022-07-18 17:06:04.771168 ; Labjack        ; Information ; Resource "Labjack" closed. [5.30 us]
+2022-07-18 17:06:05.406108 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:06:05.409102 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:06:05, 1 of 1 TestSteps enabled.
+2022-07-18 17:06:05.413090 ; Labjack        ; Information ; Resource "Labjack" opened. [366 us]
+2022-07-18 17:06:05.414088 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.32 ms]
+2022-07-18 17:06:05.433039 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [114 us]
+2022-07-18 17:06:05.433039 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [144 us]
+2022-07-18 17:06:05.433039 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:06:05.435032 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [2.13 ms]
+2022-07-18 17:06:05.435032 ; TestPlan       ; Debug       ; Test step runs finished. [2.31 ms]
+2022-07-18 17:06:05.435032 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [8.00 us]
+2022-07-18 17:06:05.435032 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:06:05 -----------
+2022-07-18 17:06:05.435032 ; Summary        ; Information ;  LabJackStep                                      2.13 ms  Inconclusive
+2022-07-18 17:06:05.435032 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:06:05.435032 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 24.3 ms -------
+2022-07-18 17:06:05.441016 ; Labjack        ; Information ; Resource "Labjack" closed. [1.10 us]
+2022-07-18 17:06:06.046923 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:06:06.046923 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:06:06, 1 of 1 TestSteps enabled.
+2022-07-18 17:06:06.049913 ; Labjack        ; Information ; Resource "Labjack" opened. [324 us]
+2022-07-18 17:06:06.051907 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.41 ms]
+2022-07-18 17:06:06.072851 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [100 us]
+2022-07-18 17:06:06.072851 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [126 us]
+2022-07-18 17:06:06.073851 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:06:06.075846 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [2.88 ms]
+2022-07-18 17:06:06.076842 ; TestPlan       ; Debug       ; Test step runs finished. [3.11 ms]
+2022-07-18 17:06:06.076842 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [14.7 us]
+2022-07-18 17:06:06.076842 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:06:06 -----------
+2022-07-18 17:06:06.076842 ; Summary        ; Information ;  LabJackStep                                      2.88 ms  Inconclusive
+2022-07-18 17:06:06.076842 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:06:06.076842 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 28.8 ms -------
+2022-07-18 17:06:06.090806 ; Labjack        ; Information ; Resource "Labjack" closed. [1.80 us]
+2022-07-18 17:06:06.607041 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:06:06.607041 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:06:06, 1 of 1 TestSteps enabled.
+2022-07-18 17:06:06.608999 ; Labjack        ; Information ; Resource "Labjack" opened. [658 us]
+2022-07-18 17:06:06.620973 ; TestPlan       ; Debug       ; Saved Test Plan XML [13.6 ms]
+2022-07-18 17:06:06.647897 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [111 us]
+2022-07-18 17:06:06.647897 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [162 us]
+2022-07-18 17:06:06.648894 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:06:06.650888 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [2.32 ms]
+2022-07-18 17:06:06.650888 ; TestPlan       ; Debug       ; Test step runs finished. [2.52 ms]
+2022-07-18 17:06:06.650888 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [18.2 us]
+2022-07-18 17:06:06.650888 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:06:06 -----------
+2022-07-18 17:06:06.650888 ; Summary        ; Information ;  LabJackStep                                      2.32 ms  Inconclusive
+2022-07-18 17:06:06.650888 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:06:06.650888 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 43.4 ms -------
+2022-07-18 17:06:06.656872 ; Labjack        ; Information ; Resource "Labjack" closed. [1.70 us]
+2022-07-18 17:06:07.159436 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:06:07.159436 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:06:07, 1 of 1 TestSteps enabled.
+2022-07-18 17:06:07.161431 ; Labjack        ; Information ; Resource "Labjack" opened. [321 us]
+2022-07-18 17:06:07.162429 ; TestPlan       ; Debug       ; Saved Test Plan XML [3.23 ms]
+2022-07-18 17:06:07.189363 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [117 us]
+2022-07-18 17:06:07.189363 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [145 us]
+2022-07-18 17:06:07.189363 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:06:07.191354 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [2.12 ms]
+2022-07-18 17:06:07.191354 ; TestPlan       ; Debug       ; Test step runs finished. [2.31 ms]
+2022-07-18 17:06:07.191354 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [14.4 us]
+2022-07-18 17:06:07.192350 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:06:07 -----------
+2022-07-18 17:06:07.192350 ; Summary        ; Information ;  LabJackStep                                      2.12 ms  Inconclusive
+2022-07-18 17:06:07.192350 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:06:07.192350 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 31.7 ms -------
+2022-07-18 17:06:07.198334 ; Labjack        ; Information ; Resource "Labjack" closed. [1.90 us]
+2022-07-18 17:06:16.423644 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:06:16.423644 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:06:16, 1 of 1 TestSteps enabled.
+2022-07-18 17:06:16.425638 ; Labjack        ; Information ; Resource "Labjack" opened. [385 us]
+2022-07-18 17:06:16.427634 ; TestPlan       ; Debug       ; Saved Test Plan XML [3.43 ms]
+2022-07-18 17:06:16.454563 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [99.1 us]
+2022-07-18 17:06:16.454563 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [134 us]
+2022-07-18 17:06:16.454563 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:06:16.463551 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [8.48 ms]
+2022-07-18 17:06:16.463551 ; TestPlan       ; Debug       ; Test step runs finished. [8.70 ms]
+2022-07-18 17:06:16.463551 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [21.9 us]
+2022-07-18 17:06:16.463551 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:06:16 -----------
+2022-07-18 17:06:16.463551 ; Summary        ; Information ;  LabJackStep                                      8.48 ms  Inconclusive
+2022-07-18 17:06:16.463551 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:06:16.463551 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 39.7 ms -------
+2022-07-18 17:06:16.470519 ; Labjack        ; Information ; Resource "Labjack" closed. [2.00 us]
+2022-07-18 17:06:17.159954 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:06:17.159954 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:06:17, 1 of 1 TestSteps enabled.
+2022-07-18 17:06:17.161947 ; Labjack        ; Information ; Resource "Labjack" opened. [489 us]
+2022-07-18 17:06:17.164942 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.91 ms]
+2022-07-18 17:06:17.197863 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [133 us]
+2022-07-18 17:06:17.197863 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [159 us]
+2022-07-18 17:06:17.197863 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:06:17.200846 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [2.45 ms]
+2022-07-18 17:06:17.200846 ; TestPlan       ; Debug       ; Test step runs finished. [2.67 ms]
+2022-07-18 17:06:17.200846 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [15.5 us]
+2022-07-18 17:06:17.200846 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:06:17 -----------
+2022-07-18 17:06:17.200846 ; Summary        ; Information ;  LabJackStep                                      2.45 ms  Inconclusive
+2022-07-18 17:06:17.200846 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:06:17.200846 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 40.6 ms -------
+2022-07-18 17:06:17.206829 ; Labjack        ; Information ; Resource "Labjack" closed. [1.30 us]
+2022-07-18 17:06:17.884069 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:06:17.889055 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:06:17, 1 of 1 TestSteps enabled.
+2022-07-18 17:06:17.891050 ; Labjack        ; Information ; Resource "Labjack" opened. [284 us]
+2022-07-18 17:06:17.893044 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.02 ms]
+2022-07-18 17:06:17.909999 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [100 us]
+2022-07-18 17:06:17.909999 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [122 us]
+2022-07-18 17:06:17.909999 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:06:17.935941 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [26.2 ms]
+2022-07-18 17:06:17.935941 ; TestPlan       ; Debug       ; Test step runs finished. [26.3 ms]
+2022-07-18 17:06:17.935941 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [10.9 us]
+2022-07-18 17:06:17.935941 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:06:17 -----------
+2022-07-18 17:06:17.935941 ; Summary        ; Information ;  LabJackStep                                      26.2 ms  Inconclusive
+2022-07-18 17:06:17.935941 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:06:17.935941 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 45.7 ms -------
+2022-07-18 17:06:17.941914 ; Labjack        ; Information ; Resource "Labjack" closed. [1.90 us]
+2022-07-18 17:06:18.512659 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:06:18.513660 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:06:18, 1 of 1 TestSteps enabled.
+2022-07-18 17:06:18.519640 ; Labjack        ; Information ; Resource "Labjack" opened. [4.47 ms]
+2022-07-18 17:06:18.522633 ; TestPlan       ; Debug       ; Saved Test Plan XML [8.52 ms]
+2022-07-18 17:06:18.550560 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [89.0 us]
+2022-07-18 17:06:18.550560 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [133 us]
+2022-07-18 17:06:18.550560 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:06:18.552553 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [1.87 ms]
+2022-07-18 17:06:18.552553 ; TestPlan       ; Debug       ; Test step runs finished. [1.99 ms]
+2022-07-18 17:06:18.552553 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [8.80 us]
+2022-07-18 17:06:18.552553 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:06:18 -----------
+2022-07-18 17:06:18.552553 ; Summary        ; Information ;  LabJackStep                                      1.87 ms  Inconclusive
+2022-07-18 17:06:18.552553 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:06:18.552553 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 39.1 ms -------
+2022-07-18 17:06:18.559554 ; Labjack        ; Information ; Resource "Labjack" closed. [1.40 us]
+2022-07-18 17:06:19.014327 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:06:19.014327 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:06:19, 1 of 1 TestSteps enabled.
+2022-07-18 17:06:19.016285 ; Labjack        ; Information ; Resource "Labjack" opened. [346 us]
+2022-07-18 17:06:19.020276 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.90 ms]
+2022-07-18 17:06:19.048200 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [97.6 us]
+2022-07-18 17:06:19.048200 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [124 us]
+2022-07-18 17:06:19.048200 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:06:19.050458 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [2.13 ms]
+2022-07-18 17:06:19.050458 ; TestPlan       ; Debug       ; Test step runs finished. [2.30 ms]
+2022-07-18 17:06:19.050458 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [14.2 us]
+2022-07-18 17:06:19.050458 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:06:19 -----------
+2022-07-18 17:06:19.050458 ; Summary        ; Information ;  LabJackStep                                      2.13 ms  Inconclusive
+2022-07-18 17:06:19.050458 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:06:19.050458 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 35.6 ms -------
+2022-07-18 17:06:19.051194 ; Labjack        ; Information ; Resource "Labjack" closed. [2.20 us]
+2022-07-18 17:06:19.429413 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:06:19.429413 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:06:19, 1 of 1 TestSteps enabled.
+2022-07-18 17:06:19.431404 ; Labjack        ; Information ; Resource "Labjack" opened. [307 us]
+2022-07-18 17:06:19.434396 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.14 ms]
+2022-07-18 17:06:19.459331 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [96.6 us]
+2022-07-18 17:06:19.459331 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [119 us]
+2022-07-18 17:06:19.459331 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:06:19.461326 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [2.02 ms]
+2022-07-18 17:06:19.461326 ; TestPlan       ; Debug       ; Test step runs finished. [2.19 ms]
+2022-07-18 17:06:19.461326 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [10.4 us]
+2022-07-18 17:06:19.462324 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:06:19 -----------
+2022-07-18 17:06:19.462324 ; Summary        ; Information ;  LabJackStep                                      2.02 ms  Inconclusive
+2022-07-18 17:06:19.462324 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:06:19.462324 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 31.7 ms -------
+2022-07-18 17:06:19.468311 ; Labjack        ; Information ; Resource "Labjack" closed. [1.70 us]
+2022-07-18 17:06:19.809734 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:06:19.809734 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:06:19, 1 of 1 TestSteps enabled.
+2022-07-18 17:06:19.812724 ; Labjack        ; Information ; Resource "Labjack" opened. [324 us]
+2022-07-18 17:06:19.814718 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.36 ms]
+2022-07-18 17:06:19.832669 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [110 us]
+2022-07-18 17:06:19.832669 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [133 us]
+2022-07-18 17:06:19.832669 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:06:19.840649 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [7.31 ms]
+2022-07-18 17:06:19.840649 ; TestPlan       ; Debug       ; Test step runs finished. [7.49 ms]
+2022-07-18 17:06:19.840649 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [18.2 us]
+2022-07-18 17:06:19.840649 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:06:19 -----------
+2022-07-18 17:06:19.840649 ; Summary        ; Information ;  LabJackStep                                      7.31 ms  Inconclusive
+2022-07-18 17:06:19.840649 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:06:19.840649 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 29.4 ms -------
+2022-07-18 17:06:19.846633 ; Labjack        ; Information ; Resource "Labjack" closed. [1.30 us]
+2022-07-18 17:06:20.162706 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:06:20.162706 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:06:20, 1 of 1 TestSteps enabled.
+2022-07-18 17:06:20.164700 ; Labjack        ; Information ; Resource "Labjack" opened. [216 us]
+2022-07-18 17:06:20.167692 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.27 ms]
+2022-07-18 17:06:20.200604 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [179 us]
+2022-07-18 17:06:20.200604 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [213 us]
+2022-07-18 17:06:20.200604 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:06:20.215567 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [14.8 ms]
+2022-07-18 17:06:20.216562 ; TestPlan       ; Debug       ; Test step runs finished. [15.1 ms]
+2022-07-18 17:06:20.216562 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [16.4 us]
+2022-07-18 17:06:20.222552 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:06:20 -----------
+2022-07-18 17:06:20.222552 ; Summary        ; Information ;  LabJackStep                                      14.8 ms  Inconclusive
+2022-07-18 17:06:20.222552 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:06:20.222552 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 52.7 ms -------
+2022-07-18 17:06:20.228530 ; Labjack        ; Information ; Resource "Labjack" closed. [1.90 us]
+2022-07-18 17:06:20.724554 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:06:20.724554 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:06:20, 1 of 1 TestSteps enabled.
+2022-07-18 17:06:20.727545 ; Labjack        ; Information ; Resource "Labjack" opened. [455 us]
+2022-07-18 17:06:20.729540 ; TestPlan       ; Debug       ; Saved Test Plan XML [3.85 ms]
+2022-07-18 17:06:20.747813 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [128 us]
+2022-07-18 17:06:20.747813 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [159 us]
+2022-07-18 17:06:20.747813 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:06:20.759819 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [11.9 ms]
+2022-07-18 17:06:20.759819 ; TestPlan       ; Debug       ; Test step runs finished. [12.1 ms]
+2022-07-18 17:06:20.759819 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [13.6 us]
+2022-07-18 17:06:20.759819 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:06:20 -----------
+2022-07-18 17:06:20.759819 ; Summary        ; Information ;  LabJackStep                                      11.9 ms  Inconclusive
+2022-07-18 17:06:20.759819 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:06:20.759819 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 34.8 ms -------
+2022-07-18 17:06:20.766765 ; Labjack        ; Information ; Resource "Labjack" closed. [1.80 us]
+2022-07-18 17:06:46.413870 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:06:46.413870 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:06:46, 1 of 1 TestSteps enabled.
+2022-07-18 17:06:46.415864 ; Labjack        ; Information ; Resource "Labjack" opened. [288 us]
+2022-07-18 17:06:46.417869 ; TestPlan       ; Debug       ; Saved Test Plan XML [3.36 ms]
+2022-07-18 17:06:46.447677 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [100 us]
+2022-07-18 17:06:46.447677 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [126 us]
+2022-07-18 17:06:46.447677 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:06:46.449670 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [2.44 ms]
+2022-07-18 17:06:46.449670 ; TestPlan       ; Debug       ; Test step runs finished. [2.59 ms]
+2022-07-18 17:06:46.449670 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [9.10 us]
+2022-07-18 17:06:46.449670 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:06:46 -----------
+2022-07-18 17:06:46.449670 ; Summary        ; Information ;  LabJackStep                                      2.44 ms  Inconclusive
+2022-07-18 17:06:46.449670 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:06:46.449670 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 35.6 ms -------
+2022-07-18 17:06:46.456653 ; Labjack        ; Information ; Resource "Labjack" closed. [2.29 us]
+2022-07-18 17:07:41.971680 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:07:41.973692 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:07:41, 1 of 1 TestSteps enabled.
+2022-07-18 17:07:41.977663 ; Labjack        ; Information ; Resource "Labjack" opened. [741 us]
+2022-07-18 17:07:41.981652 ; TestPlan       ; Debug       ; Saved Test Plan XML [7.27 ms]
+2022-07-18 17:07:42.026533 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [111 us]
+2022-07-18 17:07:42.026533 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [146 us]
+2022-07-18 17:07:42.026533 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:07:42.050470 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [23.9 ms]
+2022-07-18 17:07:42.050470 ; TestPlan       ; Debug       ; Test step runs finished. [24.2 ms]
+2022-07-18 17:07:42.050470 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [34.1 us]
+2022-07-18 17:07:42.050470 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:07:41 -----------
+2022-07-18 17:07:42.050470 ; Summary        ; Information ;  LabJackStep                                      23.9 ms  Inconclusive
+2022-07-18 17:07:42.050470 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:07:42.050470 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 75.9 ms -------
+2022-07-18 17:07:42.052466 ; Labjack        ; Information ; Resource "Labjack" closed. [1.00 us]
+2022-07-18 17:07:51.007341 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:07:51.008322 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:07:51, 1 of 1 TestSteps enabled.
+2022-07-18 17:07:51.010317 ; Labjack        ; Information ; Resource "Labjack" opened. [453 us]
+2022-07-18 17:07:51.012312 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.06 ms]
+2022-07-18 17:07:51.032260 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [102 us]
+2022-07-18 17:07:51.032260 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [119 us]
+2022-07-18 17:07:51.032260 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:07:51.035253 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [2.29 ms]
+2022-07-18 17:07:51.035253 ; TestPlan       ; Debug       ; Test step runs finished. [2.50 ms]
+2022-07-18 17:07:51.035253 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [10.9 us]
+2022-07-18 17:07:51.035253 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:07:51 -----------
+2022-07-18 17:07:51.035253 ; Summary        ; Information ;  LabJackStep                                      2.29 ms  Inconclusive
+2022-07-18 17:07:51.035253 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:07:51.035253 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 26.7 ms -------
+2022-07-18 17:07:51.041235 ; Labjack        ; Information ; Resource "Labjack" closed. [1.50 us]
+2022-07-18 17:07:56.961694 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:07:56.961694 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:07:56, 1 of 1 TestSteps enabled.
+2022-07-18 17:07:56.963694 ; Labjack        ; Information ; Resource "Labjack" opened. [395 us]
+2022-07-18 17:07:56.965684 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.16 ms]
+2022-07-18 17:07:56.986030 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [111 us]
+2022-07-18 17:07:56.986030 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [137 us]
+2022-07-18 17:07:56.986030 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:07:56.988025 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [2.06 ms]
+2022-07-18 17:07:56.988025 ; TestPlan       ; Debug       ; Test step runs finished. [2.23 ms]
+2022-07-18 17:07:56.988025 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [5.80 us]
+2022-07-18 17:07:56.994009 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:07:56 -----------
+2022-07-18 17:07:56.994009 ; Summary        ; Information ;  LabJackStep                                      2.06 ms  Inconclusive
+2022-07-18 17:07:56.994009 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:07:56.994009 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 26.0 ms -------
+2022-07-18 17:07:57.000028 ; Labjack        ; Information ; Resource "Labjack" closed. [1.80 us]
+2022-07-18 17:08:03.978396 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:08:03.978396 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:08:03, 1 of 1 TestSteps enabled.
+2022-07-18 17:08:03.980393 ; Labjack        ; Information ; Resource "Labjack" opened. [351 us]
+2022-07-18 17:08:03.982387 ; TestPlan       ; Debug       ; Saved Test Plan XML [3.82 ms]
+2022-07-18 17:08:04.039660 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [108 us]
+2022-07-18 17:08:04.039660 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [130 us]
+2022-07-18 17:08:04.039660 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:08:04.046641 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [7.26 ms]
+2022-07-18 17:08:04.046641 ; TestPlan       ; Debug       ; Test step runs finished. [7.50 ms]
+2022-07-18 17:08:04.046641 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [30.4 us]
+2022-07-18 17:08:04.052627 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:08:03 -----------
+2022-07-18 17:08:04.052627 ; Summary        ; Information ;  LabJackStep                                      7.26 ms  Inconclusive
+2022-07-18 17:08:04.052627 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:08:04.052627 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 67.7 ms -------
+2022-07-18 17:08:04.058610 ; Labjack        ; Information ; Resource "Labjack" closed. [8.90 us]
+2022-07-18 17:08:20.555278 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:08:20.555278 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:08:20, 1 of 1 TestSteps enabled.
+2022-07-18 17:08:20.556231 ; Labjack        ; Information ; Resource "Labjack" opened. [232 us]
+2022-07-18 17:08:20.558260 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.73 ms]
+2022-07-18 17:08:20.591904 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [70.8 us]
+2022-07-18 17:08:20.591904 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [91.2 us]
+2022-07-18 17:08:20.591904 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:08:20.595898 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [4.44 ms]
+2022-07-18 17:08:20.595898 ; TestPlan       ; Debug       ; Test step runs finished. [4.56 ms]
+2022-07-18 17:08:20.595898 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [21.8 us]
+2022-07-18 17:08:20.595898 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:08:20 -----------
+2022-07-18 17:08:20.595898 ; Summary        ; Information ;  LabJackStep                                      4.44 ms  Inconclusive
+2022-07-18 17:08:20.595898 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:08:20.595898 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 40.7 ms -------
+2022-07-18 17:08:20.602874 ; Labjack        ; Information ; Resource "Labjack" closed. [1.80 us]
+2022-07-18 17:08:30.782303 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-18 17:08:30.782303 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/18/2022 17:08:30, 1 of 1 TestSteps enabled.
+2022-07-18 17:08:30.788402 ; Labjack        ; Information ; Resource "Labjack" opened. [632 us]
+2022-07-18 17:08:30.791394 ; TestPlan       ; Debug       ; Saved Test Plan XML [3.97 ms]
+2022-07-18 17:08:30.809359 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [73.0 us]
+2022-07-18 17:08:30.809359 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [115 us]
+2022-07-18 17:08:30.809359 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-18 17:08:30.812339 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Inconclusive'. [3.61 ms]
+2022-07-18 17:08:30.812339 ; TestPlan       ; Debug       ; Test step runs finished. [3.77 ms]
+2022-07-18 17:08:30.812339 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [9.69 us]
+2022-07-18 17:08:30.812339 ; Summary        ; Information ; ----------- Summary of test plan started 07/18/2022 17:08:30 -----------
+2022-07-18 17:08:30.812339 ; Summary        ; Information ;  LabJackStep                                      3.61 ms  Inconclusive
+2022-07-18 17:08:30.812339 ; Summary        ; Information ; ------------------------------------------------------------------------
+2022-07-18 17:08:30.812339 ; Summary        ; Information ; ------- Test plan completed with verdict Inconclusive in 25.3 ms -------
+2022-07-18 17:08:30.819319 ; Labjack        ; Information ; Resource "Labjack" closed. [2.80 us]
+2022-07-18 17:08:45.786859 ; Settings       ; Debug       ; Saved GuiControlsSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [29.1 ms]
+2022-07-18 17:08:45.823759 ; Settings       ; Debug       ; Saved PanelSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [2.09 ms]
+2022-07-18 17:08:45.827745 ; Settings       ; Debug       ; Saved EditorSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [3.65 ms]

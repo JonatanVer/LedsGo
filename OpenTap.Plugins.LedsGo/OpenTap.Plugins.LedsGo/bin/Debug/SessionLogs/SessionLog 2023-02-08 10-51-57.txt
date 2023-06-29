@@ -1,0 +1,120 @@
+﻿2023-02-08 10:51:55.958110 ; Session        ; Debug       ; Session log loaded as 'C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\Editor 2023-02-08 10-51-55.txt'. [7.27 ms]
+2023-02-08 10:51:55.974067 ; Session        ; Debug       ; Running '"C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Editor.exe" ' in 'C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2023-02-08 10:51:56.004501 ; Session        ; Debug       ; Microsoft Windows 10.0.19044 X64
+2023-02-08 10:51:56.004501 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2023-02-08 10:51:56.031429 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2023-02-08 10:51:56.043397 ; AssemblyFinder ; Debug       ; Found 39/96 assembly files. [28.2 ms]
+2023-02-08 10:51:56.088459 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2023-02-08 10:51:56.131172 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2023-02-08 10:51:56.279387 ; Searcher       ; Debug       ; Ordered 35 assemblies according to references. [229 ms]
+2023-02-08 10:51:56.473374 ; PluginManager  ; Debug       ; Found 19 plugin assemblies containing 275 plugin types. [425 ms]
+2023-02-08 10:51:56.474371 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2023-02-08 10:51:56.474371 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2023-02-08 10:51:56.474371 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2023-02-08 10:51:56.474371 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2023-02-08 10:51:56.474371 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2023-02-08 10:51:56.474371 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2023-02-08 10:51:56.474371 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2023-02-08 10:51:56.474371 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of OpenTap.Plugins.LedsGo.dll
+2023-02-08 10:51:56.474371 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2023-02-08 10:51:56.474371 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of ResultsViewer.exe
+2023-02-08 10:51:56.474371 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of RunExplorer.exe
+2023-02-08 10:51:56.474371 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2023-02-08 10:51:56.474371 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2023-02-08 10:51:56.474371 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2023-02-08 10:51:56.474371 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2023-02-08 10:51:56.474371 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2023-02-08 10:51:56.474371 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2023-02-08 10:51:56.474371 ; PluginManager  ; Debug       ; Found version 1.0.0+f4ad9710   of OpenTap.Plugins.Ssh.dll
+2023-02-08 10:51:56.474371 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2023-02-08 10:51:56.474371 ; PluginManager  ; Debug       ; Searched 39 Assemblies. [426 ms]
+2023-02-08 10:51:56.491362 ; PluginManager  ; Debug       ; Loaded OpenTap. [694 us]
+2023-02-08 10:51:56.505282 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [11.2 ms]
+2023-02-08 10:51:56.506280 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [11.6 ms]
+2023-02-08 10:51:56.506280 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [298 us]
+2023-02-08 10:51:56.540368 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [16.2 ms]
+2023-02-08 10:51:56.634089 ; PluginManager  ; Debug       ; Loaded mscorlib. [700 ns]
+2023-02-08 10:51:56.790671 ; Settings       ; Debug       ; EditorSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [615 ms]
+2023-02-08 10:51:56.986945 ; GUI            ; Debug       ; Loaded Light Theme. [16.9 ms]
+2023-02-08 10:51:57.006892 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2023-02-08 10:51:57.461510 ; Settings       ; Debug       ; GuiControlsSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [192 ms]
+2023-02-08 10:51:57.461510 ; Main           ; Debug       ; Window initial dimensions: 1920px, 1040px.
+2023-02-08 10:51:57.500319 ; Settings       ; Debug       ; EngineSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [36.6 ms]
+2023-02-08 10:51:57.506303 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [1.55 ms]
+2023-02-08 10:51:57.535239 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2023-02-08 10-51-57.txt'. [8.43 ms]
+2023-02-08 10:51:58.029892 ; Main           ; Debug       ; GUI initialized. [567 ms]
+2023-02-08 10:51:58.030889 ; Main           ; Debug       ; Docking manager initialized. [79.2 us]
+2023-02-08 10:51:58.032884 ; OpenTAP        ; Information ; OpenTAP version '9.17.4+ea67c63a' 64-bit initialized 02/08/2023 [2.32 s]
+2023-02-08 10:51:58.073777 ; PluginManager  ; Debug       ; Loaded PackageManager. [461 us]
+2023-02-08 10:51:58.073777 ; PluginManager  ; Debug       ; Loaded Editor. [38.9 us]
+2023-02-08 10:51:58.080796 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [6.59 ms]
+2023-02-08 10:51:58.086783 ; PluginManager  ; Debug       ; Loaded RunExplorer. [6.03 ms]
+2023-02-08 10:51:58.090751 ; Settings       ; Debug       ; ConnectionSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [2.95 ms]
+2023-02-08 10:51:58.092727 ; Settings       ; Debug       ; DutSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [1.13 ms]
+2023-02-08 10:51:58.104692 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.LedsGo. [6.38 ms]
+2023-02-08 10:51:58.109832 ; Settings       ; Debug       ; InstrumentSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [17.0 ms]
+2023-02-08 10:51:58.110725 ; Settings       ; Debug       ; ResultSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [1.07 ms]
+2023-02-08 10:51:58.685191 ; Main           ; Information ; Latest version of 'Keysight Licensing' is 1.3, your version is 1.1. Please consider updating. [650 ms]
+2023-02-08 10:51:58.685191 ; Main           ; Information ; Latest version of 'OpenTAP' is 9.19, your version is 9.17. Please consider updating. [650 ms]
+2023-02-08 10:51:58.685191 ; Main           ; Debug       ; Update check complete. [650 ms]
+2023-02-08 10:51:59.375693 ; Settings       ; Debug       ; PanelSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [5.07 ms]
+2023-02-08 10:51:59.660894 ; Main           ; Debug       ; Application startup finished. [3.95 s]
+2023-02-08 10:52:05.395984 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.Ssh. [9.29 ms]
+2023-02-08 10:52:08.341111 ; Settings       ; Debug       ; Saved GuiControlsSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [27.8 ms]
+2023-02-08 10:52:08.364172 ; Settings       ; Debug       ; Saved PanelSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [2.78 ms]
+2023-02-08 10:52:08.369295 ; Settings       ; Debug       ; Saved EditorSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [4.19 ms]
+2023-02-08 10:52:16.318085 ; AssemblyFinder ; Debug       ; Found 39/96 assembly files. [33.6 ms]
+2023-02-08 10:52:16.318085 ; Resolver       ; Debug       ; Found match for Renci.SshNet, Version=2020.0.2.0, Culture=neutral, PublicKeyToken=1cee9f8bde3db106 in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\Renci.SshNet.2020.0.2.0\Renci.SshNet.dll
+2023-02-08 10:52:16.495455 ; PluginManager  ; Debug       ; Loaded Renci.SshNet. [1.60 us]
+2023-02-08 10:52:24.781452 ; Settings       ; Debug       ; Saved ConnectionSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [4.29 ms]
+2023-02-08 10:52:24.788372 ; Settings       ; Debug       ; Saved DutSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [6.62 ms]
+2023-02-08 10:52:24.791799 ; Settings       ; Debug       ; Saved EditorSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [2.77 ms]
+2023-02-08 10:52:24.798377 ; Settings       ; Debug       ; Saved EngineSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [6.89 ms]
+2023-02-08 10:52:24.845475 ; Settings       ; Debug       ; Saved InstrumentSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [46.2 ms]
+2023-02-08 10:52:24.863413 ; Settings       ; Debug       ; Saved ResultSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [18.2 ms]
+2023-02-08 10:52:24.879328 ; Main           ; Debug       ; Reloaded test plan. [6.13 ms]
+2023-02-08 10:58:55.710529 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2023-02-08 10:58:55.828729 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 02/08/2023 10:58:55, 2 of 2 TestSteps enabled.
+2023-02-08 10:58:55.900416 ; TestPlan       ; Debug       ; Saved Test Plan XML [6.80 ms]
+2023-02-08 10:58:55.905402 ; Settings       ; Debug       ; No settings file exists for TestPlanRunPackageParameterMonitor. A new instance with default values has been created. [151 us]
+2023-02-08 10:58:56.007150 ; Ssh            ; Information ; Resource "SSH Session on {User Name}@{Host Name}" opened. [1.09 ms]
+2023-02-08 10:58:56.065941 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [5.76 ms]
+2023-02-08 10:58:56.088942 ; TestPlan       ; Information ; "SSH Session on ubuntu@192.168.7.2" started.
+2023-02-08 10:58:56.146731 ; AssemblyFinder ; Debug       ; Found 39/96 assembly files. [35.2 ms]
+2023-02-08 10:58:56.148721 ; Resolver       ; Debug       ; Found match for SshNet.Security.Cryptography, Version=1.3.0.0, Culture=neutral, PublicKeyToken=2fa9220ff3eadda4 in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\SshNet.Security.Cryptography.1.3.0.0\SshNet.Security.Cryptography.dll
+2023-02-08 10:58:58.914027 ; TestPlan       ; Information ; "SSH Session on ubuntu@192.168.7.2 \ SSH Command ./rebus-commander_arm -port /dev/ttyUSB0 -route 0 -command readId" started.
+2023-02-08 10:58:59.448791 ; TestStep       ; Warning     ; 
+2023-02-08 10:58:59.460696 ; TestPlan       ; Information ; "SSH Session on ubuntu@192.168.7.2 \ SSH Command ./rebus-commander_arm -port /dev/ttyUSB0 -route 0 -command readId" completed. [543 ms]
+2023-02-08 10:58:59.474051 ; TestPlan       ; Information ; "SSH Session on ubuntu@192.168.7.2" completed. [3.38 s]
+2023-02-08 10:58:59.474051 ; TestPlan       ; Debug       ; Test step runs finished. [3.40 s]
+2023-02-08 10:58:59.502939 ; Summary        ; Information ; ------ Summary of test plan started 02/08/2023 10:58:55 ------
+2023-02-08 10:58:59.506928 ; Summary        ; Information ;  SSH Session on ubuntu@192.168.7.2                  3.38 s          
+2023-02-08 10:58:59.507925 ; Summary        ; Information ;    SSH Command ./rebus-commander_arm -port /dev/ttyUSB0 -route 0 -command readId       543 ms         
+2023-02-08 10:58:59.507925 ; Summary        ; Information ; --------------------------------------------------------------
+2023-02-08 10:58:59.508922 ; Summary        ; Information ; --------- Test plan completed successfully in 3.57 s ---------
+2023-02-08 10:58:59.539278 ; Ssh            ; Information ; Resource "SSH Session on {User Name}@{Host Name}" closed. [90.7 us]
+2023-02-08 11:00:00.591912 ; Settings       ; Debug       ; Saved GuiControlsSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [5.37 ms]
+2023-02-08 11:00:00.594959 ; Settings       ; Debug       ; Saved PanelSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [2.34 ms]
+2023-02-08 11:00:00.597895 ; Settings       ; Debug       ; Saved EditorSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [2.95 ms]
+2023-02-08 11:00:36.655352 ; Settings       ; Debug       ; Saved ConnectionSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [3.99 ms]
+2023-02-08 11:00:36.657362 ; Settings       ; Debug       ; Saved DutSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [1.82 ms]
+2023-02-08 11:00:36.660354 ; Settings       ; Debug       ; Saved EditorSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [3.01 ms]
+2023-02-08 11:00:36.665288 ; Settings       ; Debug       ; Saved EngineSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [4.58 ms]
+2023-02-08 11:00:36.670323 ; Settings       ; Debug       ; Saved InstrumentSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [4.65 ms]
+2023-02-08 11:00:36.672309 ; Settings       ; Debug       ; Saved ResultSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [1.20 ms]
+2023-02-08 11:00:36.717812 ; Serializer     ; Warning     ; XML line 10 column 12: Unable to locate type 'emb:OpenTap.Plugins.Ssh.SshSessionStep+SshSessionStepResource'. Are you missing a plugin?
+2023-02-08 11:00:36.728784 ; Serializer     ; Error       ; XML Line 10: Unable to locate type 'emb:OpenTap.Plugins.Ssh.SshSessionStep+SshSessionStepResource'. Are you missing a plugin?
+2023-02-08 11:00:36.728784 ; Main           ; Debug       ; Reloaded test plan. [15.4 ms]
+2023-02-08 11:00:49.218371 ; Settings       ; Debug       ; Saved GuiControlsSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [5.46 ms]
+2023-02-08 11:00:49.226397 ; Settings       ; Debug       ; Saved PanelSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [2.58 ms]
+2023-02-08 11:00:49.229846 ; Settings       ; Debug       ; Saved EditorSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [3.06 ms]
+2023-02-08 11:01:05.080696 ; Settings       ; Debug       ; Saved ConnectionSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [1.68 ms]
+2023-02-08 11:01:05.082694 ; Settings       ; Debug       ; Saved DutSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [1.46 ms]
+2023-02-08 11:01:05.084697 ; Settings       ; Debug       ; Saved EditorSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [2.47 ms]
+2023-02-08 11:01:05.088687 ; Settings       ; Debug       ; Saved EngineSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [3.78 ms]
+2023-02-08 11:01:05.094667 ; Settings       ; Debug       ; Saved InstrumentSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [5.48 ms]
+2023-02-08 11:01:05.096668 ; Settings       ; Debug       ; Saved ResultSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [1.49 ms]
+2023-02-08 11:01:05.144960 ; Main           ; Debug       ; Reloaded test plan. [760 us]
+2023-02-08 11:02:10.116919 ; Settings       ; Debug       ; Saved GuiControlsSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [5.39 ms]
+2023-02-08 11:02:10.120908 ; Settings       ; Debug       ; Saved PanelSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [2.42 ms]
+2023-02-08 11:02:10.123901 ; Settings       ; Debug       ; Saved EditorSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [3.22 ms]

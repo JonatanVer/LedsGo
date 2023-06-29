@@ -1,0 +1,248 @@
+﻿2022-07-25 08:08:42.712450 ; Session        ; Debug       ; Session log loaded as 'D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\editor 2022-07-25 08-08-42.txt'. [9.83 ms]
+2022-07-25 08:08:42.777287 ; Session        ; Debug       ; Running '"D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\editor.exe" ' in 'D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2022-07-25 08:08:42.882994 ; Session        ; Debug       ; Microsoft Windows 10.0.19043 X64
+2022-07-25 08:08:42.882994 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2022-07-25 08:08:42.946824 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2022-07-25 08:08:42.983724 ; AssemblyFinder ; Debug       ; Found 30/85 assembly files. [82.4 ms]
+2022-07-25 08:08:43.024615 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-07-25 08:08:43.030599 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Wpf, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\WPF Controls\Keysight.OpenTap.Wpf.dll
+2022-07-25 08:08:43.063513 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-07-25 08:08:43.328802 ; Searcher       ; Debug       ; Ordered 28 assemblies according to references. [335 ms]
+2022-07-25 08:08:43.747682 ; PluginManager  ; Debug       ; Found 18 plugin assemblies containing 265 plugin types. [757 ms]
+2022-07-25 08:08:43.748682 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2022-07-25 08:08:43.748682 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2022-07-25 08:08:43.748682 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2022-07-25 08:08:43.748682 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2022-07-25 08:08:43.748682 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2022-07-25 08:08:43.748682 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2022-07-25 08:08:43.748682 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2022-07-25 08:08:43.748682 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of OpenTap.Plugins.LedsGo.dll
+2022-07-25 08:08:43.748682 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-07-25 08:08:43.748682 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of ResultsViewer.exe
+2022-07-25 08:08:43.748682 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of RunExplorer.exe
+2022-07-25 08:08:43.748682 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2022-07-25 08:08:43.748682 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-07-25 08:08:43.748682 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2022-07-25 08:08:43.748682 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-07-25 08:08:43.748682 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-07-25 08:08:43.748682 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-07-25 08:08:43.748682 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2022-07-25 08:08:43.748682 ; PluginManager  ; Debug       ; Searched 30 Assemblies. [758 ms]
+2022-07-25 08:08:43.767630 ; PluginManager  ; Debug       ; Loaded OpenTap. [807 us]
+2022-07-25 08:08:43.833453 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [300 us]
+2022-07-25 08:08:43.941165 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [119 ms]
+2022-07-25 08:08:44.003996 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [182 ms]
+2022-07-25 08:08:44.063837 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [26.2 ms]
+2022-07-25 08:08:44.220420 ; PluginManager  ; Debug       ; Loaded mscorlib. [700 ns]
+2022-07-25 08:08:44.539562 ; Settings       ; Debug       ; EditorSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [1.11 s]
+2022-07-25 08:08:44.585441 ; Resolver       ; Debug       ; Found match for MahApps.Metro, Version=1.3.0.0, Culture=neutral, PublicKeyToken=f4fb5a3c4d1e5b4f in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\MahApps.Metro.1.3.0.0\MahApps.Metro.dll
+2022-07-25 08:08:44.854723 ; GUI            ; Debug       ; Loaded Light Theme. [31.9 ms]
+2022-07-25 08:08:44.888631 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2022-07-25 08:08:45.246726 ; Settings       ; Debug       ; GuiControlsSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [220 ms]
+2022-07-25 08:08:45.246726 ; Main           ; Debug       ; Window initial dimensions: 1934px, 1054px.
+2022-07-25 08:08:45.295133 ; Settings       ; Debug       ; EngineSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [45.6 ms]
+2022-07-25 08:08:45.297127 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [1.60 ms]
+2022-07-25 08:08:45.297127 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Licensing, Version=1.1.1.0, Culture=neutral, PublicKeyToken=null in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\Keysight Licensing\Keysight.OpenTap.Licensing.dll
+2022-07-25 08:08:45.329042 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2022-07-25 08-08-45.txt'. [9.95 ms]
+2022-07-25 08:08:45.860620 ; Main           ; Debug       ; GUI initialized. [612 ms]
+2022-07-25 08:08:45.860620 ; Main           ; Debug       ; Docking manager initialized. [64.9 us]
+2022-07-25 08:08:45.864621 ; OpenTAP        ; Information ; OpenTAP version '9.17.4+ea67c63a' 64-bit initialized 07/25/2022 [3.69 s]
+2022-07-25 08:08:45.926964 ; PluginManager  ; Debug       ; Loaded PackageManager. [400 us]
+2022-07-25 08:08:45.926964 ; PluginManager  ; Debug       ; Loaded Editor. [32.7 us]
+2022-07-25 08:08:45.935939 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [9.31 ms]
+2022-07-25 08:08:45.947923 ; PluginManager  ; Debug       ; Loaded RunExplorer. [10.2 ms]
+2022-07-25 08:08:45.950901 ; Settings       ; Debug       ; ConnectionSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [1.62 ms]
+2022-07-25 08:08:45.951897 ; Settings       ; Debug       ; DutSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [762 us]
+2022-07-25 08:08:45.966857 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.LedsGo. [9.69 ms]
+2022-07-25 08:08:45.975848 ; Settings       ; Debug       ; InstrumentSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [24.2 ms]
+2022-07-25 08:08:45.976832 ; Settings       ; Debug       ; ResultSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [1.45 ms]
+2022-07-25 08:08:46.374766 ; Main           ; Information ; Latest version of 'Keysight Licensing' is 1.2, your version is 1.1. Please consider updating. [508 ms]
+2022-07-25 08:08:46.374766 ; Main           ; Information ; Latest version of 'PathWave License Manager' is 2.5, your version is 2.4. Please consider updating. [508 ms]
+2022-07-25 08:08:46.374766 ; Main           ; Information ; Latest version of 'OpenTAP' is 9.18, your version is 9.17. Please consider updating. [508 ms]
+2022-07-25 08:08:46.374766 ; Main           ; Debug       ; Update check complete. [508 ms]
+2022-07-25 08:08:46.929308 ; Resolver       ; Debug       ; Found match for Keysight.Kal.Licensing.Api, Version=4.0.0.0, Culture=neutral, PublicKeyToken=55333af07c70062e in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\Keysight.Kal.Licensing.Api.4.0.0\Keysight.Kal.Licensing.Api.dll
+2022-07-25 08:08:46.994133 ; KAL            ; Debug       ; KAL signature verified. [49.3 ms]
+2022-07-25 08:08:47.014301 ; KAL Process    ; Debug       ; Initialized [70.9 ms]
+2022-07-25 08:08:47.017292 ; KAL            ; Debug       ; Initialized [75.6 ms]
+2022-07-25 08:08:47.895784 ; Settings       ; Debug       ; PanelSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [2.45 ms]
+2022-07-25 08:08:48.588770 ; Main           ; Debug       ; Application startup finished. [6.41 s]
+2022-07-25 08:09:10.059289 ; Settings       ; Debug       ; Saved GuiControlsSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [13.1 ms]
+2022-07-25 08:09:10.072265 ; Settings       ; Debug       ; Saved PanelSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [1.31 ms]
+2022-07-25 08:09:10.080234 ; Settings       ; Debug       ; Saved EditorSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [7.73 ms]
+2022-07-25 08:11:39.957455 ; Settings       ; Debug       ; Saved ConnectionSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [1.82 ms]
+2022-07-25 08:11:39.965431 ; Settings       ; Debug       ; Saved DutSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [7.97 ms]
+2022-07-25 08:11:39.967422 ; Settings       ; Debug       ; Saved EditorSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [1.45 ms]
+2022-07-25 08:11:39.973408 ; Settings       ; Debug       ; Saved EngineSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [5.79 ms]
+2022-07-25 08:11:39.989361 ; Settings       ; Debug       ; Saved InstrumentSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [16.0 ms]
+2022-07-25 08:11:39.995347 ; Settings       ; Debug       ; Saved ResultSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [5.35 ms]
+2022-07-25 08:11:40.011341 ; Main           ; Debug       ; Reloaded test plan. [5.53 ms]
+2022-07-25 08:11:49.942778 ; Main           ; Debug       ; Loaded Test plan D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\testLabJack.TapPlan [513 ms]
+2022-07-25 08:11:57.734469 ; Settings       ; Debug       ; No settings file exists for TestPlanRunPackageParameterMonitor. A new instance with default values has been created. [154 us]
+2022-07-25 08:11:57.752421 ; TestPlan       ; Debug       ; Saved Test Plan XML [19.2 ms]
+2022-07-25 08:11:57.878083 ; Labjack        ; Information ; Resource "Labjack" opened. [44.2 ms]
+2022-07-25 08:11:57.878083 ; TestPlan       ; Debug       ; TestPlan opened. [215 ms]
+2022-07-25 08:12:01.082376 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-25 08:12:01.086367 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/25/2022 08:12:01, 6 of 7 TestSteps enabled.
+2022-07-25 08:12:01.166213 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PrePlanRun completed. [3.29 ms]
+2022-07-25 08:12:01.166213 ; TestPlan       ; Debug       ; "48V DUT inschakelen via FIO2 (FIO2 = 1 => ON en FIO2 = 0 => OFF)" PrePlanRun completed. [574 us]
+2022-07-25 08:12:01.166213 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [97.5 us]
+2022-07-25 08:12:01.166213 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PrePlanRun completed. [27.8 us]
+2022-07-25 08:12:01.166213 ; TestPlan       ; Debug       ; "3V3 meten" PrePlanRun completed. [19.3 us]
+2022-07-25 08:12:01.166213 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [6.41 ms]
+2022-07-25 08:12:01.180177 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " started.
+2022-07-25 08:12:01.192144 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-25 08:12:01.197168 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " completed with verdict 'Pass'. [16.0 ms]
+2022-07-25 08:12:01.198166 ; TestPlan       ; Information ; "48V DUT inschakelen via FIO2 (FIO2 = 1 => ON en FIO2 = 0 => OFF)" started.
+2022-07-25 08:12:01.201383 ; TestStep       ; Debug       ; FIO2set to: High
+2022-07-25 08:12:01.201383 ; TestPlan       ; Information ; "48V DUT inschakelen via FIO2 (FIO2 = 1 => ON en FIO2 = 0 => OFF)" completed with verdict 'Pass'. [2.92 ms]
+2022-07-25 08:12:01.201383 ; TestPlan       ; Information ; "Delay" started.
+2022-07-25 08:12:01.603432 ; TestPlan       ; Information ; "Delay" completed. [401 ms]
+2022-07-25 08:12:01.603432 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-25 08:12:01.609417 ; TestStep       ; Debug       ; AIN8 measured: 47.7526760101318
+2022-07-25 08:12:01.609417 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [6.00 ms]
+2022-07-25 08:12:01.609417 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " started.
+2022-07-25 08:12:01.611411 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-25 08:12:01.611411 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " completed with verdict 'Pass'. [2.23 ms]
+2022-07-25 08:12:01.611411 ; TestPlan       ; Information ; "3V3 meten" started.
+2022-07-25 08:12:01.615378 ; TestStep       ; Debug       ; AIN1 measured: 3.26530885696411
+2022-07-25 08:12:01.616382 ; TestPlan       ; Information ; "3V3 meten" completed with verdict 'Pass'. [4.26 ms]
+2022-07-25 08:12:01.617376 ; TestPlan       ; Debug       ; Test step runs finished. [450 ms]
+2022-07-25 08:12:01.620365 ; TestPlan       ; Debug       ; "3V3 meten" PostPlanRun completed. [1.13 ms]
+2022-07-25 08:12:01.620365 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PostPlanRun completed. [40.3 us]
+2022-07-25 08:12:01.620365 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [7.40 us]
+2022-07-25 08:12:01.620365 ; TestPlan       ; Debug       ; "48V DUT inschakelen via FIO2 (FIO2 = 1 => ON en FIO2 = 0 => OFF)" PostPlanRun completed. [9.80 us]
+2022-07-25 08:12:01.620365 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PostPlanRun completed. [12.9 us]
+2022-07-25 08:12:01.643291 ; Summary        ; Information ; ------- Summary of test plan started 07/25/2022 08:12:01 -------
+2022-07-25 08:12:01.646284 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF)       16.0 ms  Pass   
+2022-07-25 08:12:01.646284 ; Summary        ; Information ;  48V DUT inschakelen via FIO2 (FIO2 = 1 => ON en FIO2 = 0 => OFF)      2.92 ms  Pass   
+2022-07-25 08:12:01.646284 ; Summary        ; Information ;  Delay                                             401 ms         
+2022-07-25 08:12:01.646284 ; Summary        ; Information ;  48V meten via AIN8                               6.00 ms  Pass   
+2022-07-25 08:12:01.646284 ; Summary        ; Information ;  3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF)       2.23 ms  Pass   
+2022-07-25 08:12:01.646284 ; Summary        ; Information ;  3V3 meten                                        4.26 ms  Pass   
+2022-07-25 08:12:01.647279 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-25 08:12:01.647279 ; Summary        ; Information ; ---------- Test plan completed successfully in 529 ms ----------
+2022-07-25 08:12:14.822276 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-25 08:12:14.822276 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/25/2022 08:12:14, 6 of 7 TestSteps enabled.
+2022-07-25 08:12:14.841729 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PrePlanRun completed. [15.9 ms]
+2022-07-25 08:12:14.841729 ; TestPlan       ; Debug       ; "48V DUT inschakelen via FIO2 (FIO2 = 1 => ON en FIO2 = 0 => OFF)" PrePlanRun completed. [75.2 us]
+2022-07-25 08:12:14.841729 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [27.5 us]
+2022-07-25 08:12:14.841729 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PrePlanRun completed. [33.4 us]
+2022-07-25 08:12:14.841729 ; TestPlan       ; Debug       ; "3V3 meten" PrePlanRun completed. [23.8 us]
+2022-07-25 08:12:14.841729 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [16.0 ms]
+2022-07-25 08:12:14.841729 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " started.
+2022-07-25 08:12:14.853730 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-25 08:12:14.853730 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " completed with verdict 'Pass'. [11.9 ms]
+2022-07-25 08:12:14.853730 ; TestPlan       ; Information ; "48V DUT inschakelen via FIO2 (FIO2 = 1 => ON en FIO2 = 0 => OFF)" started.
+2022-07-25 08:12:14.856456 ; TestStep       ; Debug       ; FIO2set to: High
+2022-07-25 08:12:14.856456 ; TestPlan       ; Information ; "48V DUT inschakelen via FIO2 (FIO2 = 1 => ON en FIO2 = 0 => OFF)" completed with verdict 'Pass'. [1.95 ms]
+2022-07-25 08:12:14.856456 ; TestPlan       ; Information ; "Delay" started.
+2022-07-25 08:12:15.256399 ; TestPlan       ; Information ; "Delay" completed. [400 ms]
+2022-07-25 08:12:15.256399 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-25 08:12:15.264763 ; TestStep       ; Debug       ; AIN8 measured: 47.7803564071655
+2022-07-25 08:12:15.264763 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [8.24 ms]
+2022-07-25 08:12:15.264763 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " started.
+2022-07-25 08:12:15.268774 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-25 08:12:15.268774 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " completed with verdict 'Pass'. [3.45 ms]
+2022-07-25 08:12:15.268774 ; TestPlan       ; Information ; "3V3 meten" started.
+2022-07-25 08:12:15.271814 ; TestStep       ; Debug       ; AIN1 measured: 3.26625537872314
+2022-07-25 08:12:15.271814 ; TestPlan       ; Information ; "3V3 meten" completed with verdict 'Pass'. [3.24 ms]
+2022-07-25 08:12:15.271814 ; TestPlan       ; Debug       ; Test step runs finished. [430 ms]
+2022-07-25 08:12:15.272812 ; TestPlan       ; Debug       ; "3V3 meten" PostPlanRun completed. [1.13 ms]
+2022-07-25 08:12:15.272812 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PostPlanRun completed. [6.50 us]
+2022-07-25 08:12:15.272812 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [2.90 us]
+2022-07-25 08:12:15.272812 ; TestPlan       ; Debug       ; "48V DUT inschakelen via FIO2 (FIO2 = 1 => ON en FIO2 = 0 => OFF)" PostPlanRun completed. [2.90 us]
+2022-07-25 08:12:15.272812 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PostPlanRun completed. [2.90 us]
+2022-07-25 08:12:15.278794 ; Summary        ; Information ; ------- Summary of test plan started 07/25/2022 08:12:14 -------
+2022-07-25 08:12:15.278794 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF)       11.9 ms  Pass   
+2022-07-25 08:12:15.278794 ; Summary        ; Information ;  48V DUT inschakelen via FIO2 (FIO2 = 1 => ON en FIO2 = 0 => OFF)      1.95 ms  Pass   
+2022-07-25 08:12:15.278794 ; Summary        ; Information ;  Delay                                             400 ms         
+2022-07-25 08:12:15.278794 ; Summary        ; Information ;  48V meten via AIN8                               8.24 ms  Pass   
+2022-07-25 08:12:15.278794 ; Summary        ; Information ;  3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF)       3.45 ms  Pass   
+2022-07-25 08:12:15.278794 ; Summary        ; Information ;  3V3 meten                                        3.24 ms  Pass   
+2022-07-25 08:12:15.278794 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-25 08:12:15.278794 ; Summary        ; Information ; ---------- Test plan completed successfully in 451 ms ----------
+2022-07-25 08:12:53.903298 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-25 08:12:53.903298 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/25/2022 08:12:53, 6 of 7 TestSteps enabled.
+2022-07-25 08:12:53.963142 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PrePlanRun completed. [50.1 ms]
+2022-07-25 08:12:53.963142 ; TestPlan       ; Debug       ; "48V DUT inschakelen via FIO2 (FIO2 = 1 => ON en FIO2 = 0 => OFF)" PrePlanRun completed. [115 us]
+2022-07-25 08:12:53.963142 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [93.3 us]
+2022-07-25 08:12:53.963142 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PrePlanRun completed. [61.3 us]
+2022-07-25 08:12:53.963142 ; TestPlan       ; Debug       ; "3V3 meten" PrePlanRun completed. [52.4 us]
+2022-07-25 08:12:53.963142 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [50.4 ms]
+2022-07-25 08:12:53.963142 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " started.
+2022-07-25 08:12:53.967130 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-25 08:12:53.967130 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " completed with verdict 'Pass'. [3.73 ms]
+2022-07-25 08:12:53.967130 ; TestPlan       ; Information ; "48V DUT inschakelen via FIO2 (FIO2 = 1 => ON en FIO2 = 0 => OFF)" started.
+2022-07-25 08:12:53.981097 ; TestStep       ; Debug       ; FIO2set to: High
+2022-07-25 08:12:53.981097 ; TestPlan       ; Information ; "48V DUT inschakelen via FIO2 (FIO2 = 1 => ON en FIO2 = 0 => OFF)" completed with verdict 'Pass'. [14.0 ms]
+2022-07-25 08:12:53.981097 ; TestPlan       ; Information ; "Delay" started.
+2022-07-25 08:12:54.381872 ; TestPlan       ; Information ; "Delay" completed. [400 ms]
+2022-07-25 08:12:54.381872 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-25 08:12:54.384864 ; TestStep       ; Debug       ; AIN8 measured: 47.8186841011047
+2022-07-25 08:12:54.384864 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [3.35 ms]
+2022-07-25 08:12:54.384864 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " started.
+2022-07-25 08:12:54.387865 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-25 08:12:54.388049 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " completed with verdict 'Pass'. [2.33 ms]
+2022-07-25 08:12:54.388049 ; TestPlan       ; Information ; "3V3 meten" started.
+2022-07-25 08:12:54.390849 ; TestStep       ; Debug       ; AIN1 measured: 3.26349496841431
+2022-07-25 08:12:54.390849 ; TestPlan       ; Information ; "3V3 meten" completed with verdict 'Pass'. [2.99 ms]
+2022-07-25 08:12:54.390849 ; TestPlan       ; Debug       ; Test step runs finished. [427 ms]
+2022-07-25 08:12:54.390849 ; TestPlan       ; Debug       ; "3V3 meten" PostPlanRun completed. [304 us]
+2022-07-25 08:12:54.390849 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PostPlanRun completed. [9.69 us]
+2022-07-25 08:12:54.390849 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [4.80 us]
+2022-07-25 08:12:54.390849 ; TestPlan       ; Debug       ; "48V DUT inschakelen via FIO2 (FIO2 = 1 => ON en FIO2 = 0 => OFF)" PostPlanRun completed. [5.30 us]
+2022-07-25 08:12:54.390849 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PostPlanRun completed. [4.90 us]
+2022-07-25 08:12:54.391850 ; Summary        ; Information ; ------- Summary of test plan started 07/25/2022 08:12:53 -------
+2022-07-25 08:12:54.391850 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF)       3.73 ms  Pass   
+2022-07-25 08:12:54.391850 ; Summary        ; Information ;  48V DUT inschakelen via FIO2 (FIO2 = 1 => ON en FIO2 = 0 => OFF)      14.0 ms  Pass   
+2022-07-25 08:12:54.391850 ; Summary        ; Information ;  Delay                                             400 ms         
+2022-07-25 08:12:54.391850 ; Summary        ; Information ;  48V meten via AIN8                               3.35 ms  Pass   
+2022-07-25 08:12:54.391850 ; Summary        ; Information ;  3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF)       2.33 ms  Pass   
+2022-07-25 08:12:54.391850 ; Summary        ; Information ;  3V3 meten                                        2.99 ms  Pass   
+2022-07-25 08:12:54.391850 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-25 08:12:54.391850 ; Summary        ; Information ; ---------- Test plan completed successfully in 487 ms ----------
+2022-07-25 08:12:56.475110 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-25 08:12:56.476107 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/25/2022 08:12:56, 6 of 7 TestSteps enabled.
+2022-07-25 08:12:56.518745 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PrePlanRun completed. [35.3 ms]
+2022-07-25 08:12:56.518745 ; TestPlan       ; Debug       ; "48V DUT inschakelen via FIO2 (FIO2 = 1 => ON en FIO2 = 0 => OFF)" PrePlanRun completed. [116 us]
+2022-07-25 08:12:56.518745 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [42.4 us]
+2022-07-25 08:12:56.519249 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PrePlanRun completed. [50.3 us]
+2022-07-25 08:12:56.519249 ; TestPlan       ; Debug       ; "3V3 meten" PrePlanRun completed. [60.6 us]
+2022-07-25 08:12:56.519249 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [35.6 ms]
+2022-07-25 08:12:56.519249 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " started.
+2022-07-25 08:12:56.521741 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-25 08:12:56.521741 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " completed with verdict 'Pass'. [2.89 ms]
+2022-07-25 08:12:56.521741 ; TestPlan       ; Information ; "48V DUT inschakelen via FIO2 (FIO2 = 1 => ON en FIO2 = 0 => OFF)" started.
+2022-07-25 08:12:56.523743 ; TestStep       ; Debug       ; FIO2set to: High
+2022-07-25 08:12:56.524740 ; TestPlan       ; Information ; "48V DUT inschakelen via FIO2 (FIO2 = 1 => ON en FIO2 = 0 => OFF)" completed with verdict 'Pass'. [2.19 ms]
+2022-07-25 08:12:56.524740 ; TestPlan       ; Information ; "Delay" started.
+2022-07-25 08:12:56.924402 ; TestPlan       ; Information ; "Delay" completed. [400 ms]
+2022-07-25 08:12:56.925401 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-25 08:12:56.928395 ; TestStep       ; Debug       ; AIN8 measured: 47.7750327587128
+2022-07-25 08:12:56.928395 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [3.75 ms]
+2022-07-25 08:12:56.928395 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " started.
+2022-07-25 08:12:56.930384 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-25 08:12:56.931382 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " completed with verdict 'Pass'. [2.09 ms]
+2022-07-25 08:12:56.931382 ; TestPlan       ; Information ; "3V3 meten" started.
+2022-07-25 08:12:56.934376 ; TestStep       ; Debug       ; AIN1 measured: 3.26491451263428
+2022-07-25 08:12:56.934376 ; TestPlan       ; Information ; "3V3 meten" completed with verdict 'Pass'. [3.41 ms]
+2022-07-25 08:12:56.934376 ; TestPlan       ; Debug       ; Test step runs finished. [415 ms]
+2022-07-25 08:12:56.935371 ; TestPlan       ; Debug       ; "3V3 meten" PostPlanRun completed. [305 us]
+2022-07-25 08:12:56.935371 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PostPlanRun completed. [10.9 us]
+2022-07-25 08:12:56.935371 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [5.50 us]
+2022-07-25 08:12:56.935371 ; TestPlan       ; Debug       ; "48V DUT inschakelen via FIO2 (FIO2 = 1 => ON en FIO2 = 0 => OFF)" PostPlanRun completed. [9.90 us]
+2022-07-25 08:12:56.935371 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PostPlanRun completed. [10.5 us]
+2022-07-25 08:12:56.935371 ; Summary        ; Information ; ------- Summary of test plan started 07/25/2022 08:12:56 -------
+2022-07-25 08:12:56.935371 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF)       2.89 ms  Pass   
+2022-07-25 08:12:56.935371 ; Summary        ; Information ;  48V DUT inschakelen via FIO2 (FIO2 = 1 => ON en FIO2 = 0 => OFF)      2.19 ms  Pass   
+2022-07-25 08:12:56.935371 ; Summary        ; Information ;  Delay                                             400 ms         
+2022-07-25 08:12:56.935371 ; Summary        ; Information ;  48V meten via AIN8                               3.75 ms  Pass   
+2022-07-25 08:12:56.935371 ; Summary        ; Information ;  3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF)       2.09 ms  Pass   
+2022-07-25 08:12:56.935371 ; Summary        ; Information ;  3V3 meten                                        3.41 ms  Pass   
+2022-07-25 08:12:56.935371 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-25 08:12:56.935371 ; Summary        ; Information ; ---------- Test plan completed successfully in 459 ms ----------
+2022-07-25 08:22:46.848278 ; Labjack        ; Information ; Resource "Labjack" closed. [15.4 us]
+2022-07-25 08:22:46.852267 ; TestPlan       ; Debug       ; TestPlan closed. [14.0 ms]
+2022-07-25 08:22:49.671870 ; Settings       ; Debug       ; Saved GuiControlsSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [9.64 ms]
+2022-07-25 08:22:49.687810 ; Settings       ; Debug       ; Saved PanelSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [4.78 ms]
+2022-07-25 08:22:49.696788 ; Settings       ; Debug       ; Saved EditorSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [8.30 ms]

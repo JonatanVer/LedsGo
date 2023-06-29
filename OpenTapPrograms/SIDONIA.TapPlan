@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestPlan type="OpenTap.TestPlan" Locked="false">
+  <Steps>
+    <TestStep type="OpenTap.Plugins.BasicSteps.SequenceStep" Version="9.17.4+ea67c63a" Id="0fb283ed-d3bd-446a-83d9-2f8fbfd221da">
+      <Enabled>true</Enabled>
+      <Name>Programmeren uC DUT</Name>
+      <ChildTestSteps>
+        <TestStep type="OpenTap.Plugins.BasicSteps.ProcessStep" Version="9.17.4+ea67c63a" Id="fb09d0e7-0e83-4a86-b4c1-e621de89a4f3">
+          <Application>..\..\..\..\..\..\..\..\Program Files\SEGGER\JLink\JLink.exe</Application>
+          <Arguments>-commanderscript AppFirmware.jlink</Arguments>
+          <WorkingDirectory>Packages\JLink\ADELE</WorkingDirectory>
+          <WaitForEnd>true</WaitForEnd>
+          <Timeout>10000</Timeout>
+          <AddToLog>true</AddToLog>
+          <CheckExitCode>true</CheckExitCode>
+          <RegularExpressionPattern>
+            <Value>O.K.</Value>
+            <IsEnabled>true</IsEnabled>
+          </RegularExpressionPattern>
+          <VerdictOnMatch>Pass</VerdictOnMatch>
+          <VerdictOnNoMatch>Fail</VerdictOnNoMatch>
+          <ResultRegularExpressionPattern>
+            <Value>(.*)</Value>
+            <IsEnabled>false</IsEnabled>
+          </ResultRegularExpressionPattern>
+          <ResultName>Regex Result</ResultName>
+          <Behavior>GroupsAsDimensions</Behavior>
+          <DimensionTitles></DimensionTitles>
+          <Enabled>true</Enabled>
+          <Name>Run Program</Name>
+          <ChildTestSteps />
+          <BreakConditions>BreakOnError, BreakOnFail, BreakOnInconclusive</BreakConditions>
+        </TestStep>
+      </ChildTestSteps>
+      <BreakConditions>BreakOnError, BreakOnFail, BreakOnInconclusive</BreakConditions>
+    </TestStep>
+  </Steps>
+  <BreakConditions>Inherit</BreakConditions>
+  <OpenTap.Description />
+  <Package.Dependencies>
+    <Package Name="OpenTAP" Version="^9.17.4+ea67c63a" />
+  </Package.Dependencies>
+</TestPlan>

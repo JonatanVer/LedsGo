@@ -1,0 +1,216 @@
+﻿2022-08-04 10:24:44.124736 ; Session        ; Debug       ; Session log loaded as 'C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\editor 2022-08-04 10-24-43.txt'. [8.78 ms]
+2022-08-04 10:24:44.217778 ; Session        ; Debug       ; Running '"C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\editor.exe" ' in 'C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2022-08-04 10:24:44.280330 ; Session        ; Debug       ; Microsoft Windows 10.0.19044 X64
+2022-08-04 10:24:44.280330 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2022-08-04 10:24:44.374117 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2022-08-04 10:24:44.421017 ; AssemblyFinder ; Debug       ; Found 38/93 assembly files. [57.0 ms]
+2022-08-04 10:24:44.483551 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-08-04 10:24:44.592989 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-08-04 10:24:44.921295 ; Searcher       ; Debug       ; Ordered 34 assemblies according to references. [491 ms]
+2022-08-04 10:24:45.254590 ; PluginManager  ; Debug       ; Found 18 plugin assemblies containing 267 plugin types. [819 ms]
+2022-08-04 10:24:45.256599 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2022-08-04 10:24:45.256599 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2022-08-04 10:24:45.256599 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2022-08-04 10:24:45.256599 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2022-08-04 10:24:45.256599 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2022-08-04 10:24:45.256599 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2022-08-04 10:24:45.256599 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2022-08-04 10:24:45.257583 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of OpenTap.Plugins.LedsGo.dll
+2022-08-04 10:24:45.257583 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-08-04 10:24:45.257583 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of ResultsViewer.exe
+2022-08-04 10:24:45.257583 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of RunExplorer.exe
+2022-08-04 10:24:45.257583 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2022-08-04 10:24:45.257583 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-08-04 10:24:45.257583 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2022-08-04 10:24:45.257583 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-08-04 10:24:45.257583 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-08-04 10:24:45.257583 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-08-04 10:24:45.257583 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2022-08-04 10:24:45.257583 ; PluginManager  ; Debug       ; Searched 38 Assemblies. [822 ms]
+2022-08-04 10:24:45.280541 ; PluginManager  ; Debug       ; Loaded OpenTap. [838 us]
+2022-08-04 10:24:45.331679 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [18.9 ms]
+2022-08-04 10:24:45.331679 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [223 us]
+2022-08-04 10:24:45.345651 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [32.9 ms]
+2022-08-04 10:24:45.408534 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [14.5 ms]
+2022-08-04 10:24:45.607162 ; PluginManager  ; Debug       ; Loaded mscorlib. [1.00 us]
+2022-08-04 10:24:45.879529 ; Settings       ; Debug       ; EditorSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [1.04 s]
+2022-08-04 10:24:46.190944 ; GUI            ; Debug       ; Loaded Light Theme. [25.5 ms]
+2022-08-04 10:24:46.229871 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2022-08-04 10:24:46.716926 ; Settings       ; Debug       ; GuiControlsSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [284 ms]
+2022-08-04 10:24:46.716926 ; Main           ; Debug       ; Window initial dimensions: 1934px, 1054px.
+2022-08-04 10:24:46.753855 ; Settings       ; Debug       ; EngineSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [33.6 ms]
+2022-08-04 10:24:46.755929 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [1.07 ms]
+2022-08-04 10:24:46.771563 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2022-08-04 10-24-46.txt'. [5.60 ms]
+2022-08-04 10:24:47.354935 ; Main           ; Debug       ; GUI initialized. [644 ms]
+2022-08-04 10:24:47.354935 ; Main           ; Debug       ; Docking manager initialized. [64.6 us]
+2022-08-04 10:24:47.354935 ; OpenTAP        ; Information ; OpenTAP version '9.17.4+ea67c63a' 64-bit initialized 08/04/2022 [3.72 s]
+2022-08-04 10:24:47.417472 ; PluginManager  ; Debug       ; Loaded PackageManager. [419 us]
+2022-08-04 10:24:47.417472 ; PluginManager  ; Debug       ; Loaded Editor. [29.8 us]
+2022-08-04 10:24:47.417472 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [8.33 ms]
+2022-08-04 10:24:47.433070 ; PluginManager  ; Debug       ; Loaded RunExplorer. [9.50 ms]
+2022-08-04 10:24:47.433070 ; Settings       ; Debug       ; ConnectionSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [1.66 ms]
+2022-08-04 10:24:47.433070 ; Settings       ; Debug       ; DutSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [813 us]
+2022-08-04 10:24:47.497403 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.LedsGo. [46.8 ms]
+2022-08-04 10:24:47.506387 ; Settings       ; Debug       ; InstrumentSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [60.8 ms]
+2022-08-04 10:24:47.507385 ; Settings       ; Debug       ; ResultSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [1.01 ms]
+2022-08-04 10:24:47.901826 ; Main           ; Information ; Latest version of 'OpenTAP' is 9.18, your version is 9.17. Please consider updating. [532 ms]
+2022-08-04 10:24:47.901826 ; Main           ; Information ; Latest version of 'Keysight Licensing' is 1.2, your version is 1.1. Please consider updating. [532 ms]
+2022-08-04 10:24:47.901826 ; Main           ; Debug       ; Update check complete. [532 ms]
+2022-08-04 10:24:49.042679 ; Settings       ; Debug       ; PanelSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [1.91 ms]
+2022-08-04 10:24:50.232442 ; Main           ; Debug       ; Application startup finished. [6.60 s]
+2022-08-04 10:28:26.026769 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:28:26.029764 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:28:26, 0 of 0 TestSteps enabled.
+2022-08-04 10:28:26.112609 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.32 ms]
+2022-08-04 10:28:26.119596 ; Settings       ; Debug       ; No settings file exists for TestPlanRunPackageParameterMonitor. A new instance with default values has been created. [342 us]
+2022-08-04 10:28:26.263324 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [1.99 ms]
+2022-08-04 10:28:26.263324 ; TestPlan       ; Debug       ; Test step runs finished. [25.5 us]
+2022-08-04 10:28:26.282290 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:28:26 ----
+2022-08-04 10:28:26.282290 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:28:26.284286 ; Summary        ; Information ; ------- Test plan completed successfully in 148 ms -------
+2022-08-04 10:28:26.310237 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:28:26.311235 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:28:26, 0 of 0 TestSteps enabled.
+2022-08-04 10:28:26.313231 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.89 ms]
+2022-08-04 10:28:26.317225 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [5.30 us]
+2022-08-04 10:28:26.317225 ; TestPlan       ; Debug       ; Test step runs finished. [700 ns]
+2022-08-04 10:28:26.317225 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:28:26 ----
+2022-08-04 10:28:26.317225 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:28:26.317225 ; Summary        ; Information ; ------ Test plan completed successfully in 5.59 ms -------
+2022-08-04 10:28:26.327205 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:28:26.327205 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:28:26, 0 of 0 TestSteps enabled.
+2022-08-04 10:28:26.330200 ; TestPlan       ; Debug       ; Saved Test Plan XML [3.48 ms]
+2022-08-04 10:28:26.334192 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.29 us]
+2022-08-04 10:28:26.334192 ; TestPlan       ; Debug       ; Test step runs finished. [900 ns]
+2022-08-04 10:28:26.334192 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:28:26 ----
+2022-08-04 10:28:26.334192 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:28:26.334192 ; Summary        ; Information ; ------ Test plan completed successfully in 6.72 ms -------
+2022-08-04 10:28:26.344176 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:28:26.344176 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:28:26, 0 of 0 TestSteps enabled.
+2022-08-04 10:28:26.346169 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.84 ms]
+2022-08-04 10:28:26.349165 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [3.60 us]
+2022-08-04 10:28:26.349165 ; TestPlan       ; Debug       ; Test step runs finished. [800 ns]
+2022-08-04 10:28:26.349165 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:28:26 ----
+2022-08-04 10:28:26.349165 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:28:26.349165 ; Summary        ; Information ; ------ Test plan completed successfully in 4.58 ms -------
+2022-08-04 10:28:26.370125 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:28:26.370125 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:28:26, 0 of 0 TestSteps enabled.
+2022-08-04 10:28:26.372120 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.86 ms]
+2022-08-04 10:28:26.373118 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [1.80 us]
+2022-08-04 10:28:26.373118 ; TestPlan       ; Debug       ; Test step runs finished. [500 ns]
+2022-08-04 10:28:26.373118 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:28:26 ----
+2022-08-04 10:28:26.373118 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:28:26.373118 ; Summary        ; Information ; ------ Test plan completed successfully in 2.67 ms -------
+2022-08-04 10:28:26.384100 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:28:26.384100 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:28:26, 0 of 0 TestSteps enabled.
+2022-08-04 10:28:26.386094 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.31 ms]
+2022-08-04 10:28:26.392084 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.00 us]
+2022-08-04 10:28:26.392084 ; TestPlan       ; Debug       ; Test step runs finished. [600 ns]
+2022-08-04 10:28:26.392084 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:28:26 ----
+2022-08-04 10:28:26.392084 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:28:26.392084 ; Summary        ; Information ; ------ Test plan completed successfully in 7.71 ms -------
+2022-08-04 10:28:26.404062 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:28:26.404062 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:28:26, 0 of 0 TestSteps enabled.
+2022-08-04 10:28:26.407056 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.04 ms]
+2022-08-04 10:28:26.409050 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.60 us]
+2022-08-04 10:28:26.410049 ; TestPlan       ; Debug       ; Test step runs finished. [700 ns]
+2022-08-04 10:28:26.410049 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:28:26 ----
+2022-08-04 10:28:26.410049 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:28:26.410049 ; Summary        ; Information ; ------ Test plan completed successfully in 4.31 ms -------
+2022-08-04 10:28:26.419032 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:28:26.419032 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:28:26, 0 of 0 TestSteps enabled.
+2022-08-04 10:28:26.422027 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.38 ms]
+2022-08-04 10:28:26.423025 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.00 us]
+2022-08-04 10:28:26.423025 ; TestPlan       ; Debug       ; Test step runs finished. [600 ns]
+2022-08-04 10:28:26.423025 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:28:26 ----
+2022-08-04 10:28:26.423025 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:28:26.423025 ; Summary        ; Information ; ------ Test plan completed successfully in 3.15 ms -------
+2022-08-04 10:28:26.432008 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:28:26.433006 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:28:26, 0 of 0 TestSteps enabled.
+2022-08-04 10:28:26.435002 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.79 ms]
+2022-08-04 10:28:26.437997 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.10 us]
+2022-08-04 10:28:26.437997 ; TestPlan       ; Debug       ; Test step runs finished. [600 ns]
+2022-08-04 10:28:26.437997 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:28:26 ----
+2022-08-04 10:28:26.437997 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:28:26.437997 ; Summary        ; Information ; ------ Test plan completed successfully in 5.41 ms -------
+2022-08-04 10:28:26.447977 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:28:26.447977 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:28:26, 0 of 0 TestSteps enabled.
+2022-08-04 10:28:26.449973 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.73 ms]
+2022-08-04 10:28:26.452968 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.50 us]
+2022-08-04 10:28:26.452968 ; TestPlan       ; Debug       ; Test step runs finished. [600 ns]
+2022-08-04 10:28:26.452968 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:28:26 ----
+2022-08-04 10:28:26.452968 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:28:26.453968 ; Summary        ; Information ; ------ Test plan completed successfully in 4.92 ms -------
+2022-08-04 10:28:26.462949 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:28:26.462949 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:28:26, 0 of 0 TestSteps enabled.
+2022-08-04 10:28:26.464948 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.77 ms]
+2022-08-04 10:28:26.465954 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.70 us]
+2022-08-04 10:28:26.465954 ; TestPlan       ; Debug       ; Test step runs finished. [900 ns]
+2022-08-04 10:28:26.465954 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:28:26 ----
+2022-08-04 10:28:26.465954 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:28:26.465954 ; Summary        ; Information ; ------ Test plan completed successfully in 2.66 ms -------
+2022-08-04 10:28:26.475925 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:28:26.475925 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:28:26, 0 of 0 TestSteps enabled.
+2022-08-04 10:28:26.477921 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.87 ms]
+2022-08-04 10:28:26.478920 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.20 us]
+2022-08-04 10:28:26.478920 ; TestPlan       ; Debug       ; Test step runs finished. [500 ns]
+2022-08-04 10:28:26.478920 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:28:26 ----
+2022-08-04 10:28:26.478920 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:28:26.478920 ; Summary        ; Information ; ------ Test plan completed successfully in 2.59 ms -------
+2022-08-04 10:28:26.487902 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:28:26.487902 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:28:26, 0 of 0 TestSteps enabled.
+2022-08-04 10:28:26.489899 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.89 ms]
+2022-08-04 10:28:26.492893 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.80 us]
+2022-08-04 10:28:26.492893 ; TestPlan       ; Debug       ; Test step runs finished. [700 ns]
+2022-08-04 10:28:26.492893 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:28:26 ----
+2022-08-04 10:28:26.492893 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:28:26.492893 ; Summary        ; Information ; ------ Test plan completed successfully in 4.89 ms -------
+2022-08-04 10:28:26.502875 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:28:26.502875 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:28:26, 0 of 0 TestSteps enabled.
+2022-08-04 10:28:26.504870 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.90 ms]
+2022-08-04 10:28:26.508864 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.20 us]
+2022-08-04 10:28:26.508864 ; TestPlan       ; Debug       ; Test step runs finished. [700 ns]
+2022-08-04 10:28:26.508864 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:28:26 ----
+2022-08-04 10:28:26.508864 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:28:26.508864 ; Summary        ; Information ; ------ Test plan completed successfully in 5.53 ms -------
+2022-08-04 10:28:26.518845 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:28:26.518845 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:28:26, 0 of 0 TestSteps enabled.
+2022-08-04 10:28:26.520841 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.06 ms]
+2022-08-04 10:28:26.521839 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [1.70 us]
+2022-08-04 10:28:26.521839 ; TestPlan       ; Debug       ; Test step runs finished. [500 ns]
+2022-08-04 10:28:26.521839 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:28:26 ----
+2022-08-04 10:28:26.521839 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:28:26.521839 ; Summary        ; Information ; ------ Test plan completed successfully in 2.61 ms -------
+2022-08-04 10:28:26.531825 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:28:26.531825 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:28:26, 0 of 0 TestSteps enabled.
+2022-08-04 10:28:26.541801 ; TestPlan       ; Debug       ; Saved Test Plan XML [10.0 ms]
+2022-08-04 10:28:26.545795 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [3.90 us]
+2022-08-04 10:28:26.545795 ; TestPlan       ; Debug       ; Test step runs finished. [500 ns]
+2022-08-04 10:28:26.545795 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:28:26 ----
+2022-08-04 10:28:26.545795 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:28:26.545795 ; Summary        ; Information ; ------ Test plan completed successfully in 14.1 ms -------
+2022-08-04 10:28:26.555775 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:28:26.555775 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:28:26, 0 of 0 TestSteps enabled.
+2022-08-04 10:28:26.557771 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.83 ms]
+2022-08-04 10:28:26.558770 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [1.90 us]
+2022-08-04 10:28:26.558770 ; TestPlan       ; Debug       ; Test step runs finished. [600 ns]
+2022-08-04 10:28:26.559769 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:28:26 ----
+2022-08-04 10:28:26.559769 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:28:26.559769 ; Summary        ; Information ; ------ Test plan completed successfully in 2.87 ms -------
+2022-08-04 10:28:26.569748 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:28:26.569748 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:28:26, 0 of 0 TestSteps enabled.
+2022-08-04 10:28:26.571748 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.81 ms]
+2022-08-04 10:28:26.574740 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.40 us]
+2022-08-04 10:28:26.574740 ; TestPlan       ; Debug       ; Test step runs finished. [800 ns]
+2022-08-04 10:28:26.574740 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:28:26 ----
+2022-08-04 10:28:26.574740 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:28:26.574740 ; Summary        ; Information ; ------ Test plan completed successfully in 4.36 ms -------
+2022-08-04 10:28:26.590709 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:28:26.590709 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:28:26, 0 of 0 TestSteps enabled.
+2022-08-04 10:28:26.592706 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.86 ms]
+2022-08-04 10:28:26.601691 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.50 us]
+2022-08-04 10:28:26.601691 ; TestPlan       ; Debug       ; Test step runs finished. [600 ns]
+2022-08-04 10:28:26.602686 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:28:26 ----
+2022-08-04 10:28:26.602686 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:28:26.602686 ; Summary        ; Information ; ------ Test plan completed successfully in 11.3 ms -------
+2022-08-04 10:28:35.802131 ; Settings       ; Debug       ; Saved GuiControlsSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [11.9 ms]
+2022-08-04 10:28:35.816106 ; Settings       ; Debug       ; Saved PanelSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [928 us]
+2022-08-04 10:28:35.818101 ; Settings       ; Debug       ; Saved EditorSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [1.86 ms]

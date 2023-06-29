@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestPlan type="OpenTap.TestPlan" Locked="false">
+  <Steps>
+    <TestStep type="OpenTap.Plugins.BasicSteps.SequenceStep" Version="9.17.4+ea67c63a" Id="c29e09aa-9bcb-4d40-802e-5ccc1e0e461a">
+      <Enabled>true</Enabled>
+      <Name>UIT START</Name>
+      <ChildTestSteps>
+        <TestStep type="LedsGo.Steps.LabJackStep" Version="0.1.0-Development" Id="5269e7ad-7960-411b-b43e-8d9e9b2010f7">
+          <Device Source="OpenTap.InstrumentSettings">Labjack</Device>
+          <Signal>Digital</Signal>
+          <Direction>Output</Direction>
+          <DIN_Channel>FIO2</DIN_Channel>
+          <AIN_Channel>AIN0</AIN_Channel>
+          <DAC_Channel>Undefined</DAC_Channel>
+          <DOutputState>Low</DOutputState>
+          <AnalogVoltageOut>0</AnalogVoltageOut>
+          <Max>0</Max>
+          <Min>0</Min>
+          <Enabled>true</Enabled>
+          <Name>FIO2 =&gt; 0</Name>
+          <ChildTestSteps />
+          <BreakConditions>Inherit</BreakConditions>
+          <OpenTap.Description />
+        </TestStep>
+        <TestStep type="LedsGo.Steps.LabJackStep" Version="0.1.0-Development" Id="a138bd48-7dbf-4c22-b42e-543ac822a953">
+          <Device Source="OpenTap.InstrumentSettings">Labjack</Device>
+          <Signal>Digital</Signal>
+          <Direction>Output</Direction>
+          <DIN_Channel>FIO4</DIN_Channel>
+          <AIN_Channel>AIN0</AIN_Channel>
+          <DAC_Channel>Undefined</DAC_Channel>
+          <DOutputState>Low</DOutputState>
+          <AnalogVoltageOut>0</AnalogVoltageOut>
+          <Max>0</Max>
+          <Min>0</Min>
+          <Enabled>true</Enabled>
+          <Name>FIO4 =&gt; 0</Name>
+          <ChildTestSteps />
+          <BreakConditions>Inherit</BreakConditions>
+          <OpenTap.Description />
+        </TestStep>
+        <TestStep type="LedsGo.Steps.LabJackStep" Version="0.1.0-Development" Id="7c678b55-127a-4dfb-b543-f5a387e3fa9b">
+          <Device Source="OpenTap.InstrumentSettings">Labjack</Device>
+          <Signal>Digital</Signal>
+          <Direction>Output</Direction>
+          <DIN_Channel>EIO6</DIN_Channel>
+          <AIN_Channel>AIN0</AIN_Channel>
+          <DAC_Channel>Undefined</DAC_Channel>
+          <DOutputState>Low</DOutputState>
+          <AnalogVoltageOut>0</AnalogVoltageOut>
+          <Max>0</Max>
+          <Min>0</Min>
+          <Enabled>true</Enabled>
+          <Name>EIO6 =&gt; 0</Name>
+          <ChildTestSteps />
+          <BreakConditions>Inherit</BreakConditions>
+          <OpenTap.Description />
+        </TestStep>
+      </ChildTestSteps>
+      <BreakConditions>Inherit</BreakConditions>
+    </TestStep>
+    <TestStep type="OpenTap.Plugins.BasicSteps.SequenceStep" Version="9.17.4+ea67c63a" Id="fb5cc2a4-7acb-4324-9d3f-903c3392e6f7">
+      <Enabled>true</Enabled>
+      <Name>AAN</Name>
+      <ChildTestSteps>
+        <TestStep type="LedsGo.Steps.LabJackStep" Version="0.1.0-Development" Id="af1f1ddd-bfa7-4c34-b009-3f51c89f2ee9">
+          <Device Source="OpenTap.InstrumentSettings">Labjack</Device>
+          <Signal>Digital</Signal>
+          <Direction>Output</Direction>
+          <DIN_Channel>FIO6</DIN_Channel>
+          <AIN_Channel>AIN0</AIN_Channel>
+          <DAC_Channel>Undefined</DAC_Channel>
+          <DOutputState>Low</DOutputState>
+          <AnalogVoltageOut>0</AnalogVoltageOut>
+          <Max>0</Max>
+          <Min>0</Min>
+          <Enabled>true</Enabled>
+          <Name>FIO6 =&gt; 0</Name>
+          <ChildTestSteps />
+          <BreakConditions>Inherit</BreakConditions>
+          <OpenTap.Description />
+        </TestStep>
+        <TestStep type="LedsGo.Steps.LabJackStep" Version="0.1.0-Development" Id="edacf0f9-9ff2-41d3-99eb-1189444fd641">
+          <Device Source="OpenTap.InstrumentSettings">Labjack</Device>
+          <Signal>Digital</Signal>
+          <Direction>Output</Direction>
+          <DIN_Channel>FIO2</DIN_Channel>
+          <AIN_Channel>AIN0</AIN_Channel>
+          <DAC_Channel>Undefined</DAC_Channel>
+          <DOutputState>High</DOutputState>
+          <AnalogVoltageOut>0</AnalogVoltageOut>
+          <Max>0</Max>
+          <Min>0</Min>
+          <Enabled>true</Enabled>
+          <Name>FIO2 =&gt; 1</Name>
+          <ChildTestSteps />
+          <BreakConditions>Inherit</BreakConditions>
+          <OpenTap.Description />
+        </TestStep>
+      </ChildTestSteps>
+      <BreakConditions>Inherit</BreakConditions>
+    </TestStep>
+    <TestStep type="OpenTap.Plugins.BasicSteps.SequenceStep" Version="9.17.4+ea67c63a" Id="e38d2b59-c863-4e56-a6e5-d34ee2ad83b0">
+      <Enabled>true</Enabled>
+      <Name>Meten</Name>
+      <ChildTestSteps>
+        <TestStep type="LedsGo.Steps.LabJackStep" Version="0.1.0-Development" Id="3e6a8ec4-50cb-4621-a6d9-dcf6bde7a8a2">
+          <Device Source="OpenTap.InstrumentSettings">Labjack</Device>
+          <Signal>Analog</Signal>
+          <Direction>Input</Direction>
+          <DIN_Channel>FIO0</DIN_Channel>
+          <AIN_Channel>AIN1</AIN_Channel>
+          <DAC_Channel>Undefined</DAC_Channel>
+          <DOutputState>Undefined</DOutputState>
+          <AnalogVoltageOut>0</AnalogVoltageOut>
+          <Max>3.63</Max>
+          <Min>2.97</Min>
+          <Enabled>true</Enabled>
+          <Name>3V3 AIN1</Name>
+          <ChildTestSteps />
+          <BreakConditions>Inherit</BreakConditions>
+          <OpenTap.Description />
+        </TestStep>
+        <TestStep type="LedsGo.Steps.LabJackStep" Version="0.1.0-Development" Id="ea2ab279-2e61-4ecb-84eb-a1794ecbb0f0">
+          <Device Source="OpenTap.InstrumentSettings">Labjack</Device>
+          <Signal>Analog</Signal>
+          <Direction>Input</Direction>
+          <DIN_Channel>FIO0</DIN_Channel>
+          <AIN_Channel>AIN8</AIN_Channel>
+          <DAC_Channel>Undefined</DAC_Channel>
+          <DOutputState>Undefined</DOutputState>
+          <AnalogVoltageOut>0</AnalogVoltageOut>
+          <Max>3.9</Max>
+          <Min>3.2</Min>
+          <Enabled>true</Enabled>
+          <Name>48V ANIN8</Name>
+          <ChildTestSteps />
+          <BreakConditions>Inherit</BreakConditions>
+          <OpenTap.Description />
+        </TestStep>
+      </ChildTestSteps>
+      <BreakConditions>Inherit</BreakConditions>
+    </TestStep>
+    <TestStep type="OpenTap.Plugins.BasicSteps.ParallelStep" Version="9.17.4+ea67c63a" Id="a7b43ca6-c9e7-46e7-9df3-f9befd48c9bd">
+      <Enabled>true</Enabled>
+      <Name>UIT (1)</Name>
+      <ChildTestSteps>
+        <TestStep type="LedsGo.Steps.LabJackStep" Version="0.1.0-Development" Id="c8ca897c-4e18-4d78-a05a-0f0385b17a0e">
+          <Device Source="OpenTap.InstrumentSettings">Labjack</Device>
+          <Signal>Digital</Signal>
+          <Direction>Output</Direction>
+          <DIN_Channel>FIO2</DIN_Channel>
+          <AIN_Channel>AIN0</AIN_Channel>
+          <DAC_Channel>Undefined</DAC_Channel>
+          <DOutputState>Low</DOutputState>
+          <AnalogVoltageOut>0</AnalogVoltageOut>
+          <Max>0</Max>
+          <Min>0</Min>
+          <Enabled>true</Enabled>
+          <Name>FIO2 =&gt; 0</Name>
+          <ChildTestSteps />
+          <BreakConditions>Inherit</BreakConditions>
+          <OpenTap.Description />
+        </TestStep>
+        <TestStep type="LedsGo.Steps.LabJackStep" Version="0.1.0-Development" Id="26722bc8-c0cd-4bb5-b488-78ab83f1e76d">
+          <Device Source="OpenTap.InstrumentSettings">Labjack</Device>
+          <Signal>Digital</Signal>
+          <Direction>Output</Direction>
+          <DIN_Channel>FIO4</DIN_Channel>
+          <AIN_Channel>AIN0</AIN_Channel>
+          <DAC_Channel>Undefined</DAC_Channel>
+          <DOutputState>Low</DOutputState>
+          <AnalogVoltageOut>0</AnalogVoltageOut>
+          <Max>0</Max>
+          <Min>0</Min>
+          <Enabled>true</Enabled>
+          <Name>
+            <Base64>RklPNCA9PiAwIA==</Base64>
+          </Name>
+          <ChildTestSteps />
+          <BreakConditions>Inherit</BreakConditions>
+          <OpenTap.Description />
+        </TestStep>
+        <TestStep type="LedsGo.Steps.LabJackStep" Version="0.1.0-Development" Id="1a3904fe-f7d8-405a-8a2d-deab66e750db">
+          <Device Source="OpenTap.InstrumentSettings">Labjack</Device>
+          <Signal>Digital</Signal>
+          <Direction>Output</Direction>
+          <DIN_Channel>EIO6</DIN_Channel>
+          <AIN_Channel>AIN0</AIN_Channel>
+          <DAC_Channel>Undefined</DAC_Channel>
+          <DOutputState>Low</DOutputState>
+          <AnalogVoltageOut>0</AnalogVoltageOut>
+          <Max>0</Max>
+          <Min>0</Min>
+          <Enabled>true</Enabled>
+          <Name>EIO6 =&gt; 0</Name>
+          <ChildTestSteps />
+          <BreakConditions>Inherit</BreakConditions>
+          <OpenTap.Description />
+        </TestStep>
+      </ChildTestSteps>
+      <BreakConditions>Inherit</BreakConditions>
+    </TestStep>
+    <TestStep type="OpenTap.Plugins.BasicSteps.SequenceStep" Version="9.17.4+ea67c63a" Id="f4156c64-3d3b-4a1f-8e29-8ee7daaccc2d">
+      <Enabled>true</Enabled>
+      <Name>UIT EINDE</Name>
+      <ChildTestSteps>
+        <TestStep type="LedsGo.Steps.LabJackStep" Version="0.1.0-Development" Id="5c6254f9-a853-45e0-9f85-e3732b548cc5">
+          <Device Source="OpenTap.InstrumentSettings">Labjack</Device>
+          <Signal>Digital</Signal>
+          <Direction>Output</Direction>
+          <DIN_Channel>FIO2</DIN_Channel>
+          <AIN_Channel>AIN0</AIN_Channel>
+          <DAC_Channel>Undefined</DAC_Channel>
+          <DOutputState>Low</DOutputState>
+          <AnalogVoltageOut>0</AnalogVoltageOut>
+          <Max>0</Max>
+          <Min>0</Min>
+          <Enabled>true</Enabled>
+          <Name>FIO2 =&gt; 0 (1)</Name>
+          <ChildTestSteps />
+          <BreakConditions>Inherit</BreakConditions>
+          <OpenTap.Description />
+        </TestStep>
+        <TestStep type="LedsGo.Steps.LabJackStep" Version="0.1.0-Development" Id="6efebecd-2b38-4c33-ae05-2b9c28d8f015">
+          <Device Source="OpenTap.InstrumentSettings">Labjack</Device>
+          <Signal>Digital</Signal>
+          <Direction>Output</Direction>
+          <DIN_Channel>FIO4</DIN_Channel>
+          <AIN_Channel>AIN0</AIN_Channel>
+          <DAC_Channel>Undefined</DAC_Channel>
+          <DOutputState>Low</DOutputState>
+          <AnalogVoltageOut>0</AnalogVoltageOut>
+          <Max>0</Max>
+          <Min>0</Min>
+          <Enabled>true</Enabled>
+          <Name>FIO4 =&gt; 0 (1)</Name>
+          <ChildTestSteps />
+          <BreakConditions>Inherit</BreakConditions>
+          <OpenTap.Description />
+        </TestStep>
+        <TestStep type="LedsGo.Steps.LabJackStep" Version="0.1.0-Development" Id="eb8a73e9-3cfd-42cd-9e41-be032966c6be">
+          <Device Source="OpenTap.InstrumentSettings">Labjack</Device>
+          <Signal>Digital</Signal>
+          <Direction>Output</Direction>
+          <DIN_Channel>EIO6</DIN_Channel>
+          <AIN_Channel>AIN0</AIN_Channel>
+          <DAC_Channel>Undefined</DAC_Channel>
+          <DOutputState>Low</DOutputState>
+          <AnalogVoltageOut>0</AnalogVoltageOut>
+          <Max>0</Max>
+          <Min>0</Min>
+          <Enabled>true</Enabled>
+          <Name>EIO6 =&gt; 0 (1)</Name>
+          <ChildTestSteps />
+          <BreakConditions>Inherit</BreakConditions>
+          <OpenTap.Description />
+        </TestStep>
+      </ChildTestSteps>
+      <BreakConditions>Inherit</BreakConditions>
+    </TestStep>
+    <TestStep type="LedsGo.Steps.LabJackStep" Version="0.1.0-Development" Id="9a179128-a5eb-42bf-86e1-a0dc4ee5f28a">
+      <Device Source="OpenTap.InstrumentSettings">Labjack</Device>
+      <Signal>Analog</Signal>
+      <Direction>Input</Direction>
+      <DIN_Channel>FIO0</DIN_Channel>
+      <AIN_Channel>DAC1</AIN_Channel>
+      <DAC_Channel>DAC1</DAC_Channel>
+      <DOutputState>Undefined</DOutputState>
+      <AnalogVoltageOut>3.889</AnalogVoltageOut>
+      <Max>3.889</Max>
+      <Min>3.888</Min>
+      <Enabled>false</Enabled>
+      <Name>LabJackStep</Name>
+      <ChildTestSteps />
+      <BreakConditions>Inherit</BreakConditions>
+      <OpenTap.Description />
+    </TestStep>
+  </Steps>
+  <BreakConditions>Inherit</BreakConditions>
+  <OpenTap.Description />
+  <Package.Dependencies>
+    <Package Name="OpenTAP" Version="^9.17.4+ea67c63a" />
+  </Package.Dependencies>
+</TestPlan>

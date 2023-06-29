@@ -1,0 +1,39 @@
+﻿2023-02-08 10:51:36.447140 ; Session        ; Debug       ; Session log loaded as 'C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\tap 2023-02-08 10-51-36.txt'. [13.4 ms]
+2023-02-08 10:51:36.474070 ; Session        ; Debug       ; Running '"tap.exe" package install C:\Users\Jonatan\Downloads\SSH.TapPackage' in 'C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2023-02-08 10:51:36.502992 ; Session        ; Debug       ; Microsoft Windows 10.0.19044 X64
+2023-02-08 10:51:36.502992 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2023-02-08 10:51:36.522939 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2023-02-08 10:51:36.527926 ; AssemblyFinder ; Debug       ; Found 38/93 assembly files. [24.8 ms]
+2023-02-08 10:51:36.596737 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2023-02-08 10:51:36.641990 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2023-02-08 10:51:36.828207 ; Searcher       ; Debug       ; Ordered 34 assemblies according to references. [295 ms]
+2023-02-08 10:51:37.033415 ; PluginManager  ; Debug       ; Found 18 plugin assemblies containing 267 plugin types. [501 ms]
+2023-02-08 10:51:37.033415 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2023-02-08 10:51:37.033415 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2023-02-08 10:51:37.033415 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2023-02-08 10:51:37.033415 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2023-02-08 10:51:37.033415 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2023-02-08 10:51:37.033415 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2023-02-08 10:51:37.033415 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2023-02-08 10:51:37.033415 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of OpenTap.Plugins.LedsGo.dll
+2023-02-08 10:51:37.033415 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2023-02-08 10:51:37.033415 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of ResultsViewer.exe
+2023-02-08 10:51:37.033415 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of RunExplorer.exe
+2023-02-08 10:51:37.033415 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2023-02-08 10:51:37.033415 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2023-02-08 10:51:37.033415 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2023-02-08 10:51:37.033415 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2023-02-08 10:51:37.033415 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2023-02-08 10:51:37.033415 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2023-02-08 10:51:37.033415 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2023-02-08 10:51:37.033415 ; PluginManager  ; Debug       ; Searched 38 Assemblies. [502 ms]
+2023-02-08 10:51:37.067525 ; PluginManager  ; Debug       ; Loaded OpenTap. [417 us]
+2023-02-08 10:51:37.084480 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [8.85 ms]
+2023-02-08 10:51:37.149665 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [6.71 ms]
+2023-02-08 10:51:37.150659 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [7.29 ms]
+2023-02-08 10:51:37.174559 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [7.77 ms]
+2023-02-08 10:51:37.288092 ; PluginManager  ; Debug       ; Loaded mscorlib. [800 ns]
+2023-02-08 10:51:37.483941 ; Settings       ; Debug       ; EngineSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [364 ms]
+2023-02-08 10:51:37.509920 ; Session        ; Debug       ; Session log loaded as 'C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\SessionLog 2023-02-08 10-51-36.txt'. [7.13 ms]
+2023-02-08 10:51:37.544968 ; CLI            ; Debug       ; Executing CLI action: package \ install
+2023-02-08 10:51:37.683506 ; CLI            ; Debug       ; CLI action returned exit code: 0 [138 ms]

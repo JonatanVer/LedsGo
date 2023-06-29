@@ -1,0 +1,1461 @@
+﻿2022-10-31 08:50:36.717359 ; Session        ; Debug       ; Session log loaded as 'C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\editor 2022-10-31 08-50-36.txt'. [6.41 ms]
+2022-10-31 08:50:36.790140 ; Session        ; Debug       ; Running '"C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\editor.exe" ' in 'C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2022-10-31 08:50:36.914246 ; Session        ; Debug       ; Microsoft Windows 10.0.19044 X64
+2022-10-31 08:50:36.914246 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2022-10-31 08:50:36.947190 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2022-10-31 08:50:36.953276 ; AssemblyFinder ; Debug       ; Found 38/93 assembly files. [33.9 ms]
+2022-10-31 08:50:37.012541 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-10-31 08:50:37.119352 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-10-31 08:50:37.351778 ; Searcher       ; Debug       ; Ordered 34 assemblies according to references. [389 ms]
+2022-10-31 08:50:37.557389 ; PluginManager  ; Debug       ; Found 18 plugin assemblies containing 267 plugin types. [596 ms]
+2022-10-31 08:50:37.557389 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2022-10-31 08:50:37.557389 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2022-10-31 08:50:37.557389 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2022-10-31 08:50:37.557389 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2022-10-31 08:50:37.557389 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2022-10-31 08:50:37.557389 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2022-10-31 08:50:37.557389 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2022-10-31 08:50:37.557389 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of OpenTap.Plugins.LedsGo.dll
+2022-10-31 08:50:37.557389 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-10-31 08:50:37.557389 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of ResultsViewer.exe
+2022-10-31 08:50:37.557389 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of RunExplorer.exe
+2022-10-31 08:50:37.557389 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2022-10-31 08:50:37.557389 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-10-31 08:50:37.557389 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2022-10-31 08:50:37.557389 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-10-31 08:50:37.557389 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-10-31 08:50:37.557389 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-10-31 08:50:37.557389 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2022-10-31 08:50:37.557389 ; PluginManager  ; Debug       ; Searched 38 Assemblies. [597 ms]
+2022-10-31 08:50:37.605748 ; PluginManager  ; Debug       ; Loaded OpenTap. [846 us]
+2022-10-31 08:50:37.606224 ; PluginManager  ; Debug       ; Loaded OpenTap. [421 us]
+2022-10-31 08:50:37.631244 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [24.4 ms]
+2022-10-31 08:50:37.635666 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [21.8 ms]
+2022-10-31 08:50:37.638001 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [392 us]
+2022-10-31 08:50:37.745195 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [54.1 ms]
+2022-10-31 08:50:37.926666 ; PluginManager  ; Debug       ; Loaded mscorlib. [1.30 us]
+2022-10-31 08:50:38.354002 ; Settings       ; Debug       ; EditorSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [1.00 s]
+2022-10-31 08:50:38.707605 ; GUI            ; Debug       ; Loaded Light Theme. [32.9 ms]
+2022-10-31 08:50:38.738855 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2022-10-31 08:50:39.780410 ; Settings       ; Debug       ; GuiControlsSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [849 ms]
+2022-10-31 08:50:39.780410 ; Main           ; Debug       ; Window initial dimensions: 1934px, 1054px.
+2022-10-31 08:50:39.841178 ; Settings       ; Debug       ; EngineSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [57.8 ms]
+2022-10-31 08:50:39.844343 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [2.04 ms]
+2022-10-31 08:50:39.919824 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2022-10-31 08-50-39.txt'. [34.3 ms]
+2022-10-31 08:50:40.537103 ; Main           ; Debug       ; GUI initialized. [764 ms]
+2022-10-31 08:50:40.537103 ; Main           ; Debug       ; Docking manager initialized. [105 us]
+2022-10-31 08:50:40.549433 ; OpenTAP        ; Information ; OpenTAP version '9.17.4+ea67c63a' 64-bit initialized 10/31/2022 [4.34 s]
+2022-10-31 08:50:40.617975 ; PluginManager  ; Debug       ; Loaded PackageManager. [531 us]
+2022-10-31 08:50:40.619593 ; PluginManager  ; Debug       ; Loaded Editor. [34.2 us]
+2022-10-31 08:50:40.633012 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [13.6 ms]
+2022-10-31 08:50:40.647279 ; PluginManager  ; Debug       ; Loaded RunExplorer. [13.0 ms]
+2022-10-31 08:50:40.653519 ; Settings       ; Debug       ; ConnectionSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [3.61 ms]
+2022-10-31 08:50:40.655513 ; Settings       ; Debug       ; DutSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [1.86 ms]
+2022-10-31 08:50:40.833835 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.LedsGo. [168 ms]
+2022-10-31 08:50:40.850704 ; Settings       ; Debug       ; InstrumentSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [194 ms]
+2022-10-31 08:50:40.858826 ; Settings       ; Debug       ; ResultSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [8.90 ms]
+2022-10-31 08:50:41.506327 ; Main           ; Information ; Latest version of 'Keysight Licensing' is 1.2, your version is 1.1. Please consider updating. [954 ms]
+2022-10-31 08:50:41.506327 ; Main           ; Information ; Latest version of 'OpenTAP' is 9.19, your version is 9.17. Please consider updating. [954 ms]
+2022-10-31 08:50:41.506327 ; Main           ; Debug       ; Update check complete. [954 ms]
+2022-10-31 08:50:42.749959 ; Settings       ; Debug       ; PanelSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [4.09 ms]
+2022-10-31 08:50:43.320405 ; Main           ; Debug       ; Application startup finished. [7.11 s]
+2022-10-31 08:50:46.778326 ; Main           ; Debug       ; Loaded Test plan C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTapPrograms\SIDDALI\SIDDALI500.TapPlan [867 ms]
+2022-10-31 08:50:47.594028 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-10-31 08:50:47.671977 ; TestPlan       ; Information ; Starting TestPlan 'SIDDALI500' on 10/31/2022 08:50:47, 25 of 25 TestSteps enabled.
+2022-10-31 08:50:47.793493 ; TestPlan       ; Debug       ; Saved Test Plan XML [21.6 ms]
+2022-10-31 08:50:47.796940 ; Settings       ; Debug       ; No settings file exists for TestPlanRunPackageParameterMonitor. A new instance with default values has been created. [257 us]
+2022-10-31 08:50:49.760550 ; Labjack        ; Information ; Resource "Labjack" opened. [1.84 s]
+2022-10-31 08:50:49.792463 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PrePlanRun completed. [5.47 ms]
+2022-10-31 08:50:49.793462 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PrePlanRun completed. [2.00 ms]
+2022-10-31 08:50:49.794462 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PrePlanRun completed. [1.32 ms]
+2022-10-31 08:50:49.796508 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PrePlanRun completed. [1.31 ms]
+2022-10-31 08:50:49.797452 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PrePlanRun completed. [1.21 ms]
+2022-10-31 08:50:49.799592 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PrePlanRun completed. [1.57 ms]
+2022-10-31 08:50:49.801441 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Top EIO3" PrePlanRun completed. [1.53 ms]
+2022-10-31 08:50:49.802652 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Mid EIO1" PrePlanRun completed. [1.36 ms]
+2022-10-31 08:50:49.804435 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Bot CIO2" PrePlanRun completed. [1.71 ms]
+2022-10-31 08:50:49.805923 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning afleggen FIO2" PrePlanRun completed. [1.44 ms]
+2022-10-31 08:50:49.807884 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning aanleggen FIO2" PrePlanRun completed. [1.78 ms]
+2022-10-31 08:50:49.808422 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 500mA Ok AIN4" PrePlanRun completed. [1.32 ms]
+2022-10-31 08:50:49.810415 ; TestPlan       ; Debug       ; "Simuleer LED1 \ DALI aanleggen FIO4" PrePlanRun completed. [1.28 ms]
+2022-10-31 08:50:49.811413 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PrePlanRun completed. [314 us]
+2022-10-31 08:50:49.811413 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" PrePlanRun completed. [1.02 ms]
+2022-10-31 08:50:49.812410 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PrePlanRun completed. [16.2 ms]
+2022-10-31 08:50:49.812410 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [30.6 ms]
+2022-10-31 08:50:49.834355 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" started.
+2022-10-31 08:50:49.845322 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-10-31 08:50:49.856300 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" completed with verdict 'Pass'. [19.3 ms]
+2022-10-31 08:50:49.858385 ; TestPlan       ; Information ; "DALI afleggen FIO4" started.
+2022-10-31 08:50:49.859704 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-10-31 08:50:49.859704 ; TestPlan       ; Information ; "DALI afleggen FIO4" completed with verdict 'Pass'. [1.62 ms]
+2022-10-31 08:50:49.859704 ; TestPlan       ; Information ; "48V inschakelen FIO6" started.
+2022-10-31 08:50:49.861282 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-10-31 08:50:49.861282 ; TestPlan       ; Information ; "48V inschakelen FIO6" completed with verdict 'Pass'. [1.30 ms]
+2022-10-31 08:50:49.861282 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" started.
+2022-10-31 08:50:49.862315 ; TestStep       ; Debug       ; FIO2set to: High
+2022-10-31 08:50:49.862315 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [1.27 ms]
+2022-10-31 08:50:49.862315 ; TestPlan       ; Information ; "Delay 100ms" started.
+2022-10-31 08:50:49.964470 ; TestPlan       ; Information ; "Delay 100ms" completed. [101 ms]
+2022-10-31 08:50:49.964470 ; TestPlan       ; Information ; "Spanningen controleren" started.
+2022-10-31 08:50:49.969457 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" started.
+2022-10-31 08:50:50.029366 ; TestStep       ; Debug       ; AIN1 measured: 3.29838805198669
+2022-10-31 08:50:50.030361 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" completed with verdict 'Pass'. [60.2 ms]
+2022-10-31 08:50:50.037342 ; TestPlan       ; Information ; "Spanningen controleren" completed with verdict 'Pass'. [72.5 ms]
+2022-10-31 08:50:50.037342 ; TestPlan       ; Information ; "Stromen controleren" started.
+2022-10-31 08:50:50.038340 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" started.
+2022-10-31 08:50:50.079399 ; TestStep       ; Debug       ; AIN0 measured: 73.6096717745066
+2022-10-31 08:50:50.080222 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" completed with verdict 'Pass'. [41.8 ms]
+2022-10-31 08:50:50.080222 ; TestPlan       ; Information ; "Stromen controleren" completed with verdict 'Pass'. [42.2 ms]
+2022-10-31 08:50:50.080222 ; TestPlan       ; Information ; "Soldeerlinken controleren" started.
+2022-10-31 08:50:50.080222 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Top EIO3" started.
+2022-10-31 08:50:50.083727 ; TestStep       ; Debug       ; EIO3read: Low
+2022-10-31 08:50:50.084213 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Top EIO3" completed with verdict 'Pass'. [3.89 ms]
+2022-10-31 08:50:50.084213 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Mid EIO1" started.
+2022-10-31 08:50:50.085208 ; TestStep       ; Debug       ; EIO1read: Low
+2022-10-31 08:50:50.086206 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Mid EIO1" completed with verdict 'Pass'. [1.59 ms]
+2022-10-31 08:50:50.086206 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Bot CIO2" started.
+2022-10-31 08:50:50.087521 ; TestStep       ; Debug       ; CIO2read: Low
+2022-10-31 08:50:50.087521 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Bot CIO2" completed with verdict 'Pass'. [1.25 ms]
+2022-10-31 08:50:50.087521 ; TestPlan       ; Information ; "Soldeerlinken controleren" completed with verdict 'Pass'. [7.48 ms]
+2022-10-31 08:50:50.087521 ; TestPlan       ; Information ; "Programmeren uC DUT" started.
+2022-10-31 08:50:50.088200 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" started.
+2022-10-31 08:50:50.094223 ; TestStep       ; Debug       ; Starting process ..\..\..\..\..\..\..\..\Program Files\SEGGER\JLink\JLink.exe with arguments "-commanderscript AppFirmware.jlink"
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; SEGGER J-Link Commander V7.62b (Compiled Mar  8 2022 15:16:51)
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; DLL version V7.62b, compiled Mar  8 2022 15:15:34
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; 
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; 
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; J-Link Command File read successfully.
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; Processing script file...
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; J-Link>device MKL16Z32xxx4
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; J-Link connection not established yet but required for command.
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; Connecting to J-Link via USB...O.K.
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; Firmware: J-Link V11 compiled Sep 22 2022 14:53:28
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; Hardware version: V11.00
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; S/N: 51020380
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; License(s): GDB
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; USB speed mode: High speed (480 MBit/s)
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; VTref=3.300V (fixed)
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; J-Link>si SWD
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; Selecting SWD as current target interface.
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; J-Link>speed 1000
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; Selecting 1000 kHz as target interface speed
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; J-Link>Sleep 600
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; Sleep(600)
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; J-Link>erase
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; Target connection not established yet but required for command.
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; Device "MKL16Z32XXX4" selected.
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; 
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; 
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; Connecting to target via SWD
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; ConfigTargetSettings() start
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; ConfigTargetSettings() end
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; InitTarget() start
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; InitTarget()
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; InitTarget() end
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; Found SW-DP with ID 0x0BC11477
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; DPIDR: 0x0BC11477
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; CoreSight SoC-400 or earlier
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; AP map detection skipped. Manually configured AP map found.
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; AP[0]: AHB-AP (IDR: Not set)
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; AP[1]: MEM-AP (IDR: Not set)
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; AP[0]: Core found
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; AP[0]: AHB-AP ROM base: 0xF0002000
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; CPUID register: 0x410CC600. Implementer code: 0x41 (ARM)
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; Found Cortex-M0 r0p0, Little endian.
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; FPUnit: 2 code (BP) slots and 0 literal slots
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; CoreSight components:
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; ROMTbl[0] @ F0002000
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; [0][0]: F0000000 CID B105900D PID 000BB932 MTB-M0+
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; [0][1]: F0001000 CID B105900D PID 0008E000 MTBDWT
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; [0][2]: E00FF000 CID B105100D PID 000BB4C0 ROM Table
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; ROMTbl[1] @ E00FF000
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; [1][0]: E000E000 CID B105E00D PID 000BB008 SCS
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; [1][1]: E0001000 CID B105E00D PID 000BB00A DWT
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; [1][2]: E0002000 CID B105E00D PID 000BB00B FPB
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; Cortex-M0 identified.
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; Without any given address range, Erase Chip will be executed
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; Erasing device...
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; J-Link: Flash download: Total time needed: 1.182s (Prepare: 0.206s, Compare: 0.000s, Erase: 0.965s, Program: 0.000s, Verify: 0.000s, Restore: 0.011s)
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; Erasing done.
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; J-Link>loadfile C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\SIDDALI\Sidonia-DALI_v01_01.hex, 0x00
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; Downloading file [C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\SIDDALI\Sidonia-DALI_v01_01.hex]...
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; J-Link: Flash download: Bank 0 @ 0x00000000: 2 ranges affected (20480 bytes)
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; J-Link: Flash download: Total: 0.989s (Prepare: 0.095s, Compare: 0.093s, Erase: 0.041s, Program & Verify: 0.698s, Restore: 0.061s)
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; J-Link: Flash download: Program & Verify speed: 28 KB/s
+2022-10-31 08:50:53.685737 ; TestStep       ; Information ; O.K.
+2022-10-31 08:50:53.686724 ; TestStep       ; Information ; J-Link>r
+2022-10-31 08:50:53.686724 ; TestStep       ; Information ; Reset delay: 0 ms
+2022-10-31 08:50:53.686724 ; TestStep       ; Information ; Reset type NORMAL: Resets core & peripherals via SYSRESETREQ & VECTRESET bit.
+2022-10-31 08:50:53.686724 ; TestStep       ; Information ; Reset: Halt core after reset via DEMCR.VC_CORERESET.
+2022-10-31 08:50:53.686724 ; TestStep       ; Information ; Reset: Reset device via AIRCR.SYSRESETREQ.
+2022-10-31 08:50:53.686724 ; TestStep       ; Information ; J-Link>g
+2022-10-31 08:50:53.686724 ; TestStep       ; Information ; J-Link>qc
+2022-10-31 08:50:53.686724 ; TestStep       ; Information ; 
+2022-10-31 08:50:53.686724 ; TestStep       ; Information ; Script processing completed.
+2022-10-31 08:50:53.686724 ; TestStep       ; Information ; 
+2022-10-31 08:50:53.710656 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" completed with verdict 'Pass'. [3.62 s]
+2022-10-31 08:50:53.710656 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning afleggen FIO2" started.
+2022-10-31 08:50:53.712290 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-10-31 08:50:53.712290 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning afleggen FIO2" completed with verdict 'Pass'. [1.96 ms]
+2022-10-31 08:50:53.712290 ; TestPlan       ; Information ; "Programmeren uC DUT \ Delay 500ms" started.
+2022-10-31 08:50:54.213191 ; TestPlan       ; Information ; "Programmeren uC DUT \ Delay 500ms" completed. [500 ms]
+2022-10-31 08:50:54.213191 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning aanleggen FIO2" started.
+2022-10-31 08:50:54.216042 ; TestStep       ; Debug       ; FIO2set to: High
+2022-10-31 08:50:54.216042 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning aanleggen FIO2" completed with verdict 'Pass'. [2.60 ms]
+2022-10-31 08:50:54.217038 ; TestPlan       ; Information ; "Programmeren uC DUT" completed with verdict 'Pass'. [4.12 s]
+2022-10-31 08:50:54.217038 ; TestPlan       ; Information ; "Delay 1s" started.
+2022-10-31 08:50:55.217807 ; TestPlan       ; Information ; "Delay 1s" completed. [1.00 s]
+2022-10-31 08:50:55.217807 ; TestPlan       ; Information ; "Simuleer LED1" started.
+2022-10-31 08:50:55.218814 ; TestPlan       ; Information ; "Simuleer LED1 \ 500mA Ok AIN4" started.
+2022-10-31 08:50:55.579931 ; TestStep       ; Debug       ; AIN4 measured: 487.005139636993
+2022-10-31 08:50:55.580928 ; TestPlan       ; Information ; "Simuleer LED1 \ 500mA Ok AIN4" completed with verdict 'Pass'. [362 ms]
+2022-10-31 08:50:55.580928 ; TestPlan       ; Information ; "Simuleer LED1 \ DALI aanleggen FIO4" started.
+2022-10-31 08:50:55.583920 ; TestStep       ; Debug       ; FIO4set to: High
+2022-10-31 08:50:55.584915 ; TestPlan       ; Information ; "Simuleer LED1 \ DALI aanleggen FIO4" completed with verdict 'Pass'. [3.06 ms]
+2022-10-31 08:50:55.584915 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" started.
+2022-10-31 08:51:02.805130 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" started.
+2022-10-31 08:53:25.841083 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" completed with verdict 'Fail'. [143 s]
+2022-10-31 08:53:25.841627 ; Test Step      ; Debug       ; Break issued from 'ChildDAQ' due to verdict Fail. See Break Conditions settings.
+2022-10-31 08:53:25.842624 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" completed with verdict 'Fail'. [150 s]
+2022-10-31 08:53:25.842624 ; Test Step      ; Debug       ; Break issued from 'Stroom door de diodes meten LED1 AIN4' due to verdict Fail. See Break Conditions settings.
+2022-10-31 08:53:25.842624 ; TestPlan       ; Information ; "Simuleer LED1" completed with verdict 'Fail'. [150 s]
+2022-10-31 08:53:25.842624 ; Test Step      ; Debug       ; Break issued from 'Simuleer LED1' due to verdict Fail. See Break Conditions settings.
+2022-10-31 08:53:25.842624 ; TestPlan       ; Debug       ; Test step runs finished. [156 s]
+2022-10-31 08:53:25.850637 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PostPlanRun completed. [1.98 ms]
+2022-10-31 08:53:25.850637 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PostPlanRun completed. [317 us]
+2022-10-31 08:53:25.850637 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" PostPlanRun completed. [29.9 us]
+2022-10-31 08:53:25.850637 ; TestPlan       ; Debug       ; "Simuleer LED1 \ DALI aanleggen FIO4" PostPlanRun completed. [21.9 us]
+2022-10-31 08:53:25.850637 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 500mA Ok AIN4" PostPlanRun completed. [24.1 us]
+2022-10-31 08:53:25.850637 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning aanleggen FIO2" PostPlanRun completed. [7.00 us]
+2022-10-31 08:53:25.850637 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning afleggen FIO2" PostPlanRun completed. [6.60 us]
+2022-10-31 08:53:25.850637 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Bot CIO2" PostPlanRun completed. [10.0 us]
+2022-10-31 08:53:25.850637 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Mid EIO1" PostPlanRun completed. [12.0 us]
+2022-10-31 08:53:25.850637 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Top EIO3" PostPlanRun completed. [6.40 us]
+2022-10-31 08:53:25.850637 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PostPlanRun completed. [9.90 us]
+2022-10-31 08:53:25.850637 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PostPlanRun completed. [9.80 us]
+2022-10-31 08:53:25.850637 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PostPlanRun completed. [8.69 us]
+2022-10-31 08:53:25.850637 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PostPlanRun completed. [12.7 us]
+2022-10-31 08:53:25.850637 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PostPlanRun completed. [9.00 us]
+2022-10-31 08:53:25.850637 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PostPlanRun completed. [5.30 us]
+2022-10-31 08:53:25.879525 ; Summary        ; Information ; --------- Summary of test plan started 10/31/2022 08:50:47 ---------
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;  48V nr DUT afleggen begin FIO2                       19.3 ms  Pass   
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;  DALI afleggen FIO4                                   1.62 ms  Pass   
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;  48V inschakelen FIO6                                 1.30 ms  Pass   
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;  48V nr DUT aanleggen FIO2                            1.27 ms  Pass   
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;  Delay 100ms                                           101 ms         
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;  Spanningen controleren                               72.5 ms  Pass   
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;    3V3 Meten AIN1                                     60.2 ms  Pass   
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;  Stromen controleren                                  42.2 ms  Pass   
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;    DUT nt kortgesloten AIN0                           41.8 ms  Pass   
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;  Soldeerlinken controleren                            7.48 ms  Pass   
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;    SL Top EIO3                                        3.89 ms  Pass   
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;    SL Mid EIO1                                        1.59 ms  Pass   
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;    SL Bot CIO2                                        1.25 ms  Pass   
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;  Programmeren uC DUT                                  4.12 s   Pass   
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;    Run Program                                        3.62 s   Pass   
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;    Spanning afleggen FIO2                             1.96 ms  Pass   
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;    Delay 500ms                                         500 ms         
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;    Spanning aanleggen FIO2                            2.60 ms  Pass   
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;  Delay 1s                                             1.00 s          
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;  Simuleer LED1                                         150 s   Fail   
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;    500mA Ok AIN4                                       362 ms  Pass   
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;    DALI aanleggen FIO4                                3.06 ms  Pass   
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;    Stroom door de diodes meten LED1 AIN4               150 s   Fail   
+2022-10-31 08:53:25.884588 ; Summary        ; Information ;      ChildDAQ                                          143 s   Fail   
+2022-10-31 08:53:25.885510 ; Summary        ; Information ; --------------------------------------------------------------------
+2022-10-31 08:53:25.886508 ; Summary        ; Information ; --------- Test plan completed with verdict Fail in  158 s ----------
+2022-10-31 08:53:25.930447 ; Labjack        ; Information ; Resource "Labjack" closed. [12.2 us]
+2022-10-31 08:53:31.157068 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-10-31 08:53:31.157068 ; TestPlan       ; Information ; Starting TestPlan 'SIDDALI500' on 10/31/2022 08:53:31, 25 of 25 TestSteps enabled.
+2022-10-31 08:53:31.182034 ; TestPlan       ; Debug       ; Saved Test Plan XML [24.9 ms]
+2022-10-31 08:53:33.016708 ; Labjack        ; Information ; Resource "Labjack" opened. [1.85 s]
+2022-10-31 08:53:33.021897 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PrePlanRun completed. [2.08 ms]
+2022-10-31 08:53:33.024369 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PrePlanRun completed. [2.05 ms]
+2022-10-31 08:53:33.026366 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PrePlanRun completed. [2.00 ms]
+2022-10-31 08:53:33.028357 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PrePlanRun completed. [2.06 ms]
+2022-10-31 08:53:33.030374 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PrePlanRun completed. [2.19 ms]
+2022-10-31 08:53:33.032376 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PrePlanRun completed. [1.87 ms]
+2022-10-31 08:53:33.034344 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Top EIO3" PrePlanRun completed. [2.14 ms]
+2022-10-31 08:53:33.036489 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Mid EIO1" PrePlanRun completed. [2.23 ms]
+2022-10-31 08:53:33.038681 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Bot CIO2" PrePlanRun completed. [2.08 ms]
+2022-10-31 08:53:33.040327 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning afleggen FIO2" PrePlanRun completed. [1.92 ms]
+2022-10-31 08:53:33.042592 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning aanleggen FIO2" PrePlanRun completed. [2.08 ms]
+2022-10-31 08:53:33.045316 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 500mA Ok AIN4" PrePlanRun completed. [2.38 ms]
+2022-10-31 08:53:33.047353 ; TestPlan       ; Debug       ; "Simuleer LED1 \ DALI aanleggen FIO4" PrePlanRun completed. [2.23 ms]
+2022-10-31 08:53:33.049563 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PrePlanRun completed. [135 us]
+2022-10-31 08:53:33.049563 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" PrePlanRun completed. [2.17 ms]
+2022-10-31 08:53:33.052295 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PrePlanRun completed. [23.8 ms]
+2022-10-31 08:53:33.052295 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [32.1 ms]
+2022-10-31 08:53:33.052295 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" started.
+2022-10-31 08:53:33.054333 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-10-31 08:53:33.055293 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" completed with verdict 'Pass'. [2.43 ms]
+2022-10-31 08:53:33.055293 ; TestPlan       ; Information ; "DALI afleggen FIO4" started.
+2022-10-31 08:53:33.057292 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-10-31 08:53:33.057292 ; TestPlan       ; Information ; "DALI afleggen FIO4" completed with verdict 'Pass'. [2.37 ms]
+2022-10-31 08:53:33.058379 ; TestPlan       ; Information ; "48V inschakelen FIO6" started.
+2022-10-31 08:53:33.077356 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-10-31 08:53:33.077356 ; TestPlan       ; Information ; "48V inschakelen FIO6" completed with verdict 'Pass'. [19.2 ms]
+2022-10-31 08:53:33.078228 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" started.
+2022-10-31 08:53:33.080219 ; TestStep       ; Debug       ; FIO2set to: High
+2022-10-31 08:53:33.080219 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [2.49 ms]
+2022-10-31 08:53:33.080219 ; TestPlan       ; Information ; "Delay 100ms" started.
+2022-10-31 08:53:33.180810 ; TestPlan       ; Information ; "Delay 100ms" completed. [100 ms]
+2022-10-31 08:53:33.181450 ; TestPlan       ; Information ; "Spanningen controleren" started.
+2022-10-31 08:53:33.181450 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" started.
+2022-10-31 08:53:33.262633 ; TestStep       ; Debug       ; AIN1 measured: 3.3004038476944
+2022-10-31 08:53:33.262633 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" completed with verdict 'Pass'. [81.1 ms]
+2022-10-31 08:53:33.263628 ; TestPlan       ; Information ; "Spanningen controleren" completed with verdict 'Pass'. [82.0 ms]
+2022-10-31 08:53:33.263628 ; TestPlan       ; Information ; "Stromen controleren" started.
+2022-10-31 08:53:33.263628 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" started.
+2022-10-31 08:53:33.321475 ; TestStep       ; Debug       ; AIN0 measured: 85.3532207980752
+2022-10-31 08:53:33.321475 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" completed with verdict 'Pass'. [57.4 ms]
+2022-10-31 08:53:33.321475 ; TestPlan       ; Information ; "Stromen controleren" completed with verdict 'Pass'. [58.5 ms]
+2022-10-31 08:53:33.322472 ; TestPlan       ; Information ; "Soldeerlinken controleren" started.
+2022-10-31 08:53:33.322472 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Top EIO3" started.
+2022-10-31 08:53:33.324466 ; TestStep       ; Debug       ; EIO3read: Low
+2022-10-31 08:53:33.324466 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Top EIO3" completed with verdict 'Pass'. [1.93 ms]
+2022-10-31 08:53:33.324466 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Mid EIO1" started.
+2022-10-31 08:53:33.326466 ; TestStep       ; Debug       ; EIO1read: Low
+2022-10-31 08:53:33.326466 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Mid EIO1" completed with verdict 'Pass'. [1.98 ms]
+2022-10-31 08:53:33.327477 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Bot CIO2" started.
+2022-10-31 08:53:33.329453 ; TestStep       ; Debug       ; CIO2read: Low
+2022-10-31 08:53:33.329575 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Bot CIO2" completed with verdict 'Pass'. [2.13 ms]
+2022-10-31 08:53:33.329575 ; TestPlan       ; Information ; "Soldeerlinken controleren" completed with verdict 'Pass'. [7.42 ms]
+2022-10-31 08:53:33.329575 ; TestPlan       ; Information ; "Programmeren uC DUT" started.
+2022-10-31 08:53:33.330451 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" started.
+2022-10-31 08:53:33.330451 ; TestStep       ; Debug       ; Starting process ..\..\..\..\..\..\..\..\Program Files\SEGGER\JLink\JLink.exe with arguments "-commanderscript AppFirmware.jlink"
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; SEGGER J-Link Commander V7.62b (Compiled Mar  8 2022 15:16:51)
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; DLL version V7.62b, compiled Mar  8 2022 15:15:34
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; 
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; 
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; J-Link Command File read successfully.
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; Processing script file...
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; J-Link>device MKL16Z32xxx4
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; J-Link connection not established yet but required for command.
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; Connecting to J-Link via USB...O.K.
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; Firmware: J-Link V11 compiled Sep 22 2022 14:53:28
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; Hardware version: V11.00
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; S/N: 51020380
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; License(s): GDB
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; USB speed mode: High speed (480 MBit/s)
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; VTref=3.300V (fixed)
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; J-Link>si SWD
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; Selecting SWD as current target interface.
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; J-Link>speed 1000
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; Selecting 1000 kHz as target interface speed
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; J-Link>Sleep 600
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; Sleep(600)
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; J-Link>erase
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; Target connection not established yet but required for command.
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; Device "MKL16Z32XXX4" selected.
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; 
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; 
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; Connecting to target via SWD
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; ConfigTargetSettings() start
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; ConfigTargetSettings() end
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; InitTarget() start
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; InitTarget()
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; InitTarget() end
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; Found SW-DP with ID 0x0BC11477
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; DPIDR: 0x0BC11477
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; CoreSight SoC-400 or earlier
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; AP map detection skipped. Manually configured AP map found.
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; AP[0]: AHB-AP (IDR: Not set)
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; AP[1]: MEM-AP (IDR: Not set)
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; AP[0]: Core found
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; AP[0]: AHB-AP ROM base: 0xF0002000
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; CPUID register: 0x410CC600. Implementer code: 0x41 (ARM)
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; Found Cortex-M0 r0p0, Little endian.
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; FPUnit: 2 code (BP) slots and 0 literal slots
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; CoreSight components:
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; ROMTbl[0] @ F0002000
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; [0][0]: F0000000 CID B105900D PID 000BB932 MTB-M0+
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; [0][1]: F0001000 CID B105900D PID 0008E000 MTBDWT
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; [0][2]: E00FF000 CID B105100D PID 000BB4C0 ROM Table
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; ROMTbl[1] @ E00FF000
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; [1][0]: E000E000 CID B105E00D PID 000BB008 SCS
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; [1][1]: E0001000 CID B105E00D PID 000BB00A DWT
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; [1][2]: E0002000 CID B105E00D PID 000BB00B FPB
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; Cortex-M0 identified.
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; Without any given address range, Erase Chip will be executed
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; Erasing device...
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; J-Link: Flash download: Total time needed: 1.206s (Prepare: 0.203s, Compare: 0.000s, Erase: 0.991s, Program: 0.000s, Verify: 0.000s, Restore: 0.011s)
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; Erasing done.
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; J-Link>loadfile C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\SIDDALI\Sidonia-DALI_v01_01.hex, 0x00
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; Downloading file [C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\SIDDALI\Sidonia-DALI_v01_01.hex]...
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; J-Link: Flash download: Bank 0 @ 0x00000000: 2 ranges affected (20480 bytes)
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; J-Link: Flash download: Total: 1.002s (Prepare: 0.089s, Compare: 0.100s, Erase: 0.037s, Program & Verify: 0.713s, Restore: 0.062s)
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; J-Link: Flash download: Program & Verify speed: 27 KB/s
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; O.K.
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; J-Link>r
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; Reset delay: 0 ms
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; Reset type NORMAL: Resets core & peripherals via SYSRESETREQ & VECTRESET bit.
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; Reset: Halt core after reset via DEMCR.VC_CORERESET.
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; Reset: Reset device via AIRCR.SYSRESETREQ.
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; J-Link>g
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; J-Link>qc
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; 
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; Script processing completed.
+2022-10-31 08:53:36.919564 ; TestStep       ; Information ; 
+2022-10-31 08:53:36.934598 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" completed with verdict 'Pass'. [3.60 s]
+2022-10-31 08:53:36.934598 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning afleggen FIO2" started.
+2022-10-31 08:53:36.936359 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-10-31 08:53:36.936359 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning afleggen FIO2" completed with verdict 'Pass'. [2.04 ms]
+2022-10-31 08:53:36.936359 ; TestPlan       ; Information ; "Programmeren uC DUT \ Delay 500ms" started.
+2022-10-31 08:53:37.438104 ; TestPlan       ; Information ; "Programmeren uC DUT \ Delay 500ms" completed. [500 ms]
+2022-10-31 08:53:37.438104 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning aanleggen FIO2" started.
+2022-10-31 08:53:37.440689 ; TestStep       ; Debug       ; FIO2set to: High
+2022-10-31 08:53:37.440689 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning aanleggen FIO2" completed with verdict 'Pass'. [2.71 ms]
+2022-10-31 08:53:37.440689 ; TestPlan       ; Information ; "Programmeren uC DUT" completed with verdict 'Pass'. [4.11 s]
+2022-10-31 08:53:37.441696 ; TestPlan       ; Information ; "Delay 1s" started.
+2022-10-31 08:53:38.441957 ; TestPlan       ; Information ; "Delay 1s" completed. [1.00 s]
+2022-10-31 08:53:38.441957 ; TestPlan       ; Information ; "Simuleer LED1" started.
+2022-10-31 08:53:38.441957 ; TestPlan       ; Information ; "Simuleer LED1 \ 500mA Ok AIN4" started.
+2022-10-31 08:53:38.781178 ; TestStep       ; Debug       ; AIN4 measured: 487.996998071671
+2022-10-31 08:53:38.781178 ; TestPlan       ; Information ; "Simuleer LED1 \ 500mA Ok AIN4" completed with verdict 'Pass'. [338 ms]
+2022-10-31 08:53:38.782183 ; TestPlan       ; Information ; "Simuleer LED1 \ DALI aanleggen FIO4" started.
+2022-10-31 08:53:38.784168 ; TestStep       ; Debug       ; FIO4set to: High
+2022-10-31 08:53:38.784168 ; TestPlan       ; Information ; "Simuleer LED1 \ DALI aanleggen FIO4" completed with verdict 'Pass'. [2.17 ms]
+2022-10-31 08:53:38.784168 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" started.
+2022-10-31 08:53:45.910070 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" started.
+2022-10-31 08:55:02.401635 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" completed with verdict 'Fail'. [76.4 s]
+2022-10-31 08:55:02.401635 ; Test Step      ; Debug       ; Break issued from 'ChildDAQ' due to verdict Fail. See Break Conditions settings.
+2022-10-31 08:55:02.402632 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" completed with verdict 'Fail'. [83.6 s]
+2022-10-31 08:55:02.405876 ; Test Step      ; Debug       ; Break issued from 'Stroom door de diodes meten LED1 AIN4' due to verdict Fail. See Break Conditions settings.
+2022-10-31 08:55:02.406620 ; TestPlan       ; Information ; "Simuleer LED1" completed with verdict 'Fail'. [83.9 s]
+2022-10-31 08:55:02.406620 ; Test Step      ; Debug       ; Break issued from 'Simuleer LED1' due to verdict Fail. See Break Conditions settings.
+2022-10-31 08:55:02.406620 ; TestPlan       ; Debug       ; Test step runs finished. [89.3 s]
+2022-10-31 08:55:02.406620 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PostPlanRun completed. [303 us]
+2022-10-31 08:55:02.406620 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PostPlanRun completed. [45.3 us]
+2022-10-31 08:55:02.406620 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" PostPlanRun completed. [18.3 us]
+2022-10-31 08:55:02.406620 ; TestPlan       ; Debug       ; "Simuleer LED1 \ DALI aanleggen FIO4" PostPlanRun completed. [19.0 us]
+2022-10-31 08:55:02.406620 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 500mA Ok AIN4" PostPlanRun completed. [11.1 us]
+2022-10-31 08:55:02.406620 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning aanleggen FIO2" PostPlanRun completed. [11.2 us]
+2022-10-31 08:55:02.406620 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning afleggen FIO2" PostPlanRun completed. [11.3 us]
+2022-10-31 08:55:02.406620 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Bot CIO2" PostPlanRun completed. [13.3 us]
+2022-10-31 08:55:02.406620 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Mid EIO1" PostPlanRun completed. [16.9 us]
+2022-10-31 08:55:02.406620 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Top EIO3" PostPlanRun completed. [17.3 us]
+2022-10-31 08:55:02.406620 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PostPlanRun completed. [12.3 us]
+2022-10-31 08:55:02.406620 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PostPlanRun completed. [8.30 us]
+2022-10-31 08:55:02.406620 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PostPlanRun completed. [6.90 us]
+2022-10-31 08:55:02.406620 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PostPlanRun completed. [11.3 us]
+2022-10-31 08:55:02.406620 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PostPlanRun completed. [10.9 us]
+2022-10-31 08:55:02.406620 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PostPlanRun completed. [7.00 us]
+2022-10-31 08:55:02.406620 ; Summary        ; Information ; --------- Summary of test plan started 10/31/2022 08:53:31 ---------
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;  48V nr DUT afleggen begin FIO2                       2.43 ms  Pass   
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;  DALI afleggen FIO4                                   2.37 ms  Pass   
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;  48V inschakelen FIO6                                 19.2 ms  Pass   
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;  48V nr DUT aanleggen FIO2                            2.49 ms  Pass   
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;  Delay 100ms                                           100 ms         
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;  Spanningen controleren                               82.0 ms  Pass   
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;    3V3 Meten AIN1                                     81.1 ms  Pass   
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;  Stromen controleren                                  58.5 ms  Pass   
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;    DUT nt kortgesloten AIN0                           57.4 ms  Pass   
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;  Soldeerlinken controleren                            7.42 ms  Pass   
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;    SL Top EIO3                                        1.93 ms  Pass   
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;    SL Mid EIO1                                        1.98 ms  Pass   
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;    SL Bot CIO2                                        2.13 ms  Pass   
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;  Programmeren uC DUT                                  4.11 s   Pass   
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;    Run Program                                        3.60 s   Pass   
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;    Spanning afleggen FIO2                             2.04 ms  Pass   
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;    Delay 500ms                                         500 ms         
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;    Spanning aanleggen FIO2                            2.71 ms  Pass   
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;  Delay 1s                                             1.00 s          
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;  Simuleer LED1                                        83.9 s   Fail   
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;    500mA Ok AIN4                                       338 ms  Pass   
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;    DALI aanleggen FIO4                                2.17 ms  Pass   
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;    Stroom door de diodes meten LED1 AIN4              83.6 s   Fail   
+2022-10-31 08:55:02.407618 ; Summary        ; Information ;      ChildDAQ                                         76.4 s   Fail   
+2022-10-31 08:55:02.407618 ; Summary        ; Information ; --------------------------------------------------------------------
+2022-10-31 08:55:02.407618 ; Summary        ; Information ; --------- Test plan completed with verdict Fail in 91.2 s ----------
+2022-10-31 08:55:02.413922 ; Labjack        ; Information ; Resource "Labjack" closed. [2.40 us]
+2022-10-31 08:55:27.765478 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-10-31 08:55:27.766106 ; TestPlan       ; Information ; Starting TestPlan 'SIDDALI500' on 10/31/2022 08:55:27, 25 of 25 TestSteps enabled.
+2022-10-31 08:55:27.814817 ; TestPlan       ; Debug       ; Saved Test Plan XML [49.0 ms]
+2022-10-31 08:55:29.624976 ; Labjack        ; Information ; Resource "Labjack" opened. [1.85 s]
+2022-10-31 08:55:29.629236 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PrePlanRun completed. [2.36 ms]
+2022-10-31 08:55:29.630909 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PrePlanRun completed. [2.09 ms]
+2022-10-31 08:55:29.633898 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PrePlanRun completed. [2.23 ms]
+2022-10-31 08:55:29.635893 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PrePlanRun completed. [2.44 ms]
+2022-10-31 08:55:29.639880 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PrePlanRun completed. [3.42 ms]
+2022-10-31 08:55:29.641875 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PrePlanRun completed. [2.04 ms]
+2022-10-31 08:55:29.643871 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Top EIO3" PrePlanRun completed. [2.14 ms]
+2022-10-31 08:55:29.645936 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Mid EIO1" PrePlanRun completed. [2.22 ms]
+2022-10-31 08:55:29.647927 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Bot CIO2" PrePlanRun completed. [2.22 ms]
+2022-10-31 08:55:29.650853 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning afleggen FIO2" PrePlanRun completed. [2.17 ms]
+2022-10-31 08:55:29.652846 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning aanleggen FIO2" PrePlanRun completed. [2.32 ms]
+2022-10-31 08:55:29.655839 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 500mA Ok AIN4" PrePlanRun completed. [2.73 ms]
+2022-10-31 08:55:29.657880 ; TestPlan       ; Debug       ; "Simuleer LED1 \ DALI aanleggen FIO4" PrePlanRun completed. [2.25 ms]
+2022-10-31 08:55:29.660016 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PrePlanRun completed. [33.4 us]
+2022-10-31 08:55:29.660016 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" PrePlanRun completed. [1.99 ms]
+2022-10-31 08:55:29.661831 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PrePlanRun completed. [25.8 ms]
+2022-10-31 08:55:29.661831 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [35.0 ms]
+2022-10-31 08:55:29.661831 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" started.
+2022-10-31 08:55:29.663999 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-10-31 08:55:29.664813 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" completed with verdict 'Pass'. [2.20 ms]
+2022-10-31 08:55:29.664813 ; TestPlan       ; Information ; "DALI afleggen FIO4" started.
+2022-10-31 08:55:29.666817 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-10-31 08:55:29.666817 ; TestPlan       ; Information ; "DALI afleggen FIO4" completed with verdict 'Pass'. [2.15 ms]
+2022-10-31 08:55:29.666817 ; TestPlan       ; Information ; "48V inschakelen FIO6" started.
+2022-10-31 08:55:29.669801 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-10-31 08:55:29.669801 ; TestPlan       ; Information ; "48V inschakelen FIO6" completed with verdict 'Pass'. [2.40 ms]
+2022-10-31 08:55:29.669801 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" started.
+2022-10-31 08:55:29.671800 ; TestStep       ; Debug       ; FIO2set to: High
+2022-10-31 08:55:29.672798 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [2.38 ms]
+2022-10-31 08:55:29.672798 ; TestPlan       ; Information ; "Delay 100ms" started.
+2022-10-31 08:55:29.773514 ; TestPlan       ; Information ; "Delay 100ms" completed. [100 ms]
+2022-10-31 08:55:29.773514 ; TestPlan       ; Information ; "Spanningen controleren" started.
+2022-10-31 08:55:29.773514 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" started.
+2022-10-31 08:55:29.852217 ; TestStep       ; Debug       ; AIN1 measured: 3.29550159215927
+2022-10-31 08:55:29.853214 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" completed with verdict 'Pass'. [79.1 ms]
+2022-10-31 08:55:29.853214 ; TestPlan       ; Information ; "Spanningen controleren" completed with verdict 'Pass'. [80.1 ms]
+2022-10-31 08:55:29.856204 ; TestPlan       ; Information ; "Stromen controleren" started.
+2022-10-31 08:55:29.857203 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" started.
+2022-10-31 08:55:29.928329 ; TestStep       ; Debug       ; AIN0 measured: 19.3285468330607
+2022-10-31 08:55:29.929008 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" completed with verdict 'Pass'. [71.2 ms]
+2022-10-31 08:55:29.929008 ; TestPlan       ; Information ; "Stromen controleren" completed with verdict 'Pass'. [72.9 ms]
+2022-10-31 08:55:29.929008 ; TestPlan       ; Information ; "Soldeerlinken controleren" started.
+2022-10-31 08:55:29.929008 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Top EIO3" started.
+2022-10-31 08:55:29.930043 ; TestStep       ; Debug       ; EIO3read: Low
+2022-10-31 08:55:29.930043 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Top EIO3" completed with verdict 'Pass'. [973 us]
+2022-10-31 08:55:29.930043 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Mid EIO1" started.
+2022-10-31 08:55:29.932001 ; TestStep       ; Debug       ; EIO1read: Low
+2022-10-31 08:55:29.932001 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Mid EIO1" completed with verdict 'Pass'. [1.46 ms]
+2022-10-31 08:55:29.932001 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Bot CIO2" started.
+2022-10-31 08:55:29.933097 ; TestStep       ; Debug       ; CIO2read: Low
+2022-10-31 08:55:29.933097 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Bot CIO2" completed with verdict 'Pass'. [1.46 ms]
+2022-10-31 08:55:29.933097 ; TestPlan       ; Information ; "Soldeerlinken controleren" completed with verdict 'Pass'. [4.63 ms]
+2022-10-31 08:55:29.934035 ; TestPlan       ; Information ; "Programmeren uC DUT" started.
+2022-10-31 08:55:29.934035 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" started.
+2022-10-31 08:55:29.934035 ; TestStep       ; Debug       ; Starting process ..\..\..\..\..\..\..\..\Program Files\SEGGER\JLink\JLink.exe with arguments "-commanderscript AppFirmware.jlink"
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; SEGGER J-Link Commander V7.62b (Compiled Mar  8 2022 15:16:51)
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; DLL version V7.62b, compiled Mar  8 2022 15:15:34
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; 
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; 
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; J-Link Command File read successfully.
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; Processing script file...
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; J-Link>device MKL16Z32xxx4
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; J-Link connection not established yet but required for command.
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; Connecting to J-Link via USB...O.K.
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; Firmware: J-Link V11 compiled Sep 22 2022 14:53:28
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; Hardware version: V11.00
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; S/N: 51020380
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; License(s): GDB
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; USB speed mode: High speed (480 MBit/s)
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; VTref=3.300V (fixed)
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; J-Link>si SWD
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; Selecting SWD as current target interface.
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; J-Link>speed 1000
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; Selecting 1000 kHz as target interface speed
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; J-Link>Sleep 600
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; Sleep(600)
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; J-Link>erase
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; Target connection not established yet but required for command.
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; Device "MKL16Z32XXX4" selected.
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; 
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; 
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; Connecting to target via SWD
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; ConfigTargetSettings() start
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; ConfigTargetSettings() end
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; InitTarget() start
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; InitTarget()
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; InitTarget() end
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; Found SW-DP with ID 0x0BC11477
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; DPIDR: 0x0BC11477
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; CoreSight SoC-400 or earlier
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; AP map detection skipped. Manually configured AP map found.
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; AP[0]: AHB-AP (IDR: Not set)
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; AP[1]: MEM-AP (IDR: Not set)
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; AP[0]: Core found
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; AP[0]: AHB-AP ROM base: 0xF0002000
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; CPUID register: 0x410CC600. Implementer code: 0x41 (ARM)
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; Found Cortex-M0 r0p0, Little endian.
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; FPUnit: 2 code (BP) slots and 0 literal slots
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; CoreSight components:
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; ROMTbl[0] @ F0002000
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; [0][0]: F0000000 CID B105900D PID 000BB932 MTB-M0+
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; [0][1]: F0001000 CID B105900D PID 0008E000 MTBDWT
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; [0][2]: E00FF000 CID B105100D PID 000BB4C0 ROM Table
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; ROMTbl[1] @ E00FF000
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; [1][0]: E000E000 CID B105E00D PID 000BB008 SCS
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; [1][1]: E0001000 CID B105E00D PID 000BB00A DWT
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; [1][2]: E0002000 CID B105E00D PID 000BB00B FPB
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; Cortex-M0 identified.
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; Without any given address range, Erase Chip will be executed
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; Erasing device...
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; J-Link: Flash download: Total time needed: 1.223s (Prepare: 0.191s, Compare: 0.000s, Erase: 1.021s, Program: 0.000s, Verify: 0.000s, Restore: 0.011s)
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; Erasing done.
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; J-Link>loadfile C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\SIDDALI\Sidonia-DALI_v01_01.hex, 0x00
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; Downloading file [C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\SIDDALI\Sidonia-DALI_v01_01.hex]...
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; J-Link: Flash download: Bank 0 @ 0x00000000: 2 ranges affected (20480 bytes)
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; J-Link: Flash download: Total: 1.030s (Prepare: 0.116s, Compare: 0.073s, Erase: 0.041s, Program & Verify: 0.738s, Restore: 0.060s)
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; J-Link: Flash download: Program & Verify speed: 26 KB/s
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; O.K.
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; J-Link>r
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; Reset delay: 0 ms
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; Reset type NORMAL: Resets core & peripherals via SYSRESETREQ & VECTRESET bit.
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; Reset: Halt core after reset via DEMCR.VC_CORERESET.
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; Reset: Reset device via AIRCR.SYSRESETREQ.
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; J-Link>g
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; J-Link>qc
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; 
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; Script processing completed.
+2022-10-31 08:55:33.516352 ; TestStep       ; Information ; 
+2022-10-31 08:55:33.531319 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" completed with verdict 'Pass'. [3.59 s]
+2022-10-31 08:55:33.531319 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning afleggen FIO2" started.
+2022-10-31 08:55:33.533308 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-10-31 08:55:33.533308 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning afleggen FIO2" completed with verdict 'Pass'. [2.08 ms]
+2022-10-31 08:55:33.533308 ; TestPlan       ; Information ; "Programmeren uC DUT \ Delay 500ms" started.
+2022-10-31 08:55:34.034092 ; TestPlan       ; Information ; "Programmeren uC DUT \ Delay 500ms" completed. [500 ms]
+2022-10-31 08:55:34.034587 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning aanleggen FIO2" started.
+2022-10-31 08:55:34.036567 ; TestStep       ; Debug       ; FIO2set to: High
+2022-10-31 08:55:34.036567 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning aanleggen FIO2" completed with verdict 'Pass'. [2.55 ms]
+2022-10-31 08:55:34.037505 ; TestPlan       ; Information ; "Programmeren uC DUT" completed with verdict 'Pass'. [4.10 s]
+2022-10-31 08:55:34.037505 ; TestPlan       ; Information ; "Delay 1s" started.
+2022-10-31 08:55:35.038933 ; TestPlan       ; Information ; "Delay 1s" completed. [1.00 s]
+2022-10-31 08:55:35.038933 ; TestPlan       ; Information ; "Simuleer LED1" started.
+2022-10-31 08:55:35.038933 ; TestPlan       ; Information ; "Simuleer LED1 \ 500mA Ok AIN4" started.
+2022-10-31 08:55:35.386881 ; TestStep       ; Debug       ; AIN4 measured: 501.671332597732
+2022-10-31 08:55:35.386881 ; TestPlan       ; Information ; "Simuleer LED1 \ 500mA Ok AIN4" completed with verdict 'Pass'. [347 ms]
+2022-10-31 08:55:35.387878 ; TestPlan       ; Information ; "Simuleer LED1 \ DALI aanleggen FIO4" started.
+2022-10-31 08:55:35.390458 ; TestStep       ; Debug       ; FIO4set to: High
+2022-10-31 08:55:35.390869 ; TestPlan       ; Information ; "Simuleer LED1 \ DALI aanleggen FIO4" completed with verdict 'Pass'. [2.69 ms]
+2022-10-31 08:55:35.390869 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" started.
+2022-10-31 08:55:42.514351 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" started.
+2022-10-31 08:55:55.440196 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" completed with verdict 'Fail'. [12.9 s]
+2022-10-31 08:55:55.440196 ; Test Step      ; Debug       ; Break issued from 'ChildDAQ' due to verdict Fail. See Break Conditions settings.
+2022-10-31 08:55:55.440196 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" completed with verdict 'Fail'. [20.0 s]
+2022-10-31 08:55:55.440196 ; Test Step      ; Debug       ; Break issued from 'Stroom door de diodes meten LED1 AIN4' due to verdict Fail. See Break Conditions settings.
+2022-10-31 08:55:55.441194 ; TestPlan       ; Information ; "Simuleer LED1" completed with verdict 'Fail'. [20.4 s]
+2022-10-31 08:55:55.441194 ; Test Step      ; Debug       ; Break issued from 'Simuleer LED1' due to verdict Fail. See Break Conditions settings.
+2022-10-31 08:55:55.441194 ; TestPlan       ; Debug       ; Test step runs finished. [25.7 s]
+2022-10-31 08:55:55.441194 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PostPlanRun completed. [306 us]
+2022-10-31 08:55:55.441194 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PostPlanRun completed. [28.5 us]
+2022-10-31 08:55:55.441194 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" PostPlanRun completed. [14.4 us]
+2022-10-31 08:55:55.441194 ; TestPlan       ; Debug       ; "Simuleer LED1 \ DALI aanleggen FIO4" PostPlanRun completed. [12.9 us]
+2022-10-31 08:55:55.441194 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 500mA Ok AIN4" PostPlanRun completed. [8.50 us]
+2022-10-31 08:55:55.441194 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning aanleggen FIO2" PostPlanRun completed. [14.9 us]
+2022-10-31 08:55:55.441194 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning afleggen FIO2" PostPlanRun completed. [8.80 us]
+2022-10-31 08:55:55.441194 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Bot CIO2" PostPlanRun completed. [11.8 us]
+2022-10-31 08:55:55.441194 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Mid EIO1" PostPlanRun completed. [8.60 us]
+2022-10-31 08:55:55.441194 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Top EIO3" PostPlanRun completed. [8.19 us]
+2022-10-31 08:55:55.441194 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PostPlanRun completed. [8.90 us]
+2022-10-31 08:55:55.441194 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PostPlanRun completed. [7.80 us]
+2022-10-31 08:55:55.441194 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PostPlanRun completed. [10.1 us]
+2022-10-31 08:55:55.441194 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PostPlanRun completed. [12.3 us]
+2022-10-31 08:55:55.441194 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PostPlanRun completed. [7.20 us]
+2022-10-31 08:55:55.441194 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PostPlanRun completed. [12.1 us]
+2022-10-31 08:55:55.441194 ; Summary        ; Information ; --------- Summary of test plan started 10/31/2022 08:55:27 ---------
+2022-10-31 08:55:55.441194 ; Summary        ; Information ;  48V nr DUT afleggen begin FIO2                       2.20 ms  Pass   
+2022-10-31 08:55:55.441194 ; Summary        ; Information ;  DALI afleggen FIO4                                   2.15 ms  Pass   
+2022-10-31 08:55:55.441194 ; Summary        ; Information ;  48V inschakelen FIO6                                 2.40 ms  Pass   
+2022-10-31 08:55:55.441194 ; Summary        ; Information ;  48V nr DUT aanleggen FIO2                            2.38 ms  Pass   
+2022-10-31 08:55:55.441194 ; Summary        ; Information ;  Delay 100ms                                           100 ms         
+2022-10-31 08:55:55.441194 ; Summary        ; Information ;  Spanningen controleren                               80.1 ms  Pass   
+2022-10-31 08:55:55.441194 ; Summary        ; Information ;    3V3 Meten AIN1                                     79.1 ms  Pass   
+2022-10-31 08:55:55.441194 ; Summary        ; Information ;  Stromen controleren                                  72.9 ms  Pass   
+2022-10-31 08:55:55.441194 ; Summary        ; Information ;    DUT nt kortgesloten AIN0                           71.2 ms  Pass   
+2022-10-31 08:55:55.441194 ; Summary        ; Information ;  Soldeerlinken controleren                            4.63 ms  Pass   
+2022-10-31 08:55:55.441194 ; Summary        ; Information ;    SL Top EIO3                                         973 us  Pass   
+2022-10-31 08:55:55.441194 ; Summary        ; Information ;    SL Mid EIO1                                        1.46 ms  Pass   
+2022-10-31 08:55:55.441194 ; Summary        ; Information ;    SL Bot CIO2                                        1.46 ms  Pass   
+2022-10-31 08:55:55.441194 ; Summary        ; Information ;  Programmeren uC DUT                                  4.10 s   Pass   
+2022-10-31 08:55:55.441194 ; Summary        ; Information ;    Run Program                                        3.59 s   Pass   
+2022-10-31 08:55:55.441194 ; Summary        ; Information ;    Spanning afleggen FIO2                             2.08 ms  Pass   
+2022-10-31 08:55:55.441194 ; Summary        ; Information ;    Delay 500ms                                         500 ms         
+2022-10-31 08:55:55.441194 ; Summary        ; Information ;    Spanning aanleggen FIO2                            2.55 ms  Pass   
+2022-10-31 08:55:55.441194 ; Summary        ; Information ;  Delay 1s                                             1.00 s          
+2022-10-31 08:55:55.442190 ; Summary        ; Information ;  Simuleer LED1                                        20.4 s   Fail   
+2022-10-31 08:55:55.442190 ; Summary        ; Information ;    500mA Ok AIN4                                       347 ms  Pass   
+2022-10-31 08:55:55.442190 ; Summary        ; Information ;    DALI aanleggen FIO4                                2.69 ms  Pass   
+2022-10-31 08:55:55.442190 ; Summary        ; Information ;    Stroom door de diodes meten LED1 AIN4              20.0 s   Fail   
+2022-10-31 08:55:55.442190 ; Summary        ; Information ;      ChildDAQ                                         12.9 s   Fail   
+2022-10-31 08:55:55.442190 ; Summary        ; Information ; --------------------------------------------------------------------
+2022-10-31 08:55:55.442190 ; Summary        ; Information ; --------- Test plan completed with verdict Fail in 27.7 s ----------
+2022-10-31 08:55:55.449170 ; Labjack        ; Information ; Resource "Labjack" closed. [2.70 us]
+2022-10-31 08:56:09.632929 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-10-31 08:56:09.632929 ; TestPlan       ; Information ; Starting TestPlan 'SIDDALI500' on 10/31/2022 08:56:09, 25 of 25 TestSteps enabled.
+2022-10-31 08:56:09.662832 ; TestPlan       ; Debug       ; Saved Test Plan XML [28.8 ms]
+2022-10-31 08:56:11.484835 ; Labjack        ; Information ; Resource "Labjack" opened. [1.84 s]
+2022-10-31 08:56:11.488427 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PrePlanRun completed. [1.81 ms]
+2022-10-31 08:56:11.490289 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PrePlanRun completed. [1.69 ms]
+2022-10-31 08:56:11.491916 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PrePlanRun completed. [1.73 ms]
+2022-10-31 08:56:11.493684 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PrePlanRun completed. [1.72 ms]
+2022-10-31 08:56:11.495277 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PrePlanRun completed. [1.52 ms]
+2022-10-31 08:56:11.496274 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PrePlanRun completed. [1.47 ms]
+2022-10-31 08:56:11.498316 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Top EIO3" PrePlanRun completed. [1.55 ms]
+2022-10-31 08:56:11.499323 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Mid EIO1" PrePlanRun completed. [1.54 ms]
+2022-10-31 08:56:11.501608 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Bot CIO2" PrePlanRun completed. [1.75 ms]
+2022-10-31 08:56:11.503255 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning afleggen FIO2" PrePlanRun completed. [1.55 ms]
+2022-10-31 08:56:11.504287 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning aanleggen FIO2" PrePlanRun completed. [1.59 ms]
+2022-10-31 08:56:11.506248 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 500mA Ok AIN4" PrePlanRun completed. [1.63 ms]
+2022-10-31 08:56:11.508240 ; TestPlan       ; Debug       ; "Simuleer LED1 \ DALI aanleggen FIO4" PrePlanRun completed. [1.73 ms]
+2022-10-31 08:56:11.509278 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PrePlanRun completed. [19.7 us]
+2022-10-31 08:56:11.509278 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" PrePlanRun completed. [1.61 ms]
+2022-10-31 08:56:11.511399 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PrePlanRun completed. [17.5 ms]
+2022-10-31 08:56:11.511399 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [24.5 ms]
+2022-10-31 08:56:11.511399 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" started.
+2022-10-31 08:56:11.528191 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-10-31 08:56:11.528191 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" completed with verdict 'Pass'. [16.6 ms]
+2022-10-31 08:56:11.528191 ; TestPlan       ; Information ; "DALI afleggen FIO4" started.
+2022-10-31 08:56:11.530228 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-10-31 08:56:11.530228 ; TestPlan       ; Information ; "DALI afleggen FIO4" completed with verdict 'Pass'. [1.99 ms]
+2022-10-31 08:56:11.530228 ; TestPlan       ; Information ; "48V inschakelen FIO6" started.
+2022-10-31 08:56:11.532177 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-10-31 08:56:11.532177 ; TestPlan       ; Information ; "48V inschakelen FIO6" completed with verdict 'Pass'. [1.87 ms]
+2022-10-31 08:56:11.533176 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" started.
+2022-10-31 08:56:11.534454 ; TestStep       ; Debug       ; FIO2set to: High
+2022-10-31 08:56:11.534454 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [1.60 ms]
+2022-10-31 08:56:11.534454 ; TestPlan       ; Information ; "Delay 100ms" started.
+2022-10-31 08:56:11.634888 ; TestPlan       ; Information ; "Delay 100ms" completed. [100 ms]
+2022-10-31 08:56:11.634888 ; TestPlan       ; Information ; "Spanningen controleren" started.
+2022-10-31 08:56:11.635265 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" started.
+2022-10-31 08:56:11.705518 ; TestStep       ; Debug       ; AIN1 measured: 3.29884862661362
+2022-10-31 08:56:11.705518 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" completed with verdict 'Pass'. [70.9 ms]
+2022-10-31 08:56:11.705518 ; TestPlan       ; Information ; "Spanningen controleren" completed with verdict 'Pass'. [71.2 ms]
+2022-10-31 08:56:11.706517 ; TestPlan       ; Information ; "Stromen controleren" started.
+2022-10-31 08:56:11.706517 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" started.
+2022-10-31 08:56:11.757349 ; TestStep       ; Debug       ; AIN0 measured: 76.8924328483641
+2022-10-31 08:56:11.757349 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" completed with verdict 'Pass'. [50.9 ms]
+2022-10-31 08:56:11.757349 ; TestPlan       ; Information ; "Stromen controleren" completed with verdict 'Pass'. [51.2 ms]
+2022-10-31 08:56:11.757349 ; TestPlan       ; Information ; "Soldeerlinken controleren" started.
+2022-10-31 08:56:11.757349 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Top EIO3" started.
+2022-10-31 08:56:11.759344 ; TestStep       ; Debug       ; EIO3read: Low
+2022-10-31 08:56:11.759344 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Top EIO3" completed with verdict 'Pass'. [1.25 ms]
+2022-10-31 08:56:11.759344 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Mid EIO1" started.
+2022-10-31 08:56:11.760345 ; TestStep       ; Debug       ; EIO1read: Low
+2022-10-31 08:56:11.761340 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Mid EIO1" completed with verdict 'Pass'. [1.45 ms]
+2022-10-31 08:56:11.761340 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Bot CIO2" started.
+2022-10-31 08:56:11.762336 ; TestStep       ; Debug       ; CIO2read: Low
+2022-10-31 08:56:11.762336 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Bot CIO2" completed with verdict 'Pass'. [1.53 ms]
+2022-10-31 08:56:11.762336 ; TestPlan       ; Information ; "Soldeerlinken controleren" completed with verdict 'Pass'. [5.17 ms]
+2022-10-31 08:56:11.763334 ; TestPlan       ; Information ; "Programmeren uC DUT" started.
+2022-10-31 08:56:11.763334 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" started.
+2022-10-31 08:56:11.763334 ; TestStep       ; Debug       ; Starting process ..\..\..\..\..\..\..\..\Program Files\SEGGER\JLink\JLink.exe with arguments "-commanderscript AppFirmware.jlink"
+2022-10-31 08:56:21.771133 ; TestStep       ; Error       ; Timed out while waiting for application. Trying to kill process...
+2022-10-31 08:56:21.772960 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" completed with verdict 'Fail'. [10.0 s]
+2022-10-31 08:56:21.772960 ; Test Step      ; Debug       ; Break issued from 'Run Program' due to verdict Fail. See Break Conditions settings.
+2022-10-31 08:56:21.772960 ; TestPlan       ; Information ; "Programmeren uC DUT" completed with verdict 'Fail'. [10.0 s]
+2022-10-31 08:56:21.772960 ; Test Step      ; Debug       ; Break issued from 'Programmeren uC DUT' due to verdict Fail. See Break Conditions settings.
+2022-10-31 08:56:21.772960 ; TestPlan       ; Debug       ; Test step runs finished. [10.2 s]
+2022-10-31 08:56:21.773959 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PostPlanRun completed. [527 us]
+2022-10-31 08:56:21.773959 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PostPlanRun completed. [40.7 us]
+2022-10-31 08:56:21.773959 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" PostPlanRun completed. [26.3 us]
+2022-10-31 08:56:21.773959 ; TestPlan       ; Debug       ; "Simuleer LED1 \ DALI aanleggen FIO4" PostPlanRun completed. [23.2 us]
+2022-10-31 08:56:21.773959 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 500mA Ok AIN4" PostPlanRun completed. [20.0 us]
+2022-10-31 08:56:21.773959 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning aanleggen FIO2" PostPlanRun completed. [18.7 us]
+2022-10-31 08:56:21.773959 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning afleggen FIO2" PostPlanRun completed. [10.2 us]
+2022-10-31 08:56:21.773959 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Bot CIO2" PostPlanRun completed. [11.6 us]
+2022-10-31 08:56:21.773959 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Mid EIO1" PostPlanRun completed. [12.5 us]
+2022-10-31 08:56:21.773959 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Top EIO3" PostPlanRun completed. [20.7 us]
+2022-10-31 08:56:21.773959 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PostPlanRun completed. [13.1 us]
+2022-10-31 08:56:21.773959 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PostPlanRun completed. [11.7 us]
+2022-10-31 08:56:21.773959 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PostPlanRun completed. [10.0 us]
+2022-10-31 08:56:21.773959 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PostPlanRun completed. [10.0 us]
+2022-10-31 08:56:21.773959 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PostPlanRun completed. [19.5 us]
+2022-10-31 08:56:21.773959 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PostPlanRun completed. [14.0 us]
+2022-10-31 08:56:21.773959 ; Summary        ; Information ; -------- Summary of test plan started 10/31/2022 08:56:09 --------
+2022-10-31 08:56:21.773959 ; Summary        ; Information ;  48V nr DUT afleggen begin FIO2                     16.6 ms  Pass   
+2022-10-31 08:56:21.773959 ; Summary        ; Information ;  DALI afleggen FIO4                                 1.99 ms  Pass   
+2022-10-31 08:56:21.773959 ; Summary        ; Information ;  48V inschakelen FIO6                               1.87 ms  Pass   
+2022-10-31 08:56:21.773959 ; Summary        ; Information ;  48V nr DUT aanleggen FIO2                          1.60 ms  Pass   
+2022-10-31 08:56:21.773959 ; Summary        ; Information ;  Delay 100ms                                         100 ms         
+2022-10-31 08:56:21.773959 ; Summary        ; Information ;  Spanningen controleren                             71.2 ms  Pass   
+2022-10-31 08:56:21.773959 ; Summary        ; Information ;    3V3 Meten AIN1                                   70.9 ms  Pass   
+2022-10-31 08:56:21.773959 ; Summary        ; Information ;  Stromen controleren                                51.2 ms  Pass   
+2022-10-31 08:56:21.773959 ; Summary        ; Information ;    DUT nt kortgesloten AIN0                         50.9 ms  Pass   
+2022-10-31 08:56:21.773959 ; Summary        ; Information ;  Soldeerlinken controleren                          5.17 ms  Pass   
+2022-10-31 08:56:21.773959 ; Summary        ; Information ;    SL Top EIO3                                      1.25 ms  Pass   
+2022-10-31 08:56:21.773959 ; Summary        ; Information ;    SL Mid EIO1                                      1.45 ms  Pass   
+2022-10-31 08:56:21.774957 ; Summary        ; Information ;    SL Bot CIO2                                      1.53 ms  Pass   
+2022-10-31 08:56:21.774957 ; Summary        ; Information ;  Programmeren uC DUT                                10.0 s   Fail   
+2022-10-31 08:56:21.774957 ; Summary        ; Information ;    Run Program                                      10.0 s   Fail   
+2022-10-31 08:56:21.774957 ; Summary        ; Information ; ------------------------------------------------------------------
+2022-10-31 08:56:21.774957 ; Summary        ; Information ; -------- Test plan completed with verdict Fail in 12.1 s ---------
+2022-10-31 08:56:21.782975 ; Labjack        ; Information ; Resource "Labjack" closed. [4.80 us]
+2022-10-31 08:56:24.323500 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-10-31 08:56:24.323500 ; TestPlan       ; Information ; Starting TestPlan 'SIDDALI500' on 10/31/2022 08:56:24, 25 of 25 TestSteps enabled.
+2022-10-31 08:56:24.341580 ; TestPlan       ; Debug       ; Saved Test Plan XML [17.9 ms]
+2022-10-31 08:56:26.182989 ; Labjack        ; Information ; Resource "Labjack" opened. [1.85 s]
+2022-10-31 08:56:26.191967 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PrePlanRun completed. [2.67 ms]
+2022-10-31 08:56:26.193960 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PrePlanRun completed. [2.29 ms]
+2022-10-31 08:56:26.196291 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PrePlanRun completed. [2.38 ms]
+2022-10-31 08:56:26.198950 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PrePlanRun completed. [2.28 ms]
+2022-10-31 08:56:26.200940 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PrePlanRun completed. [2.40 ms]
+2022-10-31 08:56:26.203937 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PrePlanRun completed. [2.46 ms]
+2022-10-31 08:56:26.205927 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Top EIO3" PrePlanRun completed. [2.25 ms]
+2022-10-31 08:56:26.207934 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Mid EIO1" PrePlanRun completed. [2.27 ms]
+2022-10-31 08:56:26.210266 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Bot CIO2" PrePlanRun completed. [2.06 ms]
+2022-10-31 08:56:26.211969 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning afleggen FIO2" PrePlanRun completed. [2.00 ms]
+2022-10-31 08:56:26.214269 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning aanleggen FIO2" PrePlanRun completed. [1.99 ms]
+2022-10-31 08:56:26.216357 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 500mA Ok AIN4" PrePlanRun completed. [1.92 ms]
+2022-10-31 08:56:26.218942 ; TestPlan       ; Debug       ; "Simuleer LED1 \ DALI aanleggen FIO4" PrePlanRun completed. [2.16 ms]
+2022-10-31 08:56:26.220888 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PrePlanRun completed. [35.1 us]
+2022-10-31 08:56:26.220888 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" PrePlanRun completed. [2.07 ms]
+2022-10-31 08:56:26.222884 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PrePlanRun completed. [23.9 ms]
+2022-10-31 08:56:26.222884 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [33.6 ms]
+2022-10-31 08:56:26.222884 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" started.
+2022-10-31 08:56:26.224880 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-10-31 08:56:26.224880 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" completed with verdict 'Pass'. [2.09 ms]
+2022-10-31 08:56:26.224880 ; TestPlan       ; Information ; "DALI afleggen FIO4" started.
+2022-10-31 08:56:26.227332 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-10-31 08:56:26.227872 ; TestPlan       ; Information ; "DALI afleggen FIO4" completed with verdict 'Pass'. [2.30 ms]
+2022-10-31 08:56:26.227872 ; TestPlan       ; Information ; "48V inschakelen FIO6" started.
+2022-10-31 08:56:26.229866 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-10-31 08:56:26.229866 ; TestPlan       ; Information ; "48V inschakelen FIO6" completed with verdict 'Pass'. [1.79 ms]
+2022-10-31 08:56:26.229866 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" started.
+2022-10-31 08:56:26.230909 ; TestStep       ; Debug       ; FIO2set to: High
+2022-10-31 08:56:26.231858 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [1.49 ms]
+2022-10-31 08:56:26.231858 ; TestPlan       ; Information ; "Delay 100ms" started.
+2022-10-31 08:56:26.331387 ; TestPlan       ; Information ; "Delay 100ms" completed. [100 ms]
+2022-10-31 08:56:26.331387 ; TestPlan       ; Information ; "Spanningen controleren" started.
+2022-10-31 08:56:26.331387 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" started.
+2022-10-31 08:56:26.397213 ; TestStep       ; Debug       ; AIN1 measured: 3.29590220689774
+2022-10-31 08:56:26.397213 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" completed with verdict 'Pass'. [65.1 ms]
+2022-10-31 08:56:26.397213 ; TestPlan       ; Information ; "Spanningen controleren" completed with verdict 'Pass'. [65.3 ms]
+2022-10-31 08:56:26.397213 ; TestPlan       ; Information ; "Stromen controleren" started.
+2022-10-31 08:56:26.397213 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" started.
+2022-10-31 08:56:26.449300 ; TestStep       ; Debug       ; AIN0 measured: 19.3135940112174
+2022-10-31 08:56:26.449300 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" completed with verdict 'Pass'. [52.0 ms]
+2022-10-31 08:56:26.449300 ; TestPlan       ; Information ; "Stromen controleren" completed with verdict 'Pass'. [52.4 ms]
+2022-10-31 08:56:26.450297 ; TestPlan       ; Information ; "Soldeerlinken controleren" started.
+2022-10-31 08:56:26.450297 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Top EIO3" started.
+2022-10-31 08:56:26.451331 ; TestStep       ; Debug       ; EIO3read: Low
+2022-10-31 08:56:26.451331 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Top EIO3" completed with verdict 'Pass'. [1.41 ms]
+2022-10-31 08:56:26.452294 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Mid EIO1" started.
+2022-10-31 08:56:26.453435 ; TestStep       ; Debug       ; EIO1read: Low
+2022-10-31 08:56:26.453435 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Mid EIO1" completed with verdict 'Pass'. [1.41 ms]
+2022-10-31 08:56:26.453435 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Bot CIO2" started.
+2022-10-31 08:56:26.454286 ; TestStep       ; Debug       ; CIO2read: Low
+2022-10-31 08:56:26.455309 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Bot CIO2" completed with verdict 'Pass'. [1.28 ms]
+2022-10-31 08:56:26.455309 ; TestPlan       ; Information ; "Soldeerlinken controleren" completed with verdict 'Pass'. [5.05 ms]
+2022-10-31 08:56:26.455309 ; TestPlan       ; Information ; "Programmeren uC DUT" started.
+2022-10-31 08:56:26.455309 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" started.
+2022-10-31 08:56:26.455309 ; TestStep       ; Debug       ; Starting process ..\..\..\..\..\..\..\..\Program Files\SEGGER\JLink\JLink.exe with arguments "-commanderscript AppFirmware.jlink"
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; SEGGER J-Link Commander V7.62b (Compiled Mar  8 2022 15:16:51)
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; DLL version V7.62b, compiled Mar  8 2022 15:15:34
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; 
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; 
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; J-Link Command File read successfully.
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; Processing script file...
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; J-Link>device MKL16Z32xxx4
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; J-Link connection not established yet but required for command.
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; Connecting to J-Link via USB...O.K.
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; Firmware: J-Link V11 compiled Sep 22 2022 14:53:28
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; Hardware version: V11.00
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; S/N: 51020380
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; License(s): GDB
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; USB speed mode: High speed (480 MBit/s)
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; VTref=3.300V (fixed)
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; J-Link>si SWD
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; Selecting SWD as current target interface.
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; J-Link>speed 1000
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; Selecting 1000 kHz as target interface speed
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; J-Link>Sleep 600
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; Sleep(600)
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; J-Link>erase
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; Target connection not established yet but required for command.
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; Device "MKL16Z32XXX4" selected.
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; 
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; 
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; Connecting to target via SWD
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; ConfigTargetSettings() start
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; ConfigTargetSettings() end
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; InitTarget() start
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; InitTarget()
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; InitTarget() end
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; Found SW-DP with ID 0x0BC11477
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; DPIDR: 0x0BC11477
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; CoreSight SoC-400 or earlier
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; AP map detection skipped. Manually configured AP map found.
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; AP[0]: AHB-AP (IDR: Not set)
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; AP[1]: MEM-AP (IDR: Not set)
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; AP[0]: Core found
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; AP[0]: AHB-AP ROM base: 0xF0002000
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; CPUID register: 0x410CC600. Implementer code: 0x41 (ARM)
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; Found Cortex-M0 r0p0, Little endian.
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; FPUnit: 2 code (BP) slots and 0 literal slots
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; CoreSight components:
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; ROMTbl[0] @ F0002000
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; [0][0]: F0000000 CID B105900D PID 000BB932 MTB-M0+
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; [0][1]: F0001000 CID B105900D PID 0008E000 MTBDWT
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; [0][2]: E00FF000 CID B105100D PID 000BB4C0 ROM Table
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; ROMTbl[1] @ E00FF000
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; [1][0]: E000E000 CID B105E00D PID 000BB008 SCS
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; [1][1]: E0001000 CID B105E00D PID 000BB00A DWT
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; [1][2]: E0002000 CID B105E00D PID 000BB00B FPB
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; Cortex-M0 identified.
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; Without any given address range, Erase Chip will be executed
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; Erasing device...
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; J-Link: Flash download: Total time needed: 0.969s (Prepare: 0.061s, Compare: 0.000s, Erase: 0.897s, Program: 0.000s, Verify: 0.000s, Restore: 0.010s)
+2022-10-31 08:56:29.763773 ; TestStep       ; Information ; Erasing done.
+2022-10-31 08:56:29.779733 ; TestStep       ; Information ; J-Link>loadfile C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\SIDDALI\Sidonia-DALI_v01_01.hex, 0x00
+2022-10-31 08:56:29.779733 ; TestStep       ; Information ; Downloading file [C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\SIDDALI\Sidonia-DALI_v01_01.hex]...
+2022-10-31 08:56:29.779733 ; TestStep       ; Information ; J-Link: Flash download: Bank 0 @ 0x00000000: 2 ranges affected (20480 bytes)
+2022-10-31 08:56:29.779733 ; TestStep       ; Information ; J-Link: Flash download: Total: 0.999s (Prepare: 0.087s, Compare: 0.093s, Erase: 0.038s, Program & Verify: 0.715s, Restore: 0.064s)
+2022-10-31 08:56:29.779733 ; TestStep       ; Information ; J-Link: Flash download: Program & Verify speed: 27 KB/s
+2022-10-31 08:56:29.779733 ; TestStep       ; Information ; O.K.
+2022-10-31 08:56:29.779733 ; TestStep       ; Information ; J-Link>r
+2022-10-31 08:56:29.779733 ; TestStep       ; Information ; Reset delay: 0 ms
+2022-10-31 08:56:29.779733 ; TestStep       ; Information ; Reset type NORMAL: Resets core & peripherals via SYSRESETREQ & VECTRESET bit.
+2022-10-31 08:56:29.779733 ; TestStep       ; Information ; Reset: Halt core after reset via DEMCR.VC_CORERESET.
+2022-10-31 08:56:29.779733 ; TestStep       ; Information ; Reset: Reset device via AIRCR.SYSRESETREQ.
+2022-10-31 08:56:29.779733 ; TestStep       ; Information ; J-Link>g
+2022-10-31 08:56:29.779733 ; TestStep       ; Information ; J-Link>qc
+2022-10-31 08:56:29.779733 ; TestStep       ; Information ; 
+2022-10-31 08:56:29.779733 ; TestStep       ; Information ; Script processing completed.
+2022-10-31 08:56:29.779733 ; TestStep       ; Information ; 
+2022-10-31 08:56:29.780729 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" completed with verdict 'Pass'. [3.32 s]
+2022-10-31 08:56:29.781888 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning afleggen FIO2" started.
+2022-10-31 08:56:29.783742 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-10-31 08:56:29.783742 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning afleggen FIO2" completed with verdict 'Pass'. [2.17 ms]
+2022-10-31 08:56:29.783742 ; TestPlan       ; Information ; "Programmeren uC DUT \ Delay 500ms" started.
+2022-10-31 08:56:30.284993 ; TestPlan       ; Information ; "Programmeren uC DUT \ Delay 500ms" completed. [500 ms]
+2022-10-31 08:56:30.284993 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning aanleggen FIO2" started.
+2022-10-31 08:56:30.286986 ; TestStep       ; Debug       ; FIO2set to: High
+2022-10-31 08:56:30.286986 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning aanleggen FIO2" completed with verdict 'Pass'. [2.07 ms]
+2022-10-31 08:56:30.286986 ; TestPlan       ; Information ; "Programmeren uC DUT" completed with verdict 'Pass'. [3.83 s]
+2022-10-31 08:56:30.287994 ; TestPlan       ; Information ; "Delay 1s" started.
+2022-10-31 08:56:31.287918 ; TestPlan       ; Information ; "Delay 1s" completed. [1.00 s]
+2022-10-31 08:56:31.287918 ; TestPlan       ; Information ; "Simuleer LED1" started.
+2022-10-31 08:56:31.288912 ; TestPlan       ; Information ; "Simuleer LED1 \ 500mA Ok AIN4" started.
+2022-10-31 08:56:31.635397 ; TestStep       ; Debug       ; AIN4 measured: 502.8675552845
+2022-10-31 08:56:31.636398 ; TestPlan       ; Information ; "Simuleer LED1 \ 500mA Ok AIN4" completed with verdict 'Pass'. [346 ms]
+2022-10-31 08:56:31.636398 ; TestPlan       ; Information ; "Simuleer LED1 \ DALI aanleggen FIO4" started.
+2022-10-31 08:56:31.638389 ; TestStep       ; Debug       ; FIO4set to: High
+2022-10-31 08:56:31.638389 ; TestPlan       ; Information ; "Simuleer LED1 \ DALI aanleggen FIO4" completed with verdict 'Pass'. [2.28 ms]
+2022-10-31 08:56:31.639388 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" started.
+2022-10-31 08:56:39.807049 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" started.
+2022-10-31 08:56:39.810040 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" completed with verdict 'Fail'. [2.33 ms]
+2022-10-31 08:56:39.810040 ; Test Step      ; Debug       ; Break issued from 'ChildDAQ' due to verdict Fail. See Break Conditions settings.
+2022-10-31 08:56:39.810040 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" completed with verdict 'Fail'. [8.17 s]
+2022-10-31 08:56:39.810040 ; Test Step      ; Debug       ; Break issued from 'Stroom door de diodes meten LED1 AIN4' due to verdict Fail. See Break Conditions settings.
+2022-10-31 08:56:39.810040 ; TestPlan       ; Information ; "Simuleer LED1" completed with verdict 'Fail'. [8.52 s]
+2022-10-31 08:56:39.810040 ; Test Step      ; Debug       ; Break issued from 'Simuleer LED1' due to verdict Fail. See Break Conditions settings.
+2022-10-31 08:56:39.810040 ; TestPlan       ; Debug       ; Test step runs finished. [13.5 s]
+2022-10-31 08:56:39.810040 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PostPlanRun completed. [276 us]
+2022-10-31 08:56:39.810040 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PostPlanRun completed. [31.5 us]
+2022-10-31 08:56:39.810040 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" PostPlanRun completed. [33.8 us]
+2022-10-31 08:56:39.811039 ; TestPlan       ; Debug       ; "Simuleer LED1 \ DALI aanleggen FIO4" PostPlanRun completed. [27.2 us]
+2022-10-31 08:56:39.811039 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 500mA Ok AIN4" PostPlanRun completed. [8.30 us]
+2022-10-31 08:56:39.811039 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning aanleggen FIO2" PostPlanRun completed. [6.90 us]
+2022-10-31 08:56:39.811039 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning afleggen FIO2" PostPlanRun completed. [6.30 us]
+2022-10-31 08:56:39.811039 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Bot CIO2" PostPlanRun completed. [16.3 us]
+2022-10-31 08:56:39.811039 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Mid EIO1" PostPlanRun completed. [32.4 us]
+2022-10-31 08:56:39.811039 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Top EIO3" PostPlanRun completed. [8.19 us]
+2022-10-31 08:56:39.811039 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PostPlanRun completed. [6.00 us]
+2022-10-31 08:56:39.811039 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PostPlanRun completed. [6.50 us]
+2022-10-31 08:56:39.811039 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PostPlanRun completed. [8.10 us]
+2022-10-31 08:56:39.811039 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PostPlanRun completed. [5.40 us]
+2022-10-31 08:56:39.811039 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PostPlanRun completed. [5.50 us]
+2022-10-31 08:56:39.811039 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PostPlanRun completed. [6.60 us]
+2022-10-31 08:56:39.811039 ; Summary        ; Information ; --------- Summary of test plan started 10/31/2022 08:56:24 ---------
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;  48V nr DUT afleggen begin FIO2                       2.09 ms  Pass   
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;  DALI afleggen FIO4                                   2.30 ms  Pass   
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;  48V inschakelen FIO6                                 1.79 ms  Pass   
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;  48V nr DUT aanleggen FIO2                            1.49 ms  Pass   
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;  Delay 100ms                                           100 ms         
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;  Spanningen controleren                               65.3 ms  Pass   
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;    3V3 Meten AIN1                                     65.1 ms  Pass   
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;  Stromen controleren                                  52.4 ms  Pass   
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;    DUT nt kortgesloten AIN0                           52.0 ms  Pass   
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;  Soldeerlinken controleren                            5.05 ms  Pass   
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;    SL Top EIO3                                        1.41 ms  Pass   
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;    SL Mid EIO1                                        1.41 ms  Pass   
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;    SL Bot CIO2                                        1.28 ms  Pass   
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;  Programmeren uC DUT                                  3.83 s   Pass   
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;    Run Program                                        3.32 s   Pass   
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;    Spanning afleggen FIO2                             2.17 ms  Pass   
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;    Delay 500ms                                         500 ms         
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;    Spanning aanleggen FIO2                            2.07 ms  Pass   
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;  Delay 1s                                             1.00 s          
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;  Simuleer LED1                                        8.52 s   Fail   
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;    500mA Ok AIN4                                       346 ms  Pass   
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;    DALI aanleggen FIO4                                2.28 ms  Pass   
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;    Stroom door de diodes meten LED1 AIN4              8.17 s   Fail   
+2022-10-31 08:56:39.811039 ; Summary        ; Information ;      ChildDAQ                                         2.33 ms  Fail   
+2022-10-31 08:56:39.811039 ; Summary        ; Information ; --------------------------------------------------------------------
+2022-10-31 08:56:39.811039 ; Summary        ; Information ; --------- Test plan completed with verdict Fail in 15.5 s ----------
+2022-10-31 08:56:39.818020 ; Labjack        ; Information ; Resource "Labjack" closed. [2.50 us]
+2022-10-31 08:59:04.617733 ; Main           ; Debug       ; Loaded Test plan C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTapPrograms\SIDDALI\SIDDALI_R20.TapPlan [635 ms]
+2022-10-31 08:59:10.619493 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-10-31 08:59:10.620162 ; TestPlan       ; Information ; Starting TestPlan 'SIDDALI_R20' on 10/31/2022 08:59:10, 32 of 32 TestSteps enabled.
+2022-10-31 08:59:10.669424 ; TestPlan       ; Debug       ; Saved Test Plan XML [49.0 ms]
+2022-10-31 08:59:12.478043 ; Labjack        ; Information ; Resource "Labjack" opened. [1.85 s]
+2022-10-31 08:59:12.483948 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PrePlanRun completed. [2.38 ms]
+2022-10-31 08:59:12.486940 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PrePlanRun completed. [3.21 ms]
+2022-10-31 08:59:12.489133 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PrePlanRun completed. [2.34 ms]
+2022-10-31 08:59:12.490941 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PrePlanRun completed. [2.27 ms]
+2022-10-31 08:59:12.493924 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PrePlanRun completed. [2.17 ms]
+2022-10-31 08:59:12.495916 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PrePlanRun completed. [2.22 ms]
+2022-10-31 08:59:12.497912 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Top EIO3" PrePlanRun completed. [2.25 ms]
+2022-10-31 08:59:12.500905 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Mid EIO1" PrePlanRun completed. [2.43 ms]
+2022-10-31 08:59:12.503900 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Bot CIO2" PrePlanRun completed. [2.81 ms]
+2022-10-31 08:59:12.505896 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning afleggen FIO2" PrePlanRun completed. [2.34 ms]
+2022-10-31 08:59:12.507887 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning aanleggen FIO2" PrePlanRun completed. [2.35 ms]
+2022-10-31 08:59:12.510880 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 300mA Ok AIN4" PrePlanRun completed. [2.15 ms]
+2022-10-31 08:59:12.512873 ; TestPlan       ; Debug       ; "Simuleer LED1 \ DALI aanleggen FIO4" PrePlanRun completed. [2.22 ms]
+2022-10-31 08:59:12.514866 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PrePlanRun completed. [36.5 us]
+2022-10-31 08:59:12.514866 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" PrePlanRun completed. [2.17 ms]
+2022-10-31 08:59:12.516861 ; TestPlan       ; Debug       ; "Simuleer LED1 \ DALI afleggen FIO4" PrePlanRun completed. [2.31 ms]
+2022-10-31 08:59:12.519862 ; TestPlan       ; Debug       ; "Simuleer LED2 \ 300mA Ok AIN6" PrePlanRun completed. [2.28 ms]
+2022-10-31 08:59:12.521861 ; TestPlan       ; Debug       ; "Simuleer LED2 \ DALI aanleggen FIO4" PrePlanRun completed. [2.33 ms]
+2022-10-31 08:59:12.524123 ; TestPlan       ; Debug       ; "Simuleer LED2 \ Stroom door de diodes meten LED2 AIN6  \ ChildDAQ" PrePlanRun completed. [48.6 us]
+2022-10-31 08:59:12.524123 ; TestPlan       ; Debug       ; "Simuleer LED2 \ Stroom door de diodes meten LED2 AIN6 " PrePlanRun completed. [2.27 ms]
+2022-10-31 08:59:12.526205 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PrePlanRun completed. [34.9 ms]
+2022-10-31 08:59:12.526205 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [45.1 ms]
+2022-10-31 08:59:12.526841 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" started.
+2022-10-31 08:59:12.528837 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-10-31 08:59:12.528837 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" completed with verdict 'Pass'. [2.48 ms]
+2022-10-31 08:59:12.529872 ; TestPlan       ; Information ; "DALI afleggen FIO4" started.
+2022-10-31 08:59:12.531825 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-10-31 08:59:12.531825 ; TestPlan       ; Information ; "DALI afleggen FIO4" completed with verdict 'Pass'. [2.36 ms]
+2022-10-31 08:59:12.531825 ; TestPlan       ; Information ; "48V inschakelen FIO6" started.
+2022-10-31 08:59:12.534820 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-10-31 08:59:12.534820 ; TestPlan       ; Information ; "48V inschakelen FIO6" completed with verdict 'Pass'. [2.35 ms]
+2022-10-31 08:59:12.534820 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" started.
+2022-10-31 08:59:12.537813 ; TestStep       ; Debug       ; FIO2set to: High
+2022-10-31 08:59:12.537813 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [2.59 ms]
+2022-10-31 08:59:12.537813 ; TestPlan       ; Information ; "Delay 100ms" started.
+2022-10-31 08:59:12.638804 ; TestPlan       ; Information ; "Delay 100ms" completed. [100 ms]
+2022-10-31 08:59:12.639176 ; TestPlan       ; Information ; "Spanningen controleren" started.
+2022-10-31 08:59:12.639176 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" started.
+2022-10-31 08:59:12.724577 ; TestStep       ; Debug       ; AIN1 measured: 3.29414507865906
+2022-10-31 08:59:12.724577 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" completed with verdict 'Pass'. [85.2 ms]
+2022-10-31 08:59:12.724577 ; TestPlan       ; Information ; "Spanningen controleren" completed with verdict 'Pass'. [85.5 ms]
+2022-10-31 08:59:12.724577 ; TestPlan       ; Information ; "Stromen controleren" started.
+2022-10-31 08:59:12.724577 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" started.
+2022-10-31 08:59:12.759483 ; TestStep       ; Debug       ; AIN0 measured: 18.9291827566922
+2022-10-31 08:59:12.759483 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" completed with verdict 'Pass'. [34.8 ms]
+2022-10-31 08:59:12.759483 ; TestPlan       ; Information ; "Stromen controleren" completed with verdict 'Pass'. [35.1 ms]
+2022-10-31 08:59:12.759483 ; TestPlan       ; Information ; "Soldeerlinken controleren" started.
+2022-10-31 08:59:12.759483 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Top EIO3" started.
+2022-10-31 08:59:12.760480 ; TestStep       ; Debug       ; EIO3read: Low
+2022-10-31 08:59:12.760480 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Top EIO3" completed with verdict 'Pass'. [934 us]
+2022-10-31 08:59:12.760480 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Mid EIO1" started.
+2022-10-31 08:59:12.762593 ; TestStep       ; Debug       ; EIO1read: High
+2022-10-31 08:59:12.762593 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Mid EIO1" completed with verdict 'Pass'. [1.40 ms]
+2022-10-31 08:59:12.762593 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Bot CIO2" started.
+2022-10-31 08:59:12.763472 ; TestStep       ; Debug       ; CIO2read: High
+2022-10-31 08:59:12.763472 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Bot CIO2" completed with verdict 'Pass'. [1.17 ms]
+2022-10-31 08:59:12.763472 ; TestPlan       ; Information ; "Soldeerlinken controleren" completed with verdict 'Pass'. [4.03 ms]
+2022-10-31 08:59:12.763472 ; TestPlan       ; Information ; "Programmeren uC DUT" started.
+2022-10-31 08:59:12.763472 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" started.
+2022-10-31 08:59:12.763472 ; TestStep       ; Debug       ; Starting process ..\..\..\..\..\..\..\..\Program Files\SEGGER\JLink\JLink.exe with arguments "-commanderscript AppFirmware.jlink"
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; SEGGER J-Link Commander V7.62b (Compiled Mar  8 2022 15:16:51)
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; DLL version V7.62b, compiled Mar  8 2022 15:15:34
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; 
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; 
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; J-Link Command File read successfully.
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; Processing script file...
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; J-Link>device MKL16Z32xxx4
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; J-Link connection not established yet but required for command.
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; Connecting to J-Link via USB...O.K.
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; Firmware: J-Link V11 compiled Sep 22 2022 14:53:28
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; Hardware version: V11.00
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; S/N: 51020380
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; License(s): GDB
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; USB speed mode: High speed (480 MBit/s)
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; VTref=3.300V (fixed)
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; J-Link>si SWD
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; Selecting SWD as current target interface.
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; J-Link>speed 1000
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; Selecting 1000 kHz as target interface speed
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; J-Link>Sleep 600
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; Sleep(600)
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; J-Link>erase
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; Target connection not established yet but required for command.
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; Device "MKL16Z32XXX4" selected.
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; 
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; 
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; Connecting to target via SWD
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; ConfigTargetSettings() start
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; ConfigTargetSettings() end
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; InitTarget() start
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; InitTarget()
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; InitTarget() end
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; Found SW-DP with ID 0x0BC11477
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; DPIDR: 0x0BC11477
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; CoreSight SoC-400 or earlier
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; AP map detection skipped. Manually configured AP map found.
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; AP[0]: AHB-AP (IDR: Not set)
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; AP[1]: MEM-AP (IDR: Not set)
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; AP[0]: Core found
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; AP[0]: AHB-AP ROM base: 0xF0002000
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; CPUID register: 0x410CC600. Implementer code: 0x41 (ARM)
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; Found Cortex-M0 r0p0, Little endian.
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; FPUnit: 2 code (BP) slots and 0 literal slots
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; CoreSight components:
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; ROMTbl[0] @ F0002000
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; [0][0]: F0000000 CID B105900D PID 000BB932 MTB-M0+
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; [0][1]: F0001000 CID B105900D PID 0008E000 MTBDWT
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; [0][2]: E00FF000 CID B105100D PID 000BB4C0 ROM Table
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; ROMTbl[1] @ E00FF000
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; [1][0]: E000E000 CID B105E00D PID 000BB008 SCS
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; [1][1]: E0001000 CID B105E00D PID 000BB00A DWT
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; [1][2]: E0002000 CID B105E00D PID 000BB00B FPB
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; Cortex-M0 identified.
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; Without any given address range, Erase Chip will be executed
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; Erasing device...
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; J-Link: Flash download: Total time needed: 1.131s (Prepare: 0.204s, Compare: 0.000s, Erase: 0.915s, Program: 0.000s, Verify: 0.000s, Restore: 0.011s)
+2022-10-31 08:59:16.331777 ; TestStep       ; Information ; Erasing done.
+2022-10-31 08:59:16.332774 ; TestStep       ; Information ; J-Link>loadfile C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\SIDDALI\Sidonia-DALI_v01_01.hex, 0x00
+2022-10-31 08:59:16.332796 ; TestStep       ; Information ; Downloading file [C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\SIDDALI\Sidonia-DALI_v01_01.hex]...
+2022-10-31 08:59:16.332796 ; TestStep       ; Information ; J-Link: Flash download: Bank 0 @ 0x00000000: 2 ranges affected (20480 bytes)
+2022-10-31 08:59:16.332796 ; TestStep       ; Information ; J-Link: Flash download: Total: 1.023s (Prepare: 0.091s, Compare: 0.089s, Erase: 0.046s, Program & Verify: 0.734s, Restore: 0.061s)
+2022-10-31 08:59:16.332796 ; TestStep       ; Information ; J-Link: Flash download: Program & Verify speed: 26 KB/s
+2022-10-31 08:59:16.332796 ; TestStep       ; Information ; O.K.
+2022-10-31 08:59:16.332796 ; TestStep       ; Information ; J-Link>r
+2022-10-31 08:59:16.332796 ; TestStep       ; Information ; Reset delay: 0 ms
+2022-10-31 08:59:16.332796 ; TestStep       ; Information ; Reset type NORMAL: Resets core & peripherals via SYSRESETREQ & VECTRESET bit.
+2022-10-31 08:59:16.332796 ; TestStep       ; Information ; Reset: Halt core after reset via DEMCR.VC_CORERESET.
+2022-10-31 08:59:16.332796 ; TestStep       ; Information ; Reset: Reset device via AIRCR.SYSRESETREQ.
+2022-10-31 08:59:16.332796 ; TestStep       ; Information ; J-Link>g
+2022-10-31 08:59:16.332796 ; TestStep       ; Information ; J-Link>qc
+2022-10-31 08:59:16.332796 ; TestStep       ; Information ; 
+2022-10-31 08:59:16.332796 ; TestStep       ; Information ; Script processing completed.
+2022-10-31 08:59:16.332796 ; TestStep       ; Information ; 
+2022-10-31 08:59:16.345739 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" completed with verdict 'Pass'. [3.58 s]
+2022-10-31 08:59:16.345739 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning afleggen FIO2" started.
+2022-10-31 08:59:16.347737 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-10-31 08:59:16.347737 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning afleggen FIO2" completed with verdict 'Pass'. [1.93 ms]
+2022-10-31 08:59:16.347737 ; TestPlan       ; Information ; "Programmeren uC DUT \ Delay 500ms" started.
+2022-10-31 08:59:16.848995 ; TestPlan       ; Information ; "Programmeren uC DUT \ Delay 500ms" completed. [500 ms]
+2022-10-31 08:59:16.848995 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning aanleggen FIO2" started.
+2022-10-31 08:59:16.851651 ; TestStep       ; Debug       ; FIO2set to: High
+2022-10-31 08:59:16.851651 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning aanleggen FIO2" completed with verdict 'Pass'. [2.77 ms]
+2022-10-31 08:59:16.851651 ; TestPlan       ; Information ; "Programmeren uC DUT" completed with verdict 'Pass'. [4.08 s]
+2022-10-31 08:59:16.852649 ; TestPlan       ; Information ; "Delay 1s" started.
+2022-10-31 08:59:17.852220 ; TestPlan       ; Information ; "Delay 1s" completed. [1.00 s]
+2022-10-31 08:59:17.852220 ; TestPlan       ; Information ; "Simuleer LED1" started.
+2022-10-31 08:59:17.852220 ; TestPlan       ; Information ; "Simuleer LED1 \ 300mA Ok AIN4" started.
+2022-10-31 08:59:18.195952 ; TestStep       ; Debug       ; AIN4 measured: 301.81294606639
+2022-10-31 08:59:18.196943 ; TestPlan       ; Information ; "Simuleer LED1 \ 300mA Ok AIN4" completed with verdict 'Pass'. [343 ms]
+2022-10-31 08:59:18.196943 ; TestPlan       ; Information ; "Simuleer LED1 \ DALI aanleggen FIO4" started.
+2022-10-31 08:59:18.198945 ; TestStep       ; Debug       ; FIO4set to: High
+2022-10-31 08:59:18.199942 ; TestPlan       ; Information ; "Simuleer LED1 \ DALI aanleggen FIO4" completed with verdict 'Pass'. [2.43 ms]
+2022-10-31 08:59:18.199942 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" started.
+2022-10-31 08:59:25.405161 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" started.
+2022-10-31 08:59:29.747712 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" completed with verdict 'Pass'. [4.34 s]
+2022-10-31 08:59:29.747712 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" completed with verdict 'Pass'. [11.5 s]
+2022-10-31 08:59:29.747712 ; TestPlan       ; Information ; "Simuleer LED1 \ DALI afleggen FIO4" started.
+2022-10-31 08:59:29.749705 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-10-31 08:59:29.749705 ; TestPlan       ; Information ; "Simuleer LED1 \ DALI afleggen FIO4" completed with verdict 'Pass'. [2.08 ms]
+2022-10-31 08:59:29.749705 ; TestPlan       ; Information ; "Simuleer LED1" completed with verdict 'Pass'. [11.8 s]
+2022-10-31 08:59:29.749705 ; TestPlan       ; Information ; "Simuleer LED2" started.
+2022-10-31 08:59:29.750706 ; TestPlan       ; Information ; "Simuleer LED2 \ Delay 1s" started.
+2022-10-31 08:59:30.750779 ; TestPlan       ; Information ; "Simuleer LED2 \ Delay 1s" completed. [1.00 s]
+2022-10-31 08:59:30.750779 ; TestPlan       ; Information ; "Simuleer LED2 \ 300mA Ok AIN6" started.
+2022-10-31 08:59:31.101463 ; TestStep       ; Debug       ; AIN6 measured: 298.052694365123
+2022-10-31 08:59:31.101463 ; TestPlan       ; Information ; "Simuleer LED2 \ 300mA Ok AIN6" completed with verdict 'Pass'. [350 ms]
+2022-10-31 08:59:31.101463 ; TestPlan       ; Information ; "Simuleer LED2 \ DALI aanleggen FIO4" started.
+2022-10-31 08:59:31.103458 ; TestStep       ; Debug       ; FIO4set to: High
+2022-10-31 08:59:31.103458 ; TestPlan       ; Information ; "Simuleer LED2 \ DALI aanleggen FIO4" completed with verdict 'Pass'. [1.31 ms]
+2022-10-31 08:59:31.103458 ; TestPlan       ; Information ; "Simuleer LED2 \ Stroom door de diodes meten LED2 AIN6 " started.
+2022-10-31 08:59:38.277963 ; TestPlan       ; Information ; "Simuleer LED2 \ Stroom door de diodes meten LED2 AIN6  \ ChildDAQ" started.
+2022-10-31 08:59:38.278956 ; TestPlan       ; Information ; "Simuleer LED2 \ Stroom door de diodes meten LED2 AIN6  \ ChildDAQ" completed with verdict 'Pass'. [898 us]
+2022-10-31 08:59:38.278956 ; TestPlan       ; Information ; "Simuleer LED2 \ Stroom door de diodes meten LED2 AIN6 " completed with verdict 'Pass'. [7.17 s]
+2022-10-31 08:59:38.278956 ; TestPlan       ; Information ; "Simuleer LED2" completed with verdict 'Pass'. [8.52 s]
+2022-10-31 08:59:38.278956 ; TestPlan       ; Information ; "48V naar DUT afleggen einde FIO2" started.
+2022-10-31 08:59:38.280948 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-10-31 08:59:38.280948 ; TestPlan       ; Information ; "48V naar DUT afleggen einde FIO2" completed with verdict 'Pass'. [1.83 ms]
+2022-10-31 08:59:38.280948 ; TestPlan       ; Debug       ; Test step runs finished. [25.7 s]
+2022-10-31 08:59:38.280948 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PostPlanRun completed. [270 us]
+2022-10-31 08:59:38.280948 ; TestPlan       ; Debug       ; "Simuleer LED2 \ Stroom door de diodes meten LED2 AIN6  \ ChildDAQ" PostPlanRun completed. [18.4 us]
+2022-10-31 08:59:38.280948 ; TestPlan       ; Debug       ; "Simuleer LED2 \ Stroom door de diodes meten LED2 AIN6 " PostPlanRun completed. [8.80 us]
+2022-10-31 08:59:38.280948 ; TestPlan       ; Debug       ; "Simuleer LED2 \ DALI aanleggen FIO4" PostPlanRun completed. [11.7 us]
+2022-10-31 08:59:38.280948 ; TestPlan       ; Debug       ; "Simuleer LED2 \ 300mA Ok AIN6" PostPlanRun completed. [9.80 us]
+2022-10-31 08:59:38.280948 ; TestPlan       ; Debug       ; "Simuleer LED1 \ DALI afleggen FIO4" PostPlanRun completed. [8.40 us]
+2022-10-31 08:59:38.280948 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PostPlanRun completed. [10.0 us]
+2022-10-31 08:59:38.280948 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" PostPlanRun completed. [19.5 us]
+2022-10-31 08:59:38.280948 ; TestPlan       ; Debug       ; "Simuleer LED1 \ DALI aanleggen FIO4" PostPlanRun completed. [13.4 us]
+2022-10-31 08:59:38.280948 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 300mA Ok AIN4" PostPlanRun completed. [14.4 us]
+2022-10-31 08:59:38.280948 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning aanleggen FIO2" PostPlanRun completed. [18.3 us]
+2022-10-31 08:59:38.280948 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning afleggen FIO2" PostPlanRun completed. [7.30 us]
+2022-10-31 08:59:38.280948 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Bot CIO2" PostPlanRun completed. [8.30 us]
+2022-10-31 08:59:38.280948 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Mid EIO1" PostPlanRun completed. [8.10 us]
+2022-10-31 08:59:38.280948 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Top EIO3" PostPlanRun completed. [10.2 us]
+2022-10-31 08:59:38.280948 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PostPlanRun completed. [12.8 us]
+2022-10-31 08:59:38.280948 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PostPlanRun completed. [18.5 us]
+2022-10-31 08:59:38.281951 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PostPlanRun completed. [17.4 us]
+2022-10-31 08:59:38.281951 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PostPlanRun completed. [13.9 us]
+2022-10-31 08:59:38.281951 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PostPlanRun completed. [7.50 us]
+2022-10-31 08:59:38.281951 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PostPlanRun completed. [19.7 us]
+2022-10-31 08:59:38.282951 ; Summary        ; Information ; --------- Summary of test plan started 10/31/2022 08:59:10 ---------
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;  48V nr DUT afleggen begin FIO2                       2.48 ms  Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;  DALI afleggen FIO4                                   2.36 ms  Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;  48V inschakelen FIO6                                 2.35 ms  Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;  48V nr DUT aanleggen FIO2                            2.59 ms  Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;  Delay 100ms                                           100 ms         
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;  Spanningen controleren                               85.5 ms  Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;    3V3 Meten AIN1                                     85.2 ms  Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;  Stromen controleren                                  35.1 ms  Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;    DUT nt kortgesloten AIN0                           34.8 ms  Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;  Soldeerlinken controleren                            4.03 ms  Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;    SL Top EIO3                                         934 us  Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;    SL Mid EIO1                                        1.40 ms  Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;    SL Bot CIO2                                        1.17 ms  Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;  Programmeren uC DUT                                  4.08 s   Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;    Run Program                                        3.58 s   Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;    Spanning afleggen FIO2                             1.93 ms  Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;    Delay 500ms                                         500 ms         
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;    Spanning aanleggen FIO2                            2.77 ms  Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;  Delay 1s                                             1.00 s          
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;  Simuleer LED1                                        11.8 s   Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;    300mA Ok AIN4                                       343 ms  Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;    DALI aanleggen FIO4                                2.43 ms  Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;    Stroom door de diodes meten LED1 AIN4              11.5 s   Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;      ChildDAQ                                         4.34 s   Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;    DALI afleggen FIO4                                 2.08 ms  Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;  Simuleer LED2                                        8.52 s   Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;    Delay 1s                                           1.00 s          
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;    300mA Ok AIN6                                       350 ms  Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;    DALI aanleggen FIO4                                1.31 ms  Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;    Stroom door de diodes meten LED2 AIN6              7.17 s   Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;      ChildDAQ                                          898 us  Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ;  48V naar DUT afleggen einde FIO2                     1.83 ms  Pass   
+2022-10-31 08:59:38.282951 ; Summary        ; Information ; --------------------------------------------------------------------
+2022-10-31 08:59:38.282951 ; Summary        ; Information ; ------------ Test plan completed successfully in 27.7 s ------------
+2022-10-31 08:59:38.289931 ; Labjack        ; Information ; Resource "Labjack" closed. [2.70 us]
+2022-10-31 08:59:46.676350 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-10-31 08:59:46.676350 ; TestPlan       ; Information ; Starting TestPlan 'SIDDALI_R20' on 10/31/2022 08:59:46, 32 of 32 TestSteps enabled.
+2022-10-31 08:59:46.704275 ; TestPlan       ; Debug       ; Saved Test Plan XML [26.7 ms]
+2022-10-31 08:59:48.537356 ; Labjack        ; Information ; Resource "Labjack" opened. [1.85 s]
+2022-10-31 08:59:48.542348 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PrePlanRun completed. [2.87 ms]
+2022-10-31 08:59:48.545374 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PrePlanRun completed. [2.63 ms]
+2022-10-31 08:59:48.547421 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PrePlanRun completed. [2.23 ms]
+2022-10-31 08:59:48.549322 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PrePlanRun completed. [2.01 ms]
+2022-10-31 08:59:48.551378 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PrePlanRun completed. [1.99 ms]
+2022-10-31 08:59:48.553311 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PrePlanRun completed. [1.87 ms]
+2022-10-31 08:59:48.555314 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Top EIO3" PrePlanRun completed. [2.00 ms]
+2022-10-31 08:59:48.557351 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Mid EIO1" PrePlanRun completed. [2.24 ms]
+2022-10-31 08:59:48.559346 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Bot CIO2" PrePlanRun completed. [2.09 ms]
+2022-10-31 08:59:48.561780 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning afleggen FIO2" PrePlanRun completed. [1.99 ms]
+2022-10-31 08:59:48.563810 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning aanleggen FIO2" PrePlanRun completed. [1.95 ms]
+2022-10-31 08:59:48.565777 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 300mA Ok AIN4" PrePlanRun completed. [2.01 ms]
+2022-10-31 08:59:48.567737 ; TestPlan       ; Debug       ; "Simuleer LED1 \ DALI aanleggen FIO4" PrePlanRun completed. [1.96 ms]
+2022-10-31 08:59:48.569739 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PrePlanRun completed. [31.9 us]
+2022-10-31 08:59:48.569739 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" PrePlanRun completed. [2.04 ms]
+2022-10-31 08:59:48.571265 ; TestPlan       ; Debug       ; "Simuleer LED1 \ DALI afleggen FIO4" PrePlanRun completed. [1.35 ms]
+2022-10-31 08:59:48.573262 ; TestPlan       ; Debug       ; "Simuleer LED2 \ 300mA Ok AIN6" PrePlanRun completed. [1.99 ms]
+2022-10-31 08:59:48.575426 ; TestPlan       ; Debug       ; "Simuleer LED2 \ DALI aanleggen FIO4" PrePlanRun completed. [2.26 ms]
+2022-10-31 08:59:48.577296 ; TestPlan       ; Debug       ; "Simuleer LED2 \ Stroom door de diodes meten LED2 AIN6  \ ChildDAQ" PrePlanRun completed. [32.8 us]
+2022-10-31 08:59:48.577296 ; TestPlan       ; Debug       ; "Simuleer LED2 \ Stroom door de diodes meten LED2 AIN6 " PrePlanRun completed. [2.19 ms]
+2022-10-31 08:59:48.579481 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PrePlanRun completed. [30.3 ms]
+2022-10-31 08:59:48.579481 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [40.1 ms]
+2022-10-31 08:59:48.579481 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" started.
+2022-10-31 08:59:48.582236 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-10-31 08:59:48.582236 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" completed with verdict 'Pass'. [2.23 ms]
+2022-10-31 08:59:48.582236 ; TestPlan       ; Information ; "DALI afleggen FIO4" started.
+2022-10-31 08:59:48.584378 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-10-31 08:59:48.584378 ; TestPlan       ; Information ; "DALI afleggen FIO4" completed with verdict 'Pass'. [2.01 ms]
+2022-10-31 08:59:48.584378 ; TestPlan       ; Information ; "48V inschakelen FIO6" started.
+2022-10-31 08:59:48.586771 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-10-31 08:59:48.587220 ; TestPlan       ; Information ; "48V inschakelen FIO6" completed with verdict 'Pass'. [2.20 ms]
+2022-10-31 08:59:48.587220 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" started.
+2022-10-31 08:59:48.589364 ; TestStep       ; Debug       ; FIO2set to: High
+2022-10-31 08:59:48.589364 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [2.36 ms]
+2022-10-31 08:59:48.590219 ; TestPlan       ; Information ; "Delay 100ms" started.
+2022-10-31 08:59:48.689762 ; TestPlan       ; Information ; "Delay 100ms" completed. [100 ms]
+2022-10-31 08:59:48.690913 ; TestPlan       ; Information ; "Spanningen controleren" started.
+2022-10-31 08:59:48.690913 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" started.
+2022-10-31 08:59:48.763745 ; TestStep       ; Debug       ; AIN1 measured: 3.29303786277771
+2022-10-31 08:59:48.763745 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" completed with verdict 'Pass'. [73.0 ms]
+2022-10-31 08:59:48.763745 ; TestPlan       ; Information ; "Spanningen controleren" completed with verdict 'Pass'. [73.6 ms]
+2022-10-31 08:59:48.764741 ; TestPlan       ; Information ; "Stromen controleren" started.
+2022-10-31 08:59:48.764741 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" started.
+2022-10-31 08:59:48.816604 ; TestStep       ; Debug       ; AIN0 measured: 18.9322979003191
+2022-10-31 08:59:48.816604 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" completed with verdict 'Pass'. [52.1 ms]
+2022-10-31 08:59:48.817655 ; TestPlan       ; Information ; "Stromen controleren" completed with verdict 'Pass'. [52.7 ms]
+2022-10-31 08:59:48.817655 ; TestPlan       ; Information ; "Soldeerlinken controleren" started.
+2022-10-31 08:59:48.817655 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Top EIO3" started.
+2022-10-31 08:59:48.819971 ; TestStep       ; Debug       ; EIO3read: Low
+2022-10-31 08:59:48.819971 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Top EIO3" completed with verdict 'Pass'. [2.05 ms]
+2022-10-31 08:59:48.820651 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Mid EIO1" started.
+2022-10-31 08:59:48.821597 ; TestStep       ; Debug       ; EIO1read: High
+2022-10-31 08:59:48.822710 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Mid EIO1" completed with verdict 'Pass'. [1.85 ms]
+2022-10-31 08:59:48.822710 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Bot CIO2" started.
+2022-10-31 08:59:48.824646 ; TestStep       ; Debug       ; CIO2read: High
+2022-10-31 08:59:48.824646 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Bot CIO2" completed with verdict 'Pass'. [1.95 ms]
+2022-10-31 08:59:48.824646 ; TestPlan       ; Information ; "Soldeerlinken controleren" completed with verdict 'Pass'. [7.46 ms]
+2022-10-31 08:59:48.825581 ; TestPlan       ; Information ; "Programmeren uC DUT" started.
+2022-10-31 08:59:48.825581 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" started.
+2022-10-31 08:59:48.825581 ; TestStep       ; Debug       ; Starting process ..\..\..\..\..\..\..\..\Program Files\SEGGER\JLink\JLink.exe with arguments "-commanderscript AppFirmware.jlink"
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; SEGGER J-Link Commander V7.62b (Compiled Mar  8 2022 15:16:51)
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; DLL version V7.62b, compiled Mar  8 2022 15:15:34
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; 
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; 
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; J-Link Command File read successfully.
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; Processing script file...
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; J-Link>device MKL16Z32xxx4
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; J-Link connection not established yet but required for command.
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; Connecting to J-Link via USB...O.K.
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; Firmware: J-Link V11 compiled Sep 22 2022 14:53:28
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; Hardware version: V11.00
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; S/N: 51020380
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; License(s): GDB
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; USB speed mode: High speed (480 MBit/s)
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; VTref=3.300V (fixed)
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; J-Link>si SWD
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; Selecting SWD as current target interface.
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; J-Link>speed 1000
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; Selecting 1000 kHz as target interface speed
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; J-Link>Sleep 600
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; Sleep(600)
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; J-Link>erase
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; Target connection not established yet but required for command.
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; Device "MKL16Z32XXX4" selected.
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; 
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; 
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; Connecting to target via SWD
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; ConfigTargetSettings() start
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; ConfigTargetSettings() end
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; InitTarget() start
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; InitTarget()
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; InitTarget() end
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; Found SW-DP with ID 0x0BC11477
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; DPIDR: 0x0BC11477
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; CoreSight SoC-400 or earlier
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; AP map detection skipped. Manually configured AP map found.
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; AP[0]: AHB-AP (IDR: Not set)
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; AP[1]: MEM-AP (IDR: Not set)
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; AP[0]: Core found
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; AP[0]: AHB-AP ROM base: 0xF0002000
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; CPUID register: 0x410CC600. Implementer code: 0x41 (ARM)
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; Found Cortex-M0 r0p0, Little endian.
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; FPUnit: 2 code (BP) slots and 0 literal slots
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; CoreSight components:
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; ROMTbl[0] @ F0002000
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; [0][0]: F0000000 CID B105900D PID 000BB932 MTB-M0+
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; [0][1]: F0001000 CID B105900D PID 0008E000 MTBDWT
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; [0][2]: E00FF000 CID B105100D PID 000BB4C0 ROM Table
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; ROMTbl[1] @ E00FF000
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; [1][0]: E000E000 CID B105E00D PID 000BB008 SCS
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; [1][1]: E0001000 CID B105E00D PID 000BB00A DWT
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; [1][2]: E0002000 CID B105E00D PID 000BB00B FPB
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; Cortex-M0 identified.
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; Without any given address range, Erase Chip will be executed
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; Erasing device...
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; J-Link: Flash download: Total time needed: 1.226s (Prepare: 0.187s, Compare: 0.000s, Erase: 1.027s, Program: 0.000s, Verify: 0.000s, Restore: 0.011s)
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; Erasing done.
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; J-Link>loadfile C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\SIDDALI\Sidonia-DALI_v01_01.hex, 0x00
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; Downloading file [C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\SIDDALI\Sidonia-DALI_v01_01.hex]...
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; J-Link: Flash download: Bank 0 @ 0x00000000: 2 ranges affected (20480 bytes)
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; J-Link: Flash download: Total: 0.998s (Prepare: 0.089s, Compare: 0.094s, Erase: 0.036s, Program & Verify: 0.717s, Restore: 0.060s)
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; J-Link: Flash download: Program & Verify speed: 27 KB/s
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; O.K.
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; J-Link>r
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; Reset delay: 0 ms
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; Reset type NORMAL: Resets core & peripherals via SYSRESETREQ & VECTRESET bit.
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; Reset: Halt core after reset via DEMCR.VC_CORERESET.
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; Reset: Reset device via AIRCR.SYSRESETREQ.
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; J-Link>g
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; J-Link>qc
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; 
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; Script processing completed.
+2022-10-31 08:59:52.409609 ; TestStep       ; Information ; 
+2022-10-31 08:59:52.426572 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" completed with verdict 'Pass'. [3.60 s]
+2022-10-31 08:59:52.426572 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning afleggen FIO2" started.
+2022-10-31 08:59:52.429574 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-10-31 08:59:52.429574 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning afleggen FIO2" completed with verdict 'Pass'. [2.79 ms]
+2022-10-31 08:59:52.429574 ; TestPlan       ; Information ; "Programmeren uC DUT \ Delay 500ms" started.
+2022-10-31 08:59:52.930505 ; TestPlan       ; Information ; "Programmeren uC DUT \ Delay 500ms" completed. [500 ms]
+2022-10-31 08:59:52.930505 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning aanleggen FIO2" started.
+2022-10-31 08:59:52.933445 ; TestStep       ; Debug       ; FIO2set to: High
+2022-10-31 08:59:52.933445 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning aanleggen FIO2" completed with verdict 'Pass'. [2.72 ms]
+2022-10-31 08:59:52.933445 ; TestPlan       ; Information ; "Programmeren uC DUT" completed with verdict 'Pass'. [4.10 s]
+2022-10-31 08:59:52.933445 ; TestPlan       ; Information ; "Delay 1s" started.
+2022-10-31 08:59:53.934354 ; TestPlan       ; Information ; "Delay 1s" completed. [1.00 s]
+2022-10-31 08:59:53.934354 ; TestPlan       ; Information ; "Simuleer LED1" started.
+2022-10-31 08:59:53.935025 ; TestPlan       ; Information ; "Simuleer LED1 \ 300mA Ok AIN4" started.
+2022-10-31 08:59:54.285210 ; TestStep       ; Debug       ; AIN4 measured: 285.022206755051
+2022-10-31 08:59:54.285210 ; TestPlan       ; Information ; "Simuleer LED1 \ 300mA Ok AIN4" completed with verdict 'Pass'. [350 ms]
+2022-10-31 08:59:54.286209 ; TestPlan       ; Information ; "Simuleer LED1 \ DALI aanleggen FIO4" started.
+2022-10-31 08:59:54.287510 ; TestStep       ; Debug       ; FIO4set to: High
+2022-10-31 08:59:54.288204 ; TestPlan       ; Information ; "Simuleer LED1 \ DALI aanleggen FIO4" completed with verdict 'Pass'. [2.01 ms]
+2022-10-31 08:59:54.288204 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" started.
+2022-10-31 09:00:01.497602 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" started.
+2022-10-31 09:00:01.497602 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" completed with verdict 'Pass'. [818 us]
+2022-10-31 09:00:01.498651 ; TestPlan       ; Information ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" completed with verdict 'Pass'. [7.21 s]
+2022-10-31 09:00:01.498651 ; TestPlan       ; Information ; "Simuleer LED1 \ DALI afleggen FIO4" started.
+2022-10-31 09:00:01.501586 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-10-31 09:00:01.501586 ; TestPlan       ; Information ; "Simuleer LED1 \ DALI afleggen FIO4" completed with verdict 'Pass'. [2.68 ms]
+2022-10-31 09:00:01.502584 ; TestPlan       ; Information ; "Simuleer LED1" completed with verdict 'Pass'. [7.56 s]
+2022-10-31 09:00:01.502584 ; TestPlan       ; Information ; "Simuleer LED2" started.
+2022-10-31 09:00:01.502584 ; TestPlan       ; Information ; "Simuleer LED2 \ Delay 1s" started.
+2022-10-31 09:00:02.502563 ; TestPlan       ; Information ; "Simuleer LED2 \ Delay 1s" completed. [1.00 s]
+2022-10-31 09:00:02.503376 ; TestPlan       ; Information ; "Simuleer LED2 \ 300mA Ok AIN6" started.
+2022-10-31 09:00:02.854949 ; TestStep       ; Debug       ; AIN6 measured: 288.697852878387
+2022-10-31 09:00:02.854949 ; TestPlan       ; Information ; "Simuleer LED2 \ 300mA Ok AIN6" completed with verdict 'Pass'. [351 ms]
+2022-10-31 09:00:02.854949 ; TestPlan       ; Information ; "Simuleer LED2 \ DALI aanleggen FIO4" started.
+2022-10-31 09:00:02.856944 ; TestStep       ; Debug       ; FIO4set to: High
+2022-10-31 09:00:02.856944 ; TestPlan       ; Information ; "Simuleer LED2 \ DALI aanleggen FIO4" completed with verdict 'Pass'. [1.95 ms]
+2022-10-31 09:00:02.856944 ; TestPlan       ; Information ; "Simuleer LED2 \ Stroom door de diodes meten LED2 AIN6 " started.
+2022-10-31 09:00:10.011757 ; TestPlan       ; Information ; "Simuleer LED2 \ Stroom door de diodes meten LED2 AIN6  \ ChildDAQ" started.
+2022-10-31 09:00:10.012689 ; TestPlan       ; Information ; "Simuleer LED2 \ Stroom door de diodes meten LED2 AIN6  \ ChildDAQ" completed with verdict 'Pass'. [910 us]
+2022-10-31 09:00:10.013688 ; TestPlan       ; Information ; "Simuleer LED2 \ Stroom door de diodes meten LED2 AIN6 " completed with verdict 'Pass'. [7.15 s]
+2022-10-31 09:00:10.013688 ; TestPlan       ; Information ; "Simuleer LED2" completed with verdict 'Pass'. [8.51 s]
+2022-10-31 09:00:10.013688 ; TestPlan       ; Information ; "48V naar DUT afleggen einde FIO2" started.
+2022-10-31 09:00:10.016685 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-10-31 09:00:10.016685 ; TestPlan       ; Information ; "48V naar DUT afleggen einde FIO2" completed with verdict 'Pass'. [2.53 ms]
+2022-10-31 09:00:10.016685 ; TestPlan       ; Debug       ; Test step runs finished. [21.4 s]
+2022-10-31 09:00:10.017805 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PostPlanRun completed. [671 us]
+2022-10-31 09:00:10.017805 ; TestPlan       ; Debug       ; "Simuleer LED2 \ Stroom door de diodes meten LED2 AIN6  \ ChildDAQ" PostPlanRun completed. [55.5 us]
+2022-10-31 09:00:10.017805 ; TestPlan       ; Debug       ; "Simuleer LED2 \ Stroom door de diodes meten LED2 AIN6 " PostPlanRun completed. [22.6 us]
+2022-10-31 09:00:10.017805 ; TestPlan       ; Debug       ; "Simuleer LED2 \ DALI aanleggen FIO4" PostPlanRun completed. [27.4 us]
+2022-10-31 09:00:10.017805 ; TestPlan       ; Debug       ; "Simuleer LED2 \ 300mA Ok AIN6" PostPlanRun completed. [28.7 us]
+2022-10-31 09:00:10.017805 ; TestPlan       ; Debug       ; "Simuleer LED1 \ DALI afleggen FIO4" PostPlanRun completed. [44.3 us]
+2022-10-31 09:00:10.017805 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PostPlanRun completed. [41.0 us]
+2022-10-31 09:00:10.017805 ; TestPlan       ; Debug       ; "Simuleer LED1 \ Stroom door de diodes meten LED1 AIN4" PostPlanRun completed. [38.1 us]
+2022-10-31 09:00:10.017805 ; TestPlan       ; Debug       ; "Simuleer LED1 \ DALI aanleggen FIO4" PostPlanRun completed. [16.1 us]
+2022-10-31 09:00:10.017805 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 300mA Ok AIN4" PostPlanRun completed. [16.4 us]
+2022-10-31 09:00:10.017805 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning aanleggen FIO2" PostPlanRun completed. [13.8 us]
+2022-10-31 09:00:10.017805 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning afleggen FIO2" PostPlanRun completed. [11.0 us]
+2022-10-31 09:00:10.017805 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Bot CIO2" PostPlanRun completed. [17.7 us]
+2022-10-31 09:00:10.017805 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Mid EIO1" PostPlanRun completed. [18.3 us]
+2022-10-31 09:00:10.017805 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Top EIO3" PostPlanRun completed. [22.4 us]
+2022-10-31 09:00:10.017805 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PostPlanRun completed. [17.3 us]
+2022-10-31 09:00:10.017805 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PostPlanRun completed. [16.4 us]
+2022-10-31 09:00:10.017805 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PostPlanRun completed. [14.8 us]
+2022-10-31 09:00:10.017805 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PostPlanRun completed. [14.3 us]
+2022-10-31 09:00:10.017805 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PostPlanRun completed. [14.0 us]
+2022-10-31 09:00:10.018684 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PostPlanRun completed. [16.0 us]
+2022-10-31 09:00:10.018684 ; Summary        ; Information ; --------- Summary of test plan started 10/31/2022 08:59:46 ---------
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;  48V nr DUT afleggen begin FIO2                       2.23 ms  Pass   
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;  DALI afleggen FIO4                                   2.01 ms  Pass   
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;  48V inschakelen FIO6                                 2.20 ms  Pass   
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;  48V nr DUT aanleggen FIO2                            2.36 ms  Pass   
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;  Delay 100ms                                           100 ms         
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;  Spanningen controleren                               73.6 ms  Pass   
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;    3V3 Meten AIN1                                     73.0 ms  Pass   
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;  Stromen controleren                                  52.7 ms  Pass   
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;    DUT nt kortgesloten AIN0                           52.1 ms  Pass   
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;  Soldeerlinken controleren                            7.46 ms  Pass   
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;    SL Top EIO3                                        2.05 ms  Pass   
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;    SL Mid EIO1                                        1.85 ms  Pass   
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;    SL Bot CIO2                                        1.95 ms  Pass   
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;  Programmeren uC DUT                                  4.10 s   Pass   
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;    Run Program                                        3.60 s   Pass   
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;    Spanning afleggen FIO2                             2.79 ms  Pass   
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;    Delay 500ms                                         500 ms         
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;    Spanning aanleggen FIO2                            2.72 ms  Pass   
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;  Delay 1s                                             1.00 s          
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;  Simuleer LED1                                        7.56 s   Pass   
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;    300mA Ok AIN4                                       350 ms  Pass   
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;    DALI aanleggen FIO4                                2.01 ms  Pass   
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;    Stroom door de diodes meten LED1 AIN4              7.21 s   Pass   
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;      ChildDAQ                                          818 us  Pass   
+2022-10-31 09:00:10.018684 ; Summary        ; Information ;    DALI afleggen FIO4                                 2.68 ms  Pass   
+2022-10-31 09:00:10.019672 ; Summary        ; Information ;  Simuleer LED2                                        8.51 s   Pass   
+2022-10-31 09:00:10.019672 ; Summary        ; Information ;    Delay 1s                                           1.00 s          
+2022-10-31 09:00:10.019672 ; Summary        ; Information ;    300mA Ok AIN6                                       351 ms  Pass   
+2022-10-31 09:00:10.019672 ; Summary        ; Information ;    DALI aanleggen FIO4                                1.95 ms  Pass   
+2022-10-31 09:00:10.019672 ; Summary        ; Information ;    Stroom door de diodes meten LED2 AIN6              7.15 s   Pass   
+2022-10-31 09:00:10.019672 ; Summary        ; Information ;      ChildDAQ                                          910 us  Pass   
+2022-10-31 09:00:10.019672 ; Summary        ; Information ;  48V naar DUT afleggen einde FIO2                     2.53 ms  Pass   
+2022-10-31 09:00:10.019672 ; Summary        ; Information ; --------------------------------------------------------------------
+2022-10-31 09:00:10.019672 ; Summary        ; Information ; ------------ Test plan completed successfully in 23.3 s ------------
+2022-10-31 09:00:10.026654 ; Labjack        ; Information ; Resource "Labjack" closed. [4.20 us]
+2022-10-31 09:01:38.411898 ; Settings       ; Debug       ; Saved GuiControlsSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [19.8 ms]
+2022-10-31 09:01:38.428852 ; Settings       ; Debug       ; Saved PanelSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [1.33 ms]
+2022-10-31 09:01:38.430847 ; Settings       ; Debug       ; Saved EditorSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [2.34 ms]

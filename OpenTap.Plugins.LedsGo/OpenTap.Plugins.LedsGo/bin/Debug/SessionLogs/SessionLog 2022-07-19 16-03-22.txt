@@ -1,0 +1,397 @@
+﻿2022-07-19 16:03:18.984890 ; Session        ; Debug       ; Session log loaded as 'D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\editor 2022-07-19 16-03-18.txt'. [6.84 ms]
+2022-07-19 16:03:19.017800 ; Session        ; Debug       ; Running '"D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\editor.exe" ' in 'D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2022-07-19 16:03:19.147455 ; Session        ; Debug       ; Microsoft Windows 10.0.19043 X64
+2022-07-19 16:03:19.147455 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2022-07-19 16:03:19.177374 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2022-07-19 16:03:19.203308 ; AssemblyFinder ; Debug       ; Found 30/85 assembly files. [47.3 ms]
+2022-07-19 16:03:19.356900 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Wpf, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\WPF Controls\Keysight.OpenTap.Wpf.dll
+2022-07-19 16:03:19.395790 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-07-19 16:03:19.412744 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-07-19 16:03:20.026114 ; Searcher       ; Debug       ; Ordered 28 assemblies according to references. [813 ms]
+2022-07-19 16:03:20.604559 ; PluginManager  ; Debug       ; Found 18 plugin assemblies containing 265 plugin types. [1.39 s]
+2022-07-19 16:03:20.611542 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2022-07-19 16:03:20.611542 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2022-07-19 16:03:20.611542 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2022-07-19 16:03:20.611542 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2022-07-19 16:03:20.611542 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2022-07-19 16:03:20.611542 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2022-07-19 16:03:20.611542 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2022-07-19 16:03:20.611542 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of OpenTap.Plugins.LedsGo.dll
+2022-07-19 16:03:20.611542 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-07-19 16:03:20.611542 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of ResultsViewer.exe
+2022-07-19 16:03:20.611542 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of RunExplorer.exe
+2022-07-19 16:03:20.611542 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2022-07-19 16:03:20.611542 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-07-19 16:03:20.611542 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2022-07-19 16:03:20.611542 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-07-19 16:03:20.611542 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-07-19 16:03:20.611542 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-07-19 16:03:20.611542 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2022-07-19 16:03:20.611542 ; PluginManager  ; Debug       ; Searched 30 Assemblies. [1.40 s]
+2022-07-19 16:03:20.654425 ; PluginManager  ; Debug       ; Loaded OpenTap. [4.97 ms]
+2022-07-19 16:03:20.683347 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [15.4 ms]
+2022-07-19 16:03:20.689335 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [589 us]
+2022-07-19 16:03:20.695317 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [26.9 ms]
+2022-07-19 16:03:20.769130 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [22.1 ms]
+2022-07-19 16:03:20.979558 ; PluginManager  ; Debug       ; Loaded mscorlib. [1.20 us]
+2022-07-19 16:03:21.369515 ; Settings       ; Debug       ; EditorSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [1.47 s]
+2022-07-19 16:03:21.418385 ; Resolver       ; Debug       ; Found match for MahApps.Metro, Version=1.3.0.0, Culture=neutral, PublicKeyToken=f4fb5a3c4d1e5b4f in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\MahApps.Metro.1.3.0.0\MahApps.Metro.dll
+2022-07-19 16:03:21.875631 ; GUI            ; Debug       ; Loaded Light Theme. [46.7 ms]
+2022-07-19 16:03:21.904556 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2022-07-19 16:03:22.373766 ; Settings       ; Debug       ; GuiControlsSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [281 ms]
+2022-07-19 16:03:22.373766 ; Main           ; Debug       ; Window initial dimensions: 1934px, 1054px.
+2022-07-19 16:03:22.426624 ; Settings       ; Debug       ; EngineSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [50.2 ms]
+2022-07-19 16:03:22.429618 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [1.49 ms]
+2022-07-19 16:03:22.433606 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Licensing, Version=1.1.1.0, Culture=neutral, PublicKeyToken=null in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\Keysight Licensing\Keysight.OpenTap.Licensing.dll
+2022-07-19 16:03:22.474499 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2022-07-19 16-03-22.txt'. [7.31 ms]
+2022-07-19 16:03:23.159766 ; Main           ; Debug       ; GUI initialized. [785 ms]
+2022-07-19 16:03:23.160766 ; Main           ; Debug       ; Docking manager initialized. [78.0 us]
+2022-07-19 16:03:23.163719 ; OpenTAP        ; Information ; OpenTAP version '9.17.4+ea67c63a' 64-bit initialized 07/19/2022 [4.57 s]
+2022-07-19 16:03:23.217583 ; PluginManager  ; Debug       ; Loaded PackageManager. [465 us]
+2022-07-19 16:03:23.217583 ; PluginManager  ; Debug       ; Loaded Editor. [60.0 us]
+2022-07-19 16:03:23.228547 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [10.3 ms]
+2022-07-19 16:03:23.239517 ; PluginManager  ; Debug       ; Loaded RunExplorer. [10.4 ms]
+2022-07-19 16:03:23.242519 ; Settings       ; Debug       ; ConnectionSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [1.77 ms]
+2022-07-19 16:03:23.243506 ; Settings       ; Debug       ; DutSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [769 us]
+2022-07-19 16:03:23.259465 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.LedsGo. [9.84 ms]
+2022-07-19 16:03:23.267443 ; Settings       ; Debug       ; InstrumentSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [24.1 ms]
+2022-07-19 16:03:23.269437 ; Settings       ; Debug       ; ResultSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [1.35 ms]
+2022-07-19 16:03:23.784062 ; Main           ; Information ; Latest version of 'PathWave License Manager' is 2.5, your version is 2.4. Please consider updating. [618 ms]
+2022-07-19 16:03:23.784062 ; Main           ; Information ; Latest version of 'Keysight Licensing' is 1.2, your version is 1.1. Please consider updating. [618 ms]
+2022-07-19 16:03:23.784062 ; Main           ; Information ; Latest version of 'OpenTAP' is 9.18, your version is 9.17. Please consider updating. [618 ms]
+2022-07-19 16:03:23.784062 ; Main           ; Debug       ; Update check complete. [618 ms]
+2022-07-19 16:03:24.230328 ; Resolver       ; Debug       ; Found match for Keysight.Kal.Licensing.Api, Version=4.0.0.0, Culture=neutral, PublicKeyToken=55333af07c70062e in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\Keysight.Kal.Licensing.Api.4.0.0\Keysight.Kal.Licensing.Api.dll
+2022-07-19 16:03:24.300573 ; KAL            ; Debug       ; KAL signature verified. [46.0 ms]
+2022-07-19 16:03:24.337030 ; KAL Process    ; Debug       ; Initialized [83.6 ms]
+2022-07-19 16:03:24.347007 ; KAL            ; Debug       ; Initialized [96.2 ms]
+2022-07-19 16:03:25.602683 ; Settings       ; Debug       ; PanelSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [2.50 ms]
+2022-07-19 16:03:26.278105 ; Main           ; Debug       ; Application startup finished. [7.68 s]
+2022-07-19 16:03:36.977558 ; Main           ; Debug       ; Loaded Test plan D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\test.TapPlan [863 ms]
+2022-07-19 16:03:58.000397 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:03:58.072205 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:03:58, 14 of 14 TestSteps enabled.
+2022-07-19 16:03:58.183907 ; TestPlan       ; Debug       ; Saved Test Plan XML [6.52 ms]
+2022-07-19 16:03:58.196871 ; Settings       ; Debug       ; No settings file exists for TestPlanRunPackageParameterMonitor. A new instance with default values has been created. [237 us]
+2022-07-19 16:03:58.461166 ; Labjack        ; Information ; Resource "Labjack" opened. [125 ms]
+2022-07-19 16:03:58.507042 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PrePlanRun completed. [4.05 ms]
+2022-07-19 16:03:58.507042 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PrePlanRun completed. [1.26 ms]
+2022-07-19 16:03:58.508039 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PrePlanRun completed. [69.9 us]
+2022-07-19 16:03:58.508039 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PrePlanRun completed. [39.6 us]
+2022-07-19 16:03:58.508039 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PrePlanRun completed. [69.2 us]
+2022-07-19 16:03:58.508039 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PrePlanRun completed. [31.3 us]
+2022-07-19 16:03:58.508039 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PrePlanRun completed. [85.9 us]
+2022-07-19 16:03:58.508039 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0 (1)" PrePlanRun completed. [30.6 us]
+2022-07-19 16:03:58.508039 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 (1)" PrePlanRun completed. [54.2 us]
+2022-07-19 16:03:58.508039 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0 (1)" PrePlanRun completed. [38.2 us]
+2022-07-19 16:03:58.508039 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [12.1 ms]
+2022-07-19 16:03:58.529981 ; TestPlan       ; Information ; "UIT" started.
+2022-07-19 16:03:58.536961 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:03:58.538957 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" started.
+2022-07-19 16:03:58.538957 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" started.
+2022-07-19 16:03:58.538957 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" started.
+2022-07-19 16:03:58.549928 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:03:58.553917 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:03:58.555913 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:03:58.558903 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" completed with verdict 'Inconclusive'. [17.1 ms]
+2022-07-19 16:03:58.558903 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" completed with verdict 'Inconclusive'. [18.9 ms]
+2022-07-19 16:03:58.558903 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" completed with verdict 'Inconclusive'. [17.0 ms]
+2022-07-19 16:03:58.560898 ; TestPlan       ; Information ; "UIT" completed with verdict 'Inconclusive'. [31.4 ms]
+2022-07-19 16:03:58.560898 ; TestPlan       ; Information ; "AAN" started.
+2022-07-19 16:03:58.564888 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" started.
+2022-07-19 16:03:58.574860 ; TestStep       ; Information ; FIO6set to: High
+2022-07-19 16:03:58.574860 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" completed with verdict 'Inconclusive'. [10.7 ms]
+2022-07-19 16:03:58.575858 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" started.
+2022-07-19 16:03:58.577854 ; TestStep       ; Information ; FIO4set to: High
+2022-07-19 16:03:58.577854 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" completed with verdict 'Inconclusive'. [2.09 ms]
+2022-07-19 16:03:58.579847 ; TestPlan       ; Information ; "AAN" completed with verdict 'Inconclusive'. [19.0 ms]
+2022-07-19 16:03:58.579847 ; TestPlan       ; Information ; "Meten" started.
+2022-07-19 16:03:58.579847 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" started.
+2022-07-19 16:03:58.584836 ; TestStep       ; Information ; AIN1measured: 0.733823418617249
+2022-07-19 16:03:58.584836 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" completed with verdict 'Inconclusive'. [4.83 ms]
+2022-07-19 16:03:58.584836 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" started.
+2022-07-19 16:03:58.587826 ; TestStep       ; Information ; AIN8measured: 0.169387087225914
+2022-07-19 16:03:58.587826 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" completed with verdict 'Inconclusive'. [3.07 ms]
+2022-07-19 16:03:58.587826 ; TestPlan       ; Information ; "Meten" completed with verdict 'Inconclusive'. [8.37 ms]
+2022-07-19 16:03:58.588824 ; TestPlan       ; Information ; "UIT (1)" started.
+2022-07-19 16:03:58.588824 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:03:58.588824 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0 (1)" started.
+2022-07-19 16:03:58.588824 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 (1)" started.
+2022-07-19 16:03:58.590819 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:03:58.590819 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 (1)" completed with verdict 'Inconclusive'. [2.56 ms]
+2022-07-19 16:03:58.590819 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0 (1)" started.
+2022-07-19 16:03:58.592812 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:03:58.592812 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0 (1)" completed with verdict 'Inconclusive'. [4.67 ms]
+2022-07-19 16:03:58.594808 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:03:58.594808 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0 (1)" completed with verdict 'Inconclusive'. [3.66 ms]
+2022-07-19 16:03:58.594808 ; TestPlan       ; Information ; "UIT (1)" completed with verdict 'Inconclusive'. [6.77 ms]
+2022-07-19 16:03:58.594808 ; TestPlan       ; Debug       ; Test step runs finished. [87.1 ms]
+2022-07-19 16:03:58.599798 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0 (1)" PostPlanRun completed. [1.25 ms]
+2022-07-19 16:03:58.599798 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 (1)" PostPlanRun completed. [44.1 us]
+2022-07-19 16:03:58.599798 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0 (1)" PostPlanRun completed. [11.0 us]
+2022-07-19 16:03:58.599798 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PostPlanRun completed. [16.0 us]
+2022-07-19 16:03:58.599798 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PostPlanRun completed. [15.9 us]
+2022-07-19 16:03:58.599798 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PostPlanRun completed. [8.80 us]
+2022-07-19 16:03:58.599798 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PostPlanRun completed. [8.30 us]
+2022-07-19 16:03:58.599798 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PostPlanRun completed. [17.5 us]
+2022-07-19 16:03:58.599798 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PostPlanRun completed. [14.3 us]
+2022-07-19 16:03:58.599798 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PostPlanRun completed. [17.6 us]
+2022-07-19 16:03:58.633703 ; Summary        ; Information ; ------------ Summary of test plan started 07/19/2022 16:03:58 ------------
+2022-07-19 16:03:58.641684 ; Summary        ; Information ;  UIT                                                31.4 ms  Inconclusive
+2022-07-19 16:03:58.642682 ; Summary        ; Information ;    FIO4 => 0                                        17.1 ms  Inconclusive
+2022-07-19 16:03:58.642682 ; Summary        ; Information ;    EIO6 => 0                                        17.0 ms  Inconclusive
+2022-07-19 16:03:58.642682 ; Summary        ; Information ;    FIO2 => 0                                        18.9 ms  Inconclusive
+2022-07-19 16:03:58.642682 ; Summary        ; Information ;  AAN                                                19.0 ms  Inconclusive
+2022-07-19 16:03:58.642682 ; Summary        ; Information ;    FIO6 => 1 (1)                                    10.7 ms  Inconclusive
+2022-07-19 16:03:58.642682 ; Summary        ; Information ;    FIO4 => 1 (1)                                    2.09 ms  Inconclusive
+2022-07-19 16:03:58.642682 ; Summary        ; Information ;  Meten                                              8.37 ms  Inconclusive
+2022-07-19 16:03:58.642682 ; Summary        ; Information ;    3V3 AIN1                                         4.83 ms  Inconclusive
+2022-07-19 16:03:58.642682 ; Summary        ; Information ;    48V ANIN8                                        3.07 ms  Inconclusive
+2022-07-19 16:03:58.642682 ; Summary        ; Information ;  UIT (1)                                            6.77 ms  Inconclusive
+2022-07-19 16:03:58.642682 ; Summary        ; Information ;    FIO2 => 0 (1)                                    4.67 ms  Inconclusive
+2022-07-19 16:03:58.642682 ; Summary        ; Information ;    FIO4 => 0 (1)                                    2.56 ms  Inconclusive
+2022-07-19 16:03:58.642682 ; Summary        ; Information ;    EIO6 => 0 (1)                                    3.66 ms  Inconclusive
+2022-07-19 16:03:58.642682 ; Summary        ; Information ; --------------------------------------------------------------------------
+2022-07-19 16:03:58.644674 ; Summary        ; Information ; -------- Test plan completed with verdict Inconclusive in 405 ms ---------
+2022-07-19 16:03:58.674594 ; Labjack        ; Information ; Resource "Labjack" closed. [12.0 us]
+2022-07-19 16:05:04.935873 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:05:04.935873 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:05:04, 15 of 15 TestSteps enabled.
+2022-07-19 16:05:04.945852 ; TestPlan       ; Debug       ; Saved Test Plan XML [9.30 ms]
+2022-07-19 16:05:04.964796 ; Labjack        ; Information ; Resource "Labjack" opened. [23.6 ms]
+2022-07-19 16:05:04.966790 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PrePlanRun completed. [67.7 us]
+2022-07-19 16:05:04.966790 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PrePlanRun completed. [37.1 us]
+2022-07-19 16:05:04.966790 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PrePlanRun completed. [31.5 us]
+2022-07-19 16:05:04.966790 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PrePlanRun completed. [25.4 us]
+2022-07-19 16:05:04.966790 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PrePlanRun completed. [26.0 us]
+2022-07-19 16:05:04.966790 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PrePlanRun completed. [28.5 us]
+2022-07-19 16:05:04.966790 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PrePlanRun completed. [26.0 us]
+2022-07-19 16:05:04.966790 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0 (1)" PrePlanRun completed. [18.6 us]
+2022-07-19 16:05:04.966790 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 (1)" PrePlanRun completed. [23.3 us]
+2022-07-19 16:05:04.966790 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0 (1)" PrePlanRun completed. [22.9 us]
+2022-07-19 16:05:04.966790 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [381 us]
+2022-07-19 16:05:04.966790 ; TestPlan       ; Information ; "UIT" started.
+2022-07-19 16:05:04.966790 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:05:04.966790 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" started.
+2022-07-19 16:05:04.966790 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" started.
+2022-07-19 16:05:04.966790 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" started.
+2022-07-19 16:05:04.968785 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:05:04.968785 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" completed with verdict 'Inconclusive'. [2.14 ms]
+2022-07-19 16:05:04.970779 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:05:04.970779 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" completed with verdict 'Inconclusive'. [3.91 ms]
+2022-07-19 16:05:04.972773 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:05:04.972773 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" completed with verdict 'Inconclusive'. [5.79 ms]
+2022-07-19 16:05:04.972773 ; TestPlan       ; Information ; "UIT" completed with verdict 'Inconclusive'. [6.01 ms]
+2022-07-19 16:05:04.972773 ; TestPlan       ; Information ; "AAN" started.
+2022-07-19 16:05:04.972773 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" started.
+2022-07-19 16:05:04.974786 ; TestStep       ; Information ; FIO6set to: High
+2022-07-19 16:05:04.974786 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" completed with verdict 'Inconclusive'. [2.07 ms]
+2022-07-19 16:05:04.975765 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" started.
+2022-07-19 16:05:04.987733 ; TestStep       ; Information ; FIO4set to: High
+2022-07-19 16:05:04.987733 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" completed with verdict 'Inconclusive'. [12.5 ms]
+2022-07-19 16:05:04.987733 ; TestPlan       ; Information ; "AAN" completed with verdict 'Inconclusive'. [14.9 ms]
+2022-07-19 16:05:04.987733 ; TestPlan       ; Information ; "Delay" started.
+2022-07-19 16:05:05.989156 ; TestPlan       ; Information ; "Delay" completed. [1.00 s]
+2022-07-19 16:05:05.989156 ; TestPlan       ; Information ; "Meten" started.
+2022-07-19 16:05:05.989156 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" started.
+2022-07-19 16:05:05.992153 ; TestStep       ; Information ; AIN1measured: 0.000379537494154647
+2022-07-19 16:05:05.992153 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" completed with verdict 'Inconclusive'. [3.37 ms]
+2022-07-19 16:05:05.992153 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" started.
+2022-07-19 16:05:05.996138 ; TestStep       ; Information ; AIN8measured: -0.000960995210334659
+2022-07-19 16:05:05.996138 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" completed with verdict 'Inconclusive'. [3.43 ms]
+2022-07-19 16:05:05.996138 ; TestPlan       ; Information ; "Meten" completed with verdict 'Inconclusive'. [7.39 ms]
+2022-07-19 16:05:05.996138 ; TestPlan       ; Information ; "UIT (1)" started.
+2022-07-19 16:05:05.996138 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:05:05.996138 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0 (1)" started.
+2022-07-19 16:05:05.996138 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 (1)" started.
+2022-07-19 16:05:05.996138 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0 (1)" started.
+2022-07-19 16:05:05.999139 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:05:05.999139 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0 (1)" completed with verdict 'Inconclusive'. [2.89 ms]
+2022-07-19 16:05:06.011098 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:05:06.012096 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 (1)" completed with verdict 'Inconclusive'. [14.9 ms]
+2022-07-19 16:05:06.013092 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:05:06.014090 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0 (1)" completed with verdict 'Inconclusive'. [16.9 ms]
+2022-07-19 16:05:06.014090 ; TestPlan       ; Information ; "UIT (1)" completed with verdict 'Inconclusive'. [17.4 ms]
+2022-07-19 16:05:06.014090 ; TestPlan       ; Debug       ; Test step runs finished. [1.04 s]
+2022-07-19 16:05:06.014090 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0 (1)" PostPlanRun completed. [543 us]
+2022-07-19 16:05:06.015087 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 (1)" PostPlanRun completed. [29.3 us]
+2022-07-19 16:05:06.015087 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0 (1)" PostPlanRun completed. [13.4 us]
+2022-07-19 16:05:06.015087 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PostPlanRun completed. [22.2 us]
+2022-07-19 16:05:06.015087 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PostPlanRun completed. [7.20 us]
+2022-07-19 16:05:06.015087 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PostPlanRun completed. [7.70 us]
+2022-07-19 16:05:06.015087 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PostPlanRun completed. [6.40 us]
+2022-07-19 16:05:06.015087 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PostPlanRun completed. [7.00 us]
+2022-07-19 16:05:06.015087 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PostPlanRun completed. [6.80 us]
+2022-07-19 16:05:06.015087 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PostPlanRun completed. [13.8 us]
+2022-07-19 16:05:06.015087 ; Summary        ; Information ; ------------ Summary of test plan started 07/19/2022 16:05:04 ------------
+2022-07-19 16:05:06.015087 ; Summary        ; Information ;  UIT                                                6.01 ms  Inconclusive
+2022-07-19 16:05:06.015087 ; Summary        ; Information ;    EIO6 => 0                                        5.79 ms  Inconclusive
+2022-07-19 16:05:06.015087 ; Summary        ; Information ;    FIO4 => 0                                        3.91 ms  Inconclusive
+2022-07-19 16:05:06.015087 ; Summary        ; Information ;    FIO2 => 0                                        2.14 ms  Inconclusive
+2022-07-19 16:05:06.015087 ; Summary        ; Information ;  AAN                                                14.9 ms  Inconclusive
+2022-07-19 16:05:06.015087 ; Summary        ; Information ;    FIO6 => 1 (1)                                    2.07 ms  Inconclusive
+2022-07-19 16:05:06.015087 ; Summary        ; Information ;    FIO4 => 1 (1)                                    12.5 ms  Inconclusive
+2022-07-19 16:05:06.015087 ; Summary        ; Information ;  Delay                                              1.00 s          
+2022-07-19 16:05:06.015087 ; Summary        ; Information ;  Meten                                              7.39 ms  Inconclusive
+2022-07-19 16:05:06.015087 ; Summary        ; Information ;    3V3 AIN1                                         3.37 ms  Inconclusive
+2022-07-19 16:05:06.015087 ; Summary        ; Information ;    48V ANIN8                                        3.43 ms  Inconclusive
+2022-07-19 16:05:06.015087 ; Summary        ; Information ;  UIT (1)                                            17.4 ms  Inconclusive
+2022-07-19 16:05:06.015087 ; Summary        ; Information ;    EIO6 => 0 (1)                                    2.89 ms  Inconclusive
+2022-07-19 16:05:06.015087 ; Summary        ; Information ;    FIO2 => 0 (1)                                    16.9 ms  Inconclusive
+2022-07-19 16:05:06.015087 ; Summary        ; Information ;    FIO4 => 0 (1)                                    14.9 ms  Inconclusive
+2022-07-19 16:05:06.015087 ; Summary        ; Information ; --------------------------------------------------------------------------
+2022-07-19 16:05:06.015087 ; Summary        ; Information ; -------- Test plan completed with verdict Inconclusive in 1.07 s ---------
+2022-07-19 16:05:06.023065 ; Labjack        ; Information ; Resource "Labjack" closed. [1.10 us]
+2022-07-19 16:06:47.894916 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:06:47.894916 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:06:47, 3 of 15 TestSteps enabled.
+2022-07-19 16:06:47.901896 ; TestPlan       ; Debug       ; Saved Test Plan XML [5.80 ms]
+2022-07-19 16:06:47.913866 ; Labjack        ; Information ; Resource "Labjack" opened. [16.6 ms]
+2022-07-19 16:06:47.914862 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PrePlanRun completed. [136 us]
+2022-07-19 16:06:47.914862 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PrePlanRun completed. [78.5 us]
+2022-07-19 16:06:47.914862 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [231 us]
+2022-07-19 16:06:47.914862 ; TestPlan       ; Information ; "AAN" started.
+2022-07-19 16:06:47.914862 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" started.
+2022-07-19 16:06:47.916856 ; TestStep       ; Information ; FIO6set to: High
+2022-07-19 16:06:47.916856 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" completed with verdict 'Inconclusive'. [2.19 ms]
+2022-07-19 16:06:47.917854 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" started.
+2022-07-19 16:06:47.918850 ; TestStep       ; Information ; FIO4set to: High
+2022-07-19 16:06:47.919848 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" completed with verdict 'Inconclusive'. [2.01 ms]
+2022-07-19 16:06:47.919848 ; TestPlan       ; Information ; "AAN" completed with verdict 'Inconclusive'. [4.55 ms]
+2022-07-19 16:06:47.919848 ; TestPlan       ; Debug       ; Test step runs finished. [4.64 ms]
+2022-07-19 16:06:47.919848 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PostPlanRun completed. [224 us]
+2022-07-19 16:06:47.919848 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PostPlanRun completed. [8.50 us]
+2022-07-19 16:06:47.919848 ; Summary        ; Information ; ------------ Summary of test plan started 07/19/2022 16:06:47 ------------
+2022-07-19 16:06:47.919848 ; Summary        ; Information ;  AAN                                                4.55 ms  Inconclusive
+2022-07-19 16:06:47.919848 ; Summary        ; Information ;    FIO6 => 1 (1)                                    2.19 ms  Inconclusive
+2022-07-19 16:06:47.919848 ; Summary        ; Information ;    FIO4 => 1 (1)                                    2.01 ms  Inconclusive
+2022-07-19 16:06:47.919848 ; Summary        ; Information ; --------------------------------------------------------------------------
+2022-07-19 16:06:47.919848 ; Summary        ; Information ; -------- Test plan completed with verdict Inconclusive in 24.0 ms --------
+2022-07-19 16:06:47.925832 ; Labjack        ; Information ; Resource "Labjack" closed. [1.60 us]
+2022-07-19 16:07:00.763500 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:07:00.763500 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:07:00, 2 of 15 TestSteps enabled.
+2022-07-19 16:07:00.892139 ; Labjack        ; Information ; Resource "Labjack" opened. [126 ms]
+2022-07-19 16:07:00.894168 ; TestPlan       ; Debug       ; Saved Test Plan XML [129 ms]
+2022-07-19 16:07:00.900115 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PrePlanRun completed. [105 us]
+2022-07-19 16:07:00.900115 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [127 us]
+2022-07-19 16:07:00.900115 ; TestPlan       ; Information ; "Meten" started.
+2022-07-19 16:07:00.900115 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" started.
+2022-07-19 16:07:00.903145 ; TestStep       ; Information ; AIN1measured: 0.000537267362233251
+2022-07-19 16:07:00.903145 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" completed with verdict 'Inconclusive'. [2.98 ms]
+2022-07-19 16:07:00.904105 ; TestPlan       ; Information ; "Meten" completed with verdict 'Inconclusive'. [3.14 ms]
+2022-07-19 16:07:00.904105 ; TestPlan       ; Debug       ; Test step runs finished. [3.22 ms]
+2022-07-19 16:07:00.904105 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PostPlanRun completed. [175 us]
+2022-07-19 16:07:00.904105 ; Summary        ; Information ; ------------ Summary of test plan started 07/19/2022 16:07:00 ------------
+2022-07-19 16:07:00.904105 ; Summary        ; Information ;  Meten                                              3.14 ms  Inconclusive
+2022-07-19 16:07:00.904105 ; Summary        ; Information ;    3V3 AIN1                                         2.98 ms  Inconclusive
+2022-07-19 16:07:00.904105 ; Summary        ; Information ; --------------------------------------------------------------------------
+2022-07-19 16:07:00.904105 ; Summary        ; Information ; -------- Test plan completed with verdict Inconclusive in 139 ms ---------
+2022-07-19 16:07:00.910090 ; Labjack        ; Information ; Resource "Labjack" closed. [900 ns]
+2022-07-19 16:08:09.646932 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:08:09.647921 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:08:09, 2 of 15 TestSteps enabled.
+2022-07-19 16:08:09.655900 ; TestPlan       ; Debug       ; Saved Test Plan XML [8.10 ms]
+2022-07-19 16:08:09.665872 ; Labjack        ; Information ; Resource "Labjack" opened. [16.5 ms]
+2022-07-19 16:08:09.667870 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PrePlanRun completed. [167 us]
+2022-07-19 16:08:09.667870 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [212 us]
+2022-07-19 16:08:09.667870 ; TestPlan       ; Information ; "Meten" started.
+2022-07-19 16:08:09.667870 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" started.
+2022-07-19 16:08:09.670860 ; TestStep       ; Information ; AIN1measured: 0.000537267362233251
+2022-07-19 16:08:09.670860 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" completed with verdict 'Inconclusive'. [3.22 ms]
+2022-07-19 16:08:09.670860 ; TestPlan       ; Information ; "Meten" completed with verdict 'Inconclusive'. [3.42 ms]
+2022-07-19 16:08:09.670860 ; TestPlan       ; Debug       ; Test step runs finished. [3.52 ms]
+2022-07-19 16:08:09.671857 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PostPlanRun completed. [183 us]
+2022-07-19 16:08:09.671857 ; Summary        ; Information ; ------------ Summary of test plan started 07/19/2022 16:08:09 ------------
+2022-07-19 16:08:09.671857 ; Summary        ; Information ;  Meten                                              3.42 ms  Inconclusive
+2022-07-19 16:08:09.671857 ; Summary        ; Information ;    3V3 AIN1                                         3.22 ms  Inconclusive
+2022-07-19 16:08:09.671857 ; Summary        ; Information ; --------------------------------------------------------------------------
+2022-07-19 16:08:09.671857 ; Summary        ; Information ; -------- Test plan completed with verdict Inconclusive in 23.4 ms --------
+2022-07-19 16:08:09.687813 ; Labjack        ; Information ; Resource "Labjack" closed. [1.80 us]
+2022-07-19 16:08:11.234441 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:08:11.234441 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:08:11, 2 of 15 TestSteps enabled.
+2022-07-19 16:08:11.241423 ; TestPlan       ; Debug       ; Saved Test Plan XML [6.21 ms]
+2022-07-19 16:08:11.260372 ; Labjack        ; Information ; Resource "Labjack" opened. [23.4 ms]
+2022-07-19 16:08:11.262367 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PrePlanRun completed. [114 us]
+2022-07-19 16:08:11.262367 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [146 us]
+2022-07-19 16:08:11.263365 ; TestPlan       ; Information ; "Meten" started.
+2022-07-19 16:08:11.263365 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" started.
+2022-07-19 16:08:11.293284 ; TestStep       ; Information ; AIN1measured: 0.00030067257466726
+2022-07-19 16:08:11.293284 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" completed with verdict 'Inconclusive'. [30.1 ms]
+2022-07-19 16:08:11.293284 ; TestPlan       ; Information ; "Meten" completed with verdict 'Inconclusive'. [30.3 ms]
+2022-07-19 16:08:11.293284 ; TestPlan       ; Debug       ; Test step runs finished. [30.5 ms]
+2022-07-19 16:08:11.293284 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PostPlanRun completed. [278 us]
+2022-07-19 16:08:11.293284 ; Summary        ; Information ; ------------ Summary of test plan started 07/19/2022 16:08:11 ------------
+2022-07-19 16:08:11.293284 ; Summary        ; Information ;  Meten                                              30.3 ms  Inconclusive
+2022-07-19 16:08:11.293284 ; Summary        ; Information ;    3V3 AIN1                                         30.1 ms  Inconclusive
+2022-07-19 16:08:11.293284 ; Summary        ; Information ; --------------------------------------------------------------------------
+2022-07-19 16:08:11.293284 ; Summary        ; Information ; -------- Test plan completed with verdict Inconclusive in 58.1 ms --------
+2022-07-19 16:08:11.323216 ; Labjack        ; Information ; Resource "Labjack" closed. [3.10 us]
+2022-07-19 16:08:17.679021 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:08:17.679021 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:08:17, 5 of 15 TestSteps enabled.
+2022-07-19 16:08:17.684012 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.62 ms]
+2022-07-19 16:08:17.732847 ; Labjack        ; Information ; Resource "Labjack" opened. [52.0 ms]
+2022-07-19 16:08:17.733844 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PrePlanRun completed. [104 us]
+2022-07-19 16:08:17.733844 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PrePlanRun completed. [55.0 us]
+2022-07-19 16:08:17.733844 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PrePlanRun completed. [27.3 us]
+2022-07-19 16:08:17.733844 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [208 us]
+2022-07-19 16:08:17.734841 ; TestPlan       ; Information ; "AAN" started.
+2022-07-19 16:08:17.734841 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" started.
+2022-07-19 16:08:17.736837 ; TestStep       ; Information ; FIO6set to: High
+2022-07-19 16:08:17.736837 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" completed with verdict 'Inconclusive'. [2.27 ms]
+2022-07-19 16:08:17.736837 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" started.
+2022-07-19 16:08:17.738833 ; TestStep       ; Information ; FIO4set to: High
+2022-07-19 16:08:17.738833 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" completed with verdict 'Inconclusive'. [2.06 ms]
+2022-07-19 16:08:17.738833 ; TestPlan       ; Information ; "AAN" completed with verdict 'Inconclusive'. [4.76 ms]
+2022-07-19 16:08:17.738833 ; TestPlan       ; Information ; "Meten" started.
+2022-07-19 16:08:17.738833 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" started.
+2022-07-19 16:08:17.741822 ; TestStep       ; Information ; AIN1measured: 0.000458402442745864
+2022-07-19 16:08:17.742823 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" completed with verdict 'Inconclusive'. [3.07 ms]
+2022-07-19 16:08:17.742823 ; TestPlan       ; Information ; "Meten" completed with verdict 'Inconclusive'. [3.27 ms]
+2022-07-19 16:08:17.742823 ; TestPlan       ; Debug       ; Test step runs finished. [8.22 ms]
+2022-07-19 16:08:17.742823 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PostPlanRun completed. [299 us]
+2022-07-19 16:08:17.742823 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PostPlanRun completed. [11.8 us]
+2022-07-19 16:08:17.742823 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PostPlanRun completed. [7.90 us]
+2022-07-19 16:08:17.742823 ; Summary        ; Information ; ------------ Summary of test plan started 07/19/2022 16:08:17 ------------
+2022-07-19 16:08:17.742823 ; Summary        ; Information ;  AAN                                                4.76 ms  Inconclusive
+2022-07-19 16:08:17.742823 ; Summary        ; Information ;    FIO6 => 1 (1)                                    2.27 ms  Inconclusive
+2022-07-19 16:08:17.742823 ; Summary        ; Information ;    FIO4 => 1 (1)                                    2.06 ms  Inconclusive
+2022-07-19 16:08:17.742823 ; Summary        ; Information ;  Meten                                              3.27 ms  Inconclusive
+2022-07-19 16:08:17.742823 ; Summary        ; Information ;    3V3 AIN1                                         3.07 ms  Inconclusive
+2022-07-19 16:08:17.742823 ; Summary        ; Information ; --------------------------------------------------------------------------
+2022-07-19 16:08:17.742823 ; Summary        ; Information ; -------- Test plan completed with verdict Inconclusive in 63.3 ms --------
+2022-07-19 16:08:17.749801 ; Labjack        ; Information ; Resource "Labjack" closed. [900 ns]
+2022-07-19 16:08:24.791825 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:08:24.791825 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:08:24, 5 of 15 TestSteps enabled.
+2022-07-19 16:08:24.805807 ; TestPlan       ; Debug       ; Saved Test Plan XML [13.5 ms]
+2022-07-19 16:08:24.822708 ; Labjack        ; Information ; Resource "Labjack" opened. [29.5 ms]
+2022-07-19 16:08:24.827694 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PrePlanRun completed. [124 us]
+2022-07-19 16:08:24.827694 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PrePlanRun completed. [77.1 us]
+2022-07-19 16:08:24.828698 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PrePlanRun completed. [43.4 us]
+2022-07-19 16:08:24.828698 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [296 us]
+2022-07-19 16:08:24.828698 ; TestPlan       ; Information ; "AAN" started.
+2022-07-19 16:08:24.828698 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" started.
+2022-07-19 16:08:24.830686 ; TestStep       ; Information ; FIO6set to: High
+2022-07-19 16:08:24.830686 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" completed with verdict 'Inconclusive'. [2.10 ms]
+2022-07-19 16:08:24.830686 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" started.
+2022-07-19 16:08:24.842961 ; TestStep       ; Information ; FIO4set to: High
+2022-07-19 16:08:24.842961 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" completed with verdict 'Inconclusive'. [12.5 ms]
+2022-07-19 16:08:24.842961 ; TestPlan       ; Information ; "AAN" completed with verdict 'Inconclusive'. [15.0 ms]
+2022-07-19 16:08:24.842961 ; TestPlan       ; Information ; "Meten" started.
+2022-07-19 16:08:24.843961 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" started.
+2022-07-19 16:08:24.846954 ; TestStep       ; Information ; AIN1measured: 0.000458402442745864
+2022-07-19 16:08:24.846954 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" completed with verdict 'Inconclusive'. [3.63 ms]
+2022-07-19 16:08:24.846954 ; TestPlan       ; Information ; "Meten" completed with verdict 'Inconclusive'. [3.77 ms]
+2022-07-19 16:08:24.846954 ; TestPlan       ; Debug       ; Test step runs finished. [18.9 ms]
+2022-07-19 16:08:24.846954 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PostPlanRun completed. [179 us]
+2022-07-19 16:08:24.846954 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PostPlanRun completed. [5.30 us]
+2022-07-19 16:08:24.846954 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PostPlanRun completed. [2.20 us]
+2022-07-19 16:08:24.846954 ; Summary        ; Information ; ------------ Summary of test plan started 07/19/2022 16:08:24 ------------
+2022-07-19 16:08:24.846954 ; Summary        ; Information ;  AAN                                                15.0 ms  Inconclusive
+2022-07-19 16:08:24.846954 ; Summary        ; Information ;    FIO6 => 1 (1)                                    2.10 ms  Inconclusive
+2022-07-19 16:08:24.846954 ; Summary        ; Information ;    FIO4 => 1 (1)                                    12.5 ms  Inconclusive
+2022-07-19 16:08:24.846954 ; Summary        ; Information ;  Meten                                              3.77 ms  Inconclusive
+2022-07-19 16:08:24.847950 ; Summary        ; Information ;    3V3 AIN1                                         3.63 ms  Inconclusive
+2022-07-19 16:08:24.847950 ; Summary        ; Information ; --------------------------------------------------------------------------
+2022-07-19 16:08:24.847950 ; Summary        ; Information ; -------- Test plan completed with verdict Inconclusive in 55.0 ms --------
+2022-07-19 16:08:24.853943 ; Labjack        ; Information ; Resource "Labjack" closed. [1.20 us]
+2022-07-19 16:08:58.958389 ; Settings       ; Debug       ; Saved GuiControlsSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [29.5 ms]
+2022-07-19 16:08:58.981694 ; Settings       ; Debug       ; Saved PanelSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [3.01 ms]
+2022-07-19 16:08:58.985682 ; Settings       ; Debug       ; Saved EditorSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [3.96 ms]
+2022-07-19 16:14:18.697143 ; Settings       ; Debug       ; Saved GuiControlsSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [15.5 ms]
+2022-07-19 16:14:18.706120 ; Settings       ; Debug       ; Saved PanelSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [1.39 ms]
+2022-07-19 16:14:18.708115 ; Settings       ; Debug       ; Saved EditorSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [1.23 ms]

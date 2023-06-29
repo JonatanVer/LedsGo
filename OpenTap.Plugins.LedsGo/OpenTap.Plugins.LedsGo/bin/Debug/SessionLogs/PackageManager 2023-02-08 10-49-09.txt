@@ -1,0 +1,116 @@
+2023-02-08 10:49:09.856702 ; Session        ; Debug       ; Session log loaded as 'C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\PackageManager 2023-02-08 10-49-09.txt'. [9.44 ms]
+2023-02-08 10:49:09.870669 ; Session        ; Debug       ; Running '"C:\Users\Jonatan\AppData\Local\Temp\gscly01g.jlq\PackageManager.exe" --isolated --force --target "C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug" ' in 'C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2023-02-08 10:49:09.905906 ; Session        ; Debug       ; Microsoft Windows 10.0.19044 X64
+2023-02-08 10:49:09.905906 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2023-02-08 10:49:09.925481 ; AssemblyFinder ; Debug       ; Found 12/40 assembly files. [12.5 ms]
+2023-02-08 10:49:09.937449 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2023-02-08 10:49:09.959657 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\Jonatan\AppData\Local\Temp\gscly01g.jlq\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2023-02-08 10:49:09.967846 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Wpf, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null in C:\Users\Jonatan\AppData\Local\Temp\gscly01g.jlq\Packages\WPF Controls\Keysight.OpenTap.Wpf.dll
+2023-02-08 10:49:09.988710 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\Jonatan\AppData\Local\Temp\gscly01g.jlq\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2023-02-08 10:49:10.148287 ; Searcher       ; Debug       ; Ordered 12 assemblies according to references. [214 ms]
+2023-02-08 10:49:10.316889 ; PluginManager  ; Debug       ; Found 9 plugin assemblies containing 215 plugin types. [386 ms]
+2023-02-08 10:49:10.316889 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2023-02-08 10:49:10.316889 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2023-02-08 10:49:10.316889 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2023-02-08 10:49:10.316889 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2023-02-08 10:49:10.316889 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2023-02-08 10:49:10.316889 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2023-02-08 10:49:10.316889 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2023-02-08 10:49:10.316889 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2023-02-08 10:49:10.316889 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2023-02-08 10:49:10.316889 ; PluginManager  ; Debug       ; Searched 12 Assemblies. [387 ms]
+2023-02-08 10:49:10.355770 ; PluginManager  ; Debug       ; Loaded OpenTap. [361 us]
+2023-02-08 10:49:10.355770 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [512 us]
+2023-02-08 10:49:10.358764 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [6.75 ms]
+2023-02-08 10:49:10.395624 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [198 us]
+2023-02-08 10:49:10.507325 ; PluginManager  ; Debug       ; Loaded mscorlib. [600 ns]
+2023-02-08 10:49:10.776608 ; Settings       ; Debug       ; EditorSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [641 ms]
+2023-02-08 10:49:10.803534 ; Resolver       ; Debug       ; Found match for Keysight.Ccl.Wsl, Version=4.0.1.9, Culture=neutral, PublicKeyToken=55333af07c70062e in C:\Users\Jonatan\AppData\Local\Temp\gscly01g.jlq\Dependencies\Keysight.Ccl.Wsl.4.0.1.9\Keysight.Ccl.Wsl.dll
+2023-02-08 10:49:10.829465 ; Resolver       ; Debug       ; Found match for MahApps.Metro, Version=1.3.0.0, Culture=neutral, PublicKeyToken=f4fb5a3c4d1e5b4f in C:\Users\Jonatan\AppData\Local\Temp\gscly01g.jlq\Dependencies\MahApps.Metro.1.3.0.0\MahApps.Metro.dll
+2023-02-08 10:49:11.085452 ; GUI            ; Debug       ; Loaded Light Theme. [22.5 ms]
+2023-02-08 10:49:11.102764 ; OpenTAP        ; Information ; OpenTAP version '9.17.4+ea67c63a' 64-bit initialized 02/08/2023 [1.59 s]
+2023-02-08 10:49:11.180240 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [1.74 ms]
+2023-02-08 10:49:11.232805 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Licensing, Version=1.1.1.0, Culture=neutral, PublicKeyToken=null in C:\Users\Jonatan\AppData\Local\Temp\gscly01g.jlq\Packages\Keysight Licensing\Keysight.OpenTap.Licensing.dll
+2023-02-08 10:49:11.484883 ; PluginManager  ; Debug       ; Loaded PackageManager. [99.7 us]
+2023-02-08 10:49:11.522817 ; Settings       ; Debug       ; PackageManagerGuiSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Package Manager GUI.xml [39.3 ms]
+2023-02-08 10:49:11.831007 ; Settings       ; Debug       ; Saved PackageManagerGuiSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Package Manager GUI.xml [71.2 ms]
+2023-02-08 10:49:12.258865 ; Settings       ; Debug       ; GuiControlsSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [236 ms]
+2023-02-08 10:49:14.293089 ; Resolver       ; Debug       ; Found match for Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed in C:\Users\Jonatan\AppData\Local\Temp\gscly01g.jlq\Dependencies\Newtonsoft.Json.12.0.0.0\Newtonsoft.Json.dll
+2023-02-08 10:49:29.931362 ; PackageAction  ; Debug       ; Fetching package information...
+2023-02-08 10:49:29.932359 ; Updater        ; Debug       ; Progress 5%: Gathering packages.
+2023-02-08 10:49:29.937416 ; Settings       ; Debug       ; Saved PackageManagerGuiSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Package Manager GUI.xml [1.39 ms]
+2023-02-08 10:49:30.226577 ; PackageAction  ; Debug       ; Found package SSH version 1.0.0+f4ad9710 [183 ms]
+2023-02-08 10:49:30.227064 ; PackageAction  ; Debug       ; Resolving dependencies.
+2023-02-08 10:49:30.338336 ; Updater        ; Debug       ; Progress 10%: Gathering dependencies.
+2023-02-08 10:49:32.575905 ; PackageAction  ; Debug       ; Downloading 'SSH' version '1.0.0+f4ad9710' from 'http://packages.opentap.io'
+2023-02-08 10:49:38.883547 ; PackageAction  ; Information ; Downloaded 'SSH' to 'C:\Users\Jonatan\AppData\Local\OpenTap\PackageCache\SSH.1.0.0+f4ad9710.Windows,Linux,MacOS.TapPackage'. [8.52 s]
+2023-02-08 10:49:38.885541 ; Updater        ; Debug       ; Progress 60%: Acquired 'SSH|1.0.0+f4ad9710'.
+2023-02-08 10:49:38.886538 ; Updater        ; Debug       ; Progress 60%: Finished downloading packages.
+2023-02-08 10:49:38.886538 ; PackageAction  ; Information ; Installing to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug
+2023-02-08 10:49:38.903496 ; package        ; Error       ; Could not unpack 'C:\Users\Jonatan\AppData\Local\OpenTap\PackageCache\SSH.1.0.0+f4ad9710.Windows,Linux,MacOS.TapPackage'.
+2023-02-08 10:49:38.906487 ; Updater        ; Error       ; Error during plugin install. 'Het einde van de record voor de centrale map is niet gevonden.'
+2023-02-08 10:49:38.911473 ; Updater        ; Debug       ; Exception: Het einde van de record voor de centrale map is niet gevonden.
+2023-02-08 10:49:38.921560 ; Updater        ; Debug       ;     bij System.IO.Compression.ZipArchive.ReadEndOfCentralDirectory()
+2023-02-08 10:49:38.921560 ; Updater        ; Debug       ;     bij System.IO.Compression.ZipArchive.Init(Stream stream, ZipArchiveMode mode, Boolean leaveOpen)
+2023-02-08 10:49:38.921560 ; Updater        ; Debug       ;     bij OpenTap.Package.PluginInstaller.FilesInPackage(String packagePath)
+2023-02-08 10:49:38.921560 ; Updater        ; Debug       ;     bij OpenTap.Package.PackageDef.GetMetadataFromPackage(String path)
+2023-02-08 10:49:38.921560 ; Updater        ; Debug       ;     bij OpenTap.Package.PackageDef.FromPackage(String path)
+2023-02-08 10:49:38.921560 ; Updater        ; Debug       ;     bij System.Linq.Enumerable.<>c__DisplayClass7_0`3.<CombineSelectors>b__0(TSource x)
+2023-02-08 10:49:38.921560 ; Updater        ; Debug       ;     bij System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+2023-02-08 10:49:38.921560 ; Updater        ; Debug       ;     bij System.Collections.Generic.HashSet`1.UnionWith(IEnumerable`1 other)
+2023-02-08 10:49:38.921560 ; Updater        ; Debug       ;     bij System.Collections.Generic.HashSet`1..ctor(IEnumerable`1 collection, IEqualityComparer`1 comparer)
+2023-02-08 10:49:38.921560 ; Updater        ; Debug       ;     bij OpenTap.Package.PackageInstallAction.UninstallExisting(Installation installation, List`1 packagePaths, CancellationToken cancellationToken)
+2023-02-08 10:49:38.921560 ; Updater        ; Debug       ;     bij OpenTap.Package.PackageInstallAction.DoExecute(CancellationToken cancellationToken)
+2023-02-08 10:49:38.921560 ; Updater        ; Debug       ;     bij OpenTap.Package.PackageInstallAction.LockedExecute(CancellationToken cancellationToken)
+2023-02-08 10:49:38.921560 ; Updater        ; Debug       ;     bij OpenTap.Package.LockingPackageAction.Execute(CancellationToken cancellationToken)
+2023-02-08 10:49:38.921560 ; Updater        ; Debug       ;     bij OpenTap.Package.IsolatedPackageAction.Execute(CancellationToken cancellationToken)
+2023-02-08 10:49:38.921560 ; Updater        ; Debug       ;     bij Keysight.OpenTap.Package.Gui.UpdaterWindow.c.c()
+2023-02-08 10:49:38.923441 ; Updater        ; Debug       ; Exception caught at:
+2023-02-08 10:49:38.928427 ; Updater        ; Debug       ;     at Void c()
+2023-02-08 10:49:38.928427 ; Updater        ; Debug       ;     at Void Process()
+2023-02-08 10:49:38.928427 ; Updater        ; Debug       ;     at Void processQueue()
+2023-02-08 10:49:38.928427 ; Updater        ; Debug       ;     at Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+2023-02-08 10:49:38.928427 ; Updater        ; Debug       ;     ...
+2023-02-08 10:49:38.953358 ; Updater        ; Information ; Installation finished - General Error: An unhandled exception occurred.
+2023-02-08 10:49:51.838600 ; Updater        ; Information ; Retrying with '--force'
+2023-02-08 10:49:51.848963 ; PackageAction  ; Debug       ; Fetching package information...
+2023-02-08 10:49:51.848963 ; Updater        ; Debug       ; Progress 5%: Gathering packages.
+2023-02-08 10:49:51.905180 ; package        ; Error       ; Could not unpack 'C:\Users\Jonatan\AppData\Local\OpenTap\PackageCache\SSH.1.0.0+f4ad9710.Windows,Linux,MacOS.TapPackage'.
+2023-02-08 10:49:51.958055 ; PackageAction  ; Debug       ; Found package SSH version 1.0.0+f4ad9710 [90.4 ms]
+2023-02-08 10:49:51.958055 ; PackageAction  ; Information ; Ignoring potential depencencies (--force option specified).
+2023-02-08 10:49:51.961188 ; Updater        ; Debug       ; Progress 10%: Gathering dependencies.
+2023-02-08 10:49:51.965021 ; package        ; Error       ; Could not unpack 'C:\Users\Jonatan\AppData\Local\OpenTap\PackageCache\SSH.1.0.0+f4ad9710.Windows,Linux,MacOS.TapPackage'.
+2023-02-08 10:49:51.966148 ; PackageAction  ; Warning     ; Could not open OpenTAP Package. Redownloading package.
+2023-02-08 10:49:52.008815 ; PackageAction  ; Debug       ; Downloading 'SSH' version '1.0.0+f4ad9710' from 'http://packages.opentap.io'
+2023-02-08 10:49:55.391156 ; PackageAction  ; Information ; Downloaded 'SSH' to 'C:\Users\Jonatan\AppData\Local\OpenTap\PackageCache\SSH.1.0.0+f4ad9710.Windows,Linux,MacOS.TapPackage'. [3.42 s]
+2023-02-08 10:49:55.391334 ; Updater        ; Debug       ; Progress 60%: Acquired 'SSH|1.0.0+f4ad9710'.
+2023-02-08 10:49:55.391334 ; Updater        ; Debug       ; Progress 60%: Finished downloading packages.
+2023-02-08 10:49:55.422191 ; PackageAction  ; Information ; Installing to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug
+2023-02-08 10:49:55.427706 ; package        ; Error       ; Could not unpack 'C:\Users\Jonatan\AppData\Local\OpenTap\PackageCache\SSH.1.0.0+f4ad9710.Windows,Linux,MacOS.TapPackage'.
+2023-02-08 10:49:55.429050 ; Updater        ; Error       ; Error during plugin install. 'Het einde van de record voor de centrale map is niet gevonden.'
+2023-02-08 10:49:55.429050 ; Updater        ; Debug       ; Exception: Het einde van de record voor de centrale map is niet gevonden.
+2023-02-08 10:49:55.429050 ; Updater        ; Debug       ;     bij System.IO.Compression.ZipArchive.ReadEndOfCentralDirectory()
+2023-02-08 10:49:55.429050 ; Updater        ; Debug       ;     bij System.IO.Compression.ZipArchive.Init(Stream stream, ZipArchiveMode mode, Boolean leaveOpen)
+2023-02-08 10:49:55.429050 ; Updater        ; Debug       ;     bij OpenTap.Package.PluginInstaller.FilesInPackage(String packagePath)
+2023-02-08 10:49:55.429050 ; Updater        ; Debug       ;     bij OpenTap.Package.PackageDef.GetMetadataFromPackage(String path)
+2023-02-08 10:49:55.429050 ; Updater        ; Debug       ;     bij OpenTap.Package.PackageDef.FromPackage(String path)
+2023-02-08 10:49:55.429050 ; Updater        ; Debug       ;     bij System.Linq.Enumerable.<>c__DisplayClass7_0`3.<CombineSelectors>b__0(TSource x)
+2023-02-08 10:49:55.429050 ; Updater        ; Debug       ;     bij System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+2023-02-08 10:49:55.429050 ; Updater        ; Debug       ;     bij System.Collections.Generic.HashSet`1.UnionWith(IEnumerable`1 other)
+2023-02-08 10:49:55.429050 ; Updater        ; Debug       ;     bij System.Collections.Generic.HashSet`1..ctor(IEnumerable`1 collection, IEqualityComparer`1 comparer)
+2023-02-08 10:49:55.429050 ; Updater        ; Debug       ;     bij OpenTap.Package.PackageInstallAction.UninstallExisting(Installation installation, List`1 packagePaths, CancellationToken cancellationToken)
+2023-02-08 10:49:55.429050 ; Updater        ; Debug       ;     bij OpenTap.Package.PackageInstallAction.DoExecute(CancellationToken cancellationToken)
+2023-02-08 10:49:55.429050 ; Updater        ; Debug       ;     bij OpenTap.Package.PackageInstallAction.LockedExecute(CancellationToken cancellationToken)
+2023-02-08 10:49:55.429050 ; Updater        ; Debug       ;     bij OpenTap.Package.LockingPackageAction.Execute(CancellationToken cancellationToken)
+2023-02-08 10:49:55.429050 ; Updater        ; Debug       ;     bij OpenTap.Package.IsolatedPackageAction.Execute(CancellationToken cancellationToken)
+2023-02-08 10:49:55.429050 ; Updater        ; Debug       ;     bij Keysight.OpenTap.Package.Gui.UpdaterWindow.c.c()
+2023-02-08 10:49:55.429050 ; Updater        ; Debug       ; Exception caught at:
+2023-02-08 10:49:55.429050 ; Updater        ; Debug       ;     at Void c()
+2023-02-08 10:49:55.429050 ; Updater        ; Debug       ;     at Void Process()
+2023-02-08 10:49:55.429050 ; Updater        ; Debug       ;     at Void processQueue()
+2023-02-08 10:49:55.429050 ; Updater        ; Debug       ;     at Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+2023-02-08 10:49:55.429050 ; Updater        ; Debug       ;     ...
+2023-02-08 10:49:55.460705 ; Updater        ; Information ; Installation finished - General Error: An unhandled exception occurred.
+2023-02-08 10:50:04.096532 ; Updater        ; Warning     ; Aborting.
+2023-02-08 10:50:04.975522 ; Settings       ; Debug       ; Saved GuiControlsSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [55.1 ms]
+2023-02-08 10:50:04.977515 ; Settings       ; Debug       ; Saved PackageManagerGuiSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Package Manager GUI.xml [1.16 ms]

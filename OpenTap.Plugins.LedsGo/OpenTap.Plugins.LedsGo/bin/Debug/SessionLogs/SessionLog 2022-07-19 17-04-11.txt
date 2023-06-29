@@ -1,0 +1,192 @@
+﻿2022-07-19 17:04:08.637356 ; Session        ; Debug       ; Session log loaded as 'D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\editor 2022-07-19 17-04-08.txt'. [15.7 ms]
+2022-07-19 17:04:08.671264 ; Session        ; Debug       ; Running '"D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\editor.exe" ' in 'D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2022-07-19 17:04:08.763021 ; Session        ; Debug       ; Microsoft Windows 10.0.19043 X64
+2022-07-19 17:04:08.763021 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2022-07-19 17:04:08.901651 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2022-07-19 17:04:08.981438 ; AssemblyFinder ; Debug       ; Found 30/85 assembly files. [78.0 ms]
+2022-07-19 17:04:09.037287 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-07-19 17:04:09.044272 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Wpf, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\WPF Controls\Keysight.OpenTap.Wpf.dll
+2022-07-19 17:04:09.078180 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-07-19 17:04:09.406303 ; Searcher       ; Debug       ; Ordered 28 assemblies according to references. [409 ms]
+2022-07-19 17:04:09.841658 ; PluginManager  ; Debug       ; Found 18 plugin assemblies containing 265 plugin types. [851 ms]
+2022-07-19 17:04:09.846644 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2022-07-19 17:04:09.846644 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2022-07-19 17:04:09.846644 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2022-07-19 17:04:09.846644 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2022-07-19 17:04:09.846644 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2022-07-19 17:04:09.846644 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2022-07-19 17:04:09.846644 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2022-07-19 17:04:09.846644 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of OpenTap.Plugins.LedsGo.dll
+2022-07-19 17:04:09.846644 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-07-19 17:04:09.846644 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of ResultsViewer.exe
+2022-07-19 17:04:09.846644 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of RunExplorer.exe
+2022-07-19 17:04:09.846644 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2022-07-19 17:04:09.846644 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-07-19 17:04:09.846644 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2022-07-19 17:04:09.846644 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-07-19 17:04:09.846644 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-07-19 17:04:09.846644 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-07-19 17:04:09.846644 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2022-07-19 17:04:09.846644 ; PluginManager  ; Debug       ; Searched 30 Assemblies. [856 ms]
+2022-07-19 17:04:09.899503 ; PluginManager  ; Debug       ; Loaded OpenTap. [627 us]
+2022-07-19 17:04:09.899503 ; PluginManager  ; Debug       ; Loaded OpenTap. [847 us]
+2022-07-19 17:04:09.989262 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [90.6 ms]
+2022-07-19 17:04:10.042120 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [68.6 ms]
+2022-07-19 17:04:10.048107 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [360 us]
+2022-07-19 17:04:10.193717 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [27.0 ms]
+2022-07-19 17:04:10.386203 ; PluginManager  ; Debug       ; Loaded mscorlib. [1.30 us]
+2022-07-19 17:04:10.734275 ; Settings       ; Debug       ; EditorSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [1.09 s]
+2022-07-19 17:04:10.750232 ; Resolver       ; Debug       ; Found match for MahApps.Metro, Version=1.3.0.0, Culture=neutral, PublicKeyToken=f4fb5a3c4d1e5b4f in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\MahApps.Metro.1.3.0.0\MahApps.Metro.dll
+2022-07-19 17:04:11.023501 ; GUI            ; Debug       ; Loaded Light Theme. [24.4 ms]
+2022-07-19 17:04:11.051428 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2022-07-19 17:04:11.522467 ; Settings       ; Debug       ; GuiControlsSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [302 ms]
+2022-07-19 17:04:11.522467 ; Main           ; Debug       ; Window initial dimensions: 1934px, 1054px.
+2022-07-19 17:04:11.576319 ; Settings       ; Debug       ; EngineSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [48.5 ms]
+2022-07-19 17:04:11.579313 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [2.42 ms]
+2022-07-19 17:04:11.588289 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Licensing, Version=1.1.1.0, Culture=neutral, PublicKeyToken=null in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\Keysight Licensing\Keysight.OpenTap.Licensing.dll
+2022-07-19 17:04:11.616213 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2022-07-19 17-04-11.txt'. [5.45 ms]
+2022-07-19 17:04:12.195665 ; Main           ; Debug       ; GUI initialized. [670 ms]
+2022-07-19 17:04:12.195665 ; Main           ; Debug       ; Docking manager initialized. [71.7 us]
+2022-07-19 17:04:12.197659 ; OpenTAP        ; Information ; OpenTAP version '9.17.4+ea67c63a' 64-bit initialized 07/19/2022 [4.00 s]
+2022-07-19 17:04:12.252513 ; PluginManager  ; Debug       ; Loaded PackageManager. [395 us]
+2022-07-19 17:04:12.252513 ; PluginManager  ; Debug       ; Loaded Editor. [27.2 us]
+2022-07-19 17:04:12.260493 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [7.34 ms]
+2022-07-19 17:04:12.268470 ; PluginManager  ; Debug       ; Loaded RunExplorer. [7.45 ms]
+2022-07-19 17:04:12.271463 ; Settings       ; Debug       ; ConnectionSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [1.42 ms]
+2022-07-19 17:04:12.271463 ; Settings       ; Debug       ; DutSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [597 us]
+2022-07-19 17:04:12.285442 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.LedsGo. [9.02 ms]
+2022-07-19 17:04:12.292413 ; Settings       ; Debug       ; InstrumentSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [21.0 ms]
+2022-07-19 17:04:12.294416 ; Settings       ; Debug       ; ResultSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [1.30 ms]
+2022-07-19 17:04:12.716018 ; Main           ; Information ; Latest version of 'Keysight Licensing' is 1.2, your version is 1.1. Please consider updating. [517 ms]
+2022-07-19 17:04:12.716018 ; Main           ; Information ; Latest version of 'PathWave License Manager' is 2.5, your version is 2.4. Please consider updating. [517 ms]
+2022-07-19 17:04:12.716018 ; Main           ; Information ; Latest version of 'OpenTAP' is 9.18, your version is 9.17. Please consider updating. [518 ms]
+2022-07-19 17:04:12.716018 ; Main           ; Debug       ; Update check complete. [518 ms]
+2022-07-19 17:04:13.264070 ; Resolver       ; Debug       ; Found match for Keysight.Kal.Licensing.Api, Version=4.0.0.0, Culture=neutral, PublicKeyToken=55333af07c70062e in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\Keysight.Kal.Licensing.Api.4.0.0\Keysight.Kal.Licensing.Api.dll
+2022-07-19 17:04:13.374297 ; KAL            ; Debug       ; KAL signature verified. [47.1 ms]
+2022-07-19 17:04:13.403231 ; KAL            ; Debug       ; Initialized [70.0 ms]
+2022-07-19 17:04:13.407211 ; KAL Process    ; Debug       ; Initialized [84.1 ms]
+2022-07-19 17:04:14.404412 ; Settings       ; Debug       ; PanelSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [3.45 ms]
+2022-07-19 17:04:15.205046 ; Main           ; Debug       ; Application startup finished. [7.01 s]
+2022-07-19 17:04:18.462675 ; Main           ; Debug       ; Loaded Test plan D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\test.TapPlan [671 ms]
+2022-07-19 17:05:06.562506 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 17:05:06.590433 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 17:05:06, 1 of 19 TestSteps enabled.
+2022-07-19 17:05:06.682187 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.82 ms]
+2022-07-19 17:05:06.688173 ; Settings       ; Debug       ; No settings file exists for TestPlanRunPackageParameterMonitor. A new instance with default values has been created. [172 us]
+2022-07-19 17:05:06.898710 ; Labjack        ; Information ; Resource "Labjack" opened. [94.4 ms]
+2022-07-19 17:05:06.929630 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [4.79 ms]
+2022-07-19 17:05:06.929630 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [8.59 ms]
+2022-07-19 17:05:06.945586 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-19 17:05:10.275663 ; TestPlan       ; Error       ; Error running "LabJackStep": LJME_MBE2_ILLEGAL_DATA_ADDRESS: 10.
+2022-07-19 17:05:10.279652 ; TestPlan       ; Debug       ; Exception: LJME_MBE2_ILLEGAL_DATA_ADDRESS: 10
+2022-07-19 17:05:10.282645 ; TestPlan       ; Debug       ;     bij LedsGo.Utilities.LabJackClass.AnalogWrite(AIN channel, Double value) in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Utilities\LabJack.cs:regel 334
+2022-07-19 17:05:10.282645 ; TestPlan       ; Debug       ;     bij LedsGo.Instruments.LabJackInstrument.AnalogWrite(AIN channel, Double value) in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Instruments\LabJackInstrument.cs:regel 226
+2022-07-19 17:05:10.282645 ; TestPlan       ; Debug       ;     bij LedsGo.Steps.LabJackStep.WriteAnalog() in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Steps\LabJackStep.cs:regel 148
+2022-07-19 17:05:10.282645 ; TestPlan       ; Debug       ;     bij LedsGo.Steps.LabJackStep.Run() in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Steps\LabJackStep.cs:regel 99
+2022-07-19 17:05:10.282645 ; TestPlan       ; Debug       ;     bij OpenTap.TestStepExtensions.DoRun(ITestStep Step, TestPlanRun planRun, TestRun parentRun, IEnumerable`1 attachedParameters)
+2022-07-19 17:05:10.284642 ; TestPlan       ; Debug       ; Exception caught at:
+2022-07-19 17:05:10.301593 ; TestPlan       ; Debug       ;     at failState execTestPlan(OpenTap.TestPlanRun, System.Collections.Generic.IList`1[OpenTap.ITestStep])
+2022-07-19 17:05:10.301593 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun DoExecute(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-19 17:05:10.301593 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun executeInContext(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-19 17:05:10.301593 ; TestPlan       ; Debug       ;     at Void g()
+2022-07-19 17:05:10.301593 ; TestPlan       ; Debug       ;     ...
+2022-07-19 17:05:10.308574 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Error'. [3.35 s]
+2022-07-19 17:05:10.310570 ; Test Step      ; Debug       ; Break issued from 'LabJackStep' due to verdict Error. See Break Conditions settings.
+2022-07-19 17:05:10.312570 ; TestPlan       ; Debug       ; Test step runs finished. [3.38 s]
+2022-07-19 17:05:10.319592 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [1.70 ms]
+2022-07-19 17:05:10.344501 ; Summary        ; Information ; ------- Summary of test plan started 07/19/2022 17:05:06 -------
+2022-07-19 17:05:10.348470 ; Summary        ; Information ;  LabJackStep                                      3.35 s   Error  
+2022-07-19 17:05:10.348470 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-19 17:05:10.349474 ; Summary        ; Information ; ------- Test plan completed with verdict Error in 3.63 s -------
+2022-07-19 17:05:10.369412 ; Labjack        ; Information ; Resource "Labjack" closed. [8.80 us]
+2022-07-19 17:06:29.390044 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 17:06:29.390044 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 17:06:29, 1 of 19 TestSteps enabled.
+2022-07-19 17:06:29.397027 ; TestPlan       ; Debug       ; Saved Test Plan XML [6.23 ms]
+2022-07-19 17:06:29.418967 ; Labjack        ; Information ; Resource "Labjack" opened. [27.4 ms]
+2022-07-19 17:06:29.419968 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [107 us]
+2022-07-19 17:06:29.419968 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [131 us]
+2022-07-19 17:06:29.419968 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-19 17:06:53.475049 ; TestPlan       ; Error       ; Error running "LabJackStep": LJME_MBE2_ILLEGAL_DATA_ADDRESS: 10.
+2022-07-19 17:06:53.475049 ; TestPlan       ; Debug       ; Exception: LJME_MBE2_ILLEGAL_DATA_ADDRESS: 10
+2022-07-19 17:06:53.483065 ; TestPlan       ; Debug       ;     bij LedsGo.Utilities.LabJackClass.AnalogWrite(AIN channel, Double value) in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Utilities\LabJack.cs:regel 334
+2022-07-19 17:06:53.483065 ; TestPlan       ; Debug       ;     bij LedsGo.Instruments.LabJackInstrument.AnalogWrite(AIN channel, Double value) in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Instruments\LabJackInstrument.cs:regel 226
+2022-07-19 17:06:53.483065 ; TestPlan       ; Debug       ;     bij LedsGo.Steps.LabJackStep.WriteAnalog() in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Steps\LabJackStep.cs:regel 148
+2022-07-19 17:06:53.483065 ; TestPlan       ; Debug       ;     bij LedsGo.Steps.LabJackStep.Run() in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Steps\LabJackStep.cs:regel 99
+2022-07-19 17:06:53.483065 ; TestPlan       ; Debug       ;     bij OpenTap.TestStepExtensions.DoRun(ITestStep Step, TestPlanRun planRun, TestRun parentRun, IEnumerable`1 attachedParameters)
+2022-07-19 17:06:53.484025 ; TestPlan       ; Debug       ; Exception caught at:
+2022-07-19 17:06:53.484025 ; TestPlan       ; Debug       ;     at failState execTestPlan(OpenTap.TestPlanRun, System.Collections.Generic.IList`1[OpenTap.ITestStep])
+2022-07-19 17:06:53.484025 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun DoExecute(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-19 17:06:53.484025 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun executeInContext(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-19 17:06:53.484025 ; TestPlan       ; Debug       ;     at Void g()
+2022-07-19 17:06:53.484025 ; TestPlan       ; Debug       ;     ...
+2022-07-19 17:06:53.484025 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Error'. [24.0 s]
+2022-07-19 17:06:53.484025 ; Test Step      ; Debug       ; Break issued from 'LabJackStep' due to verdict Error. See Break Conditions settings.
+2022-07-19 17:06:53.484025 ; TestPlan       ; Debug       ; Test step runs finished. [24.0 s]
+2022-07-19 17:06:53.485028 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [313 us]
+2022-07-19 17:06:53.485028 ; Summary        ; Information ; ------- Summary of test plan started 07/19/2022 17:06:29 -------
+2022-07-19 17:06:53.485028 ; Summary        ; Information ;  LabJackStep                                      24.0 s   Error  
+2022-07-19 17:06:53.485028 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-19 17:06:53.485028 ; Summary        ; Information ; ------- Test plan completed with verdict Error in 24.1 s -------
+2022-07-19 17:06:53.494000 ; Labjack        ; Information ; Resource "Labjack" closed. [1.50 us]
+2022-07-19 17:07:32.063543 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 17:07:32.063543 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 17:07:32, 1 of 19 TestSteps enabled.
+2022-07-19 17:07:32.069093 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.48 ms]
+2022-07-19 17:07:32.100989 ; Labjack        ; Information ; Resource "Labjack" opened. [35.7 ms]
+2022-07-19 17:07:32.101987 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [74.7 us]
+2022-07-19 17:07:32.101987 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [91.3 us]
+2022-07-19 17:07:32.101987 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-19 17:07:36.751210 ; TestPlan       ; Error       ; Error running "LabJackStep": LJME_MBE2_ILLEGAL_DATA_ADDRESS: 6.
+2022-07-19 17:07:36.751210 ; TestPlan       ; Debug       ; Exception: LJME_MBE2_ILLEGAL_DATA_ADDRESS: 6
+2022-07-19 17:07:36.752206 ; TestPlan       ; Debug       ;     bij LedsGo.Utilities.LabJackClass.AnalogWrite(AIN channel, Double value) in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Utilities\LabJack.cs:regel 334
+2022-07-19 17:07:36.752206 ; TestPlan       ; Debug       ;     bij LedsGo.Instruments.LabJackInstrument.AnalogWrite(AIN channel, Double value) in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Instruments\LabJackInstrument.cs:regel 226
+2022-07-19 17:07:36.752206 ; TestPlan       ; Debug       ;     bij LedsGo.Steps.LabJackStep.WriteAnalog() in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Steps\LabJackStep.cs:regel 148
+2022-07-19 17:07:36.752206 ; TestPlan       ; Debug       ;     bij LedsGo.Steps.LabJackStep.Run() in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Steps\LabJackStep.cs:regel 99
+2022-07-19 17:07:36.752206 ; TestPlan       ; Debug       ;     bij OpenTap.TestStepExtensions.DoRun(ITestStep Step, TestPlanRun planRun, TestRun parentRun, IEnumerable`1 attachedParameters)
+2022-07-19 17:07:36.752206 ; TestPlan       ; Debug       ; Exception caught at:
+2022-07-19 17:07:36.752206 ; TestPlan       ; Debug       ;     at failState execTestPlan(OpenTap.TestPlanRun, System.Collections.Generic.IList`1[OpenTap.ITestStep])
+2022-07-19 17:07:36.752206 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun DoExecute(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-19 17:07:36.752206 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun executeInContext(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-19 17:07:36.752206 ; TestPlan       ; Debug       ;     at Void g()
+2022-07-19 17:07:36.752206 ; TestPlan       ; Debug       ;     ...
+2022-07-19 17:07:36.752206 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Error'. [4.65 s]
+2022-07-19 17:07:36.752206 ; Test Step      ; Debug       ; Break issued from 'LabJackStep' due to verdict Error. See Break Conditions settings.
+2022-07-19 17:07:36.752206 ; TestPlan       ; Debug       ; Test step runs finished. [4.65 s]
+2022-07-19 17:07:36.752206 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [259 us]
+2022-07-19 17:07:36.752206 ; Summary        ; Information ; ------- Summary of test plan started 07/19/2022 17:07:32 -------
+2022-07-19 17:07:36.752206 ; Summary        ; Information ;  LabJackStep                                      4.65 s   Error  
+2022-07-19 17:07:36.752206 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-19 17:07:36.752206 ; Summary        ; Information ; ------- Test plan completed with verdict Error in 4.68 s -------
+2022-07-19 17:07:36.772154 ; Labjack        ; Information ; Resource "Labjack" closed. [2.10 us]
+2022-07-19 17:07:39.460014 ; TestPlan       ; Debug       ; Saved Test Plan XML [7.00 ms]
+2022-07-19 17:07:39.467956 ; Labjack        ; Information ; Resource "Labjack" opened. [14.9 ms]
+2022-07-19 17:07:39.467956 ; TestPlan       ; Debug       ; TestPlan opened. [15.8 ms]
+2022-07-19 17:07:44.962450 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 17:07:44.962450 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 17:07:44, 1 of 19 TestSteps enabled.
+2022-07-19 17:07:44.971400 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [206 us]
+2022-07-19 17:07:44.971400 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [224 us]
+2022-07-19 17:07:44.972398 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-19 17:07:47.632115 ; TestPlan       ; Error       ; Error running "LabJackStep": LJME_MBE2_ILLEGAL_DATA_ADDRESS: 6.
+2022-07-19 17:07:47.632115 ; TestPlan       ; Debug       ; Exception: LJME_MBE2_ILLEGAL_DATA_ADDRESS: 6
+2022-07-19 17:07:47.632115 ; TestPlan       ; Debug       ;     bij LedsGo.Utilities.LabJackClass.AnalogWrite(AIN channel, Double value) in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Utilities\LabJack.cs:regel 334
+2022-07-19 17:07:47.632115 ; TestPlan       ; Debug       ;     bij LedsGo.Instruments.LabJackInstrument.AnalogWrite(AIN channel, Double value) in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Instruments\LabJackInstrument.cs:regel 226
+2022-07-19 17:07:47.632115 ; TestPlan       ; Debug       ;     bij LedsGo.Steps.LabJackStep.WriteAnalog() in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Steps\LabJackStep.cs:regel 148
+2022-07-19 17:07:47.632115 ; TestPlan       ; Debug       ;     bij LedsGo.Steps.LabJackStep.Run() in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Steps\LabJackStep.cs:regel 99
+2022-07-19 17:07:47.632115 ; TestPlan       ; Debug       ;     bij OpenTap.TestStepExtensions.DoRun(ITestStep Step, TestPlanRun planRun, TestRun parentRun, IEnumerable`1 attachedParameters)
+2022-07-19 17:07:47.632115 ; TestPlan       ; Debug       ; Exception caught at:
+2022-07-19 17:07:47.632115 ; TestPlan       ; Debug       ;     at failState execTestPlan(OpenTap.TestPlanRun, System.Collections.Generic.IList`1[OpenTap.ITestStep])
+2022-07-19 17:07:47.632115 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun DoExecute(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-19 17:07:47.632115 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun executeInContext(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-19 17:07:47.632115 ; TestPlan       ; Debug       ;     at Void g()
+2022-07-19 17:07:47.632115 ; TestPlan       ; Debug       ;     ...
+2022-07-19 17:07:47.632115 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Error'. [2.66 s]
+2022-07-19 17:07:47.632115 ; Test Step      ; Debug       ; Break issued from 'LabJackStep' due to verdict Error. See Break Conditions settings.
+2022-07-19 17:07:47.632115 ; TestPlan       ; Debug       ; Test step runs finished. [2.66 s]
+2022-07-19 17:07:47.632115 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [243 us]
+2022-07-19 17:07:47.632115 ; Summary        ; Information ; ------- Summary of test plan started 07/19/2022 17:07:44 -------
+2022-07-19 17:07:47.632115 ; Summary        ; Information ;  LabJackStep                                      2.66 s   Error  
+2022-07-19 17:07:47.632115 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-19 17:07:47.632115 ; Summary        ; Information ; ------- Test plan completed with verdict Error in 2.66 s -------
+2022-07-19 17:08:18.866905 ; Labjack        ; Information ; Resource "Labjack" closed. [1.40 us]
+2022-07-19 17:08:18.867902 ; TestPlan       ; Debug       ; TestPlan closed. [319 us]
+2022-07-19 17:08:20.386890 ; Settings       ; Debug       ; Saved GuiControlsSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [18.7 ms]
+2022-07-19 17:08:20.429890 ; Settings       ; Debug       ; Saved PanelSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [961 us]
+2022-07-19 17:08:20.431882 ; Settings       ; Debug       ; Saved EditorSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [2.34 ms]

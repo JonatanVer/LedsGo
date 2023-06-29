@@ -1,0 +1,77 @@
+﻿2022-08-02 07:58:08.939167 ; Session        ; Debug       ; Session log loaded as 'C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\editor 2022-08-02 07-58-06.txt'. [14.6 ms]
+2022-08-02 07:58:09.003208 ; Session        ; Debug       ; Running '"C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\editor.exe" ' in 'C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2022-08-02 07:58:09.536602 ; Session        ; Debug       ; Microsoft Windows 10.0.19044 X64
+2022-08-02 07:58:09.537710 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2022-08-02 07:58:09.583611 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2022-08-02 07:58:09.598440 ; AssemblyFinder ; Debug       ; Found 38/93 assembly files. [53.7 ms]
+2022-08-02 07:58:09.719123 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-08-02 07:58:09.928574 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-08-02 07:58:10.354587 ; Searcher       ; Debug       ; Ordered 34 assemblies according to references. [731 ms]
+2022-08-02 07:58:10.711522 ; PluginManager  ; Debug       ; Found 18 plugin assemblies containing 267 plugin types. [1.09 s]
+2022-08-02 07:58:10.712123 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2022-08-02 07:58:10.712123 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2022-08-02 07:58:10.712123 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2022-08-02 07:58:10.712123 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2022-08-02 07:58:10.712123 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2022-08-02 07:58:10.712123 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2022-08-02 07:58:10.712123 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2022-08-02 07:58:10.712517 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of OpenTap.Plugins.LedsGo.dll
+2022-08-02 07:58:10.712517 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-08-02 07:58:10.712517 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of ResultsViewer.exe
+2022-08-02 07:58:10.712517 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of RunExplorer.exe
+2022-08-02 07:58:10.712517 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2022-08-02 07:58:10.712517 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-08-02 07:58:10.712517 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2022-08-02 07:58:10.712517 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-08-02 07:58:10.712517 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-08-02 07:58:10.712517 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-08-02 07:58:10.712517 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2022-08-02 07:58:10.712517 ; PluginManager  ; Debug       ; Searched 38 Assemblies. [1.10 s]
+2022-08-02 07:58:10.816245 ; PluginManager  ; Debug       ; Loaded OpenTap. [941 us]
+2022-08-02 07:58:10.872098 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [51.1 ms]
+2022-08-02 07:58:10.897034 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [79.5 ms]
+2022-08-02 07:58:10.901024 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [326 us]
+2022-08-02 07:58:10.954882 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [18.1 ms]
+2022-08-02 07:58:11.174307 ; PluginManager  ; Debug       ; Loaded mscorlib. [1.10 us]
+2022-08-02 07:58:11.561291 ; Settings       ; Debug       ; EditorSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [1.24 s]
+2022-08-02 07:58:11.963238 ; GUI            ; Debug       ; Loaded Light Theme. [42.3 ms]
+2022-08-02 07:58:12.004130 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2022-08-02 07:58:12.521905 ; Settings       ; Debug       ; GuiControlsSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [325 ms]
+2022-08-02 07:58:12.522289 ; Main           ; Debug       ; Window initial dimensions: 1934px, 1054px.
+2022-08-02 07:58:12.599570 ; Settings       ; Debug       ; EngineSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [71.7 ms]
+2022-08-02 07:58:12.606550 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [2.00 ms]
+2022-08-02 07:58:12.669769 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2022-08-02 07-58-12.txt'. [10.6 ms]
+2022-08-02 07:58:14.020844 ; Main           ; Debug       ; GUI initialized. [1.49 s]
+2022-08-02 07:58:14.021322 ; Main           ; Debug       ; Docking manager initialized. [130 us]
+2022-08-02 07:58:14.027095 ; OpenTAP        ; Information ; OpenTAP version '9.17.4+ea67c63a' 64-bit initialized 08/02/2022 [7.14 s]
+2022-08-02 07:58:14.384887 ; PluginManager  ; Debug       ; Loaded PackageManager. [1.11 ms]
+2022-08-02 07:58:14.384887 ; PluginManager  ; Debug       ; Loaded Editor. [76.3 us]
+2022-08-02 07:58:14.572455 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [186 ms]
+2022-08-02 07:58:14.658171 ; PluginManager  ; Debug       ; Loaded RunExplorer. [83.2 ms]
+2022-08-02 07:58:14.747742 ; Settings       ; Debug       ; ConnectionSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [80.3 ms]
+2022-08-02 07:58:14.754918 ; Settings       ; Debug       ; DutSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [5.41 ms]
+2022-08-02 07:58:15.051142 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.LedsGo. [283 ms]
+2022-08-02 07:58:15.070422 ; Settings       ; Debug       ; InstrumentSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [315 ms]
+2022-08-02 07:58:15.072087 ; Settings       ; Debug       ; ResultSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [1.65 ms]
+2022-08-02 07:58:17.449852 ; Main           ; Information ; Latest version of 'Keysight Licensing' is 1.2, your version is 1.1. Please consider updating. [3.31 s]
+2022-08-02 07:58:17.449852 ; Main           ; Information ; Latest version of 'OpenTAP' is 9.18, your version is 9.17. Please consider updating. [3.31 s]
+2022-08-02 07:58:17.449852 ; Main           ; Debug       ; Update check complete. [3.31 s]
+2022-08-02 07:58:18.555950 ; Settings       ; Debug       ; PanelSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [4.99 ms]
+2022-08-02 07:58:21.100378 ; Main           ; Debug       ; Application startup finished. [14.2 s]
+2022-08-02 07:58:26.686631 ; Main           ; Debug       ; Loaded Test plan C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTapPrograms\SHSIDDALI.TapPlan [1.16 s]
+2022-08-02 07:58:45.899231 ; thread         ; Error       ; Exception unhandled in worker thread.
+2022-08-02 07:58:45.904216 ; thread         ; Debug       ; Exception: LJME_CANNOT_CONNECT
+2022-08-02 07:58:45.912195 ; thread         ; Debug       ;     bij LabJack.LJM.ListAllS(String DeviceType, String ConnectionType, Int32& NumFound, Int32[] aDeviceTypes, Int32[] aConnectionTypes, Int32[] aSerialNumbers, Int32[] aIPAddresses)
+2022-08-02 07:58:45.912195 ; thread         ; Debug       ;     bij LedsGo.Utilities.LabJackClass.GetConnectedDevices() in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Utilities\LabJack.cs:regel 342
+2022-08-02 07:58:45.912195 ; thread         ; Debug       ;     bij LedsGo.Plugin.Knop.EventsTapPlan.run() in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Buttons\EventsTapPlan.cs:regel 50
+2022-08-02 07:58:45.912195 ; thread         ; Debug       ;     bij LedsGo.Plugin.Knop.EventsTapPlan.<>c.<Listen>b__16_0() in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Buttons\EventsTapPlan.cs:regel 30
+2022-08-02 07:58:45.912195 ; thread         ; Debug       ;     bij OpenTap.TapThread.Process()
+2022-08-02 07:58:45.912195 ; thread         ; Debug       ;     bij OpenTap.ThreadManager.processQueue()
+2022-08-02 07:58:45.913194 ; thread         ; Debug       ; Exception caught at:
+2022-08-02 07:58:45.933145 ; thread         ; Debug       ;     at Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+2022-08-02 07:58:45.933145 ; thread         ; Debug       ;     at Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+2022-08-02 07:58:45.933145 ; thread         ; Debug       ;     at Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+2022-08-02 07:58:45.933145 ; thread         ; Debug       ;     at Void ThreadStart()
+2022-08-02 07:58:50.825248 ; Settings       ; Debug       ; Saved GuiControlsSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [29.2 ms]
+2022-08-02 07:58:50.848188 ; Settings       ; Debug       ; Saved PanelSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [1.73 ms]
+2022-08-02 07:58:50.852178 ; Settings       ; Debug       ; Saved EditorSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [3.89 ms]

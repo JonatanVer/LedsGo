@@ -1,0 +1,1335 @@
+﻿2022-07-20 12:15:48.785348 ; Session        ; Debug       ; Session log loaded as 'D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\editor 2022-07-20 12-15-48.txt'. [7.96 ms]
+2022-07-20 12:15:48.838210 ; Session        ; Debug       ; Running '"D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\editor.exe" ' in 'D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2022-07-20 12:15:48.891068 ; Session        ; Debug       ; Microsoft Windows 10.0.19043 X64
+2022-07-20 12:15:48.891068 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2022-07-20 12:15:48.983820 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2022-07-20 12:15:49.008752 ; AssemblyFinder ; Debug       ; Found 30/85 assembly files. [39.3 ms]
+2022-07-20 12:15:49.121451 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Wpf, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\WPF Controls\Keysight.OpenTap.Wpf.dll
+2022-07-20 12:15:49.148380 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-07-20 12:15:49.184283 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-07-20 12:15:49.564268 ; Searcher       ; Debug       ; Ordered 28 assemblies according to references. [545 ms]
+2022-07-20 12:15:50.386396 ; PluginManager  ; Debug       ; Found 18 plugin assemblies containing 265 plugin types. [1.37 s]
+2022-07-20 12:15:50.386396 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2022-07-20 12:15:50.386396 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2022-07-20 12:15:50.386396 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2022-07-20 12:15:50.386396 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2022-07-20 12:15:50.386396 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2022-07-20 12:15:50.386396 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2022-07-20 12:15:50.386396 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2022-07-20 12:15:50.386396 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of OpenTap.Plugins.LedsGo.dll
+2022-07-20 12:15:50.386396 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-07-20 12:15:50.386396 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of ResultsViewer.exe
+2022-07-20 12:15:50.386396 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of RunExplorer.exe
+2022-07-20 12:15:50.386396 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2022-07-20 12:15:50.386396 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-07-20 12:15:50.387391 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2022-07-20 12:15:50.387391 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-07-20 12:15:50.387391 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-07-20 12:15:50.387391 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-07-20 12:15:50.387391 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2022-07-20 12:15:50.387391 ; PluginManager  ; Debug       ; Searched 30 Assemblies. [1.37 s]
+2022-07-20 12:15:50.431274 ; PluginManager  ; Debug       ; Loaded OpenTap. [2.99 ms]
+2022-07-20 12:15:50.529013 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [87.4 ms]
+2022-07-20 12:15:50.551952 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [55.6 ms]
+2022-07-20 12:15:50.575895 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [12.1 ms]
+2022-07-20 12:15:50.680608 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [20.5 ms]
+2022-07-20 12:15:50.900031 ; PluginManager  ; Debug       ; Loaded mscorlib. [1.10 us]
+2022-07-20 12:15:51.285991 ; Settings       ; Debug       ; EditorSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [1.66 s]
+2022-07-20 12:15:51.317903 ; Resolver       ; Debug       ; Found match for MahApps.Metro, Version=1.3.0.0, Culture=neutral, PublicKeyToken=f4fb5a3c4d1e5b4f in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\MahApps.Metro.1.3.0.0\MahApps.Metro.dll
+2022-07-20 12:15:51.666971 ; GUI            ; Debug       ; Loaded Light Theme. [42.1 ms]
+2022-07-20 12:15:51.704868 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2022-07-20 12:15:52.185564 ; Settings       ; Debug       ; GuiControlsSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [298 ms]
+2022-07-20 12:15:52.185564 ; Main           ; Debug       ; Window initial dimensions: 1934px, 1054px.
+2022-07-20 12:15:52.245404 ; Settings       ; Debug       ; EngineSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [56.5 ms]
+2022-07-20 12:15:52.248397 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [2.06 ms]
+2022-07-20 12:15:52.251387 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Licensing, Version=1.1.1.0, Culture=neutral, PublicKeyToken=null in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\Keysight Licensing\Keysight.OpenTap.Licensing.dll
+2022-07-20 12:15:52.309232 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2022-07-20 12-15-52.txt'. [11.9 ms]
+2022-07-20 12:15:52.934561 ; Main           ; Debug       ; GUI initialized. [746 ms]
+2022-07-20 12:15:52.934561 ; Main           ; Debug       ; Docking manager initialized. [70.2 us]
+2022-07-20 12:15:52.936556 ; OpenTAP        ; Information ; OpenTAP version '9.17.4+ea67c63a' 64-bit initialized 07/20/2022 [4.67 s]
+2022-07-20 12:15:52.999389 ; PluginManager  ; Debug       ; Loaded PackageManager. [497 us]
+2022-07-20 12:15:52.999389 ; PluginManager  ; Debug       ; Loaded Editor. [36.3 us]
+2022-07-20 12:15:53.010360 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [11.0 ms]
+2022-07-20 12:15:53.021330 ; PluginManager  ; Debug       ; Loaded RunExplorer. [10.0 ms]
+2022-07-20 12:15:53.025318 ; Settings       ; Debug       ; ConnectionSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [2.49 ms]
+2022-07-20 12:15:53.027313 ; Settings       ; Debug       ; DutSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [1.28 ms]
+2022-07-20 12:15:53.054255 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.LedsGo. [19.1 ms]
+2022-07-20 12:15:53.060225 ; Settings       ; Debug       ; InstrumentSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [33.2 ms]
+2022-07-20 12:15:53.061223 ; Settings       ; Debug       ; ResultSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [1.18 ms]
+2022-07-20 12:15:53.472507 ; Main           ; Information ; Latest version of 'Keysight Licensing' is 1.2, your version is 1.1. Please consider updating. [532 ms]
+2022-07-20 12:15:53.472507 ; Main           ; Information ; Latest version of 'PathWave License Manager' is 2.5, your version is 2.4. Please consider updating. [533 ms]
+2022-07-20 12:15:53.472507 ; Main           ; Information ; Latest version of 'OpenTAP' is 9.18, your version is 9.17. Please consider updating. [533 ms]
+2022-07-20 12:15:53.472507 ; Main           ; Debug       ; Update check complete. [533 ms]
+2022-07-20 12:15:54.008629 ; Resolver       ; Debug       ; Found match for Keysight.Kal.Licensing.Api, Version=4.0.0.0, Culture=neutral, PublicKeyToken=55333af07c70062e in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\Keysight.Kal.Licensing.Api.4.0.0\Keysight.Kal.Licensing.Api.dll
+2022-07-20 12:15:54.106367 ; KAL            ; Debug       ; KAL signature verified. [74.0 ms]
+2022-07-20 12:15:54.138282 ; KAL            ; Debug       ; Initialized [112 ms]
+2022-07-20 12:15:54.145263 ; KAL Process    ; Debug       ; Initialized [119 ms]
+2022-07-20 12:15:55.067184 ; Settings       ; Debug       ; PanelSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [2.21 ms]
+2022-07-20 12:15:55.914919 ; Main           ; Debug       ; Application startup finished. [7.64 s]
+2022-07-20 12:16:08.715391 ; Serializer     ; Error       ; XML Line 267: Object value was not read correctly.
+2022-07-20 12:16:08.718420 ; Serializer     ; Debug       ; Exception: De aangevraagde waarde DAC1 is niet gevonden.
+2022-07-20 12:16:08.719421 ; Serializer     ; Debug       ;     bij System.Enum.TryParseEnum(Type enumType, String value, Boolean ignoreCase, EnumResult& parseResult)
+2022-07-20 12:16:08.719421 ; Serializer     ; Debug       ;     bij System.Enum.Parse(Type enumType, String value, Boolean ignoreCase)
+2022-07-20 12:16:08.719421 ; Serializer     ; Debug       ;     bij OpenTap.Plugins.ObjectSerializer.readContentInternal(Type propType, Boolean ignoreComponentSettings, Func`1 getvalueString, XElement elem, Object& outvalue)
+2022-07-20 12:16:08.719421 ; Serializer     ; Debug       ;     bij OpenTap.Plugins.ObjectSerializer.Deserialize(XElement element, ITypeData t, Action`1 setter)
+2022-07-20 12:16:08.720415 ; Serializer     ; Debug       ; Exception caught at:
+2022-07-20 12:16:08.732346 ; Serializer     ; Debug       ;     at System.Object Deserialize(System.Xml.Linq.XDocument, OpenTap.ITypeData, Boolean, System.String)
+2022-07-20 12:16:08.732346 ; Serializer     ; Debug       ;     at System.Object DeserializeFromFile(System.String, OpenTap.ITypeData, Boolean)
+2022-07-20 12:16:08.732346 ; Serializer     ; Debug       ;     at OpenTap.TestPlan b(System.String, System.String[], Boolean)
+2022-07-20 12:16:08.732346 ; Serializer     ; Debug       ;     at Void a(System.String, System.String[], Boolean)
+2022-07-20 12:16:08.732346 ; Serializer     ; Debug       ;     ...
+2022-07-20 12:16:10.758892 ; Main           ; Debug       ; Loaded Test plan D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\test.TapPlan [2.09 s]
+2022-07-20 12:16:16.228590 ; Main           ; Debug       ; Loaded Test plan D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\testLabJack.TapPlan [296 ms]
+2022-07-20 12:16:20.159137 ; Settings       ; Debug       ; No settings file exists for TestPlanRunPackageParameterMonitor. A new instance with default values has been created. [177 us]
+2022-07-20 12:16:20.161131 ; TestPlan       ; Debug       ; Saved Test Plan XML [3.43 ms]
+2022-07-20 12:16:20.321717 ; Labjack        ; Information ; Resource "Labjack" opened. [57.2 ms]
+2022-07-20 12:16:20.322717 ; TestPlan       ; Debug       ; TestPlan opened. [245 ms]
+2022-07-20 12:16:21.271188 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 12:16:21.278172 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 12:16:21, 1 of 1 TestSteps enabled.
+2022-07-20 12:16:21.368928 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [5.28 ms]
+2022-07-20 12:16:21.368928 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [9.08 ms]
+2022-07-20 12:16:21.389873 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-20 12:16:21.400842 ; TestStep       ; Debug       ; AIN8 measured: 47.8719205856323
+2022-07-20 12:16:21.409817 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Pass'. [17.8 ms]
+2022-07-20 12:16:21.411811 ; TestPlan       ; Debug       ; Test step runs finished. [42.6 ms]
+2022-07-20 12:16:21.416799 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [1.47 ms]
+2022-07-20 12:16:21.440735 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 12:16:21 -------
+2022-07-20 12:16:21.443726 ; Summary        ; Information ;  LabJackStep                                      17.8 ms  Pass   
+2022-07-20 12:16:21.444726 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 12:16:21.445720 ; Summary        ; Information ; ---------- Test plan completed successfully in 134 ms ----------
+2022-07-20 13:29:49.021757 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:29:49.022753 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:29:49, 2 of 2 TestSteps enabled.
+2022-07-20 13:29:49.067638 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [33.2 ms]
+2022-07-20 13:29:49.067638 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [131 us]
+2022-07-20 13:29:49.067638 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [33.3 ms]
+2022-07-20 13:29:49.067638 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:29:49.077607 ; TestStep       ; Debug       ; FIO2set to: High
+2022-07-20 13:29:49.078604 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [10.7 ms]
+2022-07-20 13:29:49.078604 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-20 13:29:49.084587 ; TestStep       ; Debug       ; AIN8 measured: 4.34048701822758
+2022-07-20 13:29:49.084587 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Fail'. [6.14 ms]
+2022-07-20 13:29:49.084587 ; TestPlan       ; Debug       ; Test step runs finished. [17.3 ms]
+2022-07-20 13:29:49.085587 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [430 us]
+2022-07-20 13:29:49.085587 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [14.5 us]
+2022-07-20 13:29:49.088579 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:29:49 -------
+2022-07-20 13:29:49.088579 ; Summary        ; Information ;  LabJackStep (1)                                  10.7 ms  Pass   
+2022-07-20 13:29:49.088579 ; Summary        ; Information ;  LabJackStep                                      6.14 ms  Fail   
+2022-07-20 13:29:49.088579 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:29:49.088579 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 62.5 ms -------
+2022-07-20 13:29:59.535161 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:29:59.536156 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:29:59, 2 of 2 TestSteps enabled.
+2022-07-20 13:29:59.575054 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [30.4 ms]
+2022-07-20 13:29:59.575054 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [104 us]
+2022-07-20 13:29:59.575054 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [30.6 ms]
+2022-07-20 13:29:59.575698 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:29:59.579522 ; TestStep       ; Debug       ; FIO2set to: High
+2022-07-20 13:29:59.580066 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [4.16 ms]
+2022-07-20 13:29:59.580066 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-20 13:29:59.583655 ; TestStep       ; Debug       ; AIN8 measured: 47.878306388855
+2022-07-20 13:29:59.594617 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Pass'. [3.65 ms]
+2022-07-20 13:29:59.594617 ; TestPlan       ; Debug       ; Test step runs finished. [19.2 ms]
+2022-07-20 13:29:59.594617 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [305 us]
+2022-07-20 13:29:59.594617 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [12.1 us]
+2022-07-20 13:29:59.594617 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:29:59 -------
+2022-07-20 13:29:59.594617 ; Summary        ; Information ;  LabJackStep (1)                                  4.16 ms  Pass   
+2022-07-20 13:29:59.594617 ; Summary        ; Information ;  LabJackStep                                      3.65 ms  Pass   
+2022-07-20 13:29:59.594617 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:29:59.594617 ; Summary        ; Information ; --------- Test plan completed successfully in 58.8 ms ----------
+2022-07-20 13:30:05.107686 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:30:05.107686 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:30:05, 2 of 2 TestSteps enabled.
+2022-07-20 13:30:05.134590 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [19.8 ms]
+2022-07-20 13:30:05.134590 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [67.3 us]
+2022-07-20 13:30:05.134590 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [19.9 ms]
+2022-07-20 13:30:05.134590 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:30:05.139604 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-20 13:30:05.139604 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [5.40 ms]
+2022-07-20 13:30:05.139604 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-20 13:30:05.143565 ; TestStep       ; Debug       ; AIN8 measured: 47.9006663560867
+2022-07-20 13:30:05.143565 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Pass'. [3.78 ms]
+2022-07-20 13:30:05.143565 ; TestPlan       ; Debug       ; Test step runs finished. [9.48 ms]
+2022-07-20 13:30:05.143565 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [182 us]
+2022-07-20 13:30:05.143565 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [9.50 us]
+2022-07-20 13:30:05.143565 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:30:05 -------
+2022-07-20 13:30:05.143565 ; Summary        ; Information ;  LabJackStep (1)                                  5.40 ms  Pass   
+2022-07-20 13:30:05.143565 ; Summary        ; Information ;  LabJackStep                                      3.78 ms  Pass   
+2022-07-20 13:30:05.143565 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:30:05.143565 ; Summary        ; Information ; --------- Test plan completed successfully in 35.9 ms ----------
+2022-07-20 13:30:06.044703 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:30:06.045670 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:30:06, 2 of 2 TestSteps enabled.
+2022-07-20 13:30:06.075590 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [19.6 ms]
+2022-07-20 13:30:06.076587 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [78.6 us]
+2022-07-20 13:30:06.076587 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [19.7 ms]
+2022-07-20 13:30:06.076587 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:30:06.079579 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-20 13:30:06.079579 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [3.60 ms]
+2022-07-20 13:30:06.079579 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-20 13:30:06.082571 ; TestStep       ; Debug       ; AIN8 measured: 47.9027938842773
+2022-07-20 13:30:06.082571 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Pass'. [2.90 ms]
+2022-07-20 13:30:06.082571 ; TestPlan       ; Debug       ; Test step runs finished. [6.88 ms]
+2022-07-20 13:30:06.083569 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [199 us]
+2022-07-20 13:30:06.083569 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [4.59 us]
+2022-07-20 13:30:06.083569 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:30:06 -------
+2022-07-20 13:30:06.083569 ; Summary        ; Information ;  LabJackStep (1)                                  3.60 ms  Pass   
+2022-07-20 13:30:06.083569 ; Summary        ; Information ;  LabJackStep                                      2.90 ms  Pass   
+2022-07-20 13:30:06.083569 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:30:06.083569 ; Summary        ; Information ; --------- Test plan completed successfully in 37.8 ms ----------
+2022-07-20 13:30:06.948666 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:30:06.948666 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:30:06, 2 of 2 TestSteps enabled.
+2022-07-20 13:30:06.979583 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [24.9 ms]
+2022-07-20 13:30:06.979583 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [79.0 us]
+2022-07-20 13:30:06.979583 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [24.9 ms]
+2022-07-20 13:30:06.979583 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:30:06.983572 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-20 13:30:06.983572 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [3.93 ms]
+2022-07-20 13:30:06.983572 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-20 13:30:06.986565 ; TestStep       ; Debug       ; AIN8 measured: 47.9038592576981
+2022-07-20 13:30:06.986565 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Pass'. [2.85 ms]
+2022-07-20 13:30:06.986565 ; TestPlan       ; Debug       ; Test step runs finished. [7.02 ms]
+2022-07-20 13:30:06.986565 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [181 us]
+2022-07-20 13:30:06.986565 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [4.50 us]
+2022-07-20 13:30:06.986565 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:30:06 -------
+2022-07-20 13:30:06.986565 ; Summary        ; Information ;  LabJackStep (1)                                  3.93 ms  Pass   
+2022-07-20 13:30:06.986565 ; Summary        ; Information ;  LabJackStep                                      2.85 ms  Pass   
+2022-07-20 13:30:06.986565 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:30:06.986565 ; Summary        ; Information ; --------- Test plan completed successfully in 38.2 ms ----------
+2022-07-20 13:30:17.306120 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:30:17.309110 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:30:17, 2 of 2 TestSteps enabled.
+2022-07-20 13:30:17.363964 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [30.2 ms]
+2022-07-20 13:30:17.363964 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [284 us]
+2022-07-20 13:30:17.363964 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [30.5 ms]
+2022-07-20 13:30:17.363964 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:30:17.368950 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-20 13:30:17.368950 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [4.84 ms]
+2022-07-20 13:30:17.368950 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-20 13:30:17.372940 ; TestStep       ; Debug       ; AIN8 measured: 47.9017317295074
+2022-07-20 13:30:17.372940 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Pass'. [3.60 ms]
+2022-07-20 13:30:17.372940 ; TestPlan       ; Debug       ; Test step runs finished. [8.91 ms]
+2022-07-20 13:30:17.372940 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [191 us]
+2022-07-20 13:30:17.372940 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [4.90 us]
+2022-07-20 13:30:17.372940 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:30:17 -------
+2022-07-20 13:30:17.372940 ; Summary        ; Information ;  LabJackStep (1)                                  4.84 ms  Pass   
+2022-07-20 13:30:17.372940 ; Summary        ; Information ;  LabJackStep                                      3.60 ms  Pass   
+2022-07-20 13:30:17.372940 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:30:17.372940 ; Summary        ; Information ; --------- Test plan completed successfully in 58.4 ms ----------
+2022-07-20 13:30:50.900787 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:30:50.900787 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:30:50, 1 of 2 TestSteps enabled.
+2022-07-20 13:30:50.937652 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [34.1 ms]
+2022-07-20 13:30:50.937652 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [34.2 ms]
+2022-07-20 13:30:50.938649 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-20 13:30:50.941678 ; TestStep       ; Debug       ; AIN8 measured: 0.0913625601679087
+2022-07-20 13:30:50.941678 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Fail'. [3.79 ms]
+2022-07-20 13:30:50.941678 ; TestPlan       ; Debug       ; Test step runs finished. [3.95 ms]
+2022-07-20 13:30:50.942638 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [242 us]
+2022-07-20 13:30:50.942638 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:30:50 -------
+2022-07-20 13:30:50.942638 ; Summary        ; Information ;  LabJackStep                                      3.79 ms  Fail   
+2022-07-20 13:30:50.942638 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:30:50.942638 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 41.5 ms -------
+2022-07-20 13:30:56.385862 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:30:56.386859 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:30:56, 1 of 2 TestSteps enabled.
+2022-07-20 13:30:56.412789 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [17.8 ms]
+2022-07-20 13:30:56.412789 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [17.9 ms]
+2022-07-20 13:30:56.412789 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-20 13:30:56.415782 ; TestStep       ; Debug       ; AIN8 measured: 47.8942773342133
+2022-07-20 13:30:56.415782 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Pass'. [3.00 ms]
+2022-07-20 13:30:56.415782 ; TestPlan       ; Debug       ; Test step runs finished. [3.13 ms]
+2022-07-20 13:30:56.415782 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [228 us]
+2022-07-20 13:30:56.415782 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:30:56 -------
+2022-07-20 13:30:56.415782 ; Summary        ; Information ;  LabJackStep                                      3.00 ms  Pass   
+2022-07-20 13:30:56.415782 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:30:56.415782 ; Summary        ; Information ; --------- Test plan completed successfully in 29.2 ms ----------
+2022-07-20 13:31:01.045226 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:31:01.045226 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:31:01, 1 of 2 TestSteps enabled.
+2022-07-20 13:31:01.070158 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [16.3 ms]
+2022-07-20 13:31:01.070158 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [16.3 ms]
+2022-07-20 13:31:01.070158 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-20 13:31:01.073151 ; TestStep       ; Debug       ; AIN8 measured: 0.205282959155738
+2022-07-20 13:31:01.074158 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Fail'. [3.19 ms]
+2022-07-20 13:31:01.074158 ; TestPlan       ; Debug       ; Test step runs finished. [3.39 ms]
+2022-07-20 13:31:01.074158 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [329 us]
+2022-07-20 13:31:01.074158 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:31:01 -------
+2022-07-20 13:31:01.074158 ; Summary        ; Information ;  LabJackStep                                      3.19 ms  Fail   
+2022-07-20 13:31:01.074158 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:31:01.074158 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 28.4 ms -------
+2022-07-20 13:31:10.434718 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:31:10.435715 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:31:10, 1 of 2 TestSteps enabled.
+2022-07-20 13:31:10.476603 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [36.2 ms]
+2022-07-20 13:31:10.476603 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [36.2 ms]
+2022-07-20 13:31:10.477601 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-20 13:31:10.479598 ; TestStep       ; Debug       ; AIN8 measured: 0.18611878529191
+2022-07-20 13:31:10.480593 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Fail'. [2.91 ms]
+2022-07-20 13:31:10.480593 ; TestPlan       ; Debug       ; Test step runs finished. [3.17 ms]
+2022-07-20 13:31:10.480593 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [368 us]
+2022-07-20 13:31:10.480593 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:31:10 -------
+2022-07-20 13:31:10.480593 ; Summary        ; Information ;  LabJackStep                                      2.91 ms  Fail   
+2022-07-20 13:31:10.480593 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:31:10.480593 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 45.3 ms -------
+2022-07-20 13:31:11.282026 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:31:11.282026 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:31:11, 1 of 2 TestSteps enabled.
+2022-07-20 13:31:11.315898 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [27.6 ms]
+2022-07-20 13:31:11.315898 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [27.7 ms]
+2022-07-20 13:31:11.315898 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-20 13:31:11.319886 ; TestStep       ; Debug       ; AIN8 measured: 0.187183454632759
+2022-07-20 13:31:11.319886 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Fail'. [3.50 ms]
+2022-07-20 13:31:11.319886 ; TestPlan       ; Debug       ; Test step runs finished. [3.67 ms]
+2022-07-20 13:31:11.319886 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [199 us]
+2022-07-20 13:31:11.319886 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:31:11 -------
+2022-07-20 13:31:11.319886 ; Summary        ; Information ;  LabJackStep                                      3.50 ms  Fail   
+2022-07-20 13:31:11.319886 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:31:11.319886 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 37.1 ms -------
+2022-07-20 13:33:25.005430 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:33:25.005430 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:33:25, 1 of 2 TestSteps enabled.
+2022-07-20 13:33:25.088207 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [54.4 ms]
+2022-07-20 13:33:25.088207 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [54.5 ms]
+2022-07-20 13:33:25.088207 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-20 13:33:25.092202 ; TestStep       ; Debug       ; AIN8 measured: 0.182924752123654
+2022-07-20 13:33:25.093201 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Fail'. [4.45 ms]
+2022-07-20 13:33:25.093201 ; TestPlan       ; Debug       ; Test step runs finished. [5.09 ms]
+2022-07-20 13:33:25.094198 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [1.10 ms]
+2022-07-20 13:33:25.094198 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:33:25 -------
+2022-07-20 13:33:25.094198 ; Summary        ; Information ;  LabJackStep                                      4.45 ms  Fail   
+2022-07-20 13:33:25.094198 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:33:25.094198 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 88.4 ms -------
+2022-07-20 13:33:25.948646 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:33:25.948646 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:33:25, 1 of 2 TestSteps enabled.
+2022-07-20 13:33:25.990535 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [33.2 ms]
+2022-07-20 13:33:25.990535 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [33.3 ms]
+2022-07-20 13:33:25.991531 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-20 13:33:25.994524 ; TestStep       ; Debug       ; AIN8 measured: 0.183989421464503
+2022-07-20 13:33:25.994524 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Fail'. [3.28 ms]
+2022-07-20 13:33:25.994524 ; TestPlan       ; Debug       ; Test step runs finished. [3.48 ms]
+2022-07-20 13:33:25.994524 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [209 us]
+2022-07-20 13:33:25.994524 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:33:25 -------
+2022-07-20 13:33:25.994524 ; Summary        ; Information ;  LabJackStep                                      3.28 ms  Fail   
+2022-07-20 13:33:25.994524 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:33:25.994524 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 45.8 ms -------
+2022-07-20 13:33:32.019234 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:33:32.020232 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:33:32, 1 of 2 TestSteps enabled.
+2022-07-20 13:33:32.046163 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [18.1 ms]
+2022-07-20 13:33:32.046163 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [18.1 ms]
+2022-07-20 13:33:32.046163 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-20 13:33:32.050151 ; TestStep       ; Debug       ; AIN8 measured: 0.183989421464503
+2022-07-20 13:33:32.050151 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Fail'. [3.15 ms]
+2022-07-20 13:33:32.050151 ; TestPlan       ; Debug       ; Test step runs finished. [3.28 ms]
+2022-07-20 13:33:32.050151 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [165 us]
+2022-07-20 13:33:32.050151 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:33:32 -------
+2022-07-20 13:33:32.050151 ; Summary        ; Information ;  LabJackStep                                      3.15 ms  Fail   
+2022-07-20 13:33:32.050151 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:33:32.050151 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 29.3 ms -------
+2022-07-20 13:33:32.955998 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:33:32.955998 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:33:32, 1 of 2 TestSteps enabled.
+2022-07-20 13:33:32.975902 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [15.5 ms]
+2022-07-20 13:33:32.975902 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [15.5 ms]
+2022-07-20 13:33:32.975902 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-20 13:33:32.978894 ; TestStep       ; Debug       ; AIN8 measured: 0.183989421464503
+2022-07-20 13:33:32.978894 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Fail'. [2.99 ms]
+2022-07-20 13:33:32.978894 ; TestPlan       ; Debug       ; Test step runs finished. [3.15 ms]
+2022-07-20 13:33:32.979895 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [206 us]
+2022-07-20 13:33:32.979895 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:33:32 -------
+2022-07-20 13:33:32.979895 ; Summary        ; Information ;  LabJackStep                                      2.99 ms  Fail   
+2022-07-20 13:33:32.979895 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:33:32.979895 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 23.4 ms -------
+2022-07-20 13:33:33.678543 ; Labjack        ; Information ; Resource "Labjack" closed. [9.69 us]
+2022-07-20 13:33:33.679542 ; TestPlan       ; Debug       ; TestPlan closed. [29.4 ms]
+2022-07-20 13:33:34.226097 ; TestPlan       ; Debug       ; Saved Test Plan XML [3.94 ms]
+2022-07-20 13:33:34.241057 ; Labjack        ; Information ; Resource "Labjack" opened. [17.8 ms]
+2022-07-20 13:33:34.241057 ; TestPlan       ; Debug       ; TestPlan opened. [19.2 ms]
+2022-07-20 13:33:36.184256 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:33:36.184256 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:33:36, 1 of 2 TestSteps enabled.
+2022-07-20 13:33:36.190241 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [106 us]
+2022-07-20 13:33:36.190241 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [119 us]
+2022-07-20 13:33:36.190241 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-20 13:33:36.196267 ; TestStep       ; Debug       ; AIN8 measured: 0.182924752123654
+2022-07-20 13:33:36.196267 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Fail'. [6.30 ms]
+2022-07-20 13:33:36.196267 ; TestPlan       ; Debug       ; Test step runs finished. [6.40 ms]
+2022-07-20 13:33:36.197222 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [163 us]
+2022-07-20 13:33:36.197222 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:33:36 -------
+2022-07-20 13:33:36.197222 ; Summary        ; Information ;  LabJackStep                                      6.30 ms  Fail   
+2022-07-20 13:33:36.197222 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:33:36.197222 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 12.1 ms -------
+2022-07-20 13:33:45.286906 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:33:45.287907 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:33:45, 1 of 2 TestSteps enabled.
+2022-07-20 13:33:45.321811 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [26.5 ms]
+2022-07-20 13:33:45.321811 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [26.5 ms]
+2022-07-20 13:33:45.321811 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-20 13:33:45.324803 ; TestStep       ; Debug       ; AIN8 measured: 0.180795400869101
+2022-07-20 13:33:45.324803 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Fail'. [3.12 ms]
+2022-07-20 13:33:45.324803 ; TestPlan       ; Debug       ; Test step runs finished. [3.26 ms]
+2022-07-20 13:33:45.325801 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [302 us]
+2022-07-20 13:33:45.325801 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:33:45 -------
+2022-07-20 13:33:45.325801 ; Summary        ; Information ;  LabJackStep                                      3.12 ms  Fail   
+2022-07-20 13:33:45.325801 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:33:45.325801 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 36.0 ms -------
+2022-07-20 13:33:51.807488 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:33:51.807488 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:33:51, 1 of 2 TestSteps enabled.
+2022-07-20 13:33:51.863339 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [44.9 ms]
+2022-07-20 13:33:51.863339 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [45.0 ms]
+2022-07-20 13:33:51.863339 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-20 13:33:51.866341 ; TestStep       ; Debug       ; AIN8 measured: 47.8910844326019
+2022-07-20 13:33:51.866341 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Pass'. [3.01 ms]
+2022-07-20 13:33:51.866341 ; TestPlan       ; Debug       ; Test step runs finished. [3.13 ms]
+2022-07-20 13:33:51.867328 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [192 us]
+2022-07-20 13:33:51.867328 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:33:51 -------
+2022-07-20 13:33:51.867328 ; Summary        ; Information ;  LabJackStep                                      3.01 ms  Pass   
+2022-07-20 13:33:51.867328 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:33:51.867328 ; Summary        ; Information ; --------- Test plan completed successfully in 58.9 ms ----------
+2022-07-20 13:34:18.213906 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:34:18.214866 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:34:18, 1 of 2 TestSteps enabled.
+2022-07-20 13:34:18.235810 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [16.2 ms]
+2022-07-20 13:34:18.235810 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [16.3 ms]
+2022-07-20 13:34:18.235810 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:34:18.253762 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:34:18.253762 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [18.3 ms]
+2022-07-20 13:34:18.253762 ; TestPlan       ; Debug       ; Test step runs finished. [18.5 ms]
+2022-07-20 13:34:18.254760 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [264 us]
+2022-07-20 13:34:18.254760 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:34:18 -------
+2022-07-20 13:34:18.254760 ; Summary        ; Information ;  LabJackStep (1)                                  18.3 ms  Pass   
+2022-07-20 13:34:18.254760 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:34:18.254760 ; Summary        ; Information ; --------- Test plan completed successfully in 39.8 ms ----------
+2022-07-20 13:34:19.180441 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:34:19.180441 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:34:19, 1 of 2 TestSteps enabled.
+2022-07-20 13:34:19.203347 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [17.1 ms]
+2022-07-20 13:34:19.203347 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [17.1 ms]
+2022-07-20 13:34:19.203347 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:34:19.207337 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:34:19.207337 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [4.60 ms]
+2022-07-20 13:34:19.207337 ; TestPlan       ; Debug       ; Test step runs finished. [4.79 ms]
+2022-07-20 13:34:19.208350 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [469 us]
+2022-07-20 13:34:19.208350 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:34:19 -------
+2022-07-20 13:34:19.208350 ; Summary        ; Information ;  LabJackStep (1)                                  4.60 ms  Pass   
+2022-07-20 13:34:19.208350 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:34:19.208350 ; Summary        ; Information ; --------- Test plan completed successfully in 27.6 ms ----------
+2022-07-20 13:34:19.631247 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:34:19.631247 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:34:19, 1 of 2 TestSteps enabled.
+2022-07-20 13:34:19.653191 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [17.0 ms]
+2022-07-20 13:34:19.653191 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [17.0 ms]
+2022-07-20 13:34:19.653191 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:34:19.657181 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:34:19.657181 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [4.58 ms]
+2022-07-20 13:34:19.657181 ; TestPlan       ; Debug       ; Test step runs finished. [4.82 ms]
+2022-07-20 13:34:19.658176 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [176 us]
+2022-07-20 13:34:19.658176 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:34:19 -------
+2022-07-20 13:34:19.658176 ; Summary        ; Information ;  LabJackStep (1)                                  4.58 ms  Pass   
+2022-07-20 13:34:19.658176 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:34:19.658176 ; Summary        ; Information ; --------- Test plan completed successfully in 26.7 ms ----------
+2022-07-20 13:34:20.101130 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:34:20.101130 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:34:20, 1 of 2 TestSteps enabled.
+2022-07-20 13:34:20.125057 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [18.1 ms]
+2022-07-20 13:34:20.125057 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [18.1 ms]
+2022-07-20 13:34:20.125057 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:34:20.129056 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:34:20.130048 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [4.67 ms]
+2022-07-20 13:34:20.130048 ; TestPlan       ; Debug       ; Test step runs finished. [4.95 ms]
+2022-07-20 13:34:20.130048 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [322 us]
+2022-07-20 13:34:20.130048 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:34:20 -------
+2022-07-20 13:34:20.130048 ; Summary        ; Information ;  LabJackStep (1)                                  4.67 ms  Pass   
+2022-07-20 13:34:20.130048 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:34:20.130048 ; Summary        ; Information ; --------- Test plan completed successfully in 29.2 ms ----------
+2022-07-20 13:34:20.444245 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:34:20.445208 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:34:20, 1 of 2 TestSteps enabled.
+2022-07-20 13:34:20.475127 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [25.8 ms]
+2022-07-20 13:34:20.475127 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [25.8 ms]
+2022-07-20 13:34:20.475127 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:34:20.479119 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:34:20.479119 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [4.45 ms]
+2022-07-20 13:34:20.479119 ; TestPlan       ; Debug       ; Test step runs finished. [4.59 ms]
+2022-07-20 13:34:20.479119 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [200 us]
+2022-07-20 13:34:20.480117 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:34:20 -------
+2022-07-20 13:34:20.480117 ; Summary        ; Information ;  LabJackStep (1)                                  4.45 ms  Pass   
+2022-07-20 13:34:20.480117 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:34:20.480117 ; Summary        ; Information ; --------- Test plan completed successfully in 34.7 ms ----------
+2022-07-20 13:34:20.834531 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:34:20.834531 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:34:20, 1 of 2 TestSteps enabled.
+2022-07-20 13:34:20.864452 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [25.6 ms]
+2022-07-20 13:34:20.864452 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [25.6 ms]
+2022-07-20 13:34:20.864452 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:34:20.869514 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:34:20.870436 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [5.21 ms]
+2022-07-20 13:34:20.870436 ; TestPlan       ; Debug       ; Test step runs finished. [5.35 ms]
+2022-07-20 13:34:20.870436 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [137 us]
+2022-07-20 13:34:20.870436 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:34:20 -------
+2022-07-20 13:34:20.870436 ; Summary        ; Information ;  LabJackStep (1)                                  5.21 ms  Pass   
+2022-07-20 13:34:20.870436 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:34:20.870436 ; Summary        ; Information ; --------- Test plan completed successfully in 35.7 ms ----------
+2022-07-20 13:36:17.037688 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:17.038686 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:17, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:17.076587 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [31.9 ms]
+2022-07-20 13:36:17.076587 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [31.9 ms]
+2022-07-20 13:36:17.076587 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:17.080573 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:36:17.080573 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [4.05 ms]
+2022-07-20 13:36:17.080573 ; TestPlan       ; Debug       ; Test step runs finished. [4.31 ms]
+2022-07-20 13:36:17.081571 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [329 us]
+2022-07-20 13:36:17.081571 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:17 -------
+2022-07-20 13:36:17.081571 ; Summary        ; Information ;  LabJackStep (1)                                  4.05 ms  Pass   
+2022-07-20 13:36:17.081571 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:17.081571 ; Summary        ; Information ; --------- Test plan completed successfully in 42.9 ms ----------
+2022-07-20 13:36:18.264275 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:18.264275 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:18, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:18.306164 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [36.8 ms]
+2022-07-20 13:36:18.306164 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [36.9 ms]
+2022-07-20 13:36:18.306164 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:18.310152 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:36:18.310152 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [4.25 ms]
+2022-07-20 13:36:18.310152 ; TestPlan       ; Debug       ; Test step runs finished. [4.40 ms]
+2022-07-20 13:36:18.310152 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [153 us]
+2022-07-20 13:36:18.310152 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:18 -------
+2022-07-20 13:36:18.310152 ; Summary        ; Information ;  LabJackStep (1)                                  4.25 ms  Pass   
+2022-07-20 13:36:18.310152 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:18.310152 ; Summary        ; Information ; --------- Test plan completed successfully in 46.4 ms ----------
+2022-07-20 13:36:19.062547 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:19.062547 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:19, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:19.086482 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [15.7 ms]
+2022-07-20 13:36:19.086482 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [15.7 ms]
+2022-07-20 13:36:19.086482 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:19.089474 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:36:19.089474 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [3.53 ms]
+2022-07-20 13:36:19.089474 ; TestPlan       ; Debug       ; Test step runs finished. [3.63 ms]
+2022-07-20 13:36:19.089474 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [174 us]
+2022-07-20 13:36:19.090471 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:19 -------
+2022-07-20 13:36:19.090471 ; Summary        ; Information ;  LabJackStep (1)                                  3.53 ms  Pass   
+2022-07-20 13:36:19.090471 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:19.090471 ; Summary        ; Information ; --------- Test plan completed successfully in 27.3 ms ----------
+2022-07-20 13:36:25.865603 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:25.866599 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:25, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:25.890535 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [18.9 ms]
+2022-07-20 13:36:25.890535 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [19.0 ms]
+2022-07-20 13:36:25.890535 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:25.895524 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:25.895524 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [4.38 ms]
+2022-07-20 13:36:25.895524 ; TestPlan       ; Debug       ; Test step runs finished. [4.56 ms]
+2022-07-20 13:36:25.895524 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [306 us]
+2022-07-20 13:36:25.895524 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:25 -------
+2022-07-20 13:36:25.895524 ; Summary        ; Information ;  LabJackStep (1)                                  4.38 ms  Pass   
+2022-07-20 13:36:25.895524 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:25.895524 ; Summary        ; Information ; --------- Test plan completed successfully in 29.3 ms ----------
+2022-07-20 13:36:31.360276 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:31.360276 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:31, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:31.404157 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [24.8 ms]
+2022-07-20 13:36:31.404157 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [24.9 ms]
+2022-07-20 13:36:31.404157 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:31.407152 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:36:31.408147 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [3.74 ms]
+2022-07-20 13:36:31.408147 ; TestPlan       ; Debug       ; Test step runs finished. [3.93 ms]
+2022-07-20 13:36:31.408147 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [154 us]
+2022-07-20 13:36:31.408147 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:31 -------
+2022-07-20 13:36:31.408147 ; Summary        ; Information ;  LabJackStep (1)                                  3.74 ms  Pass   
+2022-07-20 13:36:31.408147 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:31.408147 ; Summary        ; Information ; --------- Test plan completed successfully in 47.3 ms ----------
+2022-07-20 13:36:35.427843 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:35.427843 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:35, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:35.453741 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [18.9 ms]
+2022-07-20 13:36:35.453741 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [18.9 ms]
+2022-07-20 13:36:35.453741 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:35.457728 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:35.457728 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [4.01 ms]
+2022-07-20 13:36:35.457728 ; TestPlan       ; Debug       ; Test step runs finished. [4.24 ms]
+2022-07-20 13:36:35.458727 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [323 us]
+2022-07-20 13:36:35.458727 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:35 -------
+2022-07-20 13:36:35.458727 ; Summary        ; Information ;  LabJackStep (1)                                  4.01 ms  Pass   
+2022-07-20 13:36:35.458727 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:35.458727 ; Summary        ; Information ; --------- Test plan completed successfully in 30.0 ms ----------
+2022-07-20 13:36:37.166914 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:37.166914 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:37, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:37.211761 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [29.5 ms]
+2022-07-20 13:36:37.211761 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [29.6 ms]
+2022-07-20 13:36:37.211761 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:37.225725 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:37.225725 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [14.2 ms]
+2022-07-20 13:36:37.225725 ; TestPlan       ; Debug       ; Test step runs finished. [14.3 ms]
+2022-07-20 13:36:37.225725 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [194 us]
+2022-07-20 13:36:37.225725 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:37 -------
+2022-07-20 13:36:37.225725 ; Summary        ; Information ;  LabJackStep (1)                                  14.2 ms  Pass   
+2022-07-20 13:36:37.225725 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:37.225725 ; Summary        ; Information ; --------- Test plan completed successfully in 58.7 ms ----------
+2022-07-20 13:36:38.397330 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:38.397330 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:38, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:38.430204 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [26.4 ms]
+2022-07-20 13:36:38.430204 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [26.4 ms]
+2022-07-20 13:36:38.430204 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:38.434193 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:38.434193 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [3.73 ms]
+2022-07-20 13:36:38.434193 ; TestPlan       ; Debug       ; Test step runs finished. [3.86 ms]
+2022-07-20 13:36:38.434193 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [132 us]
+2022-07-20 13:36:38.434193 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:38 -------
+2022-07-20 13:36:38.434193 ; Summary        ; Information ;  LabJackStep (1)                                  3.73 ms  Pass   
+2022-07-20 13:36:38.434193 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:38.434193 ; Summary        ; Information ; --------- Test plan completed successfully in 36.4 ms ----------
+2022-07-20 13:36:39.387973 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:39.388919 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:39, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:39.409865 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [16.2 ms]
+2022-07-20 13:36:39.409865 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [16.3 ms]
+2022-07-20 13:36:39.409865 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:39.415849 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:39.415849 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [5.75 ms]
+2022-07-20 13:36:39.415849 ; TestPlan       ; Debug       ; Test step runs finished. [5.90 ms]
+2022-07-20 13:36:39.415849 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [174 us]
+2022-07-20 13:36:39.415849 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:39 -------
+2022-07-20 13:36:39.415849 ; Summary        ; Information ;  LabJackStep (1)                                  5.75 ms  Pass   
+2022-07-20 13:36:39.415849 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:39.415849 ; Summary        ; Information ; --------- Test plan completed successfully in 27.3 ms ----------
+2022-07-20 13:36:40.232083 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:40.232083 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:40, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:40.254028 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [15.7 ms]
+2022-07-20 13:36:40.254028 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [15.7 ms]
+2022-07-20 13:36:40.254028 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:40.258018 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:40.258018 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [4.24 ms]
+2022-07-20 13:36:40.258018 ; TestPlan       ; Debug       ; Test step runs finished. [4.36 ms]
+2022-07-20 13:36:40.259014 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [197 us]
+2022-07-20 13:36:40.259014 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:40 -------
+2022-07-20 13:36:40.259014 ; Summary        ; Information ;  LabJackStep (1)                                  4.24 ms  Pass   
+2022-07-20 13:36:40.259014 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:40.259014 ; Summary        ; Information ; --------- Test plan completed successfully in 26.6 ms ----------
+2022-07-20 13:36:40.865229 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:40.865229 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:40, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:40.913103 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [41.7 ms]
+2022-07-20 13:36:40.913103 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [41.8 ms]
+2022-07-20 13:36:40.913103 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:40.917092 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:40.917092 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [4.01 ms]
+2022-07-20 13:36:40.917092 ; TestPlan       ; Debug       ; Test step runs finished. [4.17 ms]
+2022-07-20 13:36:40.917092 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [154 us]
+2022-07-20 13:36:40.917092 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:40 -------
+2022-07-20 13:36:40.917092 ; Summary        ; Information ;  LabJackStep (1)                                  4.01 ms  Pass   
+2022-07-20 13:36:40.917092 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:40.917092 ; Summary        ; Information ; --------- Test plan completed successfully in 52.0 ms ----------
+2022-07-20 13:36:41.528548 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:41.529540 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:41, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:41.561461 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [27.5 ms]
+2022-07-20 13:36:41.561461 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [27.6 ms]
+2022-07-20 13:36:41.561461 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:41.565611 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:41.565611 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [4.12 ms]
+2022-07-20 13:36:41.565611 ; TestPlan       ; Debug       ; Test step runs finished. [4.26 ms]
+2022-07-20 13:36:41.565611 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [132 us]
+2022-07-20 13:36:41.565611 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:41 -------
+2022-07-20 13:36:41.565611 ; Summary        ; Information ;  LabJackStep (1)                                  4.12 ms  Pass   
+2022-07-20 13:36:41.565611 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:41.565611 ; Summary        ; Information ; --------- Test plan completed successfully in 36.3 ms ----------
+2022-07-20 13:36:44.045409 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:44.045409 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:44, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:44.066346 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [15.0 ms]
+2022-07-20 13:36:44.066346 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [15.0 ms]
+2022-07-20 13:36:44.066346 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:44.070334 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:44.070334 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [4.23 ms]
+2022-07-20 13:36:44.070334 ; TestPlan       ; Debug       ; Test step runs finished. [4.45 ms]
+2022-07-20 13:36:44.070334 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [207 us]
+2022-07-20 13:36:44.070334 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:44 -------
+2022-07-20 13:36:44.070334 ; Summary        ; Information ;  LabJackStep (1)                                  4.23 ms  Pass   
+2022-07-20 13:36:44.070334 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:44.070334 ; Summary        ; Information ; --------- Test plan completed successfully in 25.0 ms ----------
+2022-07-20 13:36:45.453149 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:45.453149 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:45, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:45.472066 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [14.8 ms]
+2022-07-20 13:36:45.472066 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [14.8 ms]
+2022-07-20 13:36:45.473063 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:45.477060 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:45.477060 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [4.11 ms]
+2022-07-20 13:36:45.477060 ; TestPlan       ; Debug       ; Test step runs finished. [4.25 ms]
+2022-07-20 13:36:45.477060 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [165 us]
+2022-07-20 13:36:45.477060 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:45 -------
+2022-07-20 13:36:45.477060 ; Summary        ; Information ;  LabJackStep (1)                                  4.11 ms  Pass   
+2022-07-20 13:36:45.477060 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:45.477060 ; Summary        ; Information ; --------- Test plan completed successfully in 23.5 ms ----------
+2022-07-20 13:36:46.487836 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:46.487836 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:46, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:46.513772 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [18.7 ms]
+2022-07-20 13:36:46.513772 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [18.7 ms]
+2022-07-20 13:36:46.513772 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:46.517760 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:46.517760 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [3.93 ms]
+2022-07-20 13:36:46.518756 ; TestPlan       ; Debug       ; Test step runs finished. [4.18 ms]
+2022-07-20 13:36:46.518756 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [239 us]
+2022-07-20 13:36:46.518756 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:46 -------
+2022-07-20 13:36:46.518756 ; Summary        ; Information ;  LabJackStep (1)                                  3.93 ms  Pass   
+2022-07-20 13:36:46.518756 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:46.518756 ; Summary        ; Information ; --------- Test plan completed successfully in 29.6 ms ----------
+2022-07-20 13:36:47.030403 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:47.030403 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:47, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:47.062320 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [27.6 ms]
+2022-07-20 13:36:47.062320 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [27.6 ms]
+2022-07-20 13:36:47.062320 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:47.066311 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:47.066311 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [3.81 ms]
+2022-07-20 13:36:47.066311 ; TestPlan       ; Debug       ; Test step runs finished. [4.01 ms]
+2022-07-20 13:36:47.067307 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [255 us]
+2022-07-20 13:36:47.067307 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:47 -------
+2022-07-20 13:36:47.067307 ; Summary        ; Information ;  LabJackStep (1)                                  3.81 ms  Pass   
+2022-07-20 13:36:47.067307 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:47.067307 ; Summary        ; Information ; --------- Test plan completed successfully in 36.4 ms ----------
+2022-07-20 13:36:47.456471 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:47.457468 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:47, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:47.481406 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [16.6 ms]
+2022-07-20 13:36:47.481406 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [16.6 ms]
+2022-07-20 13:36:47.481406 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:47.485396 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:47.485396 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [3.80 ms]
+2022-07-20 13:36:47.485396 ; TestPlan       ; Debug       ; Test step runs finished. [3.99 ms]
+2022-07-20 13:36:47.485396 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [166 us]
+2022-07-20 13:36:47.485396 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:47 -------
+2022-07-20 13:36:47.485396 ; Summary        ; Information ;  LabJackStep (1)                                  3.80 ms  Pass   
+2022-07-20 13:36:47.485396 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:47.485396 ; Summary        ; Information ; --------- Test plan completed successfully in 28.5 ms ----------
+2022-07-20 13:36:47.839878 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:47.839878 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:47, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:47.879771 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [32.3 ms]
+2022-07-20 13:36:47.879771 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [32.4 ms]
+2022-07-20 13:36:47.879771 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:47.885754 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:47.885754 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [5.65 ms]
+2022-07-20 13:36:47.885754 ; TestPlan       ; Debug       ; Test step runs finished. [5.82 ms]
+2022-07-20 13:36:47.885754 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [239 us]
+2022-07-20 13:36:47.885754 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:47 -------
+2022-07-20 13:36:47.885754 ; Summary        ; Information ;  LabJackStep (1)                                  5.65 ms  Pass   
+2022-07-20 13:36:47.885754 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:47.885754 ; Summary        ; Information ; --------- Test plan completed successfully in 45.9 ms ----------
+2022-07-20 13:36:48.166027 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:48.166027 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:48, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:48.192957 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [21.1 ms]
+2022-07-20 13:36:48.192957 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [21.2 ms]
+2022-07-20 13:36:48.192957 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:48.196943 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:48.197940 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [4.54 ms]
+2022-07-20 13:36:48.197940 ; TestPlan       ; Debug       ; Test step runs finished. [4.74 ms]
+2022-07-20 13:36:48.197940 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [241 us]
+2022-07-20 13:36:48.197940 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:48 -------
+2022-07-20 13:36:48.197940 ; Summary        ; Information ;  LabJackStep (1)                                  4.54 ms  Pass   
+2022-07-20 13:36:48.197940 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:48.197940 ; Summary        ; Information ; --------- Test plan completed successfully in 31.3 ms ----------
+2022-07-20 13:36:48.642268 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:48.642268 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:48, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:48.672134 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [19.3 ms]
+2022-07-20 13:36:48.672134 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [19.3 ms]
+2022-07-20 13:36:48.672134 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:48.688072 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:48.688072 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [15.8 ms]
+2022-07-20 13:36:48.688072 ; TestPlan       ; Debug       ; Test step runs finished. [16.0 ms]
+2022-07-20 13:36:48.688072 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [344 us]
+2022-07-20 13:36:48.688072 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:48 -------
+2022-07-20 13:36:48.688072 ; Summary        ; Information ;  LabJackStep (1)                                  15.8 ms  Pass   
+2022-07-20 13:36:48.688072 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:48.688072 ; Summary        ; Information ; --------- Test plan completed successfully in 46.1 ms ----------
+2022-07-20 13:36:49.065143 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:49.065143 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:49, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:49.087087 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [16.9 ms]
+2022-07-20 13:36:49.087087 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [16.9 ms]
+2022-07-20 13:36:49.087087 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:49.101050 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:49.101050 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [14.2 ms]
+2022-07-20 13:36:49.101050 ; TestPlan       ; Debug       ; Test step runs finished. [14.4 ms]
+2022-07-20 13:36:49.102049 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [259 us]
+2022-07-20 13:36:49.102049 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:49 -------
+2022-07-20 13:36:49.102049 ; Summary        ; Information ;  LabJackStep (1)                                  14.2 ms  Pass   
+2022-07-20 13:36:49.102049 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:49.102049 ; Summary        ; Information ; --------- Test plan completed successfully in 36.5 ms ----------
+2022-07-20 13:36:49.461495 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:49.462508 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:49, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:49.494408 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [27.2 ms]
+2022-07-20 13:36:49.494408 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [27.2 ms]
+2022-07-20 13:36:49.494408 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:49.511364 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:49.511364 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [17.5 ms]
+2022-07-20 13:36:49.511364 ; TestPlan       ; Debug       ; Test step runs finished. [17.7 ms]
+2022-07-20 13:36:49.512362 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [266 us]
+2022-07-20 13:36:49.512362 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:49 -------
+2022-07-20 13:36:49.512362 ; Summary        ; Information ;  LabJackStep (1)                                  17.5 ms  Pass   
+2022-07-20 13:36:49.512362 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:49.512362 ; Summary        ; Information ; --------- Test plan completed successfully in 49.6 ms ----------
+2022-07-20 13:36:49.833498 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:49.834497 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:49, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:49.856438 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [16.1 ms]
+2022-07-20 13:36:49.856438 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [16.1 ms]
+2022-07-20 13:36:49.856438 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:49.860427 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:49.860427 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [3.58 ms]
+2022-07-20 13:36:49.860427 ; TestPlan       ; Debug       ; Test step runs finished. [3.75 ms]
+2022-07-20 13:36:49.860427 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [152 us]
+2022-07-20 13:36:49.860427 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:49 -------
+2022-07-20 13:36:49.860427 ; Summary        ; Information ;  LabJackStep (1)                                  3.58 ms  Pass   
+2022-07-20 13:36:49.860427 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:49.860427 ; Summary        ; Information ; --------- Test plan completed successfully in 26.4 ms ----------
+2022-07-20 13:36:50.143070 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:50.144068 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:50, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:50.169004 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [18.0 ms]
+2022-07-20 13:36:50.169004 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [18.0 ms]
+2022-07-20 13:36:50.169004 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:50.173988 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:50.173988 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [4.79 ms]
+2022-07-20 13:36:50.173988 ; TestPlan       ; Debug       ; Test step runs finished. [4.98 ms]
+2022-07-20 13:36:50.173988 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [282 us]
+2022-07-20 13:36:50.173988 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:50 -------
+2022-07-20 13:36:50.173988 ; Summary        ; Information ;  LabJackStep (1)                                  4.79 ms  Pass   
+2022-07-20 13:36:50.173988 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:50.173988 ; Summary        ; Information ; --------- Test plan completed successfully in 30.2 ms ----------
+2022-07-20 13:36:50.443154 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:50.444151 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:50, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:50.469084 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [17.3 ms]
+2022-07-20 13:36:50.469084 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [17.4 ms]
+2022-07-20 13:36:50.480054 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:50.486038 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:50.486038 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [5.86 ms]
+2022-07-20 13:36:50.486038 ; TestPlan       ; Debug       ; Test step runs finished. [17.3 ms]
+2022-07-20 13:36:50.487039 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [163 us]
+2022-07-20 13:36:50.487039 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:50 -------
+2022-07-20 13:36:50.487039 ; Summary        ; Information ;  LabJackStep (1)                                  5.86 ms  Pass   
+2022-07-20 13:36:50.487039 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:50.487039 ; Summary        ; Information ; --------- Test plan completed successfully in 42.7 ms ----------
+2022-07-20 13:36:51.250772 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:51.250772 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:51, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:51.282693 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [26.7 ms]
+2022-07-20 13:36:51.282693 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [26.8 ms]
+2022-07-20 13:36:51.282693 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:51.286682 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:51.286682 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [3.64 ms]
+2022-07-20 13:36:51.286682 ; TestPlan       ; Debug       ; Test step runs finished. [3.79 ms]
+2022-07-20 13:36:51.286682 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [221 us]
+2022-07-20 13:36:51.286682 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:51 -------
+2022-07-20 13:36:51.286682 ; Summary        ; Information ;  LabJackStep (1)                                  3.64 ms  Pass   
+2022-07-20 13:36:51.286682 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:51.286682 ; Summary        ; Information ; --------- Test plan completed successfully in 35.8 ms ----------
+2022-07-20 13:36:55.328450 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:55.328450 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:55, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:55.353635 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [19.6 ms]
+2022-07-20 13:36:55.353635 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [19.6 ms]
+2022-07-20 13:36:55.353635 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:55.357623 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:55.357623 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [4.02 ms]
+2022-07-20 13:36:55.357623 ; TestPlan       ; Debug       ; Test step runs finished. [4.20 ms]
+2022-07-20 13:36:55.357623 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [332 us]
+2022-07-20 13:36:55.358620 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:55 -------
+2022-07-20 13:36:55.358620 ; Summary        ; Information ;  LabJackStep (1)                                  4.02 ms  Pass   
+2022-07-20 13:36:55.358620 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:55.358620 ; Summary        ; Information ; --------- Test plan completed successfully in 29.8 ms ----------
+2022-07-20 13:36:56.048704 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:36:56.049702 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:36:56, 1 of 2 TestSteps enabled.
+2022-07-20 13:36:56.088389 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [27.4 ms]
+2022-07-20 13:36:56.088389 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [27.4 ms]
+2022-07-20 13:36:56.088389 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:36:56.092377 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:36:56.092377 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [3.57 ms]
+2022-07-20 13:36:56.092377 ; TestPlan       ; Debug       ; Test step runs finished. [3.70 ms]
+2022-07-20 13:36:56.092377 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [136 us]
+2022-07-20 13:36:56.092377 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:36:56 -------
+2022-07-20 13:36:56.092377 ; Summary        ; Information ;  LabJackStep (1)                                  3.57 ms  Pass   
+2022-07-20 13:36:56.092377 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:36:56.092377 ; Summary        ; Information ; --------- Test plan completed successfully in 42.9 ms ----------
+2022-07-20 13:37:00.154555 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:37:00.155551 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:37:00, 1 of 2 TestSteps enabled.
+2022-07-20 13:37:00.178978 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [17.9 ms]
+2022-07-20 13:37:00.178978 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [17.9 ms]
+2022-07-20 13:37:00.178978 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:37:00.182965 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:37:00.183963 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [4.12 ms]
+2022-07-20 13:37:00.183963 ; TestPlan       ; Debug       ; Test step runs finished. [4.32 ms]
+2022-07-20 13:37:00.183963 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [199 us]
+2022-07-20 13:37:00.183963 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:37:00 -------
+2022-07-20 13:37:00.183963 ; Summary        ; Information ;  LabJackStep (1)                                  4.12 ms  Pass   
+2022-07-20 13:37:00.183963 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:37:00.183963 ; Summary        ; Information ; --------- Test plan completed successfully in 28.4 ms ----------
+2022-07-20 13:37:01.094554 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:37:01.094554 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:37:01, 1 of 2 TestSteps enabled.
+2022-07-20 13:37:01.135446 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [16.0 ms]
+2022-07-20 13:37:01.135446 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [16.0 ms]
+2022-07-20 13:37:01.135446 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:37:01.138439 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:37:01.139435 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [3.72 ms]
+2022-07-20 13:37:01.139435 ; TestPlan       ; Debug       ; Test step runs finished. [3.92 ms]
+2022-07-20 13:37:01.139435 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [184 us]
+2022-07-20 13:37:01.139435 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:37:01 -------
+2022-07-20 13:37:01.139435 ; Summary        ; Information ;  LabJackStep (1)                                  3.72 ms  Pass   
+2022-07-20 13:37:01.139435 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:37:01.139435 ; Summary        ; Information ; --------- Test plan completed successfully in 44.1 ms ----------
+2022-07-20 13:37:01.629756 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:37:01.629756 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:37:01, 1 of 2 TestSteps enabled.
+2022-07-20 13:37:01.667620 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [33.5 ms]
+2022-07-20 13:37:01.667620 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [33.6 ms]
+2022-07-20 13:37:01.667620 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:37:01.671609 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:37:01.672606 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [3.97 ms]
+2022-07-20 13:37:01.672606 ; TestPlan       ; Debug       ; Test step runs finished. [4.11 ms]
+2022-07-20 13:37:01.672606 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [198 us]
+2022-07-20 13:37:01.672606 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:37:01 -------
+2022-07-20 13:37:01.672606 ; Summary        ; Information ;  LabJackStep (1)                                  3.97 ms  Pass   
+2022-07-20 13:37:01.672606 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:37:01.672606 ; Summary        ; Information ; --------- Test plan completed successfully in 42.6 ms ----------
+2022-07-20 13:37:02.224193 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:37:02.224193 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:37:02, 1 of 2 TestSteps enabled.
+2022-07-20 13:37:02.246091 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [14.9 ms]
+2022-07-20 13:37:02.246091 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [15.0 ms]
+2022-07-20 13:37:02.246091 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:37:02.249083 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:37:02.249083 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [3.76 ms]
+2022-07-20 13:37:02.249083 ; TestPlan       ; Debug       ; Test step runs finished. [3.87 ms]
+2022-07-20 13:37:02.250080 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [267 us]
+2022-07-20 13:37:02.250080 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:37:02 -------
+2022-07-20 13:37:02.250080 ; Summary        ; Information ;  LabJackStep (1)                                  3.76 ms  Pass   
+2022-07-20 13:37:02.250080 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:37:02.250080 ; Summary        ; Information ; --------- Test plan completed successfully in 25.4 ms ----------
+2022-07-20 13:37:19.264410 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:37:19.264410 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:37:19, 1 of 2 TestSteps enabled.
+2022-07-20 13:37:19.304344 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [31.1 ms]
+2022-07-20 13:37:19.304344 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [31.1 ms]
+2022-07-20 13:37:19.304344 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:37:19.308333 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:37:19.308333 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [3.79 ms]
+2022-07-20 13:37:19.308333 ; TestPlan       ; Debug       ; Test step runs finished. [3.93 ms]
+2022-07-20 13:37:19.308333 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [197 us]
+2022-07-20 13:37:19.308333 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:37:19 -------
+2022-07-20 13:37:19.308333 ; Summary        ; Information ;  LabJackStep (1)                                  3.79 ms  Pass   
+2022-07-20 13:37:19.308333 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:37:19.308333 ; Summary        ; Information ; --------- Test plan completed successfully in 43.6 ms ----------
+2022-07-20 13:37:20.564069 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:37:20.564069 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:37:20, 1 of 2 TestSteps enabled.
+2022-07-20 13:37:20.596982 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [27.1 ms]
+2022-07-20 13:37:20.596982 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [27.1 ms]
+2022-07-20 13:37:20.596982 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:37:20.600970 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:37:20.600970 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [4.25 ms]
+2022-07-20 13:37:20.600970 ; TestPlan       ; Debug       ; Test step runs finished. [4.42 ms]
+2022-07-20 13:37:20.600970 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [133 us]
+2022-07-20 13:37:20.600970 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:37:20 -------
+2022-07-20 13:37:20.600970 ; Summary        ; Information ;  LabJackStep (1)                                  4.25 ms  Pass   
+2022-07-20 13:37:20.600970 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:37:20.600970 ; Summary        ; Information ; --------- Test plan completed successfully in 37.1 ms ----------
+2022-07-20 13:37:21.447887 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:37:21.447887 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:37:21, 1 of 2 TestSteps enabled.
+2022-07-20 13:37:21.479801 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [15.8 ms]
+2022-07-20 13:37:21.479801 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [15.8 ms]
+2022-07-20 13:37:21.479801 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:37:21.483791 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:37:21.483791 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [3.98 ms]
+2022-07-20 13:37:21.483791 ; TestPlan       ; Debug       ; Test step runs finished. [4.09 ms]
+2022-07-20 13:37:21.483791 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [158 us]
+2022-07-20 13:37:21.483791 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:37:21 -------
+2022-07-20 13:37:21.483791 ; Summary        ; Information ;  LabJackStep (1)                                  3.98 ms  Pass   
+2022-07-20 13:37:21.483791 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:37:21.483791 ; Summary        ; Information ; --------- Test plan completed successfully in 36.3 ms ----------
+2022-07-20 13:37:25.122561 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:37:25.122561 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:37:25, 1 of 2 TestSteps enabled.
+2022-07-20 13:37:25.153481 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [22.2 ms]
+2022-07-20 13:37:25.153481 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [22.2 ms]
+2022-07-20 13:37:25.153481 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:37:25.157470 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:37:25.157470 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [4.34 ms]
+2022-07-20 13:37:25.157470 ; TestPlan       ; Debug       ; Test step runs finished. [4.56 ms]
+2022-07-20 13:37:25.157470 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [212 us]
+2022-07-20 13:37:25.157470 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:37:25 -------
+2022-07-20 13:37:25.157470 ; Summary        ; Information ;  LabJackStep (1)                                  4.34 ms  Pass   
+2022-07-20 13:37:25.157470 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:37:25.157470 ; Summary        ; Information ; --------- Test plan completed successfully in 35.0 ms ----------
+2022-07-20 13:37:32.831904 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:37:32.831904 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:37:32, 1 of 2 TestSteps enabled.
+2022-07-20 13:37:32.866813 ; TestPlan       ; Debug       ; "LabJackStep (1)" PrePlanRun completed. [16.1 ms]
+2022-07-20 13:37:32.866813 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [16.1 ms]
+2022-07-20 13:37:32.866813 ; TestPlan       ; Information ; "LabJackStep (1)" started.
+2022-07-20 13:37:32.873795 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:37:32.873795 ; TestPlan       ; Information ; "LabJackStep (1)" completed with verdict 'Pass'. [7.06 ms]
+2022-07-20 13:37:32.873795 ; TestPlan       ; Debug       ; Test step runs finished. [7.20 ms]
+2022-07-20 13:37:32.873795 ; TestPlan       ; Debug       ; "LabJackStep (1)" PostPlanRun completed. [159 us]
+2022-07-20 13:37:32.873795 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:37:32 -------
+2022-07-20 13:37:32.873795 ; Summary        ; Information ;  LabJackStep (1)                                  7.06 ms  Pass   
+2022-07-20 13:37:32.873795 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:37:32.873795 ; Summary        ; Information ; --------- Test plan completed successfully in 41.6 ms ----------
+2022-07-20 13:41:35.383891 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:41:35.383891 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:41:35, 1 of 3 TestSteps enabled.
+2022-07-20 13:41:35.413777 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [26.2 ms]
+2022-07-20 13:41:35.413777 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [26.2 ms]
+2022-07-20 13:41:35.413777 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 13:41:35.430732 ; TestStep       ; Debug       ; AIN8 measured: 47.7452216148376
+2022-07-20 13:41:35.430732 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [17.1 ms]
+2022-07-20 13:41:35.430732 ; TestPlan       ; Debug       ; Test step runs finished. [17.3 ms]
+2022-07-20 13:41:35.430732 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [287 us]
+2022-07-20 13:41:35.430732 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:41:35 -------
+2022-07-20 13:41:35.430732 ; Summary        ; Information ;  48V meten via AIN8                               17.1 ms  Pass   
+2022-07-20 13:41:35.430732 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:41:35.430732 ; Summary        ; Information ; --------- Test plan completed successfully in 47.2 ms ----------
+2022-07-20 13:41:36.958930 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:41:36.958930 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:41:36, 1 of 3 TestSteps enabled.
+2022-07-20 13:41:36.978840 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [17.0 ms]
+2022-07-20 13:41:36.978840 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [17.0 ms]
+2022-07-20 13:41:36.978840 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 13:41:36.982833 ; TestStep       ; Debug       ; AIN8 measured: 47.8900190591812
+2022-07-20 13:41:36.982833 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [3.56 ms]
+2022-07-20 13:41:36.982833 ; TestPlan       ; Debug       ; Test step runs finished. [3.75 ms]
+2022-07-20 13:41:36.982833 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [246 us]
+2022-07-20 13:41:36.982833 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:41:36 -------
+2022-07-20 13:41:36.982833 ; Summary        ; Information ;  48V meten via AIN8                               3.56 ms  Pass   
+2022-07-20 13:41:36.982833 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:41:36.982833 ; Summary        ; Information ; --------- Test plan completed successfully in 24.0 ms ----------
+2022-07-20 13:41:37.807035 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:41:37.807035 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:41:37, 1 of 3 TestSteps enabled.
+2022-07-20 13:41:37.836944 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [25.9 ms]
+2022-07-20 13:41:37.836944 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [25.9 ms]
+2022-07-20 13:41:37.836944 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 13:41:37.839937 ; TestStep       ; Debug       ; AIN8 measured: 47.8900190591812
+2022-07-20 13:41:37.839937 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [3.03 ms]
+2022-07-20 13:41:37.839937 ; TestPlan       ; Debug       ; Test step runs finished. [3.23 ms]
+2022-07-20 13:41:37.840936 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [347 us]
+2022-07-20 13:41:37.840936 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:41:37 -------
+2022-07-20 13:41:37.840936 ; Summary        ; Information ;  48V meten via AIN8                               3.03 ms  Pass   
+2022-07-20 13:41:37.840936 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:41:37.840936 ; Summary        ; Information ; --------- Test plan completed successfully in 33.5 ms ----------
+2022-07-20 13:42:30.554666 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:42:30.554666 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:42:30, 1 of 3 TestSteps enabled.
+2022-07-20 13:42:30.619521 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [17.5 ms]
+2022-07-20 13:42:30.619521 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [17.5 ms]
+2022-07-20 13:42:30.619521 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 13:42:30.622512 ; TestStep       ; Debug       ; AIN8 measured: 47.8878883123398
+2022-07-20 13:42:30.622512 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [2.85 ms]
+2022-07-20 13:42:30.622512 ; TestPlan       ; Debug       ; Test step runs finished. [2.96 ms]
+2022-07-20 13:42:30.622512 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [154 us]
+2022-07-20 13:42:30.622512 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:42:30 -------
+2022-07-20 13:42:30.622512 ; Summary        ; Information ;  48V meten via AIN8                               2.85 ms  Pass   
+2022-07-20 13:42:30.622512 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:42:30.622512 ; Summary        ; Information ; --------- Test plan completed successfully in 67.7 ms ----------
+2022-07-20 13:42:33.878391 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:42:33.878391 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:42:33, 2 of 3 TestSteps enabled.
+2022-07-20 13:42:33.905320 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6" PrePlanRun completed. [21.1 ms]
+2022-07-20 13:42:33.905320 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [120 us]
+2022-07-20 13:42:33.905320 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [21.2 ms]
+2022-07-20 13:42:33.905320 ; TestPlan       ; Information ; "48V inschakelen via FIO6" started.
+2022-07-20 13:42:33.910308 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:42:33.910308 ; TestPlan       ; Information ; "48V inschakelen via FIO6" completed with verdict 'Pass'. [4.68 ms]
+2022-07-20 13:42:33.910308 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 13:42:33.913300 ; TestStep       ; Debug       ; AIN8 measured: 39.1341172456741
+2022-07-20 13:42:33.913300 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Fail'. [3.11 ms]
+2022-07-20 13:42:33.913300 ; TestPlan       ; Debug       ; Test step runs finished. [8.16 ms]
+2022-07-20 13:42:33.913300 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [291 us]
+2022-07-20 13:42:33.913300 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6" PostPlanRun completed. [18.2 us]
+2022-07-20 13:42:33.913300 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:42:33 -------
+2022-07-20 13:42:33.913300 ; Summary        ; Information ;  48V inschakelen via FIO6                         4.68 ms  Pass   
+2022-07-20 13:42:33.913300 ; Summary        ; Information ;  48V meten via AIN8                               3.11 ms  Fail   
+2022-07-20 13:42:33.914298 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:42:33.914298 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 35.3 ms -------
+2022-07-20 13:42:48.880777 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:42:48.880777 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:42:48, 2 of 3 TestSteps enabled.
+2022-07-20 13:42:48.930226 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6" PrePlanRun completed. [46.1 ms]
+2022-07-20 13:42:48.930226 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [96.5 us]
+2022-07-20 13:42:48.930226 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [46.2 ms]
+2022-07-20 13:42:48.931225 ; TestPlan       ; Information ; "48V inschakelen via FIO6" started.
+2022-07-20 13:42:48.935213 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:42:48.935213 ; TestPlan       ; Information ; "48V inschakelen via FIO6" completed with verdict 'Pass'. [4.19 ms]
+2022-07-20 13:42:48.935213 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 13:42:48.938205 ; TestStep       ; Debug       ; AIN8 measured: 47.0978994369507
+2022-07-20 13:42:48.938205 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Fail'. [3.08 ms]
+2022-07-20 13:42:48.938205 ; TestPlan       ; Debug       ; Test step runs finished. [7.63 ms]
+2022-07-20 13:42:48.938205 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [193 us]
+2022-07-20 13:42:48.938205 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6" PostPlanRun completed. [15.7 us]
+2022-07-20 13:42:48.938205 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:42:48 -------
+2022-07-20 13:42:48.938205 ; Summary        ; Information ;  48V inschakelen via FIO6                         4.19 ms  Pass   
+2022-07-20 13:42:48.938205 ; Summary        ; Information ;  48V meten via AIN8                               3.08 ms  Fail   
+2022-07-20 13:42:48.938205 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:42:48.938205 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 57.9 ms -------
+2022-07-20 13:43:01.882410 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:43:01.882410 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:43:01, 2 of 3 TestSteps enabled.
+2022-07-20 13:43:01.914325 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6" PrePlanRun completed. [27.1 ms]
+2022-07-20 13:43:01.914325 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [70.9 us]
+2022-07-20 13:43:01.914325 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [27.2 ms]
+2022-07-20 13:43:01.914325 ; TestPlan       ; Information ; "48V inschakelen via FIO6" started.
+2022-07-20 13:43:01.918315 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:43:01.918315 ; TestPlan       ; Information ; "48V inschakelen via FIO6" completed with verdict 'Pass'. [3.96 ms]
+2022-07-20 13:43:01.918315 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 13:43:01.923303 ; TestStep       ; Debug       ; AIN8 measured: 39.2054522037506
+2022-07-20 13:43:01.923303 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Fail'. [4.26 ms]
+2022-07-20 13:43:01.923303 ; TestPlan       ; Debug       ; Test step runs finished. [8.44 ms]
+2022-07-20 13:43:01.923303 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [167 us]
+2022-07-20 13:43:01.923303 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6" PostPlanRun completed. [3.90 us]
+2022-07-20 13:43:01.923303 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:43:01 -------
+2022-07-20 13:43:01.923303 ; Summary        ; Information ;  48V inschakelen via FIO6                         3.96 ms  Pass   
+2022-07-20 13:43:01.923303 ; Summary        ; Information ;  48V meten via AIN8                               4.26 ms  Fail   
+2022-07-20 13:43:01.923303 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:43:01.923303 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 40.7 ms -------
+2022-07-20 13:43:07.278624 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:43:07.278624 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:43:07, 2 of 3 TestSteps enabled.
+2022-07-20 13:43:07.315529 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6" PrePlanRun completed. [30.0 ms]
+2022-07-20 13:43:07.315529 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [52.1 us]
+2022-07-20 13:43:07.315529 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [30.0 ms]
+2022-07-20 13:43:07.315529 ; TestPlan       ; Information ; "48V inschakelen via FIO6" started.
+2022-07-20 13:43:07.330488 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:43:07.330488 ; TestPlan       ; Information ; "48V inschakelen via FIO6" completed with verdict 'Pass'. [14.7 ms]
+2022-07-20 13:43:07.330488 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 13:43:07.334021 ; TestStep       ; Debug       ; AIN8 measured: 47.8836300373077
+2022-07-20 13:43:07.334021 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [3.15 ms]
+2022-07-20 13:43:07.334021 ; TestPlan       ; Debug       ; Test step runs finished. [18.1 ms]
+2022-07-20 13:43:07.334551 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [200 us]
+2022-07-20 13:43:07.334551 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6" PostPlanRun completed. [5.09 us]
+2022-07-20 13:43:07.334551 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:43:07 -------
+2022-07-20 13:43:07.334551 ; Summary        ; Information ;  48V inschakelen via FIO6                         14.7 ms  Pass   
+2022-07-20 13:43:07.334551 ; Summary        ; Information ;  48V meten via AIN8                               3.15 ms  Pass   
+2022-07-20 13:43:07.334551 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:43:07.334551 ; Summary        ; Information ; --------- Test plan completed successfully in 55.5 ms ----------
+2022-07-20 13:43:13.995606 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:43:13.995606 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:43:13, 2 of 3 TestSteps enabled.
+2022-07-20 13:43:14.046469 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6" PrePlanRun completed. [25.1 ms]
+2022-07-20 13:43:14.046469 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [61.8 us]
+2022-07-20 13:43:14.046469 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [25.1 ms]
+2022-07-20 13:43:14.046469 ; TestPlan       ; Information ; "48V inschakelen via FIO6" started.
+2022-07-20 13:43:14.049461 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:43:14.049461 ; TestPlan       ; Information ; "48V inschakelen via FIO6" completed with verdict 'Pass'. [3.39 ms]
+2022-07-20 13:43:14.049461 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 13:43:14.053159 ; TestStep       ; Debug       ; AIN8 measured: 42.0577207803726
+2022-07-20 13:43:14.053159 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Fail'. [3.09 ms]
+2022-07-20 13:43:14.053159 ; TestPlan       ; Debug       ; Test step runs finished. [6.78 ms]
+2022-07-20 13:43:14.053159 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [171 us]
+2022-07-20 13:43:14.053159 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6" PostPlanRun completed. [4.20 us]
+2022-07-20 13:43:14.053159 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:43:13 -------
+2022-07-20 13:43:14.053159 ; Summary        ; Information ;  48V inschakelen via FIO6                         3.39 ms  Pass   
+2022-07-20 13:43:14.053159 ; Summary        ; Information ;  48V meten via AIN8                               3.09 ms  Fail   
+2022-07-20 13:43:14.053159 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:43:14.053159 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 57.6 ms -------
+2022-07-20 13:43:25.102184 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:43:25.102184 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:43:25, 2 of 3 TestSteps enabled.
+2022-07-20 13:43:25.135096 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6" PrePlanRun completed. [26.3 ms]
+2022-07-20 13:43:25.135096 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [56.9 us]
+2022-07-20 13:43:25.135096 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [26.3 ms]
+2022-07-20 13:43:25.135096 ; TestPlan       ; Information ; "48V inschakelen via FIO6" started.
+2022-07-20 13:43:25.138088 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:43:25.138088 ; TestPlan       ; Information ; "48V inschakelen via FIO6" completed with verdict 'Pass'. [3.43 ms]
+2022-07-20 13:43:25.138088 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 13:43:25.141080 ; TestStep       ; Debug       ; AIN8 measured: 47.8804371356964
+2022-07-20 13:43:25.142078 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [2.98 ms]
+2022-07-20 13:43:25.142078 ; TestPlan       ; Debug       ; Test step runs finished. [6.68 ms]
+2022-07-20 13:43:25.142078 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [151 us]
+2022-07-20 13:43:25.142078 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6" PostPlanRun completed. [6.20 us]
+2022-07-20 13:43:25.142078 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:43:25 -------
+2022-07-20 13:43:25.142078 ; Summary        ; Information ;  48V inschakelen via FIO6                         3.43 ms  Pass   
+2022-07-20 13:43:25.142078 ; Summary        ; Information ;  48V meten via AIN8                               2.98 ms  Pass   
+2022-07-20 13:43:25.142078 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:43:25.142078 ; Summary        ; Information ; --------- Test plan completed successfully in 39.7 ms ----------
+2022-07-20 13:44:10.779302 ; Main           ; Information ; Saved test plan to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\testLabJack.TapPlan [12.0 ms]
+2022-07-20 13:44:15.439714 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:44:15.439714 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:44:15, 2 of 3 TestSteps enabled.
+2022-07-20 13:44:15.469599 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PrePlanRun completed. [24.9 ms]
+2022-07-20 13:44:15.469599 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [92.7 us]
+2022-07-20 13:44:15.469599 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [25.0 ms]
+2022-07-20 13:44:15.469599 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " started.
+2022-07-20 13:44:15.482599 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:44:15.482599 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " completed with verdict 'Pass'. [13.3 ms]
+2022-07-20 13:44:15.482599 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 13:44:15.485590 ; TestStep       ; Debug       ; AIN8 measured: 47.8804371356964
+2022-07-20 13:44:15.485590 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [3.09 ms]
+2022-07-20 13:44:15.485590 ; TestPlan       ; Debug       ; Test step runs finished. [16.6 ms]
+2022-07-20 13:44:15.486555 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [204 us]
+2022-07-20 13:44:15.486555 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PostPlanRun completed. [5.40 us]
+2022-07-20 13:44:15.486555 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:44:15 -------
+2022-07-20 13:44:15.486555 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF)       13.3 ms  Pass   
+2022-07-20 13:44:15.486555 ; Summary        ; Information ;  48V meten via AIN8                               3.09 ms  Pass   
+2022-07-20 13:44:15.486555 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:44:15.486555 ; Summary        ; Information ; --------- Test plan completed successfully in 46.0 ms ----------
+2022-07-20 13:44:20.518585 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:44:20.518585 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:44:20, 2 of 3 TestSteps enabled.
+2022-07-20 13:44:20.552496 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PrePlanRun completed. [28.8 ms]
+2022-07-20 13:44:20.552496 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [51.7 us]
+2022-07-20 13:44:20.552496 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [28.9 ms]
+2022-07-20 13:44:20.552496 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " started.
+2022-07-20 13:44:20.556483 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:44:20.556483 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " completed with verdict 'Pass'. [3.67 ms]
+2022-07-20 13:44:20.556483 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 13:44:20.559475 ; TestStep       ; Debug       ; AIN8 measured: 47.2086274623871
+2022-07-20 13:44:20.559475 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Fail'. [2.93 ms]
+2022-07-20 13:44:20.559475 ; TestPlan       ; Debug       ; Test step runs finished. [6.88 ms]
+2022-07-20 13:44:20.559475 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [257 us]
+2022-07-20 13:44:20.559475 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PostPlanRun completed. [20.2 us]
+2022-07-20 13:44:20.559475 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:44:20 -------
+2022-07-20 13:44:20.559475 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF)       3.67 ms  Pass   
+2022-07-20 13:44:20.559475 ; Summary        ; Information ;  48V meten via AIN8                               2.93 ms  Fail   
+2022-07-20 13:44:20.559475 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:44:20.559475 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 41.1 ms -------
+2022-07-20 13:45:21.574422 ; Main           ; Error       ; Cannot paste contents of clipboard due to parsing error.
+2022-07-20 13:47:09.292687 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:47:09.292687 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:47:09, 2 of 4 TestSteps enabled.
+2022-07-20 13:47:09.326563 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PrePlanRun completed. [25.6 ms]
+2022-07-20 13:47:09.326563 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [67.4 us]
+2022-07-20 13:47:09.326563 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [25.7 ms]
+2022-07-20 13:47:09.326563 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " started.
+2022-07-20 13:47:09.330559 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 13:47:09.330559 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " completed with verdict 'Pass'. [4.07 ms]
+2022-07-20 13:47:09.330559 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 13:47:09.334554 ; TestStep       ; Debug       ; AIN8 measured: 44.8844364881516
+2022-07-20 13:47:09.334554 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Fail'. [3.28 ms]
+2022-07-20 13:47:09.334554 ; TestPlan       ; Debug       ; Test step runs finished. [7.71 ms]
+2022-07-20 13:47:09.334554 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [310 us]
+2022-07-20 13:47:09.334554 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PostPlanRun completed. [14.5 us]
+2022-07-20 13:47:09.334554 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:47:09 -------
+2022-07-20 13:47:09.334554 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF)       4.07 ms  Pass   
+2022-07-20 13:47:09.334554 ; Summary        ; Information ;  48V meten via AIN8                               3.28 ms  Fail   
+2022-07-20 13:47:09.334554 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:47:09.334554 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 41.7 ms -------
+2022-07-20 13:47:15.502922 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:47:15.502922 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:47:15, 2 of 4 TestSteps enabled.
+2022-07-20 13:47:15.551791 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PrePlanRun completed. [15.4 ms]
+2022-07-20 13:47:15.551791 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [92.3 us]
+2022-07-20 13:47:15.551791 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [15.6 ms]
+2022-07-20 13:47:15.552795 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " started.
+2022-07-20 13:47:15.555783 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:47:15.555783 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " completed with verdict 'Pass'. [3.57 ms]
+2022-07-20 13:47:15.555783 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 13:47:15.558778 ; TestStep       ; Debug       ; AIN8 measured: 47.8399786949158
+2022-07-20 13:47:15.558778 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [2.98 ms]
+2022-07-20 13:47:15.558778 ; TestPlan       ; Debug       ; Test step runs finished. [6.90 ms]
+2022-07-20 13:47:15.559770 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [252 us]
+2022-07-20 13:47:15.559770 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PostPlanRun completed. [19.5 us]
+2022-07-20 13:47:15.559770 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:47:15 -------
+2022-07-20 13:47:15.559770 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF)       3.57 ms  Pass   
+2022-07-20 13:47:15.559770 ; Summary        ; Information ;  48V meten via AIN8                               2.98 ms  Pass   
+2022-07-20 13:47:15.559770 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:47:15.559770 ; Summary        ; Information ; --------- Test plan completed successfully in 56.4 ms ----------
+2022-07-20 13:48:38.823452 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:48:38.823452 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:48:38, 3 of 4 TestSteps enabled.
+2022-07-20 13:48:38.845395 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PrePlanRun completed. [16.4 ms]
+2022-07-20 13:48:38.846392 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [93.3 us]
+2022-07-20 13:48:38.846392 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PrePlanRun completed. [58.1 us]
+2022-07-20 13:48:38.846392 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [16.5 ms]
+2022-07-20 13:48:38.846392 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " started.
+2022-07-20 13:48:38.850393 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:48:38.850393 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " completed with verdict 'Pass'. [4.12 ms]
+2022-07-20 13:48:38.881298 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 13:48:38.891273 ; TestStep       ; Debug       ; AIN8 measured: 47.8729827404022
+2022-07-20 13:48:38.891273 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [9.60 ms]
+2022-07-20 13:48:38.891273 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " started.
+2022-07-20 13:48:38.896088 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-20 13:48:38.896088 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " completed with verdict 'Pass'. [4.43 ms]
+2022-07-20 13:48:38.896088 ; TestPlan       ; Debug       ; Test step runs finished. [49.8 ms]
+2022-07-20 13:48:38.896088 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PostPlanRun completed. [191 us]
+2022-07-20 13:48:38.896088 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [4.50 us]
+2022-07-20 13:48:38.896088 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PostPlanRun completed. [3.10 us]
+2022-07-20 13:48:38.896088 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:48:38 -------
+2022-07-20 13:48:38.896592 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF)       4.12 ms  Pass   
+2022-07-20 13:48:38.896592 ; Summary        ; Information ;  48V meten via AIN8                               9.60 ms  Pass   
+2022-07-20 13:48:38.896606 ; Summary        ; Information ;  3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF)       4.43 ms  Pass   
+2022-07-20 13:48:38.896606 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:48:38.896606 ; Summary        ; Information ; --------- Test plan completed successfully in 72.8 ms ----------
+2022-07-20 13:53:40.003282 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:53:40.008228 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:53:40, 4 of 4 TestSteps enabled.
+2022-07-20 13:53:40.080040 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PrePlanRun completed. [54.7 ms]
+2022-07-20 13:53:40.080040 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [174 us]
+2022-07-20 13:53:40.080040 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PrePlanRun completed. [53.4 us]
+2022-07-20 13:53:40.080040 ; TestPlan       ; Debug       ; "3V3 meten" PrePlanRun completed. [37.4 us]
+2022-07-20 13:53:40.080040 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [55.0 ms]
+2022-07-20 13:53:40.080040 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " started.
+2022-07-20 13:53:40.085024 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:53:40.085024 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " completed with verdict 'Pass'. [4.70 ms]
+2022-07-20 13:53:40.085024 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 13:53:40.089022 ; TestStep       ; Debug       ; AIN8 measured: 47.8708552122116
+2022-07-20 13:53:40.090013 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [4.14 ms]
+2022-07-20 13:53:40.090013 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " started.
+2022-07-20 13:53:40.094001 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-20 13:53:40.094001 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " completed with verdict 'Pass'. [4.50 ms]
+2022-07-20 13:53:40.094001 ; TestPlan       ; Information ; "3V3 meten" started.
+2022-07-20 13:53:40.103984 ; TestStep       ; Debug       ; AIN0 measured: 0.546282589435577
+2022-07-20 13:53:40.103984 ; TestPlan       ; Information ; "3V3 meten" completed with verdict 'Fail'. [10.0 ms]
+2022-07-20 13:53:40.104970 ; TestPlan       ; Debug       ; Test step runs finished. [24.1 ms]
+2022-07-20 13:53:40.104970 ; TestPlan       ; Debug       ; "3V3 meten" PostPlanRun completed. [162 us]
+2022-07-20 13:53:40.104970 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PostPlanRun completed. [4.59 us]
+2022-07-20 13:53:40.104970 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [2.20 us]
+2022-07-20 13:53:40.104970 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PostPlanRun completed. [3.90 us]
+2022-07-20 13:53:40.104970 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:53:40 -------
+2022-07-20 13:53:40.104970 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF)       4.70 ms  Pass   
+2022-07-20 13:53:40.104970 ; Summary        ; Information ;  48V meten via AIN8                               4.14 ms  Pass   
+2022-07-20 13:53:40.104970 ; Summary        ; Information ;  3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF)       4.50 ms  Pass   
+2022-07-20 13:53:40.104970 ; Summary        ; Information ;  3V3 meten                                        10.0 ms  Fail   
+2022-07-20 13:53:40.104970 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:53:40.104970 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 95.9 ms -------
+2022-07-20 13:53:46.000558 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:53:46.000558 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:53:46, 4 of 4 TestSteps enabled.
+2022-07-20 13:53:46.041449 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PrePlanRun completed. [32.9 ms]
+2022-07-20 13:53:46.041449 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [142 us]
+2022-07-20 13:53:46.041449 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PrePlanRun completed. [46.2 us]
+2022-07-20 13:53:46.041449 ; TestPlan       ; Debug       ; "3V3 meten" PrePlanRun completed. [29.2 us]
+2022-07-20 13:53:46.041449 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [33.1 ms]
+2022-07-20 13:53:46.041449 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " started.
+2022-07-20 13:53:46.045450 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:53:46.045450 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " completed with verdict 'Pass'. [3.82 ms]
+2022-07-20 13:53:46.045450 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 13:53:46.048430 ; TestStep       ; Debug       ; AIN8 measured: 47.8719205856323
+2022-07-20 13:53:46.048430 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [3.15 ms]
+2022-07-20 13:53:46.048430 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " started.
+2022-07-20 13:53:46.052420 ; TestStep       ; Debug       ; FIO4set to: High
+2022-07-20 13:53:46.052420 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " completed with verdict 'Pass'. [3.85 ms]
+2022-07-20 13:53:46.052420 ; TestPlan       ; Information ; "3V3 meten" started.
+2022-07-20 13:53:46.055411 ; TestStep       ; Debug       ; AIN0 measured: 0.596756160259247
+2022-07-20 13:53:46.056408 ; TestPlan       ; Information ; "3V3 meten" completed with verdict 'Fail'. [3.23 ms]
+2022-07-20 13:53:46.056408 ; TestPlan       ; Debug       ; Test step runs finished. [14.6 ms]
+2022-07-20 13:53:46.056408 ; TestPlan       ; Debug       ; "3V3 meten" PostPlanRun completed. [203 us]
+2022-07-20 13:53:46.056408 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PostPlanRun completed. [5.70 us]
+2022-07-20 13:53:46.056408 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [5.90 us]
+2022-07-20 13:53:46.056408 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PostPlanRun completed. [6.80 us]
+2022-07-20 13:53:46.056408 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:53:46 -------
+2022-07-20 13:53:46.056408 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF)       3.82 ms  Pass   
+2022-07-20 13:53:46.056408 ; Summary        ; Information ;  48V meten via AIN8                               3.15 ms  Pass   
+2022-07-20 13:53:46.056408 ; Summary        ; Information ;  3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF)       3.85 ms  Pass   
+2022-07-20 13:53:46.056408 ; Summary        ; Information ;  3V3 meten                                        3.23 ms  Fail   
+2022-07-20 13:53:46.056408 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:53:46.056408 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 55.7 ms -------
+2022-07-20 13:53:50.931264 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:53:50.931264 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:53:50, 4 of 4 TestSteps enabled.
+2022-07-20 13:53:50.965174 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PrePlanRun completed. [27.5 ms]
+2022-07-20 13:53:50.965174 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [92.1 us]
+2022-07-20 13:53:50.965174 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PrePlanRun completed. [43.8 us]
+2022-07-20 13:53:50.965174 ; TestPlan       ; Debug       ; "3V3 meten" PrePlanRun completed. [33.4 us]
+2022-07-20 13:53:50.965174 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [27.7 ms]
+2022-07-20 13:53:50.965174 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " started.
+2022-07-20 13:53:50.969162 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:53:50.969162 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " completed with verdict 'Pass'. [3.72 ms]
+2022-07-20 13:53:50.969162 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 13:53:50.972155 ; TestStep       ; Debug       ; AIN8 measured: 47.8208148479462
+2022-07-20 13:53:50.972155 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [3.24 ms]
+2022-07-20 13:53:50.972155 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " started.
+2022-07-20 13:53:50.977142 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-20 13:53:50.977142 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " completed with verdict 'Pass'. [5.02 ms]
+2022-07-20 13:53:50.977142 ; TestPlan       ; Information ; "3V3 meten" started.
+2022-07-20 13:53:50.980133 ; TestStep       ; Debug       ; AIN0 measured: 0.57538378238678
+2022-07-20 13:53:50.981134 ; TestPlan       ; Information ; "3V3 meten" completed with verdict 'Fail'. [3.00 ms]
+2022-07-20 13:53:50.981134 ; TestPlan       ; Debug       ; Test step runs finished. [15.5 ms]
+2022-07-20 13:53:50.981134 ; TestPlan       ; Debug       ; "3V3 meten" PostPlanRun completed. [221 us]
+2022-07-20 13:53:50.981134 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PostPlanRun completed. [17.5 us]
+2022-07-20 13:53:50.981134 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [17.6 us]
+2022-07-20 13:53:50.981134 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PostPlanRun completed. [15.1 us]
+2022-07-20 13:53:50.981134 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:53:50 -------
+2022-07-20 13:53:50.981134 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF)       3.72 ms  Pass   
+2022-07-20 13:53:50.981134 ; Summary        ; Information ;  48V meten via AIN8                               3.24 ms  Pass   
+2022-07-20 13:53:50.981134 ; Summary        ; Information ;  3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF)       5.02 ms  Pass   
+2022-07-20 13:53:50.981134 ; Summary        ; Information ;  3V3 meten                                        3.00 ms  Fail   
+2022-07-20 13:53:50.981134 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:53:50.981134 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 49.3 ms -------
+2022-07-20 13:54:38.286674 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:54:38.287672 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:54:38, 4 of 4 TestSteps enabled.
+2022-07-20 13:54:38.352511 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PrePlanRun completed. [26.5 ms]
+2022-07-20 13:54:38.352511 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [92.1 us]
+2022-07-20 13:54:38.352511 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PrePlanRun completed. [56.9 us]
+2022-07-20 13:54:38.352511 ; TestPlan       ; Debug       ; "3V3 meten" PrePlanRun completed. [44.3 us]
+2022-07-20 13:54:38.352511 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [26.7 ms]
+2022-07-20 13:54:38.352511 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " started.
+2022-07-20 13:54:38.357520 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:54:38.357520 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " completed with verdict 'Pass'. [4.79 ms]
+2022-07-20 13:54:38.357520 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 13:54:38.361474 ; TestStep       ; Debug       ; AIN8 measured: 47.8335896730423
+2022-07-20 13:54:38.361474 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [3.63 ms]
+2022-07-20 13:54:38.361474 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " started.
+2022-07-20 13:54:38.366461 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-20 13:54:38.366461 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " completed with verdict 'Pass'. [5.05 ms]
+2022-07-20 13:54:38.366461 ; TestPlan       ; Information ; "3V3 meten" started.
+2022-07-20 13:54:38.371448 ; TestStep       ; Debug       ; AIN1 measured: 3.26523017883301
+2022-07-20 13:54:38.371448 ; TestPlan       ; Information ; "3V3 meten" completed with verdict 'Fail'. [4.81 ms]
+2022-07-20 13:54:38.371448 ; TestPlan       ; Debug       ; Test step runs finished. [18.9 ms]
+2022-07-20 13:54:38.372446 ; TestPlan       ; Debug       ; "3V3 meten" PostPlanRun completed. [259 us]
+2022-07-20 13:54:38.372446 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PostPlanRun completed. [5.80 us]
+2022-07-20 13:54:38.372446 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [2.40 us]
+2022-07-20 13:54:38.372446 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PostPlanRun completed. [4.70 us]
+2022-07-20 13:54:38.372446 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:54:38 -------
+2022-07-20 13:54:38.372446 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF)       4.79 ms  Pass   
+2022-07-20 13:54:38.372446 ; Summary        ; Information ;  48V meten via AIN8                               3.63 ms  Pass   
+2022-07-20 13:54:38.372446 ; Summary        ; Information ;  3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF)       5.05 ms  Pass   
+2022-07-20 13:54:38.372446 ; Summary        ; Information ;  3V3 meten                                        4.81 ms  Fail   
+2022-07-20 13:54:38.372446 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:54:38.372446 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 84.4 ms -------
+2022-07-20 13:54:51.548014 ; Settings       ; Debug       ; Saved GuiControlsSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [18.2 ms]
+2022-07-20 13:54:51.572896 ; Settings       ; Debug       ; Saved PanelSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [1.30 ms]
+2022-07-20 13:54:51.575889 ; Settings       ; Debug       ; Saved EditorSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [3.09 ms]
+2022-07-20 13:54:52.754870 ; Labjack        ; Information ; Resource "Labjack" closed. [1.60 us]
+2022-07-20 13:54:52.754870 ; TestPlan       ; Debug       ; TestPlan closed. [298 us]
+2022-07-20 13:54:55.224802 ; Main           ; Information ; Saved test plan to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\testLabJack.TapPlan [2.63 ms]
+2022-07-20 13:54:55.272677 ; Settings       ; Debug       ; Saved GuiControlsSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [2.60 ms]
+2022-07-20 13:54:55.274671 ; Settings       ; Debug       ; Saved PanelSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [1.34 ms]
+2022-07-20 13:54:55.276669 ; Settings       ; Debug       ; Saved EditorSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [1.37 ms]

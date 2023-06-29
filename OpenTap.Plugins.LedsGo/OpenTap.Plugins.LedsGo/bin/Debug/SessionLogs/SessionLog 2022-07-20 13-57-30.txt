@@ -1,0 +1,552 @@
+﻿2022-07-20 13:57:26.742744 ; Session        ; Debug       ; Session log loaded as 'D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\editor 2022-07-20 13-57-26.txt'. [7.84 ms]
+2022-07-20 13:57:26.774662 ; Session        ; Debug       ; Running '"D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\editor.exe" ' in 'D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2022-07-20 13:57:26.957174 ; Session        ; Debug       ; Microsoft Windows 10.0.19043 X64
+2022-07-20 13:57:26.957174 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2022-07-20 13:57:26.997066 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2022-07-20 13:57:27.008051 ; AssemblyFinder ; Debug       ; Found 30/85 assembly files. [37.4 ms]
+2022-07-20 13:57:27.133701 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Wpf, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\WPF Controls\Keysight.OpenTap.Wpf.dll
+2022-07-20 13:57:27.139692 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-07-20 13:57:27.181575 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-07-20 13:57:27.551588 ; Searcher       ; Debug       ; Ordered 28 assemblies according to references. [536 ms]
+2022-07-20 13:57:27.853783 ; PluginManager  ; Debug       ; Found 18 plugin assemblies containing 265 plugin types. [841 ms]
+2022-07-20 13:57:27.868745 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2022-07-20 13:57:27.868745 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2022-07-20 13:57:27.868745 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2022-07-20 13:57:27.868745 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2022-07-20 13:57:27.868745 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2022-07-20 13:57:27.868745 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2022-07-20 13:57:27.868745 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2022-07-20 13:57:27.868745 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of OpenTap.Plugins.LedsGo.dll
+2022-07-20 13:57:27.868745 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-07-20 13:57:27.868745 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of ResultsViewer.exe
+2022-07-20 13:57:27.868745 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of RunExplorer.exe
+2022-07-20 13:57:27.868745 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2022-07-20 13:57:27.868745 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-07-20 13:57:27.868745 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2022-07-20 13:57:27.868745 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-07-20 13:57:27.868745 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-07-20 13:57:27.868745 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-07-20 13:57:27.868745 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2022-07-20 13:57:27.868745 ; PluginManager  ; Debug       ; Searched 30 Assemblies. [857 ms]
+2022-07-20 13:57:28.009369 ; PluginManager  ; Debug       ; Loaded OpenTap. [851 us]
+2022-07-20 13:57:28.120074 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [47.4 ms]
+2022-07-20 13:57:28.121070 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [27.1 ms]
+2022-07-20 13:57:28.131044 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [5.51 ms]
+2022-07-20 13:57:28.260699 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [89.1 ms]
+2022-07-20 13:57:28.611763 ; PluginManager  ; Debug       ; Loaded mscorlib. [700 ns]
+2022-07-20 13:57:29.108439 ; Settings       ; Debug       ; EditorSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [1.46 s]
+2022-07-20 13:57:29.124397 ; Resolver       ; Debug       ; Found match for MahApps.Metro, Version=1.3.0.0, Culture=neutral, PublicKeyToken=f4fb5a3c4d1e5b4f in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\MahApps.Metro.1.3.0.0\MahApps.Metro.dll
+2022-07-20 13:57:29.466484 ; GUI            ; Debug       ; Loaded Light Theme. [41.3 ms]
+2022-07-20 13:57:29.502389 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2022-07-20 13:57:30.024996 ; Settings       ; Debug       ; GuiControlsSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [325 ms]
+2022-07-20 13:57:30.025993 ; Main           ; Debug       ; Window initial dimensions: 1934px, 1054px.
+2022-07-20 13:57:30.089824 ; Settings       ; Debug       ; EngineSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [59.6 ms]
+2022-07-20 13:57:30.099803 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [1.93 ms]
+2022-07-20 13:57:30.106779 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Licensing, Version=1.1.1.0, Culture=neutral, PublicKeyToken=null in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\Keysight Licensing\Keysight.OpenTap.Licensing.dll
+2022-07-20 13:57:30.146672 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2022-07-20 13-57-30.txt'. [5.32 ms]
+2022-07-20 13:57:30.790954 ; Main           ; Debug       ; GUI initialized. [762 ms]
+2022-07-20 13:57:30.790954 ; Main           ; Debug       ; Docking manager initialized. [158 us]
+2022-07-20 13:57:30.794945 ; OpenTAP        ; Information ; OpenTAP version '9.17.4+ea67c63a' 64-bit initialized 07/20/2022 [4.55 s]
+2022-07-20 13:57:30.857776 ; PluginManager  ; Debug       ; Loaded PackageManager. [569 us]
+2022-07-20 13:57:30.858773 ; PluginManager  ; Debug       ; Loaded Editor. [68.0 us]
+2022-07-20 13:57:30.871739 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [13.1 ms]
+2022-07-20 13:57:30.889692 ; PluginManager  ; Debug       ; Loaded RunExplorer. [16.9 ms]
+2022-07-20 13:57:30.896688 ; Settings       ; Debug       ; ConnectionSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [3.98 ms]
+2022-07-20 13:57:30.898666 ; Settings       ; Debug       ; DutSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [2.18 ms]
+2022-07-20 13:57:30.921619 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.LedsGo. [14.4 ms]
+2022-07-20 13:57:30.932579 ; Settings       ; Debug       ; InstrumentSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [33.2 ms]
+2022-07-20 13:57:30.933575 ; Settings       ; Debug       ; ResultSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [1.28 ms]
+2022-07-20 13:57:31.390357 ; Main           ; Information ; Latest version of 'PathWave License Manager' is 2.5, your version is 2.4. Please consider updating. [593 ms]
+2022-07-20 13:57:31.390357 ; Main           ; Information ; Latest version of 'Keysight Licensing' is 1.2, your version is 1.1. Please consider updating. [593 ms]
+2022-07-20 13:57:31.390357 ; Main           ; Information ; Latest version of 'OpenTAP' is 9.18, your version is 9.17. Please consider updating. [593 ms]
+2022-07-20 13:57:31.390357 ; Main           ; Debug       ; Update check complete. [593 ms]
+2022-07-20 13:57:31.882868 ; Resolver       ; Debug       ; Found match for Keysight.Kal.Licensing.Api, Version=4.0.0.0, Culture=neutral, PublicKeyToken=55333af07c70062e in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\Keysight.Kal.Licensing.Api.4.0.0\Keysight.Kal.Licensing.Api.dll
+2022-07-20 13:57:31.993570 ; KAL            ; Debug       ; KAL signature verified. [77.9 ms]
+2022-07-20 13:57:32.052422 ; KAL Process    ; Debug       ; Initialized [143 ms]
+2022-07-20 13:57:32.061390 ; KAL            ; Debug       ; Initialized [154 ms]
+2022-07-20 13:57:33.201710 ; Settings       ; Debug       ; PanelSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [2.34 ms]
+2022-07-20 13:57:34.132918 ; Main           ; Debug       ; Application startup finished. [7.89 s]
+2022-07-20 13:57:38.447004 ; Main           ; Debug       ; Loaded Test plan D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\testLabJack.TapPlan [526 ms]
+2022-07-20 13:57:48.862822 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:57:48.891782 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:57:48, 4 of 4 TestSteps enabled.
+2022-07-20 13:57:48.979510 ; TestPlan       ; Debug       ; Saved Test Plan XML [3.51 ms]
+2022-07-20 13:57:48.998461 ; Settings       ; Debug       ; No settings file exists for TestPlanRunPackageParameterMonitor. A new instance with default values has been created. [255 us]
+2022-07-20 13:57:49.197927 ; Labjack        ; Information ; Resource "Labjack" opened. [86.9 ms]
+2022-07-20 13:57:49.229842 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PrePlanRun completed. [5.19 ms]
+2022-07-20 13:57:49.230846 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [1.25 ms]
+2022-07-20 13:57:49.230846 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PrePlanRun completed. [86.4 us]
+2022-07-20 13:57:49.230846 ; TestPlan       ; Debug       ; "3V3 meten" PrePlanRun completed. [45.6 us]
+2022-07-20 13:57:49.230846 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [9.98 ms]
+2022-07-20 13:57:49.255774 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " started.
+2022-07-20 13:57:49.269736 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:57:49.283871 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " completed with verdict 'Pass'. [24.2 ms]
+2022-07-20 13:57:49.285865 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 13:57:49.291851 ; TestStep       ; Debug       ; AIN8 measured: 47.8708552122116
+2022-07-20 13:57:49.291851 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [5.81 ms]
+2022-07-20 13:57:49.291851 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " started.
+2022-07-20 13:57:49.295839 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-20 13:57:49.296838 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " completed with verdict 'Pass'. [4.21 ms]
+2022-07-20 13:57:49.296838 ; TestPlan       ; Information ; "3V3 meten" started.
+2022-07-20 13:57:49.299827 ; TestStep       ; Debug       ; AIN1 measured: 3.26483583450317
+2022-07-20 13:57:49.299827 ; TestPlan       ; Information ; "3V3 meten" completed with verdict 'Pass'. [3.20 ms]
+2022-07-20 13:57:49.301827 ; TestPlan       ; Debug       ; Test step runs finished. [70.7 ms]
+2022-07-20 13:57:49.307808 ; TestPlan       ; Debug       ; "3V3 meten" PostPlanRun completed. [1.82 ms]
+2022-07-20 13:57:49.307808 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PostPlanRun completed. [31.1 us]
+2022-07-20 13:57:49.307808 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [11.6 us]
+2022-07-20 13:57:49.307808 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PostPlanRun completed. [8.69 us]
+2022-07-20 13:57:49.341253 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:57:48 -------
+2022-07-20 13:57:49.348234 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF)       24.2 ms  Pass   
+2022-07-20 13:57:49.348234 ; Summary        ; Information ;  48V meten via AIN8                               5.81 ms  Pass   
+2022-07-20 13:57:49.348234 ; Summary        ; Information ;  3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF)       4.21 ms  Pass   
+2022-07-20 13:57:49.348234 ; Summary        ; Information ;  3V3 meten                                        3.20 ms  Pass   
+2022-07-20 13:57:49.349231 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:57:49.351227 ; Summary        ; Information ; ---------- Test plan completed successfully in 311 ms ----------
+2022-07-20 13:57:49.383142 ; Labjack        ; Information ; Resource "Labjack" closed. [34.3 us]
+2022-07-20 13:57:54.193984 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 13:57:54.193984 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 13:57:54, 4 of 4 TestSteps enabled.
+2022-07-20 13:57:54.204955 ; TestPlan       ; Debug       ; Saved Test Plan XML [11.0 ms]
+2022-07-20 13:57:54.210938 ; Labjack        ; Information ; Resource "Labjack" opened. [16.4 ms]
+2022-07-20 13:57:54.238864 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PrePlanRun completed. [160 us]
+2022-07-20 13:57:54.238864 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [110 us]
+2022-07-20 13:57:54.238864 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PrePlanRun completed. [44.3 us]
+2022-07-20 13:57:54.238864 ; TestPlan       ; Debug       ; "3V3 meten" PrePlanRun completed. [69.6 us]
+2022-07-20 13:57:54.238864 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [395 us]
+2022-07-20 13:57:54.238864 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " started.
+2022-07-20 13:57:54.254821 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 13:57:54.255818 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " completed with verdict 'Pass'. [16.2 ms]
+2022-07-20 13:57:54.255818 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 13:57:54.258809 ; TestStep       ; Debug       ; AIN8 measured: 0.108397382777184
+2022-07-20 13:57:54.258809 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Fail'. [3.22 ms]
+2022-07-20 13:57:54.258809 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " started.
+2022-07-20 13:57:54.262813 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-20 13:57:54.262813 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " completed with verdict 'Pass'. [3.95 ms]
+2022-07-20 13:57:54.262813 ; TestPlan       ; Information ; "3V3 meten" started.
+2022-07-20 13:57:54.265793 ; TestStep       ; Debug       ; AIN1 measured: 0.000773862178903073
+2022-07-20 13:57:54.265793 ; TestPlan       ; Information ; "3V3 meten" completed with verdict 'Fail'. [3.11 ms]
+2022-07-20 13:57:54.265793 ; TestPlan       ; Debug       ; Test step runs finished. [27.4 ms]
+2022-07-20 13:57:54.266787 ; TestPlan       ; Debug       ; "3V3 meten" PostPlanRun completed. [314 us]
+2022-07-20 13:57:54.266787 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PostPlanRun completed. [14.3 us]
+2022-07-20 13:57:54.266787 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [9.69 us]
+2022-07-20 13:57:54.266787 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF) " PostPlanRun completed. [6.60 us]
+2022-07-20 13:57:54.266787 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 13:57:54 -------
+2022-07-20 13:57:54.266787 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON en FIO6 = 1 => OFF)       16.2 ms  Pass   
+2022-07-20 13:57:54.266787 ; Summary        ; Information ;  48V meten via AIN8                               3.22 ms  Fail   
+2022-07-20 13:57:54.266787 ; Summary        ; Information ;  3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF)       3.95 ms  Pass   
+2022-07-20 13:57:54.266787 ; Summary        ; Information ;  3V3 meten                                        3.11 ms  Fail   
+2022-07-20 13:57:54.266787 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 13:57:54.266787 ; Summary        ; Information ; ------- Test plan completed with verdict Fail in 72.6 ms -------
+2022-07-20 13:57:54.273771 ; Labjack        ; Information ; Resource "Labjack" closed. [1.20 us]
+2022-07-20 14:00:45.840885 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 14:00:45.840885 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 14:00:45, 6 of 6 TestSteps enabled.
+2022-07-20 14:00:45.845871 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.62 ms]
+2022-07-20 14:00:45.867812 ; Labjack        ; Information ; Resource "Labjack" opened. [26.2 ms]
+2022-07-20 14:00:45.868812 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " PrePlanRun completed. [66.7 us]
+2022-07-20 14:00:45.868812 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [38.5 us]
+2022-07-20 14:00:45.868812 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = 0 => ON) " PrePlanRun completed. [21.3 us]
+2022-07-20 14:00:45.868812 ; TestPlan       ; Debug       ; "3V3 meten" PrePlanRun completed. [20.6 us]
+2022-07-20 14:00:45.868812 ; TestPlan       ; Debug       ; "3V3 uitschakelen (FIO4 = 1 => OFF)" PrePlanRun completed. [21.9 us]
+2022-07-20 14:00:45.868812 ; TestPlan       ; Debug       ; "48V uitschakelen (FIO6 = 1 => OFF)" PrePlanRun completed. [21.5 us]
+2022-07-20 14:00:45.868812 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [196 us]
+2022-07-20 14:00:45.868812 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " started.
+2022-07-20 14:00:45.872816 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 14:00:45.872816 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " completed with verdict 'Pass'. [3.80 ms]
+2022-07-20 14:00:45.872816 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 14:00:45.875791 ; TestStep       ; Debug       ; AIN8 measured: 47.8719205856323
+2022-07-20 14:00:45.875791 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [3.46 ms]
+2022-07-20 14:00:45.875791 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = 0 => ON) " started.
+2022-07-20 14:00:45.880779 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-20 14:00:45.880779 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = 0 => ON) " completed with verdict 'Pass'. [4.88 ms]
+2022-07-20 14:00:45.881776 ; TestPlan       ; Information ; "3V3 meten" started.
+2022-07-20 14:00:45.883769 ; TestStep       ; Debug       ; AIN1 measured: 3.26491451263428
+2022-07-20 14:00:45.883769 ; TestPlan       ; Information ; "3V3 meten" completed with verdict 'Pass'. [2.89 ms]
+2022-07-20 14:00:45.884768 ; TestPlan       ; Information ; "3V3 uitschakelen (FIO4 = 1 => OFF)" started.
+2022-07-20 14:00:45.887772 ; TestStep       ; Debug       ; FIO4set to: High
+2022-07-20 14:00:45.887772 ; TestPlan       ; Information ; "3V3 uitschakelen (FIO4 = 1 => OFF)" completed with verdict 'Pass'. [3.54 ms]
+2022-07-20 14:00:45.887772 ; TestPlan       ; Information ; "48V uitschakelen (FIO6 = 1 => OFF)" started.
+2022-07-20 14:00:45.892750 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 14:00:45.893753 ; TestPlan       ; Information ; "48V uitschakelen (FIO6 = 1 => OFF)" completed with verdict 'Pass'. [5.23 ms]
+2022-07-20 14:00:45.893753 ; TestPlan       ; Debug       ; Test step runs finished. [24.7 ms]
+2022-07-20 14:00:45.893753 ; TestPlan       ; Debug       ; "48V uitschakelen (FIO6 = 1 => OFF)" PostPlanRun completed. [424 us]
+2022-07-20 14:00:45.893753 ; TestPlan       ; Debug       ; "3V3 uitschakelen (FIO4 = 1 => OFF)" PostPlanRun completed. [21.2 us]
+2022-07-20 14:00:45.893753 ; TestPlan       ; Debug       ; "3V3 meten" PostPlanRun completed. [18.0 us]
+2022-07-20 14:00:45.893753 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = 0 => ON) " PostPlanRun completed. [7.30 us]
+2022-07-20 14:00:45.893753 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [4.80 us]
+2022-07-20 14:00:45.893753 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " PostPlanRun completed. [7.00 us]
+2022-07-20 14:00:45.893753 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 14:00:45 -------
+2022-07-20 14:00:45.893753 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON)       3.80 ms  Pass   
+2022-07-20 14:00:45.893753 ; Summary        ; Information ;  48V meten via AIN8                               3.46 ms  Pass   
+2022-07-20 14:00:45.893753 ; Summary        ; Information ;  3V3 inschakelen (FIO4 = 0 => ON)                 4.88 ms  Pass   
+2022-07-20 14:00:45.893753 ; Summary        ; Information ;  3V3 meten                                        2.89 ms  Pass   
+2022-07-20 14:00:45.893753 ; Summary        ; Information ;  3V3 uitschakelen (FIO4 = 1 => OFF)               3.54 ms  Pass   
+2022-07-20 14:00:45.893753 ; Summary        ; Information ;  48V uitschakelen (FIO6 = 1 => OFF)               5.23 ms  Pass   
+2022-07-20 14:00:45.893753 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 14:00:45.893753 ; Summary        ; Information ; --------- Test plan completed successfully in 53.2 ms ----------
+2022-07-20 14:00:45.900732 ; Labjack        ; Information ; Resource "Labjack" closed. [1.60 us]
+2022-07-20 14:00:55.134613 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 14:00:55.135572 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 14:00:55, 6 of 6 TestSteps enabled.
+2022-07-20 14:00:55.140597 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.81 ms]
+2022-07-20 14:00:55.201397 ; Labjack        ; Information ; Resource "Labjack" opened. [64.6 ms]
+2022-07-20 14:00:55.201397 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " PrePlanRun completed. [61.6 us]
+2022-07-20 14:00:55.201397 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [37.2 us]
+2022-07-20 14:00:55.201397 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = 0 => ON) " PrePlanRun completed. [44.9 us]
+2022-07-20 14:00:55.201397 ; TestPlan       ; Debug       ; "3V3 meten" PrePlanRun completed. [20.6 us]
+2022-07-20 14:00:55.201397 ; TestPlan       ; Debug       ; "3V3 uitschakelen (FIO4 = 1 => OFF)" PrePlanRun completed. [19.2 us]
+2022-07-20 14:00:55.201397 ; TestPlan       ; Debug       ; "48V uitschakelen (FIO6 = 1 => OFF)" PrePlanRun completed. [20.6 us]
+2022-07-20 14:00:55.201397 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [208 us]
+2022-07-20 14:00:55.201397 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " started.
+2022-07-20 14:00:55.205387 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 14:00:55.205387 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " completed with verdict 'Pass'. [3.96 ms]
+2022-07-20 14:00:55.206385 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 14:00:55.209376 ; TestStep       ; Debug       ; AIN8 measured: 47.895342707634
+2022-07-20 14:00:55.209376 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [3.68 ms]
+2022-07-20 14:00:55.209376 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = 0 => ON) " started.
+2022-07-20 14:00:55.331181 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-20 14:00:55.331181 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = 0 => ON) " completed with verdict 'Pass'. [121 ms]
+2022-07-20 14:00:55.331181 ; TestPlan       ; Information ; "3V3 meten" started.
+2022-07-20 14:00:55.334197 ; TestStep       ; Debug       ; AIN1 measured: 3.26523017883301
+2022-07-20 14:00:55.334197 ; TestPlan       ; Information ; "3V3 meten" completed with verdict 'Pass'. [3.09 ms]
+2022-07-20 14:00:55.334197 ; TestPlan       ; Information ; "3V3 uitschakelen (FIO4 = 1 => OFF)" started.
+2022-07-20 14:00:55.338110 ; TestStep       ; Debug       ; FIO4set to: High
+2022-07-20 14:00:55.338110 ; TestPlan       ; Information ; "3V3 uitschakelen (FIO4 = 1 => OFF)" completed with verdict 'Pass'. [3.57 ms]
+2022-07-20 14:00:55.338110 ; TestPlan       ; Information ; "48V uitschakelen (FIO6 = 1 => OFF)" started.
+2022-07-20 14:00:55.342100 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 14:00:55.342100 ; TestPlan       ; Information ; "48V uitschakelen (FIO6 = 1 => OFF)" completed with verdict 'Pass'. [3.88 ms]
+2022-07-20 14:00:55.342100 ; TestPlan       ; Debug       ; Test step runs finished. [140 ms]
+2022-07-20 14:00:55.342100 ; TestPlan       ; Debug       ; "48V uitschakelen (FIO6 = 1 => OFF)" PostPlanRun completed. [325 us]
+2022-07-20 14:00:55.342100 ; TestPlan       ; Debug       ; "3V3 uitschakelen (FIO4 = 1 => OFF)" PostPlanRun completed. [5.40 us]
+2022-07-20 14:00:55.342100 ; TestPlan       ; Debug       ; "3V3 meten" PostPlanRun completed. [2.60 us]
+2022-07-20 14:00:55.342100 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = 0 => ON) " PostPlanRun completed. [5.50 us]
+2022-07-20 14:00:55.342100 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [10.6 us]
+2022-07-20 14:00:55.342100 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " PostPlanRun completed. [4.20 us]
+2022-07-20 14:00:55.342100 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 14:00:55 -------
+2022-07-20 14:00:55.342100 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON)       3.96 ms  Pass   
+2022-07-20 14:00:55.342100 ; Summary        ; Information ;  48V meten via AIN8                               3.68 ms  Pass   
+2022-07-20 14:00:55.342100 ; Summary        ; Information ;  3V3 inschakelen (FIO4 = 0 => ON)                  121 ms  Pass   
+2022-07-20 14:00:55.342100 ; Summary        ; Information ;  3V3 meten                                        3.09 ms  Pass   
+2022-07-20 14:00:55.343121 ; Summary        ; Information ;  3V3 uitschakelen (FIO4 = 1 => OFF)               3.57 ms  Pass   
+2022-07-20 14:00:55.343121 ; Summary        ; Information ;  48V uitschakelen (FIO6 = 1 => OFF)               3.88 ms  Pass   
+2022-07-20 14:00:55.343121 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 14:00:55.343121 ; Summary        ; Information ; ---------- Test plan completed successfully in 206 ms ----------
+2022-07-20 14:00:55.349081 ; Labjack        ; Information ; Resource "Labjack" closed. [3.70 us]
+2022-07-20 14:00:58.933810 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 14:00:58.933810 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 14:00:58, 6 of 6 TestSteps enabled.
+2022-07-20 14:00:58.938798 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.38 ms]
+2022-07-20 14:00:58.971716 ; Labjack        ; Information ; Resource "Labjack" opened. [36.9 ms]
+2022-07-20 14:00:58.974705 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " PrePlanRun completed. [72.5 us]
+2022-07-20 14:00:58.974705 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [43.3 us]
+2022-07-20 14:00:58.974705 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = 0 => ON) " PrePlanRun completed. [26.1 us]
+2022-07-20 14:00:58.974705 ; TestPlan       ; Debug       ; "3V3 meten" PrePlanRun completed. [19.7 us]
+2022-07-20 14:00:58.974705 ; TestPlan       ; Debug       ; "3V3 uitschakelen (FIO4 = 1 => OFF)" PrePlanRun completed. [31.0 us]
+2022-07-20 14:00:58.974705 ; TestPlan       ; Debug       ; "48V uitschakelen (FIO6 = 1 => OFF)" PrePlanRun completed. [25.5 us]
+2022-07-20 14:00:58.974705 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [223 us]
+2022-07-20 14:00:58.974705 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " started.
+2022-07-20 14:00:58.978722 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 14:00:58.978722 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " completed with verdict 'Pass'. [3.98 ms]
+2022-07-20 14:00:58.978722 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 14:00:58.981683 ; TestStep       ; Debug       ; AIN8 measured: 47.9017317295074
+2022-07-20 14:00:58.981683 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [3.02 ms]
+2022-07-20 14:00:58.981683 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = 0 => ON) " started.
+2022-07-20 14:00:58.997641 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-20 14:00:58.997641 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = 0 => ON) " completed with verdict 'Pass'. [16.2 ms]
+2022-07-20 14:00:58.998637 ; TestPlan       ; Information ; "3V3 meten" started.
+2022-07-20 14:00:59.001654 ; TestStep       ; Debug       ; AIN1 measured: 3.26586103439331
+2022-07-20 14:00:59.001654 ; TestPlan       ; Information ; "3V3 meten" completed with verdict 'Pass'. [3.63 ms]
+2022-07-20 14:00:59.001654 ; TestPlan       ; Information ; "3V3 uitschakelen (FIO4 = 1 => OFF)" started.
+2022-07-20 14:00:59.004621 ; TestStep       ; Debug       ; FIO4set to: High
+2022-07-20 14:00:59.005618 ; TestPlan       ; Information ; "3V3 uitschakelen (FIO4 = 1 => OFF)" completed with verdict 'Pass'. [3.26 ms]
+2022-07-20 14:00:59.005618 ; TestPlan       ; Information ; "48V uitschakelen (FIO6 = 1 => OFF)" started.
+2022-07-20 14:00:59.008611 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 14:00:59.008611 ; TestPlan       ; Information ; "48V uitschakelen (FIO6 = 1 => OFF)" completed with verdict 'Pass'. [3.61 ms]
+2022-07-20 14:00:59.008611 ; TestPlan       ; Debug       ; Test step runs finished. [34.4 ms]
+2022-07-20 14:00:59.008611 ; TestPlan       ; Debug       ; "48V uitschakelen (FIO6 = 1 => OFF)" PostPlanRun completed. [106 us]
+2022-07-20 14:00:59.008611 ; TestPlan       ; Debug       ; "3V3 uitschakelen (FIO4 = 1 => OFF)" PostPlanRun completed. [3.90 us]
+2022-07-20 14:00:59.008611 ; TestPlan       ; Debug       ; "3V3 meten" PostPlanRun completed. [2.40 us]
+2022-07-20 14:00:59.008611 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = 0 => ON) " PostPlanRun completed. [4.09 us]
+2022-07-20 14:00:59.008611 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [2.20 us]
+2022-07-20 14:00:59.008611 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " PostPlanRun completed. [2.40 us]
+2022-07-20 14:00:59.008611 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 14:00:58 -------
+2022-07-20 14:00:59.008611 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON)       3.98 ms  Pass   
+2022-07-20 14:00:59.008611 ; Summary        ; Information ;  48V meten via AIN8                               3.02 ms  Pass   
+2022-07-20 14:00:59.008611 ; Summary        ; Information ;  3V3 inschakelen (FIO4 = 0 => ON)                 16.2 ms  Pass   
+2022-07-20 14:00:59.008611 ; Summary        ; Information ;  3V3 meten                                        3.63 ms  Pass   
+2022-07-20 14:00:59.008611 ; Summary        ; Information ;  3V3 uitschakelen (FIO4 = 1 => OFF)               3.26 ms  Pass   
+2022-07-20 14:00:59.008611 ; Summary        ; Information ;  48V uitschakelen (FIO6 = 1 => OFF)               3.61 ms  Pass   
+2022-07-20 14:00:59.008611 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 14:00:59.008611 ; Summary        ; Information ; --------- Test plan completed successfully in 74.9 ms ----------
+2022-07-20 14:00:59.010605 ; Labjack        ; Information ; Resource "Labjack" closed. [1.00 us]
+2022-07-20 14:00:59.973161 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 14:00:59.973161 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 14:00:59, 6 of 6 TestSteps enabled.
+2022-07-20 14:00:59.978148 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.28 ms]
+2022-07-20 14:01:00.002083 ; Labjack        ; Information ; Resource "Labjack" opened. [27.5 ms]
+2022-07-20 14:01:00.003081 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " PrePlanRun completed. [82.0 us]
+2022-07-20 14:01:00.003081 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [37.5 us]
+2022-07-20 14:01:00.003081 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = 0 => ON) " PrePlanRun completed. [28.4 us]
+2022-07-20 14:01:00.003081 ; TestPlan       ; Debug       ; "3V3 meten" PrePlanRun completed. [27.6 us]
+2022-07-20 14:01:00.003081 ; TestPlan       ; Debug       ; "3V3 uitschakelen (FIO4 = 1 => OFF)" PrePlanRun completed. [28.9 us]
+2022-07-20 14:01:00.003081 ; TestPlan       ; Debug       ; "48V uitschakelen (FIO6 = 1 => OFF)" PrePlanRun completed. [31.0 us]
+2022-07-20 14:01:00.003081 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [241 us]
+2022-07-20 14:01:00.003081 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " started.
+2022-07-20 14:01:00.010063 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 14:01:00.010063 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " completed with verdict 'Pass'. [7.06 ms]
+2022-07-20 14:01:00.010063 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 14:01:00.014060 ; TestStep       ; Debug       ; AIN8 measured: 47.8985356092453
+2022-07-20 14:01:00.014060 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [3.40 ms]
+2022-07-20 14:01:00.014060 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = 0 => ON) " started.
+2022-07-20 14:01:00.018079 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-20 14:01:00.018079 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = 0 => ON) " completed with verdict 'Pass'. [3.82 ms]
+2022-07-20 14:01:00.018079 ; TestPlan       ; Information ; "3V3 meten" started.
+2022-07-20 14:01:00.022030 ; TestStep       ; Debug       ; AIN1 measured: 3.26523017883301
+2022-07-20 14:01:00.022030 ; TestPlan       ; Information ; "3V3 meten" completed with verdict 'Pass'. [4.24 ms]
+2022-07-20 14:01:00.022030 ; TestPlan       ; Information ; "3V3 uitschakelen (FIO4 = 1 => OFF)" started.
+2022-07-20 14:01:00.027018 ; TestStep       ; Debug       ; FIO4set to: High
+2022-07-20 14:01:00.027018 ; TestPlan       ; Information ; "3V3 uitschakelen (FIO4 = 1 => OFF)" completed with verdict 'Pass'. [4.24 ms]
+2022-07-20 14:01:00.027018 ; TestPlan       ; Information ; "48V uitschakelen (FIO6 = 1 => OFF)" started.
+2022-07-20 14:01:00.032006 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 14:01:00.032006 ; TestPlan       ; Information ; "48V uitschakelen (FIO6 = 1 => OFF)" completed with verdict 'Pass'. [4.97 ms]
+2022-07-20 14:01:00.032006 ; TestPlan       ; Debug       ; Test step runs finished. [28.8 ms]
+2022-07-20 14:01:00.032006 ; TestPlan       ; Debug       ; "48V uitschakelen (FIO6 = 1 => OFF)" PostPlanRun completed. [352 us]
+2022-07-20 14:01:00.032006 ; TestPlan       ; Debug       ; "3V3 uitschakelen (FIO4 = 1 => OFF)" PostPlanRun completed. [8.60 us]
+2022-07-20 14:01:00.032006 ; TestPlan       ; Debug       ; "3V3 meten" PostPlanRun completed. [3.70 us]
+2022-07-20 14:01:00.032006 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = 0 => ON) " PostPlanRun completed. [5.60 us]
+2022-07-20 14:01:00.032006 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [6.20 us]
+2022-07-20 14:01:00.032006 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " PostPlanRun completed. [10.4 us]
+2022-07-20 14:01:00.033005 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 14:00:59 -------
+2022-07-20 14:01:00.033005 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON)       7.06 ms  Pass   
+2022-07-20 14:01:00.033005 ; Summary        ; Information ;  48V meten via AIN8                               3.40 ms  Pass   
+2022-07-20 14:01:00.033005 ; Summary        ; Information ;  3V3 inschakelen (FIO4 = 0 => ON)                 3.82 ms  Pass   
+2022-07-20 14:01:00.033005 ; Summary        ; Information ;  3V3 meten                                        4.24 ms  Pass   
+2022-07-20 14:01:00.033005 ; Summary        ; Information ;  3V3 uitschakelen (FIO4 = 1 => OFF)               4.24 ms  Pass   
+2022-07-20 14:01:00.033005 ; Summary        ; Information ;  48V uitschakelen (FIO6 = 1 => OFF)               4.97 ms  Pass   
+2022-07-20 14:01:00.033005 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 14:01:00.033005 ; Summary        ; Information ; --------- Test plan completed successfully in 58.5 ms ----------
+2022-07-20 14:01:00.038985 ; Labjack        ; Information ; Resource "Labjack" closed. [700 ns]
+2022-07-20 14:01:00.792927 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 14:01:00.792927 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 14:01:00, 6 of 6 TestSteps enabled.
+2022-07-20 14:01:00.796922 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.11 ms]
+2022-07-20 14:01:00.822845 ; Labjack        ; Information ; Resource "Labjack" opened. [28.8 ms]
+2022-07-20 14:01:00.828829 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " PrePlanRun completed. [89.7 us]
+2022-07-20 14:01:00.828829 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [50.0 us]
+2022-07-20 14:01:00.828829 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = 0 => ON) " PrePlanRun completed. [33.3 us]
+2022-07-20 14:01:00.828829 ; TestPlan       ; Debug       ; "3V3 meten" PrePlanRun completed. [34.2 us]
+2022-07-20 14:01:00.828829 ; TestPlan       ; Debug       ; "3V3 uitschakelen (FIO4 = 1 => OFF)" PrePlanRun completed. [35.2 us]
+2022-07-20 14:01:00.828829 ; TestPlan       ; Debug       ; "48V uitschakelen (FIO6 = 1 => OFF)" PrePlanRun completed. [29.7 us]
+2022-07-20 14:01:00.828829 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [279 us]
+2022-07-20 14:01:00.828829 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " started.
+2022-07-20 14:01:00.832820 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 14:01:00.832820 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " completed with verdict 'Pass'. [4.14 ms]
+2022-07-20 14:01:00.832820 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 14:01:00.836810 ; TestStep       ; Debug       ; AIN8 measured: 47.8112329244614
+2022-07-20 14:01:00.837805 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [4.30 ms]
+2022-07-20 14:01:00.837805 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = 0 => ON) " started.
+2022-07-20 14:01:00.841796 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-20 14:01:00.841796 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = 0 => ON) " completed with verdict 'Pass'. [4.55 ms]
+2022-07-20 14:01:00.841796 ; TestPlan       ; Information ; "3V3 meten" started.
+2022-07-20 14:01:00.844787 ; TestStep       ; Debug       ; AIN1 measured: 3.26483583450317
+2022-07-20 14:01:00.844787 ; TestPlan       ; Information ; "3V3 meten" completed with verdict 'Pass'. [2.89 ms]
+2022-07-20 14:01:00.844787 ; TestPlan       ; Information ; "3V3 uitschakelen (FIO4 = 1 => OFF)" started.
+2022-07-20 14:01:00.849773 ; TestStep       ; Debug       ; FIO4set to: High
+2022-07-20 14:01:00.849773 ; TestPlan       ; Information ; "3V3 uitschakelen (FIO4 = 1 => OFF)" completed with verdict 'Pass'. [4.97 ms]
+2022-07-20 14:01:00.849773 ; TestPlan       ; Information ; "48V uitschakelen (FIO6 = 1 => OFF)" started.
+2022-07-20 14:01:00.916650 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 14:01:00.916650 ; TestPlan       ; Information ; "48V uitschakelen (FIO6 = 1 => OFF)" completed with verdict 'Pass'. [66.3 ms]
+2022-07-20 14:01:00.916650 ; TestPlan       ; Debug       ; Test step runs finished. [88.0 ms]
+2022-07-20 14:01:00.916650 ; TestPlan       ; Debug       ; "48V uitschakelen (FIO6 = 1 => OFF)" PostPlanRun completed. [328 us]
+2022-07-20 14:01:00.916650 ; TestPlan       ; Debug       ; "3V3 uitschakelen (FIO4 = 1 => OFF)" PostPlanRun completed. [13.7 us]
+2022-07-20 14:01:00.916650 ; TestPlan       ; Debug       ; "3V3 meten" PostPlanRun completed. [7.60 us]
+2022-07-20 14:01:00.917628 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = 0 => ON) " PostPlanRun completed. [13.0 us]
+2022-07-20 14:01:00.917628 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [10.0 us]
+2022-07-20 14:01:00.917628 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " PostPlanRun completed. [16.1 us]
+2022-07-20 14:01:00.917628 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 14:01:00 -------
+2022-07-20 14:01:00.917628 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON)       4.14 ms  Pass   
+2022-07-20 14:01:00.917628 ; Summary        ; Information ;  48V meten via AIN8                               4.30 ms  Pass   
+2022-07-20 14:01:00.917628 ; Summary        ; Information ;  3V3 inschakelen (FIO4 = 0 => ON)                 4.55 ms  Pass   
+2022-07-20 14:01:00.917628 ; Summary        ; Information ;  3V3 meten                                        2.89 ms  Pass   
+2022-07-20 14:01:00.917628 ; Summary        ; Information ;  3V3 uitschakelen (FIO4 = 1 => OFF)               4.97 ms  Pass   
+2022-07-20 14:01:00.917628 ; Summary        ; Information ;  48V uitschakelen (FIO6 = 1 => OFF)               66.3 ms  Pass   
+2022-07-20 14:01:00.917628 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 14:01:00.917628 ; Summary        ; Information ; ---------- Test plan completed successfully in 123 ms ----------
+2022-07-20 14:01:00.923608 ; Labjack        ; Information ; Resource "Labjack" closed. [1.30 us]
+2022-07-20 14:01:01.447831 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 14:01:01.448790 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 14:01:01, 6 of 6 TestSteps enabled.
+2022-07-20 14:01:01.451783 ; TestPlan       ; Debug       ; Saved Test Plan XML [3.64 ms]
+2022-07-20 14:01:01.465746 ; Labjack        ; Information ; Resource "Labjack" opened. [16.2 ms]
+2022-07-20 14:01:01.466747 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " PrePlanRun completed. [77.4 us]
+2022-07-20 14:01:01.466747 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [35.6 us]
+2022-07-20 14:01:01.466747 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = 0 => ON) " PrePlanRun completed. [22.6 us]
+2022-07-20 14:01:01.466747 ; TestPlan       ; Debug       ; "3V3 meten" PrePlanRun completed. [20.4 us]
+2022-07-20 14:01:01.466747 ; TestPlan       ; Debug       ; "3V3 uitschakelen (FIO4 = 1 => OFF)" PrePlanRun completed. [20.8 us]
+2022-07-20 14:01:01.466747 ; TestPlan       ; Debug       ; "48V uitschakelen (FIO6 = 1 => OFF)" PrePlanRun completed. [20.5 us]
+2022-07-20 14:01:01.466747 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [201 us]
+2022-07-20 14:01:01.466747 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " started.
+2022-07-20 14:01:01.471748 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 14:01:01.472727 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " completed with verdict 'Pass'. [5.18 ms]
+2022-07-20 14:01:01.472727 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 14:01:01.475719 ; TestStep       ; Debug       ; AIN8 measured: 47.8229455947876
+2022-07-20 14:01:01.475719 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [3.37 ms]
+2022-07-20 14:01:01.475719 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = 0 => ON) " started.
+2022-07-20 14:01:01.479713 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-20 14:01:01.479713 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = 0 => ON) " completed with verdict 'Pass'. [3.74 ms]
+2022-07-20 14:01:01.479713 ; TestPlan       ; Information ; "3V3 meten" started.
+2022-07-20 14:01:01.482701 ; TestStep       ; Debug       ; AIN1 measured: 3.26491451263428
+2022-07-20 14:01:01.482701 ; TestPlan       ; Information ; "3V3 meten" completed with verdict 'Pass'. [3.26 ms]
+2022-07-20 14:01:01.482701 ; TestPlan       ; Information ; "3V3 uitschakelen (FIO4 = 1 => OFF)" started.
+2022-07-20 14:01:01.487687 ; TestStep       ; Debug       ; FIO4set to: High
+2022-07-20 14:01:01.487687 ; TestPlan       ; Information ; "3V3 uitschakelen (FIO4 = 1 => OFF)" completed with verdict 'Pass'. [4.22 ms]
+2022-07-20 14:01:01.487687 ; TestPlan       ; Information ; "48V uitschakelen (FIO6 = 1 => OFF)" started.
+2022-07-20 14:01:01.491681 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 14:01:01.491681 ; TestPlan       ; Information ; "48V uitschakelen (FIO6 = 1 => OFF)" completed with verdict 'Pass'. [4.23 ms]
+2022-07-20 14:01:01.491681 ; TestPlan       ; Debug       ; Test step runs finished. [25.0 ms]
+2022-07-20 14:01:01.492681 ; TestPlan       ; Debug       ; "48V uitschakelen (FIO6 = 1 => OFF)" PostPlanRun completed. [282 us]
+2022-07-20 14:01:01.492681 ; TestPlan       ; Debug       ; "3V3 uitschakelen (FIO4 = 1 => OFF)" PostPlanRun completed. [9.60 us]
+2022-07-20 14:01:01.492681 ; TestPlan       ; Debug       ; "3V3 meten" PostPlanRun completed. [6.40 us]
+2022-07-20 14:01:01.492681 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = 0 => ON) " PostPlanRun completed. [6.10 us]
+2022-07-20 14:01:01.492681 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [7.90 us]
+2022-07-20 14:01:01.492681 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " PostPlanRun completed. [7.60 us]
+2022-07-20 14:01:01.492681 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 14:01:01 -------
+2022-07-20 14:01:01.492681 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON)       5.18 ms  Pass   
+2022-07-20 14:01:01.492681 ; Summary        ; Information ;  48V meten via AIN8                               3.37 ms  Pass   
+2022-07-20 14:01:01.492681 ; Summary        ; Information ;  3V3 inschakelen (FIO4 = 0 => ON)                 3.74 ms  Pass   
+2022-07-20 14:01:01.492681 ; Summary        ; Information ;  3V3 meten                                        3.26 ms  Pass   
+2022-07-20 14:01:01.492681 ; Summary        ; Information ;  3V3 uitschakelen (FIO4 = 1 => OFF)               4.22 ms  Pass   
+2022-07-20 14:01:01.492681 ; Summary        ; Information ;  48V uitschakelen (FIO6 = 1 => OFF)               4.23 ms  Pass   
+2022-07-20 14:01:01.492681 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 14:01:01.492681 ; Summary        ; Information ; --------- Test plan completed successfully in 43.8 ms ----------
+2022-07-20 14:01:01.492681 ; Labjack        ; Information ; Resource "Labjack" closed. [2.00 us]
+2022-07-20 14:01:01.922528 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 14:01:01.922528 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 14:01:01, 6 of 6 TestSteps enabled.
+2022-07-20 14:01:01.926517 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.22 ms]
+2022-07-20 14:01:01.962426 ; Labjack        ; Information ; Resource "Labjack" opened. [38.5 ms]
+2022-07-20 14:01:01.964416 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " PrePlanRun completed. [92.8 us]
+2022-07-20 14:01:01.964416 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [52.2 us]
+2022-07-20 14:01:01.964416 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = 0 => ON) " PrePlanRun completed. [37.2 us]
+2022-07-20 14:01:01.964416 ; TestPlan       ; Debug       ; "3V3 meten" PrePlanRun completed. [37.6 us]
+2022-07-20 14:01:01.964416 ; TestPlan       ; Debug       ; "3V3 uitschakelen (FIO4 = 1 => OFF)" PrePlanRun completed. [34.7 us]
+2022-07-20 14:01:01.964416 ; TestPlan       ; Debug       ; "48V uitschakelen (FIO6 = 1 => OFF)" PrePlanRun completed. [31.3 us]
+2022-07-20 14:01:01.964416 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [293 us]
+2022-07-20 14:01:01.964416 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " started.
+2022-07-20 14:01:01.968404 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 14:01:01.968404 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " completed with verdict 'Pass'. [4.47 ms]
+2022-07-20 14:01:01.968404 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 14:01:01.972396 ; TestStep       ; Debug       ; AIN8 measured: 47.9358011484146
+2022-07-20 14:01:01.972396 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [3.32 ms]
+2022-07-20 14:01:01.972396 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = 0 => ON) " started.
+2022-07-20 14:01:01.976383 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-20 14:01:01.977380 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = 0 => ON) " completed with verdict 'Pass'. [4.62 ms]
+2022-07-20 14:01:01.977380 ; TestPlan       ; Information ; "3V3 meten" started.
+2022-07-20 14:01:01.982367 ; TestStep       ; Debug       ; AIN1 measured: 3.26491451263428
+2022-07-20 14:01:01.982367 ; TestPlan       ; Information ; "3V3 meten" completed with verdict 'Pass'. [5.28 ms]
+2022-07-20 14:01:01.982367 ; TestPlan       ; Information ; "3V3 uitschakelen (FIO4 = 1 => OFF)" started.
+2022-07-20 14:01:01.986356 ; TestStep       ; Debug       ; FIO4set to: High
+2022-07-20 14:01:01.986356 ; TestPlan       ; Information ; "3V3 uitschakelen (FIO4 = 1 => OFF)" completed with verdict 'Pass'. [3.92 ms]
+2022-07-20 14:01:01.986356 ; TestPlan       ; Information ; "48V uitschakelen (FIO6 = 1 => OFF)" started.
+2022-07-20 14:01:01.991344 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 14:01:01.992341 ; TestPlan       ; Information ; "48V uitschakelen (FIO6 = 1 => OFF)" completed with verdict 'Pass'. [5.29 ms]
+2022-07-20 14:01:01.992341 ; TestPlan       ; Debug       ; Test step runs finished. [27.7 ms]
+2022-07-20 14:01:01.992341 ; TestPlan       ; Debug       ; "48V uitschakelen (FIO6 = 1 => OFF)" PostPlanRun completed. [213 us]
+2022-07-20 14:01:01.992341 ; TestPlan       ; Debug       ; "3V3 uitschakelen (FIO4 = 1 => OFF)" PostPlanRun completed. [6.30 us]
+2022-07-20 14:01:01.992341 ; TestPlan       ; Debug       ; "3V3 meten" PostPlanRun completed. [5.70 us]
+2022-07-20 14:01:01.992341 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = 0 => ON) " PostPlanRun completed. [4.09 us]
+2022-07-20 14:01:01.992341 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [4.59 us]
+2022-07-20 14:01:01.992341 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " PostPlanRun completed. [5.60 us]
+2022-07-20 14:01:01.992341 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 14:01:01 -------
+2022-07-20 14:01:01.992341 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON)       4.47 ms  Pass   
+2022-07-20 14:01:01.992341 ; Summary        ; Information ;  48V meten via AIN8                               3.32 ms  Pass   
+2022-07-20 14:01:01.992341 ; Summary        ; Information ;  3V3 inschakelen (FIO4 = 0 => ON)                 4.62 ms  Pass   
+2022-07-20 14:01:01.992341 ; Summary        ; Information ;  3V3 meten                                        5.28 ms  Pass   
+2022-07-20 14:01:01.992341 ; Summary        ; Information ;  3V3 uitschakelen (FIO4 = 1 => OFF)               3.92 ms  Pass   
+2022-07-20 14:01:01.992341 ; Summary        ; Information ;  48V uitschakelen (FIO6 = 1 => OFF)               5.29 ms  Pass   
+2022-07-20 14:01:01.992341 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 14:01:01.992341 ; Summary        ; Information ; --------- Test plan completed successfully in 69.2 ms ----------
+2022-07-20 14:01:01.998324 ; Labjack        ; Information ; Resource "Labjack" closed. [1.20 us]
+2022-07-20 14:01:02.402246 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 14:01:02.402246 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 14:01:02, 6 of 6 TestSteps enabled.
+2022-07-20 14:01:02.407242 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.99 ms]
+2022-07-20 14:01:02.420205 ; Labjack        ; Information ; Resource "Labjack" opened. [16.1 ms]
+2022-07-20 14:01:02.420205 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " PrePlanRun completed. [111 us]
+2022-07-20 14:01:02.420205 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [54.9 us]
+2022-07-20 14:01:02.421197 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = 0 => ON) " PrePlanRun completed. [36.8 us]
+2022-07-20 14:01:02.421197 ; TestPlan       ; Debug       ; "3V3 meten" PrePlanRun completed. [32.6 us]
+2022-07-20 14:01:02.421197 ; TestPlan       ; Debug       ; "3V3 uitschakelen (FIO4 = 1 => OFF)" PrePlanRun completed. [33.5 us]
+2022-07-20 14:01:02.421197 ; TestPlan       ; Debug       ; "48V uitschakelen (FIO6 = 1 => OFF)" PrePlanRun completed. [31.7 us]
+2022-07-20 14:01:02.421197 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [308 us]
+2022-07-20 14:01:02.421197 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " started.
+2022-07-20 14:01:02.425186 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 14:01:02.425186 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " completed with verdict 'Pass'. [4.35 ms]
+2022-07-20 14:01:02.425186 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 14:01:02.428179 ; TestStep       ; Debug       ; AIN8 measured: 47.8399786949158
+2022-07-20 14:01:02.428179 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [2.94 ms]
+2022-07-20 14:01:02.428179 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = 0 => ON) " started.
+2022-07-20 14:01:02.443138 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-20 14:01:02.443138 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = 0 => ON) " completed with verdict 'Pass'. [14.4 ms]
+2022-07-20 14:01:02.443138 ; TestPlan       ; Information ; "3V3 meten" started.
+2022-07-20 14:01:02.446130 ; TestStep       ; Debug       ; AIN1 measured: 3.26444149017334
+2022-07-20 14:01:02.446130 ; TestPlan       ; Information ; "3V3 meten" completed with verdict 'Pass'. [3.31 ms]
+2022-07-20 14:01:02.447127 ; TestPlan       ; Information ; "3V3 uitschakelen (FIO4 = 1 => OFF)" started.
+2022-07-20 14:01:02.453111 ; TestStep       ; Debug       ; FIO4set to: High
+2022-07-20 14:01:02.453111 ; TestPlan       ; Information ; "3V3 uitschakelen (FIO4 = 1 => OFF)" completed with verdict 'Pass'. [6.66 ms]
+2022-07-20 14:01:02.453111 ; TestPlan       ; Information ; "48V uitschakelen (FIO6 = 1 => OFF)" started.
+2022-07-20 14:01:02.461355 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 14:01:02.462269 ; TestPlan       ; Information ; "48V uitschakelen (FIO6 = 1 => OFF)" completed with verdict 'Pass'. [7.78 ms]
+2022-07-20 14:01:02.462269 ; TestPlan       ; Debug       ; Test step runs finished. [41.0 ms]
+2022-07-20 14:01:02.462936 ; TestPlan       ; Debug       ; "48V uitschakelen (FIO6 = 1 => OFF)" PostPlanRun completed. [650 us]
+2022-07-20 14:01:02.462936 ; TestPlan       ; Debug       ; "3V3 uitschakelen (FIO4 = 1 => OFF)" PostPlanRun completed. [8.30 us]
+2022-07-20 14:01:02.462936 ; TestPlan       ; Debug       ; "3V3 meten" PostPlanRun completed. [3.60 us]
+2022-07-20 14:01:02.462936 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = 0 => ON) " PostPlanRun completed. [5.09 us]
+2022-07-20 14:01:02.462936 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [4.30 us]
+2022-07-20 14:01:02.462936 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " PostPlanRun completed. [5.30 us]
+2022-07-20 14:01:02.462936 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 14:01:02 -------
+2022-07-20 14:01:02.462936 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON)       4.35 ms  Pass   
+2022-07-20 14:01:02.462936 ; Summary        ; Information ;  48V meten via AIN8                               2.94 ms  Pass   
+2022-07-20 14:01:02.462936 ; Summary        ; Information ;  3V3 inschakelen (FIO4 = 0 => ON)                 14.4 ms  Pass   
+2022-07-20 14:01:02.462936 ; Summary        ; Information ;  3V3 meten                                        3.31 ms  Pass   
+2022-07-20 14:01:02.462936 ; Summary        ; Information ;  3V3 uitschakelen (FIO4 = 1 => OFF)               6.66 ms  Pass   
+2022-07-20 14:01:02.462936 ; Summary        ; Information ;  48V uitschakelen (FIO6 = 1 => OFF)               7.78 ms  Pass   
+2022-07-20 14:01:02.462936 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 14:01:02.462936 ; Summary        ; Information ; --------- Test plan completed successfully in 59.9 ms ----------
+2022-07-20 14:01:02.466148 ; Labjack        ; Information ; Resource "Labjack" closed. [1.00 us]
+2022-07-20 14:01:03.665653 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 14:01:03.665653 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 14:01:03, 6 of 6 TestSteps enabled.
+2022-07-20 14:01:03.670639 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.09 ms]
+2022-07-20 14:01:03.686594 ; Labjack        ; Information ; Resource "Labjack" opened. [19.2 ms]
+2022-07-20 14:01:03.703556 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " PrePlanRun completed. [133 us]
+2022-07-20 14:01:03.703556 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [71.3 us]
+2022-07-20 14:01:03.703556 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = 0 => ON) " PrePlanRun completed. [35.0 us]
+2022-07-20 14:01:03.703556 ; TestPlan       ; Debug       ; "3V3 meten" PrePlanRun completed. [28.4 us]
+2022-07-20 14:01:03.703556 ; TestPlan       ; Debug       ; "3V3 uitschakelen (FIO4 = 1 => OFF)" PrePlanRun completed. [42.1 us]
+2022-07-20 14:01:03.703556 ; TestPlan       ; Debug       ; "48V uitschakelen (FIO6 = 1 => OFF)" PrePlanRun completed. [29.0 us]
+2022-07-20 14:01:03.703556 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [346 us]
+2022-07-20 14:01:03.703556 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " started.
+2022-07-20 14:01:03.707535 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-20 14:01:03.707535 ; TestPlan       ; Information ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " completed with verdict 'Pass'. [3.96 ms]
+2022-07-20 14:01:03.707535 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 14:01:03.714517 ; TestStep       ; Debug       ; AIN8 measured: 47.9006663560867
+2022-07-20 14:01:03.714517 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [6.97 ms]
+2022-07-20 14:01:03.714517 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = 0 => ON) " started.
+2022-07-20 14:01:03.718505 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-20 14:01:03.718505 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = 0 => ON) " completed with verdict 'Pass'. [3.77 ms]
+2022-07-20 14:01:03.718505 ; TestPlan       ; Information ; "3V3 meten" started.
+2022-07-20 14:01:03.722496 ; TestStep       ; Debug       ; AIN1 measured: 3.26546669006348
+2022-07-20 14:01:03.722496 ; TestPlan       ; Information ; "3V3 meten" completed with verdict 'Pass'. [3.49 ms]
+2022-07-20 14:01:03.722496 ; TestPlan       ; Information ; "3V3 uitschakelen (FIO4 = 1 => OFF)" started.
+2022-07-20 14:01:03.726483 ; TestStep       ; Debug       ; FIO4set to: High
+2022-07-20 14:01:03.726483 ; TestPlan       ; Information ; "3V3 uitschakelen (FIO4 = 1 => OFF)" completed with verdict 'Pass'. [3.93 ms]
+2022-07-20 14:01:03.726483 ; TestPlan       ; Information ; "48V uitschakelen (FIO6 = 1 => OFF)" started.
+2022-07-20 14:01:03.730473 ; TestStep       ; Debug       ; FIO6set to: High
+2022-07-20 14:01:03.730473 ; TestPlan       ; Information ; "48V uitschakelen (FIO6 = 1 => OFF)" completed with verdict 'Pass'. [3.74 ms]
+2022-07-20 14:01:03.730473 ; TestPlan       ; Debug       ; Test step runs finished. [26.7 ms]
+2022-07-20 14:01:03.730473 ; TestPlan       ; Debug       ; "48V uitschakelen (FIO6 = 1 => OFF)" PostPlanRun completed. [245 us]
+2022-07-20 14:01:03.730473 ; TestPlan       ; Debug       ; "3V3 uitschakelen (FIO4 = 1 => OFF)" PostPlanRun completed. [12.9 us]
+2022-07-20 14:01:03.730473 ; TestPlan       ; Debug       ; "3V3 meten" PostPlanRun completed. [9.60 us]
+2022-07-20 14:01:03.730473 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = 0 => ON) " PostPlanRun completed. [9.30 us]
+2022-07-20 14:01:03.730473 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [6.00 us]
+2022-07-20 14:01:03.730473 ; TestPlan       ; Debug       ; "48V inschakelen via FIO6. (FIO6 = 0 => ON) " PostPlanRun completed. [8.50 us]
+2022-07-20 14:01:03.730473 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 14:01:03 -------
+2022-07-20 14:01:03.730473 ; Summary        ; Information ;  48V inschakelen via FIO6. (FIO6 = 0 => ON)       3.96 ms  Pass   
+2022-07-20 14:01:03.730473 ; Summary        ; Information ;  48V meten via AIN8                               6.97 ms  Pass   
+2022-07-20 14:01:03.730473 ; Summary        ; Information ;  3V3 inschakelen (FIO4 = 0 => ON)                 3.77 ms  Pass   
+2022-07-20 14:01:03.730473 ; Summary        ; Information ;  3V3 meten                                        3.49 ms  Pass   
+2022-07-20 14:01:03.730473 ; Summary        ; Information ;  3V3 uitschakelen (FIO4 = 1 => OFF)               3.93 ms  Pass   
+2022-07-20 14:01:03.730473 ; Summary        ; Information ;  48V uitschakelen (FIO6 = 1 => OFF)               3.74 ms  Pass   
+2022-07-20 14:01:03.730473 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 14:01:03.730473 ; Summary        ; Information ; --------- Test plan completed successfully in 64.3 ms ----------
+2022-07-20 14:01:03.742463 ; Labjack        ; Information ; Resource "Labjack" closed. [4.90 us]

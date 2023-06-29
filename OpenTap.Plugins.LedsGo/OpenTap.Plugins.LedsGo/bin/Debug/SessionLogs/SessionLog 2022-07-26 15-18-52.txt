@@ -1,0 +1,96 @@
+﻿2022-07-26 15:18:49.158945 ; Session        ; Debug       ; Session log loaded as 'C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\editor 2022-07-26 15-18-48.txt'. [6.69 ms]
+2022-07-26 15:18:49.195848 ; Session        ; Debug       ; Running '"C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\editor.exe" ' in 'C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2022-07-26 15:18:49.276631 ; Session        ; Debug       ; Microsoft Windows 10.0.19044 X64
+2022-07-26 15:18:49.277628 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2022-07-26 15:18:49.488068 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2022-07-26 15:18:49.509010 ; AssemblyFinder ; Debug       ; Found 38/93 assembly files. [33.7 ms]
+2022-07-26 15:18:49.568881 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-07-26 15:18:49.685881 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-07-26 15:18:49.935170 ; Searcher       ; Debug       ; Ordered 34 assemblies according to references. [414 ms]
+2022-07-26 15:18:50.283242 ; PluginManager  ; Debug       ; Found 18 plugin assemblies containing 267 plugin types. [766 ms]
+2022-07-26 15:18:50.284237 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2022-07-26 15:18:50.284237 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2022-07-26 15:18:50.284237 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2022-07-26 15:18:50.284237 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2022-07-26 15:18:50.284237 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2022-07-26 15:18:50.284237 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2022-07-26 15:18:50.284237 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2022-07-26 15:18:50.284237 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of OpenTap.Plugins.LedsGo.dll
+2022-07-26 15:18:50.284237 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-07-26 15:18:50.284237 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of ResultsViewer.exe
+2022-07-26 15:18:50.284237 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of RunExplorer.exe
+2022-07-26 15:18:50.284237 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2022-07-26 15:18:50.284237 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-07-26 15:18:50.284237 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2022-07-26 15:18:50.284237 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-07-26 15:18:50.284237 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-07-26 15:18:50.284237 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-07-26 15:18:50.284237 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2022-07-26 15:18:50.284237 ; PluginManager  ; Debug       ; Searched 38 Assemblies. [767 ms]
+2022-07-26 15:18:50.308173 ; PluginManager  ; Debug       ; Loaded OpenTap. [643 us]
+2022-07-26 15:18:50.345075 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [20.5 ms]
+2022-07-26 15:18:50.345075 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [6.34 ms]
+2022-07-26 15:18:50.349217 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [25.8 ms]
+2022-07-26 15:18:50.421869 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [17.1 ms]
+2022-07-26 15:18:50.659235 ; PluginManager  ; Debug       ; Loaded mscorlib. [900 ns]
+2022-07-26 15:18:51.068295 ; Settings       ; Debug       ; EditorSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [1.12 s]
+2022-07-26 15:18:51.399480 ; GUI            ; Debug       ; Loaded Light Theme. [25.5 ms]
+2022-07-26 15:18:51.429359 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2022-07-26 15:18:51.960938 ; Settings       ; Debug       ; GuiControlsSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [335 ms]
+2022-07-26 15:18:51.960938 ; Main           ; Debug       ; Window initial dimensions: 1934px, 1054px.
+2022-07-26 15:18:52.027759 ; Settings       ; Debug       ; EngineSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [62.8 ms]
+2022-07-26 15:18:52.039728 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [2.63 ms]
+2022-07-26 15:18:52.114515 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2022-07-26 15-18-52.txt'. [43.3 ms]
+2022-07-26 15:18:52.712262 ; Main           ; Debug       ; GUI initialized. [748 ms]
+2022-07-26 15:18:52.712262 ; Main           ; Debug       ; Docking manager initialized. [80.9 us]
+2022-07-26 15:18:52.715946 ; OpenTAP        ; Information ; OpenTAP version '9.17.4+ea67c63a' 64-bit initialized 07/26/2022 [4.14 s]
+2022-07-26 15:18:52.799301 ; PluginManager  ; Debug       ; Loaded PackageManager. [482 us]
+2022-07-26 15:18:52.799301 ; PluginManager  ; Debug       ; Loaded Editor. [29.2 us]
+2022-07-26 15:18:52.815225 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [15.6 ms]
+2022-07-26 15:18:52.832180 ; PluginManager  ; Debug       ; Loaded RunExplorer. [16.4 ms]
+2022-07-26 15:18:52.835760 ; Settings       ; Debug       ; ConnectionSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [1.87 ms]
+2022-07-26 15:18:52.836169 ; Settings       ; Debug       ; DutSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [731 us]
+2022-07-26 15:18:52.864094 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.LedsGo. [22.6 ms]
+2022-07-26 15:18:52.886138 ; Settings       ; Debug       ; InstrumentSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [49.3 ms]
+2022-07-26 15:18:52.888032 ; Settings       ; Debug       ; ResultSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [1.84 ms]
+2022-07-26 15:18:53.384762 ; Main           ; Information ; Latest version of 'Keysight Licensing' is 1.2, your version is 1.1. Please consider updating. [667 ms]
+2022-07-26 15:18:53.384762 ; Main           ; Information ; Latest version of 'OpenTAP' is 9.18, your version is 9.17. Please consider updating. [667 ms]
+2022-07-26 15:18:53.384762 ; Main           ; Debug       ; Update check complete. [667 ms]
+2022-07-26 15:18:55.097558 ; Settings       ; Debug       ; PanelSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [3.88 ms]
+2022-07-26 15:18:57.341331 ; Main           ; Debug       ; Application startup finished. [8.77 s]
+2022-07-26 15:19:03.226296 ; Main           ; Debug       ; Loaded Test plan C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\dummy.TapPlan [618 ms]
+2022-07-26 15:19:05.451833 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-26 15:19:05.501494 ; TestPlan       ; Information ; Starting TestPlan 'dummy' on 07/26/2022 15:19:05, 1 of 1 TestSteps enabled.
+2022-07-26 15:19:05.621134 ; TestPlan       ; Debug       ; Saved Test Plan XML [8.15 ms]
+2022-07-26 15:19:05.636197 ; Settings       ; Debug       ; No settings file exists for TestPlanRunPackageParameterMonitor. A new instance with default values has been created. [412 us]
+2022-07-26 15:19:05.750071 ; Labjack        ; Information ; Resource "Labjack" opened. [9.92 ms]
+2022-07-26 15:19:05.829024 ; TestPlan       ; Debug       ; "DAQLJStep" PrePlanRun completed. [7.14 ms]
+2022-07-26 15:19:05.829024 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [13.1 ms]
+2022-07-26 15:19:05.850591 ; TestPlan       ; Information ; "DAQLJStep" started.
+2022-07-26 15:19:05.897395 ; TestStep       ; Debug       ; AIN1 measured: 0
+2022-07-26 15:19:05.910360 ; TestPlan       ; Information ; "DAQLJStep" completed with verdict 'Pass'. [56.7 ms]
+2022-07-26 15:19:05.913745 ; TestPlan       ; Debug       ; Test step runs finished. [84.6 ms]
+2022-07-26 15:19:05.921407 ; TestPlan       ; Debug       ; "DAQLJStep" PostPlanRun completed. [1.21 ms]
+2022-07-26 15:19:05.952539 ; Summary        ; Information ; ------- Summary of test plan started 07/26/2022 15:19:05 -------
+2022-07-26 15:19:05.960281 ; Summary        ; Information ;  DAQLJStep                                        56.7 ms  Pass   
+2022-07-26 15:19:05.960281 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-26 15:19:05.962388 ; Summary        ; Information ; ---------- Test plan completed successfully in 288 ms ----------
+2022-07-26 15:19:14.941009 ; TestPlan       ; Information ; Waiting for result propagation for N/A
+2022-07-26 15:19:14.944001 ; TestPlan       ; Information ; Waiting for OnTestPlanRunCompleted for N/A.
+2022-07-26 15:19:17.034509 ; TestPlan       ; Information ; Waiting for result propagation for N/A
+2022-07-26 15:19:31.526640 ; thread         ; Error       ; Exception unhandled in worker thread.
+2022-07-26 15:19:35.817630 ; thread         ; Debug       ; Exception: LJME_DEVICE_NOT_OPEN
+2022-07-26 15:19:35.823618 ; thread         ; Debug       ;     bij LedsGo.Utilities.LabJackClass.DigitalRead(DIO channel) in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Utilities\LabJack.cs:regel 336
+2022-07-26 15:19:35.823618 ; thread         ; Debug       ;     bij LedsGo.Plugin.Knop.EventsTapPlan.run() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Buttons\EventsTapPlan.cs:regel 56
+2022-07-26 15:19:35.823618 ; thread         ; Debug       ;     bij LedsGo.Plugin.Knop.EventsTapPlan.<>c.<Listen>b__16_0() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Buttons\EventsTapPlan.cs:regel 30
+2022-07-26 15:19:35.823618 ; thread         ; Debug       ;     bij OpenTap.TapThread.Process()
+2022-07-26 15:19:35.823618 ; thread         ; Debug       ;     bij OpenTap.ThreadManager.processQueue()
+2022-07-26 15:19:35.823618 ; thread         ; Debug       ; Exception caught at:
+2022-07-26 15:19:35.840568 ; Labjack        ; Information ; Resource "Labjack" closed. [15.9 us]
+2022-07-26 15:19:35.859571 ; thread         ; Debug       ;     at Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+2022-07-26 15:19:35.859571 ; thread         ; Debug       ;     at Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+2022-07-26 15:19:35.859571 ; thread         ; Debug       ;     at Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+2022-07-26 15:19:35.859571 ; thread         ; Debug       ;     at Void ThreadStart()
+2022-07-26 15:19:43.174745 ; Settings       ; Debug       ; Saved GuiControlsSettings to C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [37.9 ms]
+2022-07-26 15:19:43.199679 ; Settings       ; Debug       ; Saved PanelSettings to C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [1.83 ms]
+2022-07-26 15:19:43.202671 ; Settings       ; Debug       ; Saved EditorSettings to C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [3.03 ms]

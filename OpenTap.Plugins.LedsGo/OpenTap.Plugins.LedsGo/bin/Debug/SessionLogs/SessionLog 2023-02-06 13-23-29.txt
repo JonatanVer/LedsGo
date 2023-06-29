@@ -1,0 +1,134 @@
+﻿2023-02-06 13:23:28.655738 ; Session        ; Debug       ; Session log loaded as 'C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\Editor 2023-02-06 13-23-28.txt'. [5.48 ms]
+2023-02-06 13:23:28.671371 ; Session        ; Debug       ; Running '"C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Editor.exe" ' in 'C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2023-02-06 13:23:28.686943 ; Session        ; Debug       ; Microsoft Windows 10.0.19044 X64
+2023-02-06 13:23:28.686943 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2023-02-06 13:23:28.718218 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2023-02-06 13:23:28.718218 ; AssemblyFinder ; Debug       ; Found 38/93 assembly files. [19.2 ms]
+2023-02-06 13:23:28.811913 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2023-02-06 13:23:28.843198 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2023-02-06 13:23:28.936884 ; Searcher       ; Debug       ; Ordered 34 assemblies according to references. [212 ms]
+2023-02-06 13:23:29.030671 ; PluginManager  ; Debug       ; Found 18 plugin assemblies containing 267 plugin types. [309 ms]
+2023-02-06 13:23:29.030671 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2023-02-06 13:23:29.030671 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2023-02-06 13:23:29.030671 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2023-02-06 13:23:29.030671 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2023-02-06 13:23:29.030671 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2023-02-06 13:23:29.030671 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2023-02-06 13:23:29.030671 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2023-02-06 13:23:29.030671 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of OpenTap.Plugins.LedsGo.dll
+2023-02-06 13:23:29.030671 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2023-02-06 13:23:29.030671 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of ResultsViewer.exe
+2023-02-06 13:23:29.030671 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of RunExplorer.exe
+2023-02-06 13:23:29.030671 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2023-02-06 13:23:29.030671 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2023-02-06 13:23:29.030671 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2023-02-06 13:23:29.030671 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2023-02-06 13:23:29.030671 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2023-02-06 13:23:29.030671 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2023-02-06 13:23:29.030671 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2023-02-06 13:23:29.030671 ; PluginManager  ; Debug       ; Searched 38 Assemblies. [309 ms]
+2023-02-06 13:23:29.046232 ; PluginManager  ; Debug       ; Loaded OpenTap. [389 us]
+2023-02-06 13:23:29.046232 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [148 us]
+2023-02-06 13:23:29.077518 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [6.86 ms]
+2023-02-06 13:23:29.077518 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [10.0 ms]
+2023-02-06 13:23:29.093141 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [4.69 ms]
+2023-02-06 13:23:29.171245 ; PluginManager  ; Debug       ; Loaded mscorlib. [800 ns]
+2023-02-06 13:23:29.327475 ; Settings       ; Debug       ; EditorSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [482 ms]
+2023-02-06 13:23:29.483684 ; GUI            ; Debug       ; Loaded Light Theme. [13.9 ms]
+2023-02-06 13:23:29.499295 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2023-02-06 13:23:29.764851 ; Settings       ; Debug       ; GuiControlsSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [142 ms]
+2023-02-06 13:23:29.764851 ; Main           ; Debug       ; Window initial dimensions: 1934px, 1054px.
+2023-02-06 13:23:29.780441 ; Settings       ; Debug       ; EngineSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [24.4 ms]
+2023-02-06 13:23:29.796062 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [915 us]
+2023-02-06 13:23:29.811683 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2023-02-06 13-23-29.txt'. [3.36 ms]
+2023-02-06 13:23:30.233461 ; Main           ; Debug       ; GUI initialized. [478 ms]
+2023-02-06 13:23:30.233461 ; Main           ; Debug       ; Docking manager initialized. [70.8 us]
+2023-02-06 13:23:30.249082 ; OpenTAP        ; Information ; OpenTAP version '9.17.4+ea67c63a' 64-bit initialized 02/06/2023 [1.80 s]
+2023-02-06 13:23:30.280324 ; PluginManager  ; Debug       ; Loaded PackageManager. [292 us]
+2023-02-06 13:23:30.280324 ; PluginManager  ; Debug       ; Loaded Editor. [25.4 us]
+2023-02-06 13:23:30.280324 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [7.26 ms]
+2023-02-06 13:23:30.295972 ; PluginManager  ; Debug       ; Loaded RunExplorer. [7.14 ms]
+2023-02-06 13:23:30.295972 ; Settings       ; Debug       ; ConnectionSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [1.53 ms]
+2023-02-06 13:23:30.295972 ; Settings       ; Debug       ; DutSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [857 us]
+2023-02-06 13:23:30.311569 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.LedsGo. [4.25 ms]
+2023-02-06 13:23:30.311569 ; Settings       ; Debug       ; InstrumentSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [13.3 ms]
+2023-02-06 13:23:30.311569 ; Settings       ; Debug       ; ResultSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [928 us]
+2023-02-06 13:23:31.077884 ; Main           ; Information ; Latest version of 'Keysight Licensing' is 1.3, your version is 1.1. Please consider updating. [827 ms]
+2023-02-06 13:23:31.077884 ; Main           ; Information ; Latest version of 'OpenTAP' is 9.19, your version is 9.17. Please consider updating. [827 ms]
+2023-02-06 13:23:31.077884 ; Main           ; Debug       ; Update check complete. [827 ms]
+2023-02-06 13:23:31.231430 ; Settings       ; Debug       ; PanelSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [2.13 ms]
+2023-02-06 13:23:31.292166 ; Main           ; Debug       ; Application startup finished. [2.85 s]
+2023-02-06 13:23:34.637828 ; Serializer     ; Warning     ; XML line 4 column 6: Unable to locate type 'Page.Ate.Plugin.Steps.Basic.RunOnceStep'. Are you missing a plugin?
+2023-02-06 13:23:34.637828 ; Serializer     ; Warning     ; XML line 4 column 6: Unable to deserialize step.
+2023-02-06 13:23:34.637828 ; Serializer     ; Warning     ; XML line 26 column 6: Unable to locate type 'Page.Ate.Plugin.Steps.FTDIStep'. Are you missing a plugin?
+2023-02-06 13:23:34.637828 ; Serializer     ; Warning     ; XML line 26 column 6: Unable to deserialize step.
+2023-02-06 13:23:34.637828 ; Serializer     ; Warning     ; XML line 37 column 6: Unable to locate type 'Page.Ate.Plugin.Step.BatchStep'. Are you missing a plugin?
+2023-02-06 13:23:34.637828 ; Serializer     ; Warning     ; XML line 37 column 6: Unable to deserialize step.
+2023-02-06 13:23:34.637828 ; Serializer     ; Warning     ; XML line 46 column 6: Unable to locate type 'Page.Ate.Plugin.Steps.FTDIStep'. Are you missing a plugin?
+2023-02-06 13:23:34.637828 ; Serializer     ; Warning     ; XML line 46 column 6: Unable to deserialize step.
+2023-02-06 13:23:34.637828 ; Serializer     ; Warning     ; XML line 57 column 6: Unable to locate type 'Page.Ate.Plugin.Steps.FTDIStep'. Are you missing a plugin?
+2023-02-06 13:23:34.637828 ; Serializer     ; Warning     ; XML line 57 column 6: Unable to deserialize step.
+2023-02-06 13:23:34.637828 ; Serializer     ; Warning     ; XML line 68 column 6: Unable to locate type 'Page.Ate.Plugin.Step.BatchStep'. Are you missing a plugin?
+2023-02-06 13:23:34.637828 ; Serializer     ; Warning     ; XML line 68 column 6: Unable to deserialize step.
+2023-02-06 13:23:34.652830 ; Serializer     ; Warning     ; XML line 94 column 14: Unable to locate type 'Page.Ate.Plugin.Step.LawicelStep'. Are you missing a plugin?
+2023-02-06 13:23:34.652830 ; Serializer     ; Warning     ; XML line 94 column 14: Unable to deserialize step.
+2023-02-06 13:23:34.669782 ; Serializer     ; Warning     ; XML line 141 column 10: Unable to locate type 'Page.Ate.Plugin.Steps.LabelStep'. Are you missing a plugin?
+2023-02-06 13:23:34.669782 ; Serializer     ; Warning     ; XML line 141 column 10: Unable to deserialize step.
+2023-02-06 13:23:34.669782 ; Serializer     ; Warning     ; XML line 154 column 6: Unable to locate type 'Page.Ate.Plugin.Step.LawicelStep'. Are you missing a plugin?
+2023-02-06 13:23:34.669782 ; Serializer     ; Warning     ; XML line 154 column 6: Unable to deserialize step.
+2023-02-06 13:23:34.669782 ; Serializer     ; Warning     ; XML line 188 column 10: Unable to locate type 'Page.Ate.Plugin.Steps.LabelStep'. Are you missing a plugin?
+2023-02-06 13:23:34.669782 ; Serializer     ; Warning     ; XML line 188 column 10: Unable to deserialize step.
+2023-02-06 13:23:34.669782 ; Serializer     ; Warning     ; XML line 201 column 6: Unable to locate type 'Page.Ate.Plugin.Steps.FTDIStep'. Are you missing a plugin?
+2023-02-06 13:23:34.669782 ; Serializer     ; Warning     ; XML line 201 column 6: Unable to deserialize step.
+2023-02-06 13:23:34.671773 ; Serializer     ; Warning     ; Unable to find referenced step c2887eff-f8ba-41ba-ade8-3c6441d85faf
+2023-02-06 13:23:34.671773 ; Serializer     ; Warning     ; Unable to find referenced step 066da03c-8bb8-4238-97ed-00daaf8abe66
+2023-02-06 13:23:34.673776 ; Serializer     ; Error       ; XML Line 4: Unable to locate type 'Page.Ate.Plugin.Steps.Basic.RunOnceStep'. Are you missing a plugin?
+2023-02-06 13:23:34.673776 ; Serializer     ; Error       ; XML Line 26: Unable to locate type 'Page.Ate.Plugin.Steps.FTDIStep'. Are you missing a plugin?
+2023-02-06 13:23:34.673776 ; Serializer     ; Error       ; XML Line 37: Unable to locate type 'Page.Ate.Plugin.Step.BatchStep'. Are you missing a plugin?
+2023-02-06 13:23:34.673776 ; Serializer     ; Error       ; XML Line 46: Unable to locate type 'Page.Ate.Plugin.Steps.FTDIStep'. Are you missing a plugin?
+2023-02-06 13:23:34.673776 ; Serializer     ; Error       ; XML Line 57: Unable to locate type 'Page.Ate.Plugin.Steps.FTDIStep'. Are you missing a plugin?
+2023-02-06 13:23:34.673776 ; Serializer     ; Error       ; XML Line 68: Unable to locate type 'Page.Ate.Plugin.Step.BatchStep'. Are you missing a plugin?
+2023-02-06 13:23:34.673776 ; Serializer     ; Error       ; XML Line 94: Unable to locate type 'Page.Ate.Plugin.Step.LawicelStep'. Are you missing a plugin?
+2023-02-06 13:23:34.673776 ; Serializer     ; Error       ; XML Line 141: Unable to locate type 'Page.Ate.Plugin.Steps.LabelStep'. Are you missing a plugin?
+2023-02-06 13:23:34.673776 ; Serializer     ; Error       ; XML Line 154: Unable to locate type 'Page.Ate.Plugin.Step.LawicelStep'. Are you missing a plugin?
+2023-02-06 13:23:34.673776 ; Serializer     ; Error       ; XML Line 188: Unable to locate type 'Page.Ate.Plugin.Steps.LabelStep'. Are you missing a plugin?
+2023-02-06 13:23:34.673776 ; Serializer     ; Error       ; XML Line 201: Unable to locate type 'Page.Ate.Plugin.Steps.FTDIStep'. Are you missing a plugin?
+2023-02-06 13:23:36.359359 ; Main           ; Debug       ; Loaded Test plan Y:\PROJECTEN ENGINEERING\Testtoren\Novy_opentap\NovyTest.TapPlan [1.76 s]
+2023-02-06 13:24:06.360116 ; Main           ; Debug       ; Loaded Test plan C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTapPrograms\ADELE\ADELE350.TapPlan [425 ms]
+2023-02-06 13:26:19.437700 ; Settings       ; Debug       ; Saved GuiControlsSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [18.8 ms]
+2023-02-06 13:26:19.453761 ; Settings       ; Debug       ; Saved PanelSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [936 us]
+2023-02-06 13:26:19.455757 ; Settings       ; Debug       ; Saved EditorSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [1.54 ms]
+2023-02-06 13:26:23.915182 ; Settings       ; Debug       ; Saved ConnectionSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [772 us]
+2023-02-06 13:26:23.918948 ; Settings       ; Debug       ; Saved DutSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [4.19 ms]
+2023-02-06 13:26:23.919949 ; Settings       ; Debug       ; Saved EditorSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [979 us]
+2023-02-06 13:26:23.925932 ; Settings       ; Debug       ; Saved EngineSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [5.30 ms]
+2023-02-06 13:26:23.927927 ; Settings       ; Debug       ; Saved InstrumentSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [2.42 ms]
+2023-02-06 13:26:23.930919 ; Settings       ; Debug       ; Saved ResultSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [2.42 ms]
+2023-02-06 13:26:23.944912 ; Main           ; Debug       ; Reloaded test plan. [1.45 ms]
+2023-02-06 13:26:36.892997 ; Serializer     ; Error       ; XML Line 5: Missing 'Labjack' used by '48V nr DUT afleggen begin FIO2.Device'
+2023-02-06 13:26:36.892997 ; Serializer     ; Error       ; XML Line 28: Missing 'Labjack' used by 'DALI afleggen FIO4.Device'
+2023-02-06 13:26:36.892997 ; Serializer     ; Error       ; XML Line 51: Missing 'Labjack' used by '48V inschakelen FIO6.Device'
+2023-02-06 13:26:36.892997 ; Serializer     ; Error       ; XML Line 74: Missing 'Labjack' used by '48V nr DUT aanleggen FIO2.Device'
+2023-02-06 13:26:36.892997 ; Serializer     ; Error       ; XML Line 108: Missing 'Labjack' used by '48V Meten AIN8.Device'
+2023-02-06 13:26:36.892997 ; Serializer     ; Error       ; XML Line 131: Missing 'Labjack' used by '3V3 Meten AIN1.Device'
+2023-02-06 13:26:36.892997 ; Serializer     ; Error       ; XML Line 161: Missing 'Labjack' used by 'DUT nt kortgesloten AIN0.Device'
+2023-02-06 13:26:36.892997 ; Serializer     ; Error       ; XML Line 191: Missing 'Labjack' used by 'SL Top EIO3.Device'
+2023-02-06 13:26:36.892997 ; Serializer     ; Error       ; XML Line 214: Missing 'Labjack' used by 'SL Mid EIO1.Device'
+2023-02-06 13:26:36.892997 ; Serializer     ; Error       ; XML Line 237: Missing 'Labjack' used by 'SL Bot CIO2.Device'
+2023-02-06 13:26:36.892997 ; Serializer     ; Error       ; XML Line 293: Missing 'Labjack' used by 'Spanning afleggen FIO2.Device'
+2023-02-06 13:26:36.892997 ; Serializer     ; Error       ; XML Line 323: Missing 'Labjack' used by 'Spanning aanleggen FIO2.Device'
+2023-02-06 13:26:36.892997 ; Serializer     ; Error       ; XML Line 360: Missing 'Labjack' used by '350mA Ok AIN4.Device'
+2023-02-06 13:26:36.892997 ; Serializer     ; Error       ; XML Line 383: Missing 'Labjack' used by '48VMOD inschakelen FIO6.Device'
+2023-02-06 13:26:36.892997 ; Serializer     ; Error       ; XML Line 406: Missing 'Labjack' used by '4V ingang DAC1.Device'
+2023-02-06 13:26:36.892997 ; Serializer     ; Error       ; XML Line 436: Missing 'Labjack' used by 'LED meten AIN4.Device'
+2023-02-06 13:26:36.892997 ; Serializer     ; Error       ; XML Line 459: Missing 'Labjack' used by '2V ingang DAC1.Device'
+2023-02-06 13:26:36.892997 ; Serializer     ; Error       ; XML Line 489: Missing 'Labjack' used by 'LED meten AIN4.Device'
+2023-02-06 13:26:36.892997 ; Serializer     ; Error       ; XML Line 512: Missing 'Labjack' used by '0V ingang DAC1.Device'
+2023-02-06 13:26:36.892997 ; Serializer     ; Error       ; XML Line 542: Missing 'Labjack' used by 'LED meten AIN4.Device'
+2023-02-06 13:26:36.892997 ; Serializer     ; Error       ; XML Line 568: Missing 'Labjack' used by '48V naar DUT afleggen einde FIO2.Device'
+2023-02-06 13:26:36.892997 ; Serializer     ; Warning     ; Test Plan changed due to resources missing from Bench settings.
+2023-02-06 13:26:36.892997 ; Serializer     ; Warning     ; Please review these changes before saving or running the Test Plan.
+2023-02-06 13:26:41.237274 ; Main           ; Debug       ; Loaded Test plan C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTapPrograms\ADELE\ADELE350.TapPlan [4.35 s]
+2023-02-06 13:26:45.077890 ; Settings       ; Debug       ; Saved GuiControlsSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [5.35 ms]
+2023-02-06 13:26:45.079892 ; Settings       ; Debug       ; Saved PanelSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [715 us]
+2023-02-06 13:26:45.080884 ; Settings       ; Debug       ; Saved EditorSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [804 us]

@@ -1,0 +1,1387 @@
+﻿2022-07-19 16:36:57.203569 ; Session        ; Debug       ; Session log loaded as 'D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\editor 2022-07-19 16-36-56.txt'. [7.70 ms]
+2022-07-19 16:36:57.237478 ; Session        ; Debug       ; Running '"D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\editor.exe" ' in 'D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2022-07-19 16:36:57.434953 ; Session        ; Debug       ; Microsoft Windows 10.0.19043 X64
+2022-07-19 16:36:57.434953 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2022-07-19 16:36:57.497787 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2022-07-19 16:36:57.544660 ; AssemblyFinder ; Debug       ; Found 30/85 assembly files. [62.6 ms]
+2022-07-19 16:36:57.639406 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-07-19 16:36:57.646387 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Wpf, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\WPF Controls\Keysight.OpenTap.Wpf.dll
+2022-07-19 16:36:57.673317 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-07-19 16:36:58.211882 ; Searcher       ; Debug       ; Ordered 28 assemblies according to references. [659 ms]
+2022-07-19 16:36:58.505101 ; PluginManager  ; Debug       ; Found 18 plugin assemblies containing 265 plugin types. [954 ms]
+2022-07-19 16:36:58.506100 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2022-07-19 16:36:58.506100 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2022-07-19 16:36:58.506100 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2022-07-19 16:36:58.506100 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2022-07-19 16:36:58.506100 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2022-07-19 16:36:58.506100 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2022-07-19 16:36:58.506100 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2022-07-19 16:36:58.506100 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of OpenTap.Plugins.LedsGo.dll
+2022-07-19 16:36:58.506100 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-07-19 16:36:58.506100 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of ResultsViewer.exe
+2022-07-19 16:36:58.506100 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of RunExplorer.exe
+2022-07-19 16:36:58.506100 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2022-07-19 16:36:58.506100 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-07-19 16:36:58.506100 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2022-07-19 16:36:58.506100 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-07-19 16:36:58.506100 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-07-19 16:36:58.506100 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-07-19 16:36:58.506100 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2022-07-19 16:36:58.506100 ; PluginManager  ; Debug       ; Searched 30 Assemblies. [955 ms]
+2022-07-19 16:36:58.550978 ; PluginManager  ; Debug       ; Loaded OpenTap. [972 us]
+2022-07-19 16:36:58.569929 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [1.44 ms]
+2022-07-19 16:36:58.666670 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [29.9 ms]
+2022-07-19 16:36:58.684622 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [47.9 ms]
+2022-07-19 16:36:58.816271 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [61.1 ms]
+2022-07-19 16:36:59.058628 ; PluginManager  ; Debug       ; Loaded mscorlib. [1.40 us]
+2022-07-19 16:36:59.472523 ; Settings       ; Debug       ; EditorSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [1.25 s]
+2022-07-19 16:36:59.504439 ; Resolver       ; Debug       ; Found match for MahApps.Metro, Version=1.3.0.0, Culture=neutral, PublicKeyToken=f4fb5a3c4d1e5b4f in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\MahApps.Metro.1.3.0.0\MahApps.Metro.dll
+2022-07-19 16:37:00.068460 ; GUI            ; Debug       ; Loaded Light Theme. [54.9 ms]
+2022-07-19 16:37:00.172182 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2022-07-19 16:37:00.768591 ; Settings       ; Debug       ; GuiControlsSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [347 ms]
+2022-07-19 16:37:00.768591 ; Main           ; Debug       ; Window initial dimensions: 1934px, 1054px.
+2022-07-19 16:37:00.913207 ; Settings       ; Debug       ; EngineSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [139 ms]
+2022-07-19 16:37:00.935153 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [1.82 ms]
+2022-07-19 16:37:00.936145 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Licensing, Version=1.1.1.0, Culture=neutral, PublicKeyToken=null in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\Keysight Licensing\Keysight.OpenTap.Licensing.dll
+2022-07-19 16:37:01.005959 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2022-07-19 16-37-00.txt'. [8.95 ms]
+2022-07-19 16:37:02.455098 ; Main           ; Debug       ; GUI initialized. [1.68 s]
+2022-07-19 16:37:02.455098 ; Main           ; Debug       ; Docking manager initialized. [179 us]
+2022-07-19 16:37:02.470060 ; OpenTAP        ; Information ; OpenTAP version '9.17.4+ea67c63a' 64-bit initialized 07/19/2022 [5.75 s]
+2022-07-19 16:37:02.846056 ; PluginManager  ; Debug       ; Loaded PackageManager. [2.42 ms]
+2022-07-19 16:37:02.848052 ; PluginManager  ; Debug       ; Loaded Editor. [167 us]
+2022-07-19 16:37:03.232105 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [379 ms]
+2022-07-19 16:37:03.295935 ; PluginManager  ; Debug       ; Loaded RunExplorer. [59.4 ms]
+2022-07-19 16:37:03.304911 ; Settings       ; Debug       ; ConnectionSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [5.97 ms]
+2022-07-19 16:37:03.318874 ; Settings       ; Debug       ; DutSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [12.7 ms]
+2022-07-19 16:37:03.368740 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.LedsGo. [37.6 ms]
+2022-07-19 16:37:03.383701 ; Settings       ; Debug       ; InstrumentSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [64.8 ms]
+2022-07-19 16:37:03.387691 ; Settings       ; Debug       ; ResultSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [3.59 ms]
+2022-07-19 16:37:05.724467 ; AssemblyFinder ; Debug       ; Found 30/85 assembly files. [145 ms]
+2022-07-19 16:37:05.730468 ; Resolver       ; Debug       ; Found match for Keysight.Kal.Licensing.Api, Version=4.0.0.0, Culture=neutral, PublicKeyToken=55333af07c70062e in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\Keysight.Kal.Licensing.Api.4.0.0\Keysight.Kal.Licensing.Api.dll
+2022-07-19 16:37:06.018680 ; KAL            ; Debug       ; KAL signature verified. [179 ms]
+2022-07-19 16:37:06.075529 ; KAL            ; Debug       ; Initialized [240 ms]
+2022-07-19 16:37:06.081513 ; KAL Process    ; Debug       ; Initialized [247 ms]
+2022-07-19 16:37:06.550265 ; Main           ; Information ; Latest version of 'PathWave License Manager' is 2.5, your version is 2.4. Please consider updating. [4.07 s]
+2022-07-19 16:37:06.550265 ; Main           ; Information ; Latest version of 'Keysight Licensing' is 1.2, your version is 1.1. Please consider updating. [4.07 s]
+2022-07-19 16:37:06.550265 ; Main           ; Information ; Latest version of 'OpenTAP' is 9.18, your version is 9.17. Please consider updating. [4.07 s]
+2022-07-19 16:37:06.550265 ; Main           ; Debug       ; Update check complete. [4.07 s]
+2022-07-19 16:37:09.037505 ; Settings       ; Debug       ; PanelSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [2.91 ms]
+2022-07-19 16:37:10.158520 ; Main           ; Debug       ; Application startup finished. [13.4 s]
+2022-07-19 16:37:13.736831 ; Main           ; Debug       ; Loaded Test plan D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\test.TapPlan [910 ms]
+2022-07-19 16:37:25.243924 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:37:25.279826 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:37:25, 14 of 14 TestSteps enabled.
+2022-07-19 16:37:25.366597 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.59 ms]
+2022-07-19 16:37:25.380558 ; Settings       ; Debug       ; No settings file exists for TestPlanRunPackageParameterMonitor. A new instance with default values has been created. [395 us]
+2022-07-19 16:37:26.733297 ; Labjack        ; Information ; Resource "Labjack" opened. [1.18 s]
+2022-07-19 16:37:26.762219 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PrePlanRun completed. [2.25 ms]
+2022-07-19 16:37:26.762219 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PrePlanRun completed. [811 us]
+2022-07-19 16:37:26.763217 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PrePlanRun completed. [41.5 us]
+2022-07-19 16:37:26.763217 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PrePlanRun completed. [38.1 us]
+2022-07-19 16:37:26.763217 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PrePlanRun completed. [45.2 us]
+2022-07-19 16:37:26.763217 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PrePlanRun completed. [27.3 us]
+2022-07-19 16:37:26.763217 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PrePlanRun completed. [34.6 us]
+2022-07-19 16:37:26.763217 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0 (1)" PrePlanRun completed. [30.1 us]
+2022-07-19 16:37:26.763217 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 (1)" PrePlanRun completed. [33.7 us]
+2022-07-19 16:37:26.763217 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0 (1)" PrePlanRun completed. [32.5 us]
+2022-07-19 16:37:26.763217 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [9.71 ms]
+2022-07-19 16:37:26.777180 ; TestPlan       ; Information ; "UIT" started.
+2022-07-19 16:37:26.785166 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:37:26.791142 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" started.
+2022-07-19 16:37:26.791142 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" started.
+2022-07-19 16:37:26.796130 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" started.
+2022-07-19 16:37:26.798125 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:37:26.800122 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:37:26.802123 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:37:26.808098 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" completed with verdict 'Inconclusive'. [13.6 ms]
+2022-07-19 16:37:26.808098 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" completed with verdict 'Inconclusive'. [15.2 ms]
+2022-07-19 16:37:26.808098 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" completed with verdict 'Inconclusive'. [9.31 ms]
+2022-07-19 16:37:26.809095 ; TestPlan       ; Information ; "UIT" completed with verdict 'Inconclusive'. [32.3 ms]
+2022-07-19 16:37:26.810092 ; TestPlan       ; Information ; "AAN" started.
+2022-07-19 16:37:26.816078 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" started.
+2022-07-19 16:37:26.819069 ; TestStep       ; Information ; FIO6set to: High
+2022-07-19 16:37:26.819069 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" completed with verdict 'Inconclusive'. [3.16 ms]
+2022-07-19 16:37:26.819069 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" started.
+2022-07-19 16:37:26.821063 ; TestStep       ; Information ; FIO4set to: High
+2022-07-19 16:37:26.821063 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" completed with verdict 'Inconclusive'. [2.32 ms]
+2022-07-19 16:37:26.824055 ; TestPlan       ; Information ; "AAN" completed with verdict 'Inconclusive'. [13.9 ms]
+2022-07-19 16:37:26.824055 ; TestPlan       ; Information ; "Meten" started.
+2022-07-19 16:37:26.824055 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" started.
+2022-07-19 16:37:26.829043 ; TestStep       ; Information ; AIN1measured: 0.837846279144287
+2022-07-19 16:37:26.830041 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" completed with verdict 'Fail'. [5.43 ms]
+2022-07-19 16:37:26.830041 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" started.
+2022-07-19 16:37:26.833032 ; TestStep       ; Information ; AIN8measured: 0.183503910899162
+2022-07-19 16:37:26.833032 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" completed with verdict 'Fail'. [3.35 ms]
+2022-07-19 16:37:26.833032 ; TestPlan       ; Information ; "Meten" completed with verdict 'Fail'. [9.33 ms]
+2022-07-19 16:37:26.833032 ; TestPlan       ; Information ; "UIT (1)" started.
+2022-07-19 16:37:26.833032 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:37:26.833032 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0 (1)" started.
+2022-07-19 16:37:26.833032 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 (1)" started.
+2022-07-19 16:37:26.836026 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:37:26.836026 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0 (1)" completed with verdict 'Inconclusive'. [2.36 ms]
+2022-07-19 16:37:26.838032 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0 (1)" started.
+2022-07-19 16:37:26.838032 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:37:26.838032 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 (1)" completed with verdict 'Inconclusive'. [4.84 ms]
+2022-07-19 16:37:26.841011 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:37:26.841011 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0 (1)" completed with verdict 'Inconclusive'. [3.14 ms]
+2022-07-19 16:37:26.841011 ; TestPlan       ; Information ; "UIT (1)" completed with verdict 'Inconclusive'. [8.10 ms]
+2022-07-19 16:37:26.841011 ; TestPlan       ; Debug       ; Test step runs finished. [78.3 ms]
+2022-07-19 16:37:26.847992 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0 (1)" PostPlanRun completed. [1.25 ms]
+2022-07-19 16:37:26.847992 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 (1)" PostPlanRun completed. [21.6 us]
+2022-07-19 16:37:26.847992 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0 (1)" PostPlanRun completed. [13.1 us]
+2022-07-19 16:37:26.847992 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PostPlanRun completed. [17.9 us]
+2022-07-19 16:37:26.847992 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PostPlanRun completed. [15.5 us]
+2022-07-19 16:37:26.847992 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PostPlanRun completed. [16.7 us]
+2022-07-19 16:37:26.847992 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PostPlanRun completed. [11.3 us]
+2022-07-19 16:37:26.847992 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PostPlanRun completed. [6.50 us]
+2022-07-19 16:37:26.847992 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PostPlanRun completed. [16.0 us]
+2022-07-19 16:37:26.847992 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PostPlanRun completed. [27.7 us]
+2022-07-19 16:37:26.881901 ; Summary        ; Information ; ------------ Summary of test plan started 07/19/2022 16:37:25 ------------
+2022-07-19 16:37:26.886888 ; Summary        ; Information ;  UIT                                                32.3 ms  Inconclusive
+2022-07-19 16:37:26.887886 ; Summary        ; Information ;    FIO4 => 0                                        13.6 ms  Inconclusive
+2022-07-19 16:37:26.887886 ; Summary        ; Information ;    EIO6 => 0                                        15.2 ms  Inconclusive
+2022-07-19 16:37:26.887886 ; Summary        ; Information ;    FIO2 => 0                                        9.31 ms  Inconclusive
+2022-07-19 16:37:26.887886 ; Summary        ; Information ;  AAN                                                13.9 ms  Inconclusive
+2022-07-19 16:37:26.887886 ; Summary        ; Information ;    FIO6 => 1 (1)                                    3.16 ms  Inconclusive
+2022-07-19 16:37:26.887886 ; Summary        ; Information ;    FIO4 => 1 (1)                                    2.32 ms  Inconclusive
+2022-07-19 16:37:26.887886 ; Summary        ; Information ;  Meten                                              9.33 ms  Fail   
+2022-07-19 16:37:26.887886 ; Summary        ; Information ;    3V3 AIN1                                         5.43 ms  Fail   
+2022-07-19 16:37:26.887886 ; Summary        ; Information ;    48V ANIN8                                        3.35 ms  Fail   
+2022-07-19 16:37:26.887886 ; Summary        ; Information ;  UIT (1)                                            8.10 ms  Inconclusive
+2022-07-19 16:37:26.887886 ; Summary        ; Information ;    FIO2 => 0 (1)                                    2.36 ms  Inconclusive
+2022-07-19 16:37:26.887886 ; Summary        ; Information ;    FIO4 => 0 (1)                                    4.84 ms  Inconclusive
+2022-07-19 16:37:26.887886 ; Summary        ; Information ;    EIO6 => 0 (1)                                    3.14 ms  Inconclusive
+2022-07-19 16:37:26.887886 ; Summary        ; Information ; --------------------------------------------------------------------------
+2022-07-19 16:37:26.889881 ; Summary        ; Information ; ------------ Test plan completed with verdict Fail in 1.47 s -------------
+2022-07-19 16:37:26.909828 ; Labjack        ; Information ; Resource "Labjack" closed. [15.5 us]
+2022-07-19 16:38:22.845381 ; Main           ; Information ; Saved test plan to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\test.TapPlan [3.85 ms]
+2022-07-19 16:38:24.320807 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:38:24.320807 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:38:24, 14 of 14 TestSteps enabled.
+2022-07-19 16:38:24.328751 ; TestPlan       ; Debug       ; Saved Test Plan XML [7.50 ms]
+2022-07-19 16:38:24.339724 ; Labjack        ; Information ; Resource "Labjack" opened. [17.0 ms]
+2022-07-19 16:38:24.340719 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PrePlanRun completed. [126 us]
+2022-07-19 16:38:24.340719 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PrePlanRun completed. [80.6 us]
+2022-07-19 16:38:24.340719 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PrePlanRun completed. [44.1 us]
+2022-07-19 16:38:24.340719 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PrePlanRun completed. [58.1 us]
+2022-07-19 16:38:24.340719 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PrePlanRun completed. [51.2 us]
+2022-07-19 16:38:24.340719 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PrePlanRun completed. [36.8 us]
+2022-07-19 16:38:24.340719 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PrePlanRun completed. [36.9 us]
+2022-07-19 16:38:24.341716 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0 (1)" PrePlanRun completed. [33.5 us]
+2022-07-19 16:38:24.341716 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 (1)" PrePlanRun completed. [37.3 us]
+2022-07-19 16:38:24.341716 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0 (1)" PrePlanRun completed. [40.5 us]
+2022-07-19 16:38:24.341716 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [586 us]
+2022-07-19 16:38:24.341716 ; TestPlan       ; Information ; "UIT" started.
+2022-07-19 16:38:24.341716 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:38:24.341716 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" started.
+2022-07-19 16:38:24.341716 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" started.
+2022-07-19 16:38:24.341716 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" started.
+2022-07-19 16:38:24.343712 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:38:24.343712 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" completed with verdict 'Inconclusive'. [2.45 ms]
+2022-07-19 16:38:24.354683 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:38:24.355680 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" completed with verdict 'Inconclusive'. [13.3 ms]
+2022-07-19 16:38:24.355680 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:38:24.355680 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" completed with verdict 'Inconclusive'. [14.5 ms]
+2022-07-19 16:38:24.356678 ; TestPlan       ; Information ; "UIT" completed with verdict 'Inconclusive'. [14.8 ms]
+2022-07-19 16:38:24.356678 ; TestPlan       ; Information ; "AAN" started.
+2022-07-19 16:38:24.356678 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" started.
+2022-07-19 16:38:24.359672 ; TestStep       ; Information ; FIO6set to: High
+2022-07-19 16:38:24.359672 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" completed with verdict 'Inconclusive'. [3.42 ms]
+2022-07-19 16:38:24.359672 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" started.
+2022-07-19 16:38:24.362663 ; TestStep       ; Information ; FIO4set to: High
+2022-07-19 16:38:24.362663 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" completed with verdict 'Inconclusive'. [2.57 ms]
+2022-07-19 16:38:24.362663 ; TestPlan       ; Information ; "AAN" completed with verdict 'Inconclusive'. [6.43 ms]
+2022-07-19 16:38:24.362663 ; TestPlan       ; Information ; "Meten" started.
+2022-07-19 16:38:24.362663 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" started.
+2022-07-19 16:38:24.377622 ; TestStep       ; Information ; AIN1measured: 0.000537267362233251
+2022-07-19 16:38:24.377622 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" completed with verdict 'Fail'. [14.9 ms]
+2022-07-19 16:38:24.377622 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" started.
+2022-07-19 16:38:24.381613 ; TestStep       ; Information ; AIN8measured: -0.000803293427452445
+2022-07-19 16:38:24.381613 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" completed with verdict 'Fail'. [3.32 ms]
+2022-07-19 16:38:24.381613 ; TestPlan       ; Information ; "Meten" completed with verdict 'Fail'. [18.7 ms]
+2022-07-19 16:38:24.381613 ; TestPlan       ; Information ; "UIT (1)" started.
+2022-07-19 16:38:24.381613 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:38:24.381613 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 (1)" started.
+2022-07-19 16:38:24.381613 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0 (1)" started.
+2022-07-19 16:38:24.381613 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0 (1)" started.
+2022-07-19 16:38:24.383605 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:38:24.384604 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 (1)" completed with verdict 'Inconclusive'. [2.41 ms]
+2022-07-19 16:38:24.385600 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:38:24.386597 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0 (1)" completed with verdict 'Inconclusive'. [4.40 ms]
+2022-07-19 16:38:24.388591 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:38:24.388591 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0 (1)" completed with verdict 'Inconclusive'. [6.60 ms]
+2022-07-19 16:38:24.388591 ; TestPlan       ; Information ; "UIT (1)" completed with verdict 'Inconclusive'. [7.15 ms]
+2022-07-19 16:38:24.388591 ; TestPlan       ; Debug       ; Test step runs finished. [47.7 ms]
+2022-07-19 16:38:24.389589 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0 (1)" PostPlanRun completed. [521 us]
+2022-07-19 16:38:24.389589 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 (1)" PostPlanRun completed. [53.9 us]
+2022-07-19 16:38:24.389589 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0 (1)" PostPlanRun completed. [11.8 us]
+2022-07-19 16:38:24.389589 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PostPlanRun completed. [34.8 us]
+2022-07-19 16:38:24.389589 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PostPlanRun completed. [131 us]
+2022-07-19 16:38:24.389589 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PostPlanRun completed. [6.40 us]
+2022-07-19 16:38:24.389589 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PostPlanRun completed. [12.4 us]
+2022-07-19 16:38:24.389589 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PostPlanRun completed. [9.69 us]
+2022-07-19 16:38:24.389589 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PostPlanRun completed. [8.50 us]
+2022-07-19 16:38:24.389589 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PostPlanRun completed. [8.00 us]
+2022-07-19 16:38:24.390593 ; Summary        ; Information ; ------------ Summary of test plan started 07/19/2022 16:38:24 ------------
+2022-07-19 16:38:24.390593 ; Summary        ; Information ;  UIT                                                14.8 ms  Inconclusive
+2022-07-19 16:38:24.390593 ; Summary        ; Information ;    EIO6 => 0                                        14.5 ms  Inconclusive
+2022-07-19 16:38:24.390593 ; Summary        ; Information ;    FIO4 => 0                                        13.3 ms  Inconclusive
+2022-07-19 16:38:24.390593 ; Summary        ; Information ;    FIO2 => 0                                        2.45 ms  Inconclusive
+2022-07-19 16:38:24.390593 ; Summary        ; Information ;  AAN                                                6.43 ms  Inconclusive
+2022-07-19 16:38:24.390593 ; Summary        ; Information ;    FIO6 => 1 (1)                                    3.42 ms  Inconclusive
+2022-07-19 16:38:24.390593 ; Summary        ; Information ;    FIO4 => 1 (1)                                    2.57 ms  Inconclusive
+2022-07-19 16:38:24.390593 ; Summary        ; Information ;  Meten                                              18.7 ms  Fail   
+2022-07-19 16:38:24.390593 ; Summary        ; Information ;    3V3 AIN1                                         14.9 ms  Fail   
+2022-07-19 16:38:24.390593 ; Summary        ; Information ;    48V ANIN8                                        3.32 ms  Fail   
+2022-07-19 16:38:24.390593 ; Summary        ; Information ;  UIT (1)                                            7.15 ms  Inconclusive
+2022-07-19 16:38:24.390593 ; Summary        ; Information ;    FIO4 => 0 (1)                                    2.41 ms  Inconclusive
+2022-07-19 16:38:24.390593 ; Summary        ; Information ;    FIO2 => 0 (1)                                    4.40 ms  Inconclusive
+2022-07-19 16:38:24.390593 ; Summary        ; Information ;    EIO6 => 0 (1)                                    6.60 ms  Inconclusive
+2022-07-19 16:38:24.390593 ; Summary        ; Information ; --------------------------------------------------------------------------
+2022-07-19 16:38:24.390593 ; Summary        ; Information ; ------------ Test plan completed with verdict Fail in 68.6 ms ------------
+2022-07-19 16:38:24.400561 ; Labjack        ; Information ; Resource "Labjack" closed. [1.00 us]
+2022-07-19 16:38:26.500028 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:38:26.501006 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:38:26, 14 of 14 TestSteps enabled.
+2022-07-19 16:38:26.536471 ; Labjack        ; Information ; Resource "Labjack" opened. [34.8 ms]
+2022-07-19 16:38:26.541452 ; TestPlan       ; Debug       ; Saved Test Plan XML [40.5 ms]
+2022-07-19 16:38:26.561399 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PrePlanRun completed. [145 us]
+2022-07-19 16:38:26.561399 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PrePlanRun completed. [86.8 us]
+2022-07-19 16:38:26.561399 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PrePlanRun completed. [88.2 us]
+2022-07-19 16:38:26.561399 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PrePlanRun completed. [55.7 us]
+2022-07-19 16:38:26.561399 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PrePlanRun completed. [53.5 us]
+2022-07-19 16:38:26.561399 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PrePlanRun completed. [43.9 us]
+2022-07-19 16:38:26.561399 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PrePlanRun completed. [32.4 us]
+2022-07-19 16:38:26.561399 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0 (1)" PrePlanRun completed. [44.1 us]
+2022-07-19 16:38:26.561399 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 (1)" PrePlanRun completed. [54.2 us]
+2022-07-19 16:38:26.561399 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0 (1)" PrePlanRun completed. [32.1 us]
+2022-07-19 16:38:26.561399 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [684 us]
+2022-07-19 16:38:26.561399 ; TestPlan       ; Information ; "UIT" started.
+2022-07-19 16:38:26.561399 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:38:26.561399 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" started.
+2022-07-19 16:38:26.561399 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" started.
+2022-07-19 16:38:26.561399 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" started.
+2022-07-19 16:38:26.564402 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:38:26.564402 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" completed with verdict 'Inconclusive'. [2.44 ms]
+2022-07-19 16:38:26.566384 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:38:26.566384 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" completed with verdict 'Inconclusive'. [4.54 ms]
+2022-07-19 16:38:26.568382 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:38:26.568382 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" completed with verdict 'Inconclusive'. [6.71 ms]
+2022-07-19 16:38:26.568382 ; TestPlan       ; Information ; "UIT" completed with verdict 'Inconclusive'. [7.03 ms]
+2022-07-19 16:38:26.568382 ; TestPlan       ; Information ; "AAN" started.
+2022-07-19 16:38:26.568382 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" started.
+2022-07-19 16:38:26.571377 ; TestStep       ; Information ; FIO6set to: High
+2022-07-19 16:38:26.572371 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" completed with verdict 'Inconclusive'. [3.05 ms]
+2022-07-19 16:38:26.572371 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" started.
+2022-07-19 16:38:26.577371 ; TestStep       ; Information ; FIO4set to: High
+2022-07-19 16:38:26.577371 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" completed with verdict 'Inconclusive'. [5.08 ms]
+2022-07-19 16:38:26.577371 ; TestPlan       ; Information ; "AAN" completed with verdict 'Inconclusive'. [8.61 ms]
+2022-07-19 16:38:26.577371 ; TestPlan       ; Information ; "Meten" started.
+2022-07-19 16:38:26.577371 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" started.
+2022-07-19 16:38:26.580349 ; TestStep       ; Information ; AIN1measured: 0.000458402442745864
+2022-07-19 16:38:26.581345 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" completed with verdict 'Fail'. [3.42 ms]
+2022-07-19 16:38:26.581345 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" started.
+2022-07-19 16:38:26.584338 ; TestStep       ; Information ; AIN8measured: -0.000882144318893552
+2022-07-19 16:38:26.585334 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" completed with verdict 'Fail'. [3.77 ms]
+2022-07-19 16:38:26.585334 ; TestPlan       ; Information ; "Meten" completed with verdict 'Fail'. [7.62 ms]
+2022-07-19 16:38:26.585334 ; TestPlan       ; Information ; "UIT (1)" started.
+2022-07-19 16:38:26.585334 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:38:26.585334 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0 (1)" started.
+2022-07-19 16:38:26.585334 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 (1)" started.
+2022-07-19 16:38:26.585334 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0 (1)" started.
+2022-07-19 16:38:26.587343 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:38:26.588327 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 (1)" completed with verdict 'Inconclusive'. [2.67 ms]
+2022-07-19 16:38:26.589324 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:38:26.590322 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0 (1)" completed with verdict 'Inconclusive'. [4.57 ms]
+2022-07-19 16:38:26.592325 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:38:26.592325 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0 (1)" completed with verdict 'Inconclusive'. [6.83 ms]
+2022-07-19 16:38:26.592325 ; TestPlan       ; Information ; "UIT (1)" completed with verdict 'Inconclusive'. [7.20 ms]
+2022-07-19 16:38:26.592325 ; TestPlan       ; Debug       ; Test step runs finished. [30.8 ms]
+2022-07-19 16:38:26.592325 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0 (1)" PostPlanRun completed. [401 us]
+2022-07-19 16:38:26.592325 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 (1)" PostPlanRun completed. [28.8 us]
+2022-07-19 16:38:26.592325 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0 (1)" PostPlanRun completed. [8.40 us]
+2022-07-19 16:38:26.592325 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PostPlanRun completed. [13.3 us]
+2022-07-19 16:38:26.592325 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PostPlanRun completed. [5.70 us]
+2022-07-19 16:38:26.592325 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PostPlanRun completed. [4.40 us]
+2022-07-19 16:38:26.592325 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PostPlanRun completed. [11.7 us]
+2022-07-19 16:38:26.593314 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PostPlanRun completed. [5.50 us]
+2022-07-19 16:38:26.593314 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PostPlanRun completed. [21.7 us]
+2022-07-19 16:38:26.593314 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PostPlanRun completed. [22.1 us]
+2022-07-19 16:38:26.593314 ; Summary        ; Information ; ------------ Summary of test plan started 07/19/2022 16:38:26 ------------
+2022-07-19 16:38:26.593314 ; Summary        ; Information ;  UIT                                                7.03 ms  Inconclusive
+2022-07-19 16:38:26.593314 ; Summary        ; Information ;    FIO2 => 0                                        4.54 ms  Inconclusive
+2022-07-19 16:38:26.593314 ; Summary        ; Information ;    FIO4 => 0                                        6.71 ms  Inconclusive
+2022-07-19 16:38:26.593314 ; Summary        ; Information ;    EIO6 => 0                                        2.44 ms  Inconclusive
+2022-07-19 16:38:26.593314 ; Summary        ; Information ;  AAN                                                8.61 ms  Inconclusive
+2022-07-19 16:38:26.593314 ; Summary        ; Information ;    FIO6 => 1 (1)                                    3.05 ms  Inconclusive
+2022-07-19 16:38:26.593314 ; Summary        ; Information ;    FIO4 => 1 (1)                                    5.08 ms  Inconclusive
+2022-07-19 16:38:26.593314 ; Summary        ; Information ;  Meten                                              7.62 ms  Fail   
+2022-07-19 16:38:26.593314 ; Summary        ; Information ;    3V3 AIN1                                         3.42 ms  Fail   
+2022-07-19 16:38:26.593314 ; Summary        ; Information ;    48V ANIN8                                        3.77 ms  Fail   
+2022-07-19 16:38:26.593314 ; Summary        ; Information ;  UIT (1)                                            7.20 ms  Inconclusive
+2022-07-19 16:38:26.593314 ; Summary        ; Information ;    EIO6 => 0 (1)                                    4.57 ms  Inconclusive
+2022-07-19 16:38:26.593314 ; Summary        ; Information ;    FIO4 => 0 (1)                                    2.67 ms  Inconclusive
+2022-07-19 16:38:26.593314 ; Summary        ; Information ;    FIO2 => 0 (1)                                    6.83 ms  Inconclusive
+2022-07-19 16:38:26.593314 ; Summary        ; Information ; --------------------------------------------------------------------------
+2022-07-19 16:38:26.593314 ; Summary        ; Information ; ------------ Test plan completed with verdict Fail in 91.9 ms ------------
+2022-07-19 16:38:26.599296 ; Labjack        ; Information ; Resource "Labjack" closed. [5.30 us]
+2022-07-19 16:38:27.666790 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:38:27.667788 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:38:27, 14 of 14 TestSteps enabled.
+2022-07-19 16:38:27.676763 ; TestPlan       ; Debug       ; Saved Test Plan XML [9.10 ms]
+2022-07-19 16:38:27.686737 ; Labjack        ; Information ; Resource "Labjack" opened. [18.1 ms]
+2022-07-19 16:38:27.688731 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PrePlanRun completed. [125 us]
+2022-07-19 16:38:27.688731 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PrePlanRun completed. [76.2 us]
+2022-07-19 16:38:27.688731 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PrePlanRun completed. [50.5 us]
+2022-07-19 16:38:27.688731 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PrePlanRun completed. [33.3 us]
+2022-07-19 16:38:27.688731 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PrePlanRun completed. [42.2 us]
+2022-07-19 16:38:27.689730 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PrePlanRun completed. [37.4 us]
+2022-07-19 16:38:27.689730 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PrePlanRun completed. [57.2 us]
+2022-07-19 16:38:27.689730 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0 (1)" PrePlanRun completed. [33.9 us]
+2022-07-19 16:38:27.689730 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 (1)" PrePlanRun completed. [41.0 us]
+2022-07-19 16:38:27.689730 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0 (1)" PrePlanRun completed. [42.0 us]
+2022-07-19 16:38:27.689730 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [586 us]
+2022-07-19 16:38:27.689730 ; TestPlan       ; Information ; "UIT" started.
+2022-07-19 16:38:27.689730 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:38:27.689730 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" started.
+2022-07-19 16:38:27.689730 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" started.
+2022-07-19 16:38:27.689730 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" started.
+2022-07-19 16:38:27.692720 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:38:27.692720 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" completed with verdict 'Inconclusive'. [2.73 ms]
+2022-07-19 16:38:27.694714 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:38:27.694714 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" completed with verdict 'Inconclusive'. [5.14 ms]
+2022-07-19 16:38:27.696709 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:38:27.697718 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" completed with verdict 'Inconclusive'. [7.20 ms]
+2022-07-19 16:38:27.697718 ; TestPlan       ; Information ; "UIT" completed with verdict 'Inconclusive'. [7.71 ms]
+2022-07-19 16:38:27.697718 ; TestPlan       ; Information ; "AAN" started.
+2022-07-19 16:38:27.697718 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" started.
+2022-07-19 16:38:27.699702 ; TestStep       ; Information ; FIO6set to: High
+2022-07-19 16:38:27.699702 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" completed with verdict 'Inconclusive'. [2.11 ms]
+2022-07-19 16:38:27.699702 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" started.
+2022-07-19 16:38:27.702169 ; TestStep       ; Information ; FIO4set to: High
+2022-07-19 16:38:27.702169 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" completed with verdict 'Inconclusive'. [2.05 ms]
+2022-07-19 16:38:27.702169 ; TestPlan       ; Information ; "AAN" completed with verdict 'Inconclusive'. [4.61 ms]
+2022-07-19 16:38:27.702169 ; TestPlan       ; Information ; "Meten" started.
+2022-07-19 16:38:27.702169 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" started.
+2022-07-19 16:38:27.705401 ; TestStep       ; Information ; AIN1measured: 0.00030067257466726
+2022-07-19 16:38:27.706008 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" completed with verdict 'Fail'. [3.38 ms]
+2022-07-19 16:38:27.706008 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" started.
+2022-07-19 16:38:27.709143 ; TestStep       ; Information ; AIN8measured: -0.000882144318893552
+2022-07-19 16:38:27.709143 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" completed with verdict 'Fail'. [3.01 ms]
+2022-07-19 16:38:27.709143 ; TestPlan       ; Information ; "Meten" completed with verdict 'Fail'. [6.82 ms]
+2022-07-19 16:38:27.709143 ; TestPlan       ; Information ; "UIT (1)" started.
+2022-07-19 16:38:27.709143 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:38:27.709143 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 (1)" started.
+2022-07-19 16:38:27.709143 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0 (1)" started.
+2022-07-19 16:38:27.709143 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0 (1)" started.
+2022-07-19 16:38:27.711141 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:38:27.712135 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 (1)" completed with verdict 'Inconclusive'. [2.54 ms]
+2022-07-19 16:38:27.713131 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:38:27.713131 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0 (1)" completed with verdict 'Inconclusive'. [4.22 ms]
+2022-07-19 16:38:27.715129 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:38:27.715129 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0 (1)" completed with verdict 'Inconclusive'. [6.12 ms]
+2022-07-19 16:38:27.715129 ; TestPlan       ; Information ; "UIT (1)" completed with verdict 'Inconclusive'. [6.44 ms]
+2022-07-19 16:38:27.715129 ; TestPlan       ; Debug       ; Test step runs finished. [26.0 ms]
+2022-07-19 16:38:27.716125 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0 (1)" PostPlanRun completed. [362 us]
+2022-07-19 16:38:27.716125 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 (1)" PostPlanRun completed. [17.3 us]
+2022-07-19 16:38:27.716125 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0 (1)" PostPlanRun completed. [11.8 us]
+2022-07-19 16:38:27.716125 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PostPlanRun completed. [8.10 us]
+2022-07-19 16:38:27.716125 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PostPlanRun completed. [10.6 us]
+2022-07-19 16:38:27.716125 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PostPlanRun completed. [11.2 us]
+2022-07-19 16:38:27.716125 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PostPlanRun completed. [16.0 us]
+2022-07-19 16:38:27.716125 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PostPlanRun completed. [12.1 us]
+2022-07-19 16:38:27.716125 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PostPlanRun completed. [7.30 us]
+2022-07-19 16:38:27.716125 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PostPlanRun completed. [6.50 us]
+2022-07-19 16:38:27.716125 ; Summary        ; Information ; ------------ Summary of test plan started 07/19/2022 16:38:27 ------------
+2022-07-19 16:38:27.716125 ; Summary        ; Information ;  UIT                                                7.71 ms  Inconclusive
+2022-07-19 16:38:27.716125 ; Summary        ; Information ;    FIO4 => 0                                        5.14 ms  Inconclusive
+2022-07-19 16:38:27.716125 ; Summary        ; Information ;    FIO2 => 0                                        2.73 ms  Inconclusive
+2022-07-19 16:38:27.716125 ; Summary        ; Information ;    EIO6 => 0                                        7.20 ms  Inconclusive
+2022-07-19 16:38:27.716125 ; Summary        ; Information ;  AAN                                                4.61 ms  Inconclusive
+2022-07-19 16:38:27.716125 ; Summary        ; Information ;    FIO6 => 1 (1)                                    2.11 ms  Inconclusive
+2022-07-19 16:38:27.716125 ; Summary        ; Information ;    FIO4 => 1 (1)                                    2.05 ms  Inconclusive
+2022-07-19 16:38:27.716125 ; Summary        ; Information ;  Meten                                              6.82 ms  Fail   
+2022-07-19 16:38:27.716125 ; Summary        ; Information ;    3V3 AIN1                                         3.38 ms  Fail   
+2022-07-19 16:38:27.716125 ; Summary        ; Information ;    48V ANIN8                                        3.01 ms  Fail   
+2022-07-19 16:38:27.716125 ; Summary        ; Information ;  UIT (1)                                            6.44 ms  Inconclusive
+2022-07-19 16:38:27.716125 ; Summary        ; Information ;    FIO4 => 0 (1)                                    2.54 ms  Inconclusive
+2022-07-19 16:38:27.716125 ; Summary        ; Information ;    FIO2 => 0 (1)                                    4.22 ms  Inconclusive
+2022-07-19 16:38:27.716125 ; Summary        ; Information ;    EIO6 => 0 (1)                                    6.12 ms  Inconclusive
+2022-07-19 16:38:27.716125 ; Summary        ; Information ; --------------------------------------------------------------------------
+2022-07-19 16:38:27.716125 ; Summary        ; Information ; ------------ Test plan completed with verdict Fail in 48.2 ms ------------
+2022-07-19 16:38:27.723107 ; Labjack        ; Information ; Resource "Labjack" closed. [1.70 us]
+2022-07-19 16:38:28.678568 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:38:28.678568 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:38:28, 14 of 14 TestSteps enabled.
+2022-07-19 16:38:28.686547 ; TestPlan       ; Debug       ; Saved Test Plan XML [7.12 ms]
+2022-07-19 16:38:28.695511 ; Labjack        ; Information ; Resource "Labjack" opened. [15.1 ms]
+2022-07-19 16:38:28.699501 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PrePlanRun completed. [94.5 us]
+2022-07-19 16:38:28.699501 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PrePlanRun completed. [57.2 us]
+2022-07-19 16:38:28.699501 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PrePlanRun completed. [43.2 us]
+2022-07-19 16:38:28.699501 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PrePlanRun completed. [33.4 us]
+2022-07-19 16:38:28.699501 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PrePlanRun completed. [44.9 us]
+2022-07-19 16:38:28.699501 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PrePlanRun completed. [29.8 us]
+2022-07-19 16:38:28.699501 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PrePlanRun completed. [37.9 us]
+2022-07-19 16:38:28.699501 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0 (1)" PrePlanRun completed. [30.0 us]
+2022-07-19 16:38:28.699501 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 (1)" PrePlanRun completed. [36.8 us]
+2022-07-19 16:38:28.699501 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0 (1)" PrePlanRun completed. [38.2 us]
+2022-07-19 16:38:28.699501 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [482 us]
+2022-07-19 16:38:28.699501 ; TestPlan       ; Information ; "UIT" started.
+2022-07-19 16:38:28.699501 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:38:28.699501 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" started.
+2022-07-19 16:38:28.699501 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" started.
+2022-07-19 16:38:28.699501 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" started.
+2022-07-19 16:38:28.701496 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:38:28.701496 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" completed with verdict 'Inconclusive'. [1.98 ms]
+2022-07-19 16:38:28.703489 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:38:28.703489 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" completed with verdict 'Inconclusive'. [3.60 ms]
+2022-07-19 16:38:28.704488 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:38:28.705487 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" completed with verdict 'Inconclusive'. [5.40 ms]
+2022-07-19 16:38:28.705487 ; TestPlan       ; Information ; "UIT" completed with verdict 'Inconclusive'. [5.83 ms]
+2022-07-19 16:38:28.705487 ; TestPlan       ; Information ; "AAN" started.
+2022-07-19 16:38:28.705487 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" started.
+2022-07-19 16:38:28.707481 ; TestStep       ; Information ; FIO6set to: High
+2022-07-19 16:38:28.708478 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" completed with verdict 'Inconclusive'. [2.26 ms]
+2022-07-19 16:38:28.708478 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" started.
+2022-07-19 16:38:28.710472 ; TestStep       ; Information ; FIO4set to: High
+2022-07-19 16:38:28.710472 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" completed with verdict 'Inconclusive'. [1.88 ms]
+2022-07-19 16:38:28.710472 ; TestPlan       ; Information ; "AAN" completed with verdict 'Inconclusive'. [4.56 ms]
+2022-07-19 16:38:28.710472 ; TestPlan       ; Information ; "Meten" started.
+2022-07-19 16:38:28.710472 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" started.
+2022-07-19 16:38:28.713465 ; TestStep       ; Information ; AIN1measured: 0.000616132281720638
+2022-07-19 16:38:28.713465 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" completed with verdict 'Fail'. [2.89 ms]
+2022-07-19 16:38:28.713465 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" started.
+2022-07-19 16:38:28.716459 ; TestStep       ; Information ; AIN8measured: -0.000882144318893552
+2022-07-19 16:38:28.716459 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" completed with verdict 'Fail'. [2.91 ms]
+2022-07-19 16:38:28.716459 ; TestPlan       ; Information ; "Meten" completed with verdict 'Fail'. [6.13 ms]
+2022-07-19 16:38:28.716459 ; TestPlan       ; Information ; "UIT (1)" started.
+2022-07-19 16:38:28.716459 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:38:28.716459 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 (1)" started.
+2022-07-19 16:38:28.716459 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0 (1)" started.
+2022-07-19 16:38:28.716459 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0 (1)" started.
+2022-07-19 16:38:28.718453 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:38:28.719453 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0 (1)" completed with verdict 'Inconclusive'. [2.25 ms]
+2022-07-19 16:38:28.721446 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:38:28.721446 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 (1)" completed with verdict 'Inconclusive'. [4.76 ms]
+2022-07-19 16:38:28.724438 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:38:28.724438 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0 (1)" completed with verdict 'Inconclusive'. [7.94 ms]
+2022-07-19 16:38:28.725433 ; TestPlan       ; Information ; "UIT (1)" completed with verdict 'Inconclusive'. [8.39 ms]
+2022-07-19 16:38:28.725433 ; TestPlan       ; Debug       ; Test step runs finished. [25.3 ms]
+2022-07-19 16:38:28.725433 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0 (1)" PostPlanRun completed. [576 us]
+2022-07-19 16:38:28.725433 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 (1)" PostPlanRun completed. [21.1 us]
+2022-07-19 16:38:28.725433 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0 (1)" PostPlanRun completed. [12.3 us]
+2022-07-19 16:38:28.725433 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PostPlanRun completed. [14.8 us]
+2022-07-19 16:38:28.725433 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PostPlanRun completed. [14.5 us]
+2022-07-19 16:38:28.725433 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PostPlanRun completed. [15.0 us]
+2022-07-19 16:38:28.725433 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PostPlanRun completed. [7.10 us]
+2022-07-19 16:38:28.725433 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PostPlanRun completed. [7.80 us]
+2022-07-19 16:38:28.725433 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PostPlanRun completed. [11.9 us]
+2022-07-19 16:38:28.725433 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PostPlanRun completed. [12.0 us]
+2022-07-19 16:38:28.726430 ; Summary        ; Information ; ------------ Summary of test plan started 07/19/2022 16:38:28 ------------
+2022-07-19 16:38:28.726430 ; Summary        ; Information ;  UIT                                                5.83 ms  Inconclusive
+2022-07-19 16:38:28.726430 ; Summary        ; Information ;    EIO6 => 0                                        5.40 ms  Inconclusive
+2022-07-19 16:38:28.726430 ; Summary        ; Information ;    FIO4 => 0                                        3.60 ms  Inconclusive
+2022-07-19 16:38:28.726430 ; Summary        ; Information ;    FIO2 => 0                                        1.98 ms  Inconclusive
+2022-07-19 16:38:28.726430 ; Summary        ; Information ;  AAN                                                4.56 ms  Inconclusive
+2022-07-19 16:38:28.726430 ; Summary        ; Information ;    FIO6 => 1 (1)                                    2.26 ms  Inconclusive
+2022-07-19 16:38:28.726430 ; Summary        ; Information ;    FIO4 => 1 (1)                                    1.88 ms  Inconclusive
+2022-07-19 16:38:28.726430 ; Summary        ; Information ;  Meten                                              6.13 ms  Fail   
+2022-07-19 16:38:28.726430 ; Summary        ; Information ;    3V3 AIN1                                         2.89 ms  Fail   
+2022-07-19 16:38:28.726430 ; Summary        ; Information ;    48V ANIN8                                        2.91 ms  Fail   
+2022-07-19 16:38:28.726430 ; Summary        ; Information ;  UIT (1)                                            8.39 ms  Inconclusive
+2022-07-19 16:38:28.726430 ; Summary        ; Information ;    FIO4 => 0 (1)                                    4.76 ms  Inconclusive
+2022-07-19 16:38:28.726430 ; Summary        ; Information ;    FIO2 => 0 (1)                                    2.25 ms  Inconclusive
+2022-07-19 16:38:28.726430 ; Summary        ; Information ;    EIO6 => 0 (1)                                    7.94 ms  Inconclusive
+2022-07-19 16:38:28.726430 ; Summary        ; Information ; --------------------------------------------------------------------------
+2022-07-19 16:38:28.726430 ; Summary        ; Information ; ------------ Test plan completed with verdict Fail in 46.3 ms ------------
+2022-07-19 16:38:28.732415 ; Labjack        ; Information ; Resource "Labjack" closed. [1.30 us]
+2022-07-19 16:38:31.722396 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:38:31.723393 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:38:31, 14 of 14 TestSteps enabled.
+2022-07-19 16:38:31.739351 ; TestPlan       ; Debug       ; Saved Test Plan XML [15.6 ms]
+2022-07-19 16:38:31.768271 ; Labjack        ; Information ; Resource "Labjack" opened. [34.7 ms]
+2022-07-19 16:38:31.768271 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PrePlanRun completed. [87.1 us]
+2022-07-19 16:38:31.768271 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PrePlanRun completed. [97.9 us]
+2022-07-19 16:38:31.768271 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PrePlanRun completed. [65.1 us]
+2022-07-19 16:38:31.769269 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PrePlanRun completed. [72.6 us]
+2022-07-19 16:38:31.769269 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PrePlanRun completed. [68.7 us]
+2022-07-19 16:38:31.769269 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PrePlanRun completed. [46.7 us]
+2022-07-19 16:38:31.769269 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PrePlanRun completed. [56.6 us]
+2022-07-19 16:38:31.769269 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0 (1)" PrePlanRun completed. [51.2 us]
+2022-07-19 16:38:31.769269 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 (1)" PrePlanRun completed. [48.6 us]
+2022-07-19 16:38:31.769269 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0 (1)" PrePlanRun completed. [34.6 us]
+2022-07-19 16:38:31.769269 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [679 us]
+2022-07-19 16:38:31.769269 ; TestPlan       ; Information ; "UIT" started.
+2022-07-19 16:38:31.769269 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:38:31.769269 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" started.
+2022-07-19 16:38:31.769269 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" started.
+2022-07-19 16:38:31.769269 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" started.
+2022-07-19 16:38:31.771703 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:38:31.771703 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" completed with verdict 'Inconclusive'. [2.31 ms]
+2022-07-19 16:38:31.773260 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:38:31.773260 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" completed with verdict 'Inconclusive'. [4.14 ms]
+2022-07-19 16:38:31.775253 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:38:31.775253 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" completed with verdict 'Inconclusive'. [5.75 ms]
+2022-07-19 16:38:31.775253 ; TestPlan       ; Information ; "UIT" completed with verdict 'Inconclusive'. [6.02 ms]
+2022-07-19 16:38:31.775253 ; TestPlan       ; Information ; "AAN" started.
+2022-07-19 16:38:31.775253 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" started.
+2022-07-19 16:38:31.777247 ; TestStep       ; Information ; FIO6set to: High
+2022-07-19 16:38:31.777247 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" completed with verdict 'Inconclusive'. [2.00 ms]
+2022-07-19 16:38:31.777247 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" started.
+2022-07-19 16:38:31.779244 ; TestStep       ; Information ; FIO4set to: High
+2022-07-19 16:38:31.779244 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" completed with verdict 'Inconclusive'. [2.10 ms]
+2022-07-19 16:38:31.780239 ; TestPlan       ; Information ; "AAN" completed with verdict 'Inconclusive'. [4.47 ms]
+2022-07-19 16:38:31.780239 ; TestPlan       ; Information ; "Meten" started.
+2022-07-19 16:38:31.780239 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" started.
+2022-07-19 16:38:31.782234 ; TestStep       ; Information ; AIN1measured: 0.000379537494154647
+2022-07-19 16:38:31.783232 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" completed with verdict 'Fail'. [2.85 ms]
+2022-07-19 16:38:31.783232 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" started.
+2022-07-19 16:38:31.786228 ; TestStep       ; Information ; AIN8measured: -0.000960995210334659
+2022-07-19 16:38:31.786228 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" completed with verdict 'Fail'. [3.03 ms]
+2022-07-19 16:38:31.786228 ; TestPlan       ; Information ; "Meten" completed with verdict 'Fail'. [6.29 ms]
+2022-07-19 16:38:31.786228 ; TestPlan       ; Information ; "UIT (1)" started.
+2022-07-19 16:38:31.786228 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:38:31.786228 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0 (1)" started.
+2022-07-19 16:38:31.786228 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 (1)" started.
+2022-07-19 16:38:31.786228 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0 (1)" started.
+2022-07-19 16:38:31.788517 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:38:31.788517 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0 (1)" completed with verdict 'Inconclusive'. [2.17 ms]
+2022-07-19 16:38:31.790228 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:38:31.790228 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0 (1)" completed with verdict 'Inconclusive'. [3.96 ms]
+2022-07-19 16:38:31.792208 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:38:31.792208 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 (1)" completed with verdict 'Inconclusive'. [5.73 ms]
+2022-07-19 16:38:31.792208 ; TestPlan       ; Information ; "UIT (1)" completed with verdict 'Inconclusive'. [5.95 ms]
+2022-07-19 16:38:31.792208 ; TestPlan       ; Debug       ; Test step runs finished. [23.0 ms]
+2022-07-19 16:38:31.792208 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0 (1)" PostPlanRun completed. [182 us]
+2022-07-19 16:38:31.792208 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 (1)" PostPlanRun completed. [6.30 us]
+2022-07-19 16:38:31.792208 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0 (1)" PostPlanRun completed. [7.50 us]
+2022-07-19 16:38:31.792208 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PostPlanRun completed. [4.90 us]
+2022-07-19 16:38:31.792208 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PostPlanRun completed. [6.80 us]
+2022-07-19 16:38:31.792208 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PostPlanRun completed. [6.90 us]
+2022-07-19 16:38:31.792208 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PostPlanRun completed. [6.70 us]
+2022-07-19 16:38:31.792208 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PostPlanRun completed. [6.90 us]
+2022-07-19 16:38:31.792208 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PostPlanRun completed. [7.60 us]
+2022-07-19 16:38:31.792208 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PostPlanRun completed. [11.5 us]
+2022-07-19 16:38:31.792208 ; Summary        ; Information ; ------------ Summary of test plan started 07/19/2022 16:38:31 ------------
+2022-07-19 16:38:31.792208 ; Summary        ; Information ;  UIT                                                6.02 ms  Inconclusive
+2022-07-19 16:38:31.792208 ; Summary        ; Information ;    FIO2 => 0                                        2.31 ms  Inconclusive
+2022-07-19 16:38:31.792208 ; Summary        ; Information ;    FIO4 => 0                                        4.14 ms  Inconclusive
+2022-07-19 16:38:31.792208 ; Summary        ; Information ;    EIO6 => 0                                        5.75 ms  Inconclusive
+2022-07-19 16:38:31.792208 ; Summary        ; Information ;  AAN                                                4.47 ms  Inconclusive
+2022-07-19 16:38:31.792208 ; Summary        ; Information ;    FIO6 => 1 (1)                                    2.00 ms  Inconclusive
+2022-07-19 16:38:31.792208 ; Summary        ; Information ;    FIO4 => 1 (1)                                    2.10 ms  Inconclusive
+2022-07-19 16:38:31.792208 ; Summary        ; Information ;  Meten                                              6.29 ms  Fail   
+2022-07-19 16:38:31.792208 ; Summary        ; Information ;    3V3 AIN1                                         2.85 ms  Fail   
+2022-07-19 16:38:31.792208 ; Summary        ; Information ;    48V ANIN8                                        3.03 ms  Fail   
+2022-07-19 16:38:31.792208 ; Summary        ; Information ;  UIT (1)                                            5.95 ms  Inconclusive
+2022-07-19 16:38:31.792208 ; Summary        ; Information ;    EIO6 => 0 (1)                                    3.96 ms  Inconclusive
+2022-07-19 16:38:31.792208 ; Summary        ; Information ;    FIO4 => 0 (1)                                    5.73 ms  Inconclusive
+2022-07-19 16:38:31.792208 ; Summary        ; Information ;    FIO2 => 0 (1)                                    2.17 ms  Inconclusive
+2022-07-19 16:38:31.792208 ; Summary        ; Information ; --------------------------------------------------------------------------
+2022-07-19 16:38:31.793206 ; Summary        ; Information ; ------------ Test plan completed with verdict Fail in 60.4 ms ------------
+2022-07-19 16:38:31.799189 ; Labjack        ; Information ; Resource "Labjack" closed. [900 ns]
+2022-07-19 16:38:47.608971 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:38:47.608971 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:38:47, 14 of 14 TestSteps enabled.
+2022-07-19 16:38:47.613960 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.85 ms]
+2022-07-19 16:38:47.633906 ; Labjack        ; Information ; Resource "Labjack" opened. [23.2 ms]
+2022-07-19 16:38:47.648868 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PrePlanRun completed. [168 us]
+2022-07-19 16:38:47.648868 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PrePlanRun completed. [103 us]
+2022-07-19 16:38:47.648868 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PrePlanRun completed. [40.3 us]
+2022-07-19 16:38:47.648868 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PrePlanRun completed. [30.5 us]
+2022-07-19 16:38:47.648868 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PrePlanRun completed. [50.3 us]
+2022-07-19 16:38:47.648868 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PrePlanRun completed. [27.2 us]
+2022-07-19 16:38:47.648868 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PrePlanRun completed. [35.0 us]
+2022-07-19 16:38:47.648868 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0 (1)" PrePlanRun completed. [35.6 us]
+2022-07-19 16:38:47.649864 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 (1)" PrePlanRun completed. [52.7 us]
+2022-07-19 16:38:47.649864 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0 (1)" PrePlanRun completed. [30.6 us]
+2022-07-19 16:38:47.649864 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [626 us]
+2022-07-19 16:38:47.649864 ; TestPlan       ; Information ; "UIT" started.
+2022-07-19 16:38:47.649864 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:38:47.649864 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" started.
+2022-07-19 16:38:47.649864 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" started.
+2022-07-19 16:38:47.649864 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" started.
+2022-07-19 16:38:47.655848 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:38:47.655848 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" completed with verdict 'Inconclusive'. [6.02 ms]
+2022-07-19 16:38:47.657842 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:38:47.657842 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" completed with verdict 'Inconclusive'. [8.13 ms]
+2022-07-19 16:38:47.659837 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:38:47.659837 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" completed with verdict 'Inconclusive'. [9.96 ms]
+2022-07-19 16:38:47.659837 ; TestPlan       ; Information ; "UIT" completed with verdict 'Inconclusive'. [10.2 ms]
+2022-07-19 16:38:47.659837 ; TestPlan       ; Information ; "AAN" started.
+2022-07-19 16:38:47.659837 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" started.
+2022-07-19 16:38:47.661833 ; TestStep       ; Information ; FIO6set to: High
+2022-07-19 16:38:47.661833 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" completed with verdict 'Inconclusive'. [2.10 ms]
+2022-07-19 16:38:47.661833 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" started.
+2022-07-19 16:38:47.664824 ; TestStep       ; Information ; FIO4set to: High
+2022-07-19 16:38:47.664824 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" completed with verdict 'Inconclusive'. [2.43 ms]
+2022-07-19 16:38:47.664824 ; TestPlan       ; Information ; "AAN" completed with verdict 'Inconclusive'. [4.96 ms]
+2022-07-19 16:38:47.664824 ; TestPlan       ; Information ; "Meten" started.
+2022-07-19 16:38:47.664824 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" started.
+2022-07-19 16:38:47.667819 ; TestStep       ; Information ; AIN1measured: 3.2598671913147
+2022-07-19 16:38:47.667819 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" completed with verdict 'Pass'. [3.21 ms]
+2022-07-19 16:38:47.668812 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" started.
+2022-07-19 16:38:47.671807 ; TestStep       ; Information ; AIN8measured: 0.376486420631409
+2022-07-19 16:38:47.671807 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" completed with verdict 'Fail'. [3.06 ms]
+2022-07-19 16:38:47.671807 ; TestPlan       ; Information ; "Meten" completed with verdict 'Fail'. [6.55 ms]
+2022-07-19 16:38:47.671807 ; TestPlan       ; Information ; "UIT (1)" started.
+2022-07-19 16:38:47.671807 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:38:47.671807 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0 (1)" started.
+2022-07-19 16:38:47.671807 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0 (1)" started.
+2022-07-19 16:38:47.671807 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 (1)" started.
+2022-07-19 16:38:47.678787 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:38:47.678787 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0 (1)" completed with verdict 'Inconclusive'. [6.75 ms]
+2022-07-19 16:38:47.680114 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:38:47.680114 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0 (1)" completed with verdict 'Inconclusive'. [8.51 ms]
+2022-07-19 16:38:47.682282 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:38:47.682282 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 (1)" completed with verdict 'Inconclusive'. [10.8 ms]
+2022-07-19 16:38:47.683111 ; TestPlan       ; Information ; "UIT (1)" completed with verdict 'Inconclusive'. [11.0 ms]
+2022-07-19 16:38:47.683111 ; TestPlan       ; Debug       ; Test step runs finished. [33.2 ms]
+2022-07-19 16:38:47.683111 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0 (1)" PostPlanRun completed. [304 us]
+2022-07-19 16:38:47.683111 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 (1)" PostPlanRun completed. [10.8 us]
+2022-07-19 16:38:47.683111 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0 (1)" PostPlanRun completed. [6.70 us]
+2022-07-19 16:38:47.683111 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PostPlanRun completed. [5.00 us]
+2022-07-19 16:38:47.683111 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PostPlanRun completed. [12.4 us]
+2022-07-19 16:38:47.683111 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PostPlanRun completed. [7.50 us]
+2022-07-19 16:38:47.683111 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PostPlanRun completed. [2.80 us]
+2022-07-19 16:38:47.683111 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PostPlanRun completed. [6.70 us]
+2022-07-19 16:38:47.683111 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PostPlanRun completed. [4.20 us]
+2022-07-19 16:38:47.683111 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PostPlanRun completed. [5.30 us]
+2022-07-19 16:38:47.683111 ; Summary        ; Information ; ------------ Summary of test plan started 07/19/2022 16:38:47 ------------
+2022-07-19 16:38:47.683111 ; Summary        ; Information ;  UIT                                                10.2 ms  Inconclusive
+2022-07-19 16:38:47.683111 ; Summary        ; Information ;    FIO2 => 0                                        8.13 ms  Inconclusive
+2022-07-19 16:38:47.683111 ; Summary        ; Information ;    EIO6 => 0                                        6.02 ms  Inconclusive
+2022-07-19 16:38:47.683111 ; Summary        ; Information ;    FIO4 => 0                                        9.96 ms  Inconclusive
+2022-07-19 16:38:47.683111 ; Summary        ; Information ;  AAN                                                4.96 ms  Inconclusive
+2022-07-19 16:38:47.683111 ; Summary        ; Information ;    FIO6 => 1 (1)                                    2.10 ms  Inconclusive
+2022-07-19 16:38:47.683111 ; Summary        ; Information ;    FIO4 => 1 (1)                                    2.43 ms  Inconclusive
+2022-07-19 16:38:47.683111 ; Summary        ; Information ;  Meten                                              6.55 ms  Fail   
+2022-07-19 16:38:47.683111 ; Summary        ; Information ;    3V3 AIN1                                         3.21 ms  Pass   
+2022-07-19 16:38:47.683111 ; Summary        ; Information ;    48V ANIN8                                        3.06 ms  Fail   
+2022-07-19 16:38:47.683111 ; Summary        ; Information ;  UIT (1)                                            11.0 ms  Inconclusive
+2022-07-19 16:38:47.683111 ; Summary        ; Information ;    EIO6 => 0 (1)                                    8.51 ms  Inconclusive
+2022-07-19 16:38:47.683111 ; Summary        ; Information ;    FIO2 => 0 (1)                                    6.75 ms  Inconclusive
+2022-07-19 16:38:47.683111 ; Summary        ; Information ;    FIO4 => 0 (1)                                    10.8 ms  Inconclusive
+2022-07-19 16:38:47.683111 ; Summary        ; Information ; --------------------------------------------------------------------------
+2022-07-19 16:38:47.683111 ; Summary        ; Information ; ------------ Test plan completed with verdict Fail in 73.5 ms ------------
+2022-07-19 16:38:47.690092 ; Labjack        ; Information ; Resource "Labjack" closed. [1.20 us]
+2022-07-19 16:40:30.979616 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:40:30.979616 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:40:30, 14 of 14 TestSteps enabled.
+2022-07-19 16:40:30.985568 ; TestPlan       ; Debug       ; Saved Test Plan XML [5.54 ms]
+2022-07-19 16:40:30.998535 ; Labjack        ; Information ; Resource "Labjack" opened. [17.0 ms]
+2022-07-19 16:40:31.000528 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PrePlanRun completed. [137 us]
+2022-07-19 16:40:31.000528 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PrePlanRun completed. [75.5 us]
+2022-07-19 16:40:31.000528 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PrePlanRun completed. [39.1 us]
+2022-07-19 16:40:31.000528 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PrePlanRun completed. [36.5 us]
+2022-07-19 16:40:31.000528 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PrePlanRun completed. [29.7 us]
+2022-07-19 16:40:31.001526 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PrePlanRun completed. [26.7 us]
+2022-07-19 16:40:31.001526 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PrePlanRun completed. [32.5 us]
+2022-07-19 16:40:31.001526 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0 (1)" PrePlanRun completed. [32.5 us]
+2022-07-19 16:40:31.001526 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 (1)" PrePlanRun completed. [29.7 us]
+2022-07-19 16:40:31.001526 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0 (1)" PrePlanRun completed. [29.3 us]
+2022-07-19 16:40:31.001526 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [512 us]
+2022-07-19 16:40:31.001526 ; TestPlan       ; Information ; "UIT" started.
+2022-07-19 16:40:31.001526 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:40:31.001526 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" started.
+2022-07-19 16:40:31.001526 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" started.
+2022-07-19 16:40:31.001526 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" started.
+2022-07-19 16:40:31.003529 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:40:31.003529 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" completed with verdict 'Inconclusive'. [2.54 ms]
+2022-07-19 16:40:31.005514 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:40:31.005514 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" completed with verdict 'Inconclusive'. [4.35 ms]
+2022-07-19 16:40:31.007510 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:40:31.007510 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" completed with verdict 'Inconclusive'. [6.09 ms]
+2022-07-19 16:40:31.007510 ; TestPlan       ; Information ; "UIT" completed with verdict 'Inconclusive'. [6.34 ms]
+2022-07-19 16:40:31.007510 ; TestPlan       ; Information ; "AAN" started.
+2022-07-19 16:40:31.007510 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" started.
+2022-07-19 16:40:31.009504 ; TestStep       ; Information ; FIO6set to: Low
+2022-07-19 16:40:31.009504 ; TestPlan       ; Information ; "AAN \ FIO6 => 1 (1)" completed with verdict 'Inconclusive'. [2.06 ms]
+2022-07-19 16:40:31.009504 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" started.
+2022-07-19 16:40:31.011498 ; TestStep       ; Information ; FIO4set to: High
+2022-07-19 16:40:31.012497 ; TestPlan       ; Information ; "AAN \ FIO4 => 1 (1)" completed with verdict 'Inconclusive'. [2.02 ms]
+2022-07-19 16:40:31.012497 ; TestPlan       ; Information ; "AAN" completed with verdict 'Inconclusive'. [4.45 ms]
+2022-07-19 16:40:31.012497 ; TestPlan       ; Information ; "Meten" started.
+2022-07-19 16:40:31.012497 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" started.
+2022-07-19 16:40:31.015488 ; TestStep       ; Information ; AIN1measured: 3.26191782951355
+2022-07-19 16:40:31.015488 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" completed with verdict 'Pass'. [2.88 ms]
+2022-07-19 16:40:31.015488 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" started.
+2022-07-19 16:40:31.018480 ; TestStep       ; Information ; AIN8measured: 0.670573770999908
+2022-07-19 16:40:31.018480 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" completed with verdict 'Fail'. [3.09 ms]
+2022-07-19 16:40:31.018480 ; TestPlan       ; Information ; "Meten" completed with verdict 'Fail'. [6.22 ms]
+2022-07-19 16:40:31.018480 ; TestPlan       ; Information ; "UIT (1)" started.
+2022-07-19 16:40:31.018480 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:40:31.018480 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0 (1)" started.
+2022-07-19 16:40:31.018480 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0 (1)" started.
+2022-07-19 16:40:31.018480 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 (1)" started.
+2022-07-19 16:40:31.020475 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:40:31.020475 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0 (1)" completed with verdict 'Inconclusive'. [2.09 ms]
+2022-07-19 16:40:31.022471 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:40:31.022471 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0 (1)" completed with verdict 'Inconclusive'. [4.31 ms]
+2022-07-19 16:40:31.024464 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:40:31.024464 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 (1)" completed with verdict 'Inconclusive'. [6.16 ms]
+2022-07-19 16:40:31.024464 ; TestPlan       ; Information ; "UIT (1)" completed with verdict 'Inconclusive'. [6.42 ms]
+2022-07-19 16:40:31.024464 ; TestPlan       ; Debug       ; Test step runs finished. [23.7 ms]
+2022-07-19 16:40:31.025462 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0 (1)" PostPlanRun completed. [218 us]
+2022-07-19 16:40:31.025462 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 (1)" PostPlanRun completed. [4.50 us]
+2022-07-19 16:40:31.025462 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0 (1)" PostPlanRun completed. [2.40 us]
+2022-07-19 16:40:31.025462 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PostPlanRun completed. [2.80 us]
+2022-07-19 16:40:31.025462 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PostPlanRun completed. [2.10 us]
+2022-07-19 16:40:31.025462 ; TestPlan       ; Debug       ; "AAN \ FIO4 => 1 (1)" PostPlanRun completed. [2.40 us]
+2022-07-19 16:40:31.025462 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 1 (1)" PostPlanRun completed. [2.70 us]
+2022-07-19 16:40:31.025462 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PostPlanRun completed. [6.10 us]
+2022-07-19 16:40:31.025462 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PostPlanRun completed. [2.50 us]
+2022-07-19 16:40:31.025462 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PostPlanRun completed. [2.29 us]
+2022-07-19 16:40:31.025462 ; Summary        ; Information ; ------------ Summary of test plan started 07/19/2022 16:40:30 ------------
+2022-07-19 16:40:31.025462 ; Summary        ; Information ;  UIT                                                6.34 ms  Inconclusive
+2022-07-19 16:40:31.025462 ; Summary        ; Information ;    FIO2 => 0                                        6.09 ms  Inconclusive
+2022-07-19 16:40:31.025462 ; Summary        ; Information ;    EIO6 => 0                                        4.35 ms  Inconclusive
+2022-07-19 16:40:31.025462 ; Summary        ; Information ;    FIO4 => 0                                        2.54 ms  Inconclusive
+2022-07-19 16:40:31.025462 ; Summary        ; Information ;  AAN                                                4.45 ms  Inconclusive
+2022-07-19 16:40:31.025462 ; Summary        ; Information ;    FIO6 => 1 (1)                                    2.06 ms  Inconclusive
+2022-07-19 16:40:31.025462 ; Summary        ; Information ;    FIO4 => 1 (1)                                    2.02 ms  Inconclusive
+2022-07-19 16:40:31.025462 ; Summary        ; Information ;  Meten                                              6.22 ms  Fail   
+2022-07-19 16:40:31.025462 ; Summary        ; Information ;    3V3 AIN1                                         2.88 ms  Pass   
+2022-07-19 16:40:31.025462 ; Summary        ; Information ;    48V ANIN8                                        3.09 ms  Fail   
+2022-07-19 16:40:31.025462 ; Summary        ; Information ;  UIT (1)                                            6.42 ms  Inconclusive
+2022-07-19 16:40:31.025462 ; Summary        ; Information ;    EIO6 => 0 (1)                                    4.31 ms  Inconclusive
+2022-07-19 16:40:31.025462 ; Summary        ; Information ;    FIO2 => 0 (1)                                    2.09 ms  Inconclusive
+2022-07-19 16:40:31.025462 ; Summary        ; Information ;    FIO4 => 0 (1)                                    6.16 ms  Inconclusive
+2022-07-19 16:40:31.025462 ; Summary        ; Information ; --------------------------------------------------------------------------
+2022-07-19 16:40:31.025462 ; Summary        ; Information ; ------------ Test plan completed with verdict Fail in 45.3 ms ------------
+2022-07-19 16:40:31.031446 ; Labjack        ; Information ; Resource "Labjack" closed. [1.20 us]
+2022-07-19 16:41:09.058589 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:41:09.058589 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:41:09, 14 of 14 TestSteps enabled.
+2022-07-19 16:41:09.105599 ; TestPlan       ; Debug       ; Saved Test Plan XML [5.35 ms]
+2022-07-19 16:41:09.126545 ; Labjack        ; Information ; Resource "Labjack" opened. [24.9 ms]
+2022-07-19 16:41:09.127540 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PrePlanRun completed. [142 us]
+2022-07-19 16:41:09.127540 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PrePlanRun completed. [68.0 us]
+2022-07-19 16:41:09.127540 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PrePlanRun completed. [36.1 us]
+2022-07-19 16:41:09.127540 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 0" PrePlanRun completed. [38.8 us]
+2022-07-19 16:41:09.127540 ; TestPlan       ; Debug       ; "AAN \ FIO2 => 1" PrePlanRun completed. [50.0 us]
+2022-07-19 16:41:09.127540 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PrePlanRun completed. [40.1 us]
+2022-07-19 16:41:09.127540 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PrePlanRun completed. [48.9 us]
+2022-07-19 16:41:09.127540 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0" PrePlanRun completed. [29.7 us]
+2022-07-19 16:41:09.127540 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 " PrePlanRun completed. [44.9 us]
+2022-07-19 16:41:09.127540 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0" PrePlanRun completed. [45.2 us]
+2022-07-19 16:41:09.127540 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [587 us]
+2022-07-19 16:41:09.127540 ; TestPlan       ; Information ; "UIT" started.
+2022-07-19 16:41:09.127540 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:41:09.127540 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" started.
+2022-07-19 16:41:09.127540 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" started.
+2022-07-19 16:41:09.127540 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" started.
+2022-07-19 16:41:09.136519 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:41:09.136519 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" completed with verdict 'Inconclusive'. [8.96 ms]
+2022-07-19 16:41:09.140506 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:41:09.140506 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" completed with verdict 'Inconclusive'. [12.3 ms]
+2022-07-19 16:41:09.143499 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:41:09.144496 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" completed with verdict 'Inconclusive'. [16.1 ms]
+2022-07-19 16:41:09.144496 ; TestPlan       ; Information ; "UIT" completed with verdict 'Inconclusive'. [16.4 ms]
+2022-07-19 16:41:09.144496 ; TestPlan       ; Information ; "AAN" started.
+2022-07-19 16:41:09.144496 ; TestPlan       ; Information ; "AAN \ FIO6 => 0" started.
+2022-07-19 16:41:09.148485 ; TestStep       ; Information ; FIO6set to: Low
+2022-07-19 16:41:09.148485 ; TestPlan       ; Information ; "AAN \ FIO6 => 0" completed with verdict 'Inconclusive'. [3.87 ms]
+2022-07-19 16:41:09.148485 ; TestPlan       ; Information ; "AAN \ FIO2 => 1" started.
+2022-07-19 16:41:09.151490 ; TestStep       ; Information ; FIO2set to: High
+2022-07-19 16:41:09.151490 ; TestPlan       ; Information ; "AAN \ FIO2 => 1" completed with verdict 'Inconclusive'. [2.89 ms]
+2022-07-19 16:41:09.151490 ; TestPlan       ; Information ; "AAN" completed with verdict 'Inconclusive'. [7.12 ms]
+2022-07-19 16:41:09.151490 ; TestPlan       ; Information ; "Meten" started.
+2022-07-19 16:41:09.151490 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" started.
+2022-07-19 16:41:09.154470 ; TestStep       ; Information ; AIN1measured: 2.61814332008362
+2022-07-19 16:41:09.154470 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" completed with verdict 'Fail'. [3.33 ms]
+2022-07-19 16:41:09.155466 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" started.
+2022-07-19 16:41:09.158458 ; TestStep       ; Information ; AIN8measured: 3.54488515853882
+2022-07-19 16:41:09.158458 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" completed with verdict 'Pass'. [3.45 ms]
+2022-07-19 16:41:09.158458 ; TestPlan       ; Information ; "Meten" completed with verdict 'Fail'. [6.99 ms]
+2022-07-19 16:41:09.158458 ; TestPlan       ; Information ; "UIT (1)" started.
+2022-07-19 16:41:09.158458 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:41:09.158458 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0" started.
+2022-07-19 16:41:09.158458 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 " started.
+2022-07-19 16:41:09.158458 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0" started.
+2022-07-19 16:41:09.160454 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:41:09.160454 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0" completed with verdict 'Inconclusive'. [2.09 ms]
+2022-07-19 16:41:09.162448 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:41:09.163446 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 " completed with verdict 'Inconclusive'. [4.32 ms]
+2022-07-19 16:41:09.165451 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:41:09.165451 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0" completed with verdict 'Inconclusive'. [6.33 ms]
+2022-07-19 16:41:09.165451 ; TestPlan       ; Information ; "UIT (1)" completed with verdict 'Inconclusive'. [6.67 ms]
+2022-07-19 16:41:09.165451 ; TestPlan       ; Debug       ; Test step runs finished. [37.5 ms]
+2022-07-19 16:41:09.165451 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0" PostPlanRun completed. [247 us]
+2022-07-19 16:41:09.165451 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 " PostPlanRun completed. [4.90 us]
+2022-07-19 16:41:09.165451 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0" PostPlanRun completed. [2.50 us]
+2022-07-19 16:41:09.165451 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PostPlanRun completed. [4.30 us]
+2022-07-19 16:41:09.165451 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PostPlanRun completed. [11.4 us]
+2022-07-19 16:41:09.165451 ; TestPlan       ; Debug       ; "AAN \ FIO2 => 1" PostPlanRun completed. [12.7 us]
+2022-07-19 16:41:09.165451 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 0" PostPlanRun completed. [7.40 us]
+2022-07-19 16:41:09.165451 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PostPlanRun completed. [12.0 us]
+2022-07-19 16:41:09.165451 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PostPlanRun completed. [5.40 us]
+2022-07-19 16:41:09.165451 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PostPlanRun completed. [2.40 us]
+2022-07-19 16:41:09.165451 ; Summary        ; Information ; ------------ Summary of test plan started 07/19/2022 16:41:09 ------------
+2022-07-19 16:41:09.165451 ; Summary        ; Information ;  UIT                                                16.4 ms  Inconclusive
+2022-07-19 16:41:09.165451 ; Summary        ; Information ;    FIO4 => 0                                        8.96 ms  Inconclusive
+2022-07-19 16:41:09.165451 ; Summary        ; Information ;    EIO6 => 0                                        16.1 ms  Inconclusive
+2022-07-19 16:41:09.165451 ; Summary        ; Information ;    FIO2 => 0                                        12.3 ms  Inconclusive
+2022-07-19 16:41:09.165451 ; Summary        ; Information ;  AAN                                                7.12 ms  Inconclusive
+2022-07-19 16:41:09.165451 ; Summary        ; Information ;    FIO6 => 0                                        3.87 ms  Inconclusive
+2022-07-19 16:41:09.165451 ; Summary        ; Information ;    FIO2 => 1                                        2.89 ms  Inconclusive
+2022-07-19 16:41:09.165451 ; Summary        ; Information ;  Meten                                              6.99 ms  Fail   
+2022-07-19 16:41:09.165451 ; Summary        ; Information ;    3V3 AIN1                                         3.33 ms  Fail   
+2022-07-19 16:41:09.165451 ; Summary        ; Information ;    48V ANIN8                                        3.45 ms  Pass   
+2022-07-19 16:41:09.165451 ; Summary        ; Information ;  UIT (1)                                            6.67 ms  Inconclusive
+2022-07-19 16:41:09.165451 ; Summary        ; Information ;    FIO2 => 0                                        2.09 ms  Inconclusive
+2022-07-19 16:41:09.165451 ; Summary        ; Information ;    FIO4 => 0                                        4.32 ms  Inconclusive
+2022-07-19 16:41:09.165451 ; Summary        ; Information ;    EIO6 => 0                                        6.33 ms  Inconclusive
+2022-07-19 16:41:09.165451 ; Summary        ; Information ; --------------------------------------------------------------------------
+2022-07-19 16:41:09.165451 ; Summary        ; Information ; ------------ Test plan completed with verdict Fail in 65.7 ms ------------
+2022-07-19 16:41:09.172421 ; Labjack        ; Information ; Resource "Labjack" closed. [1.60 us]
+2022-07-19 16:41:11.046375 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:41:11.047372 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:41:11, 14 of 14 TestSteps enabled.
+2022-07-19 16:41:11.052358 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.68 ms]
+2022-07-19 16:41:11.088268 ; Labjack        ; Information ; Resource "Labjack" opened. [39.1 ms]
+2022-07-19 16:41:11.088268 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PrePlanRun completed. [115 us]
+2022-07-19 16:41:11.089266 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PrePlanRun completed. [80.7 us]
+2022-07-19 16:41:11.089266 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PrePlanRun completed. [49.5 us]
+2022-07-19 16:41:11.089266 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 0" PrePlanRun completed. [32.6 us]
+2022-07-19 16:41:11.089266 ; TestPlan       ; Debug       ; "AAN \ FIO2 => 1" PrePlanRun completed. [44.6 us]
+2022-07-19 16:41:11.089266 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PrePlanRun completed. [26.0 us]
+2022-07-19 16:41:11.089266 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PrePlanRun completed. [39.4 us]
+2022-07-19 16:41:11.089266 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0" PrePlanRun completed. [18.6 us]
+2022-07-19 16:41:11.089266 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 " PrePlanRun completed. [17.9 us]
+2022-07-19 16:41:11.089266 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0" PrePlanRun completed. [22.8 us]
+2022-07-19 16:41:11.089266 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [489 us]
+2022-07-19 16:41:11.089266 ; TestPlan       ; Information ; "UIT" started.
+2022-07-19 16:41:11.089266 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:41:11.089266 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" started.
+2022-07-19 16:41:11.089266 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" started.
+2022-07-19 16:41:11.089266 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" started.
+2022-07-19 16:41:11.091256 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:41:11.091256 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" completed with verdict 'Inconclusive'. [2.05 ms]
+2022-07-19 16:41:11.093250 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:41:11.093250 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" completed with verdict 'Inconclusive'. [4.32 ms]
+2022-07-19 16:41:11.097242 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:41:11.097242 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" completed with verdict 'Inconclusive'. [7.77 ms]
+2022-07-19 16:41:11.097242 ; TestPlan       ; Information ; "UIT" completed with verdict 'Inconclusive'. [7.99 ms]
+2022-07-19 16:41:11.097242 ; TestPlan       ; Information ; "AAN" started.
+2022-07-19 16:41:11.097242 ; TestPlan       ; Information ; "AAN \ FIO6 => 0" started.
+2022-07-19 16:41:11.099234 ; TestStep       ; Information ; FIO6set to: Low
+2022-07-19 16:41:11.099234 ; TestPlan       ; Information ; "AAN \ FIO6 => 0" completed with verdict 'Inconclusive'. [1.95 ms]
+2022-07-19 16:41:11.099234 ; TestPlan       ; Information ; "AAN \ FIO2 => 1" started.
+2022-07-19 16:41:11.101229 ; TestStep       ; Information ; FIO2set to: High
+2022-07-19 16:41:11.101229 ; TestPlan       ; Information ; "AAN \ FIO2 => 1" completed with verdict 'Inconclusive'. [1.81 ms]
+2022-07-19 16:41:11.101229 ; TestPlan       ; Information ; "AAN" completed with verdict 'Inconclusive'. [4.04 ms]
+2022-07-19 16:41:11.101229 ; TestPlan       ; Information ; "Meten" started.
+2022-07-19 16:41:11.101229 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" started.
+2022-07-19 16:41:11.104221 ; TestStep       ; Information ; AIN1measured: 1.85788536071777
+2022-07-19 16:41:11.104221 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" completed with verdict 'Fail'. [2.93 ms]
+2022-07-19 16:41:11.104221 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" started.
+2022-07-19 16:41:11.107213 ; TestStep       ; Information ; AIN8measured: 3.54480624198914
+2022-07-19 16:41:11.107213 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" completed with verdict 'Pass'. [2.93 ms]
+2022-07-19 16:41:11.107213 ; TestPlan       ; Information ; "Meten" completed with verdict 'Fail'. [6.20 ms]
+2022-07-19 16:41:11.107213 ; TestPlan       ; Information ; "UIT (1)" started.
+2022-07-19 16:41:11.107213 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:41:11.108210 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0" started.
+2022-07-19 16:41:11.108210 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0" started.
+2022-07-19 16:41:11.108210 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 " started.
+2022-07-19 16:41:11.110209 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:41:11.110209 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0" completed with verdict 'Inconclusive'. [2.08 ms]
+2022-07-19 16:41:11.111203 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:41:11.111203 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 " completed with verdict 'Inconclusive'. [3.74 ms]
+2022-07-19 16:41:11.113198 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:41:11.113198 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0" completed with verdict 'Inconclusive'. [5.42 ms]
+2022-07-19 16:41:11.113198 ; TestPlan       ; Information ; "UIT (1)" completed with verdict 'Inconclusive'. [5.62 ms]
+2022-07-19 16:41:11.113198 ; TestPlan       ; Debug       ; Test step runs finished. [24.2 ms]
+2022-07-19 16:41:11.113198 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0" PostPlanRun completed. [202 us]
+2022-07-19 16:41:11.113198 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 " PostPlanRun completed. [7.70 us]
+2022-07-19 16:41:11.113198 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0" PostPlanRun completed. [4.30 us]
+2022-07-19 16:41:11.113198 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PostPlanRun completed. [4.59 us]
+2022-07-19 16:41:11.113198 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PostPlanRun completed. [4.40 us]
+2022-07-19 16:41:11.113198 ; TestPlan       ; Debug       ; "AAN \ FIO2 => 1" PostPlanRun completed. [7.10 us]
+2022-07-19 16:41:11.113198 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 0" PostPlanRun completed. [4.59 us]
+2022-07-19 16:41:11.113198 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PostPlanRun completed. [6.80 us]
+2022-07-19 16:41:11.113198 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PostPlanRun completed. [7.60 us]
+2022-07-19 16:41:11.113198 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PostPlanRun completed. [6.40 us]
+2022-07-19 16:41:11.114193 ; Summary        ; Information ; ------------ Summary of test plan started 07/19/2022 16:41:11 ------------
+2022-07-19 16:41:11.114193 ; Summary        ; Information ;  UIT                                                7.99 ms  Inconclusive
+2022-07-19 16:41:11.114193 ; Summary        ; Information ;    EIO6 => 0                                        4.32 ms  Inconclusive
+2022-07-19 16:41:11.114193 ; Summary        ; Information ;    FIO2 => 0                                        2.05 ms  Inconclusive
+2022-07-19 16:41:11.114193 ; Summary        ; Information ;    FIO4 => 0                                        7.77 ms  Inconclusive
+2022-07-19 16:41:11.114193 ; Summary        ; Information ;  AAN                                                4.04 ms  Inconclusive
+2022-07-19 16:41:11.114193 ; Summary        ; Information ;    FIO6 => 0                                        1.95 ms  Inconclusive
+2022-07-19 16:41:11.114193 ; Summary        ; Information ;    FIO2 => 1                                        1.81 ms  Inconclusive
+2022-07-19 16:41:11.114193 ; Summary        ; Information ;  Meten                                              6.20 ms  Fail   
+2022-07-19 16:41:11.114193 ; Summary        ; Information ;    3V3 AIN1                                         2.93 ms  Fail   
+2022-07-19 16:41:11.114193 ; Summary        ; Information ;    48V ANIN8                                        2.93 ms  Pass   
+2022-07-19 16:41:11.114193 ; Summary        ; Information ;  UIT (1)                                            5.62 ms  Inconclusive
+2022-07-19 16:41:11.114193 ; Summary        ; Information ;    FIO2 => 0                                        2.08 ms  Inconclusive
+2022-07-19 16:41:11.114193 ; Summary        ; Information ;    FIO4 => 0                                        3.74 ms  Inconclusive
+2022-07-19 16:41:11.114193 ; Summary        ; Information ;    EIO6 => 0                                        5.42 ms  Inconclusive
+2022-07-19 16:41:11.114193 ; Summary        ; Information ; --------------------------------------------------------------------------
+2022-07-19 16:41:11.114193 ; Summary        ; Information ; ------------ Test plan completed with verdict Fail in 66.2 ms ------------
+2022-07-19 16:41:11.120179 ; Labjack        ; Information ; Resource "Labjack" closed. [1.50 us]
+2022-07-19 16:41:12.009201 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:41:12.009201 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:41:12, 14 of 14 TestSteps enabled.
+2022-07-19 16:41:12.014191 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.11 ms]
+2022-07-19 16:41:12.050066 ; Labjack        ; Information ; Resource "Labjack" opened. [39.7 ms]
+2022-07-19 16:41:12.052060 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PrePlanRun completed. [140 us]
+2022-07-19 16:41:12.052060 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PrePlanRun completed. [54.1 us]
+2022-07-19 16:41:12.052060 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PrePlanRun completed. [36.3 us]
+2022-07-19 16:41:12.052060 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 0" PrePlanRun completed. [26.8 us]
+2022-07-19 16:41:12.052060 ; TestPlan       ; Debug       ; "AAN \ FIO2 => 1" PrePlanRun completed. [33.6 us]
+2022-07-19 16:41:12.052060 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PrePlanRun completed. [29.7 us]
+2022-07-19 16:41:12.052060 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PrePlanRun completed. [35.1 us]
+2022-07-19 16:41:12.052060 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0" PrePlanRun completed. [27.6 us]
+2022-07-19 16:41:12.052060 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 " PrePlanRun completed. [32.1 us]
+2022-07-19 16:41:12.052060 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0" PrePlanRun completed. [32.7 us]
+2022-07-19 16:41:12.052060 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [482 us]
+2022-07-19 16:41:12.052060 ; TestPlan       ; Information ; "UIT" started.
+2022-07-19 16:41:12.052060 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:41:12.052060 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" started.
+2022-07-19 16:41:12.052060 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" started.
+2022-07-19 16:41:12.052060 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" started.
+2022-07-19 16:41:12.054059 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:41:12.054059 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" completed with verdict 'Inconclusive'. [1.98 ms]
+2022-07-19 16:41:12.056078 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:41:12.056078 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" completed with verdict 'Inconclusive'. [3.90 ms]
+2022-07-19 16:41:12.058044 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:41:12.058044 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" completed with verdict 'Inconclusive'. [5.51 ms]
+2022-07-19 16:41:12.058044 ; TestPlan       ; Information ; "UIT" completed with verdict 'Inconclusive'. [5.68 ms]
+2022-07-19 16:41:12.058044 ; TestPlan       ; Information ; "AAN" started.
+2022-07-19 16:41:12.058044 ; TestPlan       ; Information ; "AAN \ FIO6 => 0" started.
+2022-07-19 16:41:12.060040 ; TestStep       ; Information ; FIO6set to: Low
+2022-07-19 16:41:12.060040 ; TestPlan       ; Information ; "AAN \ FIO6 => 0" completed with verdict 'Inconclusive'. [2.04 ms]
+2022-07-19 16:41:12.060040 ; TestPlan       ; Information ; "AAN \ FIO2 => 1" started.
+2022-07-19 16:41:12.062035 ; TestStep       ; Information ; FIO2set to: High
+2022-07-19 16:41:12.062035 ; TestPlan       ; Information ; "AAN \ FIO2 => 1" completed with verdict 'Inconclusive'. [2.27 ms]
+2022-07-19 16:41:12.062035 ; TestPlan       ; Information ; "AAN" completed with verdict 'Inconclusive'. [4.62 ms]
+2022-07-19 16:41:12.062035 ; TestPlan       ; Information ; "Meten" started.
+2022-07-19 16:41:12.062035 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" started.
+2022-07-19 16:41:12.065026 ; TestStep       ; Information ; AIN1measured: 2.00417971611023
+2022-07-19 16:41:12.065026 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" completed with verdict 'Fail'. [2.94 ms]
+2022-07-19 16:41:12.066023 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" started.
+2022-07-19 16:41:12.068348 ; TestStep       ; Information ; AIN8measured: 3.54480624198914
+2022-07-19 16:41:12.069023 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" completed with verdict 'Pass'. [3.05 ms]
+2022-07-19 16:41:12.069023 ; TestPlan       ; Information ; "Meten" completed with verdict 'Fail'. [6.38 ms]
+2022-07-19 16:41:12.069023 ; TestPlan       ; Information ; "UIT (1)" started.
+2022-07-19 16:41:12.069023 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:41:12.069023 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0" started.
+2022-07-19 16:41:12.069023 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0" started.
+2022-07-19 16:41:12.069023 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 " started.
+2022-07-19 16:41:12.071009 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:41:12.071009 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 " completed with verdict 'Inconclusive'. [2.09 ms]
+2022-07-19 16:41:12.073004 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:41:12.074003 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0" completed with verdict 'Inconclusive'. [4.57 ms]
+2022-07-19 16:41:12.075996 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:41:12.075996 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0" completed with verdict 'Inconclusive'. [7.18 ms]
+2022-07-19 16:41:12.075996 ; TestPlan       ; Information ; "UIT (1)" completed with verdict 'Inconclusive'. [7.40 ms]
+2022-07-19 16:41:12.075996 ; TestPlan       ; Debug       ; Test step runs finished. [24.3 ms]
+2022-07-19 16:41:12.076996 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0" PostPlanRun completed. [246 us]
+2022-07-19 16:41:12.076996 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 " PostPlanRun completed. [6.30 us]
+2022-07-19 16:41:12.076996 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0" PostPlanRun completed. [4.20 us]
+2022-07-19 16:41:12.076996 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PostPlanRun completed. [3.00 us]
+2022-07-19 16:41:12.076996 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PostPlanRun completed. [5.20 us]
+2022-07-19 16:41:12.076996 ; TestPlan       ; Debug       ; "AAN \ FIO2 => 1" PostPlanRun completed. [2.60 us]
+2022-07-19 16:41:12.076996 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 0" PostPlanRun completed. [2.70 us]
+2022-07-19 16:41:12.076996 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PostPlanRun completed. [2.40 us]
+2022-07-19 16:41:12.076996 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PostPlanRun completed. [2.80 us]
+2022-07-19 16:41:12.076996 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PostPlanRun completed. [2.29 us]
+2022-07-19 16:41:12.076996 ; Summary        ; Information ; ------------ Summary of test plan started 07/19/2022 16:41:12 ------------
+2022-07-19 16:41:12.076996 ; Summary        ; Information ;  UIT                                                5.68 ms  Inconclusive
+2022-07-19 16:41:12.076996 ; Summary        ; Information ;    FIO4 => 0                                        1.98 ms  Inconclusive
+2022-07-19 16:41:12.076996 ; Summary        ; Information ;    FIO2 => 0                                        3.90 ms  Inconclusive
+2022-07-19 16:41:12.076996 ; Summary        ; Information ;    EIO6 => 0                                        5.51 ms  Inconclusive
+2022-07-19 16:41:12.076996 ; Summary        ; Information ;  AAN                                                4.62 ms  Inconclusive
+2022-07-19 16:41:12.076996 ; Summary        ; Information ;    FIO6 => 0                                        2.04 ms  Inconclusive
+2022-07-19 16:41:12.076996 ; Summary        ; Information ;    FIO2 => 1                                        2.27 ms  Inconclusive
+2022-07-19 16:41:12.076996 ; Summary        ; Information ;  Meten                                              6.38 ms  Fail   
+2022-07-19 16:41:12.076996 ; Summary        ; Information ;    3V3 AIN1                                         2.94 ms  Fail   
+2022-07-19 16:41:12.076996 ; Summary        ; Information ;    48V ANIN8                                        3.05 ms  Pass   
+2022-07-19 16:41:12.076996 ; Summary        ; Information ;  UIT (1)                                            7.40 ms  Inconclusive
+2022-07-19 16:41:12.076996 ; Summary        ; Information ;    FIO2 => 0                                        7.18 ms  Inconclusive
+2022-07-19 16:41:12.076996 ; Summary        ; Information ;    FIO4 => 0                                        2.09 ms  Inconclusive
+2022-07-19 16:41:12.076996 ; Summary        ; Information ;    EIO6 => 0                                        4.57 ms  Inconclusive
+2022-07-19 16:41:12.076996 ; Summary        ; Information ; --------------------------------------------------------------------------
+2022-07-19 16:41:12.076996 ; Summary        ; Information ; ------------ Test plan completed with verdict Fail in 67.0 ms ------------
+2022-07-19 16:41:12.082980 ; Labjack        ; Information ; Resource "Labjack" closed. [1.10 us]
+2022-07-19 16:41:22.227246 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:41:22.227246 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:41:22, 14 of 14 TestSteps enabled.
+2022-07-19 16:41:22.244333 ; TestPlan       ; Debug       ; Saved Test Plan XML [16.3 ms]
+2022-07-19 16:41:24.247879 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-19 16:41:24.248905 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-19 16:41:24.248905 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-19 16:41:24.320765 ; Labjack        ; Error       ; Failed to open device.
+2022-07-19 16:41:29.217834 ; TestPlan       ; Error       ; PrePlanRun of 'FIO2 => 0' failed with message 'Error while opening resource "Labjack"'.
+2022-07-19 16:41:29.220825 ; TestPlan       ; Debug       ; Exception: Error while opening resource "Labjack"
+2022-07-19 16:41:29.220825 ; TestPlan       ; Debug       ;   Inner exception: LJME_DEVICE_NOT_FOUND
+2022-07-19 16:41:29.223820 ; TestPlan       ; Debug       ;     bij LedsGo.Instruments.LabJackInstrument.Open() in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Instruments\LabJackInstrument.cs:regel 201
+2022-07-19 16:41:29.223820 ; TestPlan       ; Debug       ;     bij System.Threading.Tasks.Task.Execute()
+2022-07-19 16:41:29.223820 ; TestPlan       ; Debug       ;     --- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+2022-07-19 16:41:29.223820 ; TestPlan       ; Debug       ;     bij System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+2022-07-19 16:41:29.223820 ; TestPlan       ; Debug       ;     bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+2022-07-19 16:41:29.223820 ; TestPlan       ; Debug       ;     bij OpenTap.ResourceTaskManager.<OpenResource>d__10.MoveNext()
+2022-07-19 16:41:29.224815 ; TestPlan       ; Debug       ; Exception caught at:
+2022-07-19 16:41:29.246766 ; TestPlan       ; Debug       ;     at Boolean runPrePlanRunMethods(System.Collections.Generic.IEnumerable`1[OpenTap.ITestStep], OpenTap.TestPlanRun)
+2022-07-19 16:41:29.247756 ; TestPlan       ; Debug       ;     at failState execTestPlan(OpenTap.TestPlanRun, System.Collections.Generic.IList`1[OpenTap.ITestStep])
+2022-07-19 16:41:29.247756 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun DoExecute(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-19 16:41:29.247756 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun executeInContext(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-19 16:41:29.247756 ; TestPlan       ; Debug       ;     ...
+2022-07-19 16:41:29.247756 ; TestPlan       ; Error       ; Aborting TestPlan.
+2022-07-19 16:41:29.247756 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PrePlanRun completed. [29.9 ms]
+2022-07-19 16:41:29.247756 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [30.0 ms]
+2022-07-19 16:41:29.247756 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PostPlanRun completed. [161 us]
+2022-07-19 16:41:29.250747 ; TestPlan       ; Error       ; Failed to open resource (LJME_DEVICE_NOT_FOUND)
+2022-07-19 16:41:29.250747 ; TestPlan       ; Debug       ; Exception: Error while opening resource "Labjack"
+2022-07-19 16:41:29.250747 ; TestPlan       ; Debug       ;   Inner exception: LJME_DEVICE_NOT_FOUND
+2022-07-19 16:41:29.250747 ; TestPlan       ; Debug       ;     bij LedsGo.Instruments.LabJackInstrument.Open() in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Instruments\LabJackInstrument.cs:regel 201
+2022-07-19 16:41:29.250747 ; TestPlan       ; Debug       ;     bij System.Threading.Tasks.Task.Execute()
+2022-07-19 16:41:29.250747 ; TestPlan       ; Debug       ;     --- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+2022-07-19 16:41:29.250747 ; TestPlan       ; Debug       ;     bij System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+2022-07-19 16:41:29.250747 ; TestPlan       ; Debug       ;     bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+2022-07-19 16:41:29.250747 ; TestPlan       ; Debug       ;     bij OpenTap.ResourceTaskManager.<OpenResource>d__10.MoveNext()
+2022-07-19 16:41:29.250747 ; TestPlan       ; Debug       ; Exception caught at:
+2022-07-19 16:41:29.250747 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun DoExecute(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-19 16:41:29.250747 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun executeInContext(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-19 16:41:29.250747 ; TestPlan       ; Debug       ;     at Void g()
+2022-07-19 16:41:29.250747 ; TestPlan       ; Debug       ;     at Void Process()
+2022-07-19 16:41:29.250747 ; TestPlan       ; Debug       ;     ...
+2022-07-19 16:41:29.250747 ; Summary        ; Information ; ------ Summary of test plan started 07/19/2022 16:41:22 ------
+2022-07-19 16:41:29.250747 ; Summary        ; Information ; --------------------------------------------------------------
+2022-07-19 16:41:29.250747 ; Summary        ; Information ; ------ Test plan completed with verdict Error in 7.02 s ------
+2022-07-19 16:41:29.257729 ; Labjack        ; Information ; Resource "Labjack" closed. [1.60 us]
+2022-07-19 16:41:32.111517 ; TestPlan       ; Debug       ; Saved Test Plan XML [5.49 ms]
+2022-07-19 16:41:32.139443 ; Labjack        ; Information ; Resource "Labjack" opened. [33.3 ms]
+2022-07-19 16:41:32.139443 ; TestPlan       ; Debug       ; TestPlan opened. [34.3 ms]
+2022-07-19 16:41:33.962003 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:41:33.963001 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:41:33, 14 of 14 TestSteps enabled.
+2022-07-19 16:41:33.991932 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PrePlanRun completed. [95.6 us]
+2022-07-19 16:41:33.991932 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PrePlanRun completed. [52.9 us]
+2022-07-19 16:41:33.991932 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PrePlanRun completed. [31.3 us]
+2022-07-19 16:41:33.991932 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 0" PrePlanRun completed. [26.6 us]
+2022-07-19 16:41:33.991932 ; TestPlan       ; Debug       ; "AAN \ FIO2 => 1" PrePlanRun completed. [28.6 us]
+2022-07-19 16:41:33.991932 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PrePlanRun completed. [26.3 us]
+2022-07-19 16:41:33.991932 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PrePlanRun completed. [33.0 us]
+2022-07-19 16:41:33.991932 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0" PrePlanRun completed. [21.6 us]
+2022-07-19 16:41:33.991932 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 " PrePlanRun completed. [32.5 us]
+2022-07-19 16:41:33.991932 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0" PrePlanRun completed. [31.2 us]
+2022-07-19 16:41:33.991932 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [416 us]
+2022-07-19 16:41:33.991932 ; TestPlan       ; Information ; "UIT" started.
+2022-07-19 16:41:33.991932 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:41:33.991932 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" started.
+2022-07-19 16:41:33.991932 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" started.
+2022-07-19 16:41:33.991932 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" started.
+2022-07-19 16:41:34.002894 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:41:34.002894 ; TestPlan       ; Information ; "UIT \ FIO4 => 0" completed with verdict 'Inconclusive'. [10.7 ms]
+2022-07-19 16:41:34.005885 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:41:34.005885 ; TestPlan       ; Information ; "UIT \ FIO2 => 0" completed with verdict 'Inconclusive'. [13.6 ms]
+2022-07-19 16:41:34.006891 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:41:34.007880 ; TestPlan       ; Information ; "UIT \ EIO6 => 0" completed with verdict 'Inconclusive'. [15.4 ms]
+2022-07-19 16:41:34.007880 ; TestPlan       ; Information ; "UIT" completed with verdict 'Inconclusive'. [15.6 ms]
+2022-07-19 16:41:34.007880 ; TestPlan       ; Information ; "AAN" started.
+2022-07-19 16:41:34.007880 ; TestPlan       ; Information ; "AAN \ FIO6 => 0" started.
+2022-07-19 16:41:34.010873 ; TestStep       ; Information ; FIO6set to: Low
+2022-07-19 16:41:34.010873 ; TestPlan       ; Information ; "AAN \ FIO6 => 0" completed with verdict 'Inconclusive'. [3.16 ms]
+2022-07-19 16:41:34.010873 ; TestPlan       ; Information ; "AAN \ FIO2 => 1" started.
+2022-07-19 16:41:34.023838 ; TestStep       ; Information ; FIO2set to: High
+2022-07-19 16:41:34.023838 ; TestPlan       ; Information ; "AAN \ FIO2 => 1" completed with verdict 'Inconclusive'. [12.6 ms]
+2022-07-19 16:41:34.023838 ; TestPlan       ; Information ; "AAN" completed with verdict 'Inconclusive'. [16.1 ms]
+2022-07-19 16:41:34.023838 ; TestPlan       ; Information ; "Meten" started.
+2022-07-19 16:41:34.023838 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" started.
+2022-07-19 16:41:34.027024 ; TestStep       ; Information ; AIN1measured: 2.25820374488831
+2022-07-19 16:41:34.027024 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" completed with verdict 'Fail'. [2.95 ms]
+2022-07-19 16:41:34.027024 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" started.
+2022-07-19 16:41:34.029820 ; TestStep       ; Information ; AIN8measured: 3.54512166976929
+2022-07-19 16:41:34.029820 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" completed with verdict 'Pass'. [3.21 ms]
+2022-07-19 16:41:34.029820 ; TestPlan       ; Information ; "Meten" completed with verdict 'Fail'. [6.45 ms]
+2022-07-19 16:41:34.029820 ; TestPlan       ; Information ; "UIT (1)" started.
+2022-07-19 16:41:34.030819 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:41:34.030819 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 " started.
+2022-07-19 16:41:34.030819 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0" started.
+2022-07-19 16:41:34.030819 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0" started.
+2022-07-19 16:41:34.033810 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:41:34.033810 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 " completed with verdict 'Inconclusive'. [3.58 ms]
+2022-07-19 16:41:34.035804 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:41:34.035804 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0" completed with verdict 'Inconclusive'. [5.51 ms]
+2022-07-19 16:41:34.037800 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:41:34.037800 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0" completed with verdict 'Inconclusive'. [7.56 ms]
+2022-07-19 16:41:34.037800 ; TestPlan       ; Information ; "UIT (1)" completed with verdict 'Inconclusive'. [7.86 ms]
+2022-07-19 16:41:34.037800 ; TestPlan       ; Debug       ; Test step runs finished. [46.4 ms]
+2022-07-19 16:41:34.038799 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0" PostPlanRun completed. [200 us]
+2022-07-19 16:41:34.038799 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 " PostPlanRun completed. [5.40 us]
+2022-07-19 16:41:34.038799 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0" PostPlanRun completed. [4.20 us]
+2022-07-19 16:41:34.038799 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PostPlanRun completed. [3.40 us]
+2022-07-19 16:41:34.038799 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PostPlanRun completed. [5.30 us]
+2022-07-19 16:41:34.038799 ; TestPlan       ; Debug       ; "AAN \ FIO2 => 1" PostPlanRun completed. [5.60 us]
+2022-07-19 16:41:34.038799 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 0" PostPlanRun completed. [2.60 us]
+2022-07-19 16:41:34.038799 ; TestPlan       ; Debug       ; "UIT \ EIO6 => 0" PostPlanRun completed. [5.00 us]
+2022-07-19 16:41:34.038799 ; TestPlan       ; Debug       ; "UIT \ FIO4 => 0" PostPlanRun completed. [4.40 us]
+2022-07-19 16:41:34.038799 ; TestPlan       ; Debug       ; "UIT \ FIO2 => 0" PostPlanRun completed. [2.40 us]
+2022-07-19 16:41:34.038799 ; Summary        ; Information ; ------------ Summary of test plan started 07/19/2022 16:41:33 ------------
+2022-07-19 16:41:34.038799 ; Summary        ; Information ;  UIT                                                15.6 ms  Inconclusive
+2022-07-19 16:41:34.038799 ; Summary        ; Information ;    FIO2 => 0                                        13.6 ms  Inconclusive
+2022-07-19 16:41:34.038799 ; Summary        ; Information ;    EIO6 => 0                                        15.4 ms  Inconclusive
+2022-07-19 16:41:34.038799 ; Summary        ; Information ;    FIO4 => 0                                        10.7 ms  Inconclusive
+2022-07-19 16:41:34.038799 ; Summary        ; Information ;  AAN                                                16.1 ms  Inconclusive
+2022-07-19 16:41:34.038799 ; Summary        ; Information ;    FIO6 => 0                                        3.16 ms  Inconclusive
+2022-07-19 16:41:34.038799 ; Summary        ; Information ;    FIO2 => 1                                        12.6 ms  Inconclusive
+2022-07-19 16:41:34.038799 ; Summary        ; Information ;  Meten                                              6.45 ms  Fail   
+2022-07-19 16:41:34.038799 ; Summary        ; Information ;    3V3 AIN1                                         2.95 ms  Fail   
+2022-07-19 16:41:34.038799 ; Summary        ; Information ;    48V ANIN8                                        3.21 ms  Pass   
+2022-07-19 16:41:34.038799 ; Summary        ; Information ;  UIT (1)                                            7.86 ms  Inconclusive
+2022-07-19 16:41:34.038799 ; Summary        ; Information ;    FIO2 => 0                                        5.51 ms  Inconclusive
+2022-07-19 16:41:34.038799 ; Summary        ; Information ;    FIO4 => 0                                        3.58 ms  Inconclusive
+2022-07-19 16:41:34.038799 ; Summary        ; Information ;    EIO6 => 0                                        7.56 ms  Inconclusive
+2022-07-19 16:41:34.038799 ; Summary        ; Information ; --------------------------------------------------------------------------
+2022-07-19 16:41:34.038799 ; Summary        ; Information ; ------------ Test plan completed with verdict Fail in 72.8 ms ------------
+2022-07-19 16:42:42.045965 ; Main           ; Error       ; Cannot paste contents of clipboard due to parsing error.
+2022-07-19 16:44:07.939055 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:44:07.940052 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:44:07, 18 of 18 TestSteps enabled.
+2022-07-19 16:44:07.962993 ; TestPlan       ; Debug       ; "UIT START \ FIO2 => 0" PrePlanRun completed. [16.4 ms]
+2022-07-19 16:44:07.962993 ; TestPlan       ; Debug       ; "UIT START \ FIO4 => 0" PrePlanRun completed. [95.3 us]
+2022-07-19 16:44:07.962993 ; TestPlan       ; Debug       ; "UIT START \ EIO6 => 0" PrePlanRun completed. [56.7 us]
+2022-07-19 16:44:07.962993 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 0" PrePlanRun completed. [38.0 us]
+2022-07-19 16:44:07.962993 ; TestPlan       ; Debug       ; "AAN \ FIO2 => 1" PrePlanRun completed. [34.4 us]
+2022-07-19 16:44:07.962993 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PrePlanRun completed. [36.5 us]
+2022-07-19 16:44:07.962993 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PrePlanRun completed. [22.1 us]
+2022-07-19 16:44:07.962993 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0" PrePlanRun completed. [15.2 us]
+2022-07-19 16:44:07.962993 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 " PrePlanRun completed. [20.6 us]
+2022-07-19 16:44:07.962993 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0" PrePlanRun completed. [21.3 us]
+2022-07-19 16:44:07.962993 ; TestPlan       ; Debug       ; "UIT EINDE \ FIO2 => 0 (1)" PrePlanRun completed. [23.7 us]
+2022-07-19 16:44:07.962993 ; TestPlan       ; Debug       ; "UIT EINDE \ FIO4 => 0 (1)" PrePlanRun completed. [21.6 us]
+2022-07-19 16:44:07.962993 ; TestPlan       ; Debug       ; "UIT EINDE \ EIO6 => 0 (1)" PrePlanRun completed. [16.7 us]
+2022-07-19 16:44:07.962993 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [16.9 ms]
+2022-07-19 16:44:07.962993 ; TestPlan       ; Information ; "UIT START" started.
+2022-07-19 16:44:07.962993 ; TestPlan       ; Information ; "UIT START \ FIO2 => 0" started.
+2022-07-19 16:44:07.964988 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:44:07.964988 ; TestPlan       ; Information ; "UIT START \ FIO2 => 0" completed with verdict 'Inconclusive'. [1.91 ms]
+2022-07-19 16:44:07.964988 ; TestPlan       ; Information ; "UIT START \ FIO4 => 0" started.
+2022-07-19 16:44:07.966983 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:44:07.966983 ; TestPlan       ; Information ; "UIT START \ FIO4 => 0" completed with verdict 'Inconclusive'. [1.96 ms]
+2022-07-19 16:44:07.966983 ; TestPlan       ; Information ; "UIT START \ EIO6 => 0" started.
+2022-07-19 16:44:07.968977 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:44:07.968977 ; TestPlan       ; Information ; "UIT START \ EIO6 => 0" completed with verdict 'Inconclusive'. [1.86 ms]
+2022-07-19 16:44:07.968977 ; TestPlan       ; Information ; "UIT START" completed with verdict 'Inconclusive'. [6.24 ms]
+2022-07-19 16:44:07.968977 ; TestPlan       ; Information ; "AAN" started.
+2022-07-19 16:44:07.968977 ; TestPlan       ; Information ; "AAN \ FIO6 => 0" started.
+2022-07-19 16:44:07.970972 ; TestStep       ; Information ; FIO6set to: Low
+2022-07-19 16:44:07.970972 ; TestPlan       ; Information ; "AAN \ FIO6 => 0" completed with verdict 'Inconclusive'. [1.86 ms]
+2022-07-19 16:44:07.970972 ; TestPlan       ; Information ; "AAN \ FIO2 => 1" started.
+2022-07-19 16:44:07.973964 ; TestStep       ; Information ; FIO2set to: High
+2022-07-19 16:44:07.973964 ; TestPlan       ; Information ; "AAN \ FIO2 => 1" completed with verdict 'Inconclusive'. [2.32 ms]
+2022-07-19 16:44:07.973964 ; TestPlan       ; Information ; "AAN" completed with verdict 'Inconclusive'. [4.43 ms]
+2022-07-19 16:44:07.973964 ; TestPlan       ; Information ; "Meten" started.
+2022-07-19 16:44:07.973964 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" started.
+2022-07-19 16:44:07.976956 ; TestStep       ; Information ; AIN1measured: 2.12129426002502
+2022-07-19 16:44:07.976956 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" completed with verdict 'Fail'. [3.12 ms]
+2022-07-19 16:44:07.976956 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" started.
+2022-07-19 16:44:07.980945 ; TestStep       ; Information ; AIN8measured: 3.54551601409912
+2022-07-19 16:44:07.980945 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" completed with verdict 'Pass'. [3.40 ms]
+2022-07-19 16:44:07.980945 ; TestPlan       ; Information ; "Meten" completed with verdict 'Fail'. [6.80 ms]
+2022-07-19 16:44:07.980945 ; TestPlan       ; Information ; "UIT (1)" started.
+2022-07-19 16:44:07.980945 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:44:07.980945 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 " started.
+2022-07-19 16:44:07.980945 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0" started.
+2022-07-19 16:44:07.980945 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0" started.
+2022-07-19 16:44:07.982951 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:44:07.982951 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 " completed with verdict 'Inconclusive'. [1.81 ms]
+2022-07-19 16:44:07.984934 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:44:07.984934 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0" completed with verdict 'Inconclusive'. [3.81 ms]
+2022-07-19 16:44:07.985931 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:44:07.985931 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0" completed with verdict 'Inconclusive'. [5.51 ms]
+2022-07-19 16:44:07.985931 ; TestPlan       ; Information ; "UIT (1)" completed with verdict 'Inconclusive'. [5.72 ms]
+2022-07-19 16:44:07.986928 ; TestPlan       ; Information ; "UIT EINDE" started.
+2022-07-19 16:44:07.986928 ; TestPlan       ; Information ; "UIT EINDE \ FIO2 => 0 (1)" started.
+2022-07-19 16:44:07.988963 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:44:07.988963 ; TestPlan       ; Information ; "UIT EINDE \ FIO2 => 0 (1)" completed with verdict 'Inconclusive'. [2.36 ms]
+2022-07-19 16:44:07.988963 ; TestPlan       ; Information ; "UIT EINDE \ FIO4 => 0 (1)" started.
+2022-07-19 16:44:07.990918 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:44:07.990918 ; TestPlan       ; Information ; "UIT EINDE \ FIO4 => 0 (1)" completed with verdict 'Inconclusive'. [2.17 ms]
+2022-07-19 16:44:07.990918 ; TestPlan       ; Information ; "UIT EINDE \ EIO6 => 0 (1)" started.
+2022-07-19 16:44:07.993074 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:44:07.993074 ; TestPlan       ; Information ; "UIT EINDE \ EIO6 => 0 (1)" completed with verdict 'Inconclusive'. [1.97 ms]
+2022-07-19 16:44:07.993910 ; TestPlan       ; Information ; "UIT EINDE" completed with verdict 'Inconclusive'. [6.90 ms]
+2022-07-19 16:44:07.993910 ; TestPlan       ; Debug       ; Test step runs finished. [30.4 ms]
+2022-07-19 16:44:07.993910 ; TestPlan       ; Debug       ; "UIT EINDE \ EIO6 => 0 (1)" PostPlanRun completed. [270 us]
+2022-07-19 16:44:07.993910 ; TestPlan       ; Debug       ; "UIT EINDE \ FIO4 => 0 (1)" PostPlanRun completed. [6.80 us]
+2022-07-19 16:44:07.993910 ; TestPlan       ; Debug       ; "UIT EINDE \ FIO2 => 0 (1)" PostPlanRun completed. [2.50 us]
+2022-07-19 16:44:07.993910 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0" PostPlanRun completed. [2.70 us]
+2022-07-19 16:44:07.993910 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 " PostPlanRun completed. [2.40 us]
+2022-07-19 16:44:07.993910 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0" PostPlanRun completed. [2.29 us]
+2022-07-19 16:44:07.993910 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PostPlanRun completed. [2.29 us]
+2022-07-19 16:44:07.993910 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PostPlanRun completed. [2.10 us]
+2022-07-19 16:44:07.993910 ; TestPlan       ; Debug       ; "AAN \ FIO2 => 1" PostPlanRun completed. [3.70 us]
+2022-07-19 16:44:07.993910 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 0" PostPlanRun completed. [2.40 us]
+2022-07-19 16:44:07.993910 ; TestPlan       ; Debug       ; "UIT START \ EIO6 => 0" PostPlanRun completed. [2.50 us]
+2022-07-19 16:44:07.993910 ; TestPlan       ; Debug       ; "UIT START \ FIO4 => 0" PostPlanRun completed. [2.29 us]
+2022-07-19 16:44:07.993910 ; TestPlan       ; Debug       ; "UIT START \ FIO2 => 0" PostPlanRun completed. [2.20 us]
+2022-07-19 16:44:07.993910 ; Summary        ; Information ; ------------ Summary of test plan started 07/19/2022 16:44:07 ------------
+2022-07-19 16:44:07.993910 ; Summary        ; Information ;  UIT START                                          6.24 ms  Inconclusive
+2022-07-19 16:44:07.993910 ; Summary        ; Information ;    FIO2 => 0                                        1.91 ms  Inconclusive
+2022-07-19 16:44:07.993910 ; Summary        ; Information ;    FIO4 => 0                                        1.96 ms  Inconclusive
+2022-07-19 16:44:07.993910 ; Summary        ; Information ;    EIO6 => 0                                        1.86 ms  Inconclusive
+2022-07-19 16:44:07.993910 ; Summary        ; Information ;  AAN                                                4.43 ms  Inconclusive
+2022-07-19 16:44:07.993910 ; Summary        ; Information ;    FIO6 => 0                                        1.86 ms  Inconclusive
+2022-07-19 16:44:07.993910 ; Summary        ; Information ;    FIO2 => 1                                        2.32 ms  Inconclusive
+2022-07-19 16:44:07.993910 ; Summary        ; Information ;  Meten                                              6.80 ms  Fail   
+2022-07-19 16:44:07.993910 ; Summary        ; Information ;    3V3 AIN1                                         3.12 ms  Fail   
+2022-07-19 16:44:07.993910 ; Summary        ; Information ;    48V ANIN8                                        3.40 ms  Pass   
+2022-07-19 16:44:07.993910 ; Summary        ; Information ;  UIT (1)                                            5.72 ms  Inconclusive
+2022-07-19 16:44:07.993910 ; Summary        ; Information ;    FIO4 => 0                                        1.81 ms  Inconclusive
+2022-07-19 16:44:07.993910 ; Summary        ; Information ;    EIO6 => 0                                        3.81 ms  Inconclusive
+2022-07-19 16:44:07.993910 ; Summary        ; Information ;    FIO2 => 0                                        5.51 ms  Inconclusive
+2022-07-19 16:44:07.993910 ; Summary        ; Information ;  UIT EINDE                                          6.90 ms  Inconclusive
+2022-07-19 16:44:07.993910 ; Summary        ; Information ;    FIO2 => 0 (1)                                    2.36 ms  Inconclusive
+2022-07-19 16:44:07.993910 ; Summary        ; Information ;    FIO4 => 0 (1)                                    2.17 ms  Inconclusive
+2022-07-19 16:44:07.993910 ; Summary        ; Information ;    EIO6 => 0 (1)                                    1.97 ms  Inconclusive
+2022-07-19 16:44:07.993910 ; Summary        ; Information ; --------------------------------------------------------------------------
+2022-07-19 16:44:07.993910 ; Summary        ; Information ; ------------ Test plan completed with verdict Fail in 53.9 ms ------------
+2022-07-19 16:44:14.305778 ; Labjack        ; Information ; Resource "Labjack" closed. [1.00 us]
+2022-07-19 16:44:14.305778 ; TestPlan       ; Debug       ; TestPlan closed. [268 us]
+2022-07-19 16:44:18.867954 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:44:18.868952 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:44:18, 18 of 18 TestSteps enabled.
+2022-07-19 16:44:18.873939 ; TestPlan       ; Debug       ; Saved Test Plan XML [5.04 ms]
+2022-07-19 16:44:20.873961 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-19 16:44:20.873961 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-19 16:44:20.873961 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-19 16:44:20.911859 ; Labjack        ; Error       ; Failed to open device.
+2022-07-19 16:44:23.715723 ; TestPlan       ; Error       ; PrePlanRun of 'FIO2 => 0' failed with message 'Error while opening resource "Labjack"'.
+2022-07-19 16:44:23.715723 ; TestPlan       ; Debug       ; Exception: Error while opening resource "Labjack"
+2022-07-19 16:44:23.715723 ; TestPlan       ; Debug       ;   Inner exception: LJME_DEVICE_NOT_FOUND
+2022-07-19 16:44:23.715723 ; TestPlan       ; Debug       ;     bij LedsGo.Instruments.LabJackInstrument.Open() in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Instruments\LabJackInstrument.cs:regel 201
+2022-07-19 16:44:23.715723 ; TestPlan       ; Debug       ;     bij System.Threading.Tasks.Task.Execute()
+2022-07-19 16:44:23.715723 ; TestPlan       ; Debug       ;     --- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+2022-07-19 16:44:23.715723 ; TestPlan       ; Debug       ;     bij System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+2022-07-19 16:44:23.715723 ; TestPlan       ; Debug       ;     bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+2022-07-19 16:44:23.715723 ; TestPlan       ; Debug       ;     bij OpenTap.ResourceTaskManager.<OpenResource>d__10.MoveNext()
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ; Exception caught at:
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ;     at Boolean runPrePlanRunMethods(System.Collections.Generic.IEnumerable`1[OpenTap.ITestStep], OpenTap.TestPlanRun)
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ;     at failState execTestPlan(OpenTap.TestPlanRun, System.Collections.Generic.IList`1[OpenTap.ITestStep])
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun DoExecute(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun executeInContext(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ;     ...
+2022-07-19 16:44:23.716227 ; TestPlan       ; Error       ; Aborting TestPlan.
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ; "UIT START \ FIO2 => 0" PrePlanRun completed. [933 us]
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [953 us]
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ; "UIT START \ FIO2 => 0" PostPlanRun completed. [12.4 us]
+2022-07-19 16:44:23.716227 ; TestPlan       ; Error       ; Failed to open resource (LJME_DEVICE_NOT_FOUND)
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ; Exception: Error while opening resource "Labjack"
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ;   Inner exception: LJME_DEVICE_NOT_FOUND
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ;     bij LedsGo.Instruments.LabJackInstrument.Open() in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Instruments\LabJackInstrument.cs:regel 201
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ;     bij System.Threading.Tasks.Task.Execute()
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ;     --- Einde van stacktracering vanaf vorige locatie waar uitzondering is opgetreden ---
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ;     bij System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ;     bij System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ;     bij OpenTap.ResourceTaskManager.<OpenResource>d__10.MoveNext()
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ; Exception caught at:
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun DoExecute(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ;     at OpenTap.TestPlanRun executeInContext(System.Collections.Generic.IEnumerable`1[OpenTap.IResultListener], System.Collections.Generic.IEnumerable`1[OpenTap.ResultParameter], System.Collections.Generic.HashSet`1[OpenTap.ITestStep])
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ;     at Void g()
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ;     at Void Process()
+2022-07-19 16:44:23.716227 ; TestPlan       ; Debug       ;     ...
+2022-07-19 16:44:23.716227 ; Summary        ; Information ; ------ Summary of test plan started 07/19/2022 16:44:18 ------
+2022-07-19 16:44:23.716227 ; Summary        ; Information ; --------------------------------------------------------------
+2022-07-19 16:44:23.716227 ; Summary        ; Information ; ------ Test plan completed with verdict Error in 4.84 s ------
+2022-07-19 16:44:23.724209 ; Labjack        ; Information ; Resource "Labjack" closed. [1.10 us]
+2022-07-19 16:44:26.765011 ; TestPlan       ; Debug       ; Saved Test Plan XML [5.05 ms]
+2022-07-19 16:44:26.777032 ; Labjack        ; Information ; Resource "Labjack" opened. [16.7 ms]
+2022-07-19 16:44:26.778029 ; TestPlan       ; Debug       ; TestPlan opened. [18.1 ms]
+2022-07-19 16:44:27.826895 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-19 16:44:27.826895 ; TestPlan       ; Information ; Starting TestPlan 'test' on 07/19/2022 16:44:27, 18 of 18 TestSteps enabled.
+2022-07-19 16:44:27.836967 ; TestPlan       ; Debug       ; "UIT START \ FIO2 => 0" PrePlanRun completed. [119 us]
+2022-07-19 16:44:27.836967 ; TestPlan       ; Debug       ; "UIT START \ FIO4 => 0" PrePlanRun completed. [62.8 us]
+2022-07-19 16:44:27.836967 ; TestPlan       ; Debug       ; "UIT START \ EIO6 => 0" PrePlanRun completed. [39.6 us]
+2022-07-19 16:44:27.836967 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 0" PrePlanRun completed. [24.1 us]
+2022-07-19 16:44:27.836967 ; TestPlan       ; Debug       ; "AAN \ FIO2 => 1" PrePlanRun completed. [31.7 us]
+2022-07-19 16:44:27.836967 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PrePlanRun completed. [25.8 us]
+2022-07-19 16:44:27.836967 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PrePlanRun completed. [31.3 us]
+2022-07-19 16:44:27.836967 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0" PrePlanRun completed. [24.9 us]
+2022-07-19 16:44:27.836967 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 " PrePlanRun completed. [137 us]
+2022-07-19 16:44:27.836967 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0" PrePlanRun completed. [48.9 us]
+2022-07-19 16:44:27.836967 ; TestPlan       ; Debug       ; "UIT EINDE \ FIO2 => 0 (1)" PrePlanRun completed. [31.5 us]
+2022-07-19 16:44:27.836967 ; TestPlan       ; Debug       ; "UIT EINDE \ FIO4 => 0 (1)" PrePlanRun completed. [34.7 us]
+2022-07-19 16:44:27.836967 ; TestPlan       ; Debug       ; "UIT EINDE \ EIO6 => 0 (1)" PrePlanRun completed. [36.2 us]
+2022-07-19 16:44:27.836967 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [691 us]
+2022-07-19 16:44:27.837868 ; TestPlan       ; Information ; "UIT START" started.
+2022-07-19 16:44:27.837868 ; TestPlan       ; Information ; "UIT START \ FIO2 => 0" started.
+2022-07-19 16:44:27.839868 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:44:27.839868 ; TestPlan       ; Information ; "UIT START \ FIO2 => 0" completed with verdict 'Inconclusive'. [2.73 ms]
+2022-07-19 16:44:27.840861 ; TestPlan       ; Information ; "UIT START \ FIO4 => 0" started.
+2022-07-19 16:44:27.841859 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:44:27.842854 ; TestPlan       ; Information ; "UIT START \ FIO4 => 0" completed with verdict 'Inconclusive'. [2.00 ms]
+2022-07-19 16:44:27.842854 ; TestPlan       ; Information ; "UIT START \ EIO6 => 0" started.
+2022-07-19 16:44:27.844854 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:44:27.844854 ; TestPlan       ; Information ; "UIT START \ EIO6 => 0" completed with verdict 'Inconclusive'. [2.02 ms]
+2022-07-19 16:44:27.844854 ; TestPlan       ; Information ; "UIT START" completed with verdict 'Inconclusive'. [7.19 ms]
+2022-07-19 16:44:27.844854 ; TestPlan       ; Information ; "AAN" started.
+2022-07-19 16:44:27.844854 ; TestPlan       ; Information ; "AAN \ FIO6 => 0" started.
+2022-07-19 16:44:27.846845 ; TestStep       ; Information ; FIO6set to: Low
+2022-07-19 16:44:27.847840 ; TestPlan       ; Information ; "AAN \ FIO6 => 0" completed with verdict 'Inconclusive'. [2.66 ms]
+2022-07-19 16:44:27.847840 ; TestPlan       ; Information ; "AAN \ FIO2 => 1" started.
+2022-07-19 16:44:27.848837 ; TestStep       ; Information ; FIO2set to: High
+2022-07-19 16:44:27.849844 ; TestPlan       ; Information ; "AAN \ FIO2 => 1" completed with verdict 'Inconclusive'. [1.94 ms]
+2022-07-19 16:44:27.849844 ; TestPlan       ; Information ; "AAN" completed with verdict 'Inconclusive'. [4.83 ms]
+2022-07-19 16:44:27.849844 ; TestPlan       ; Information ; "Meten" started.
+2022-07-19 16:44:27.849844 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" started.
+2022-07-19 16:44:27.851831 ; TestStep       ; Information ; AIN1measured: 3.2660186290741
+2022-07-19 16:44:27.852828 ; TestPlan       ; Information ; "Meten \ 3V3 AIN1" completed with verdict 'Pass'. [2.77 ms]
+2022-07-19 16:44:27.852828 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" started.
+2022-07-19 16:44:27.864794 ; TestStep       ; Information ; AIN8measured: 3.5455949306488
+2022-07-19 16:44:27.864794 ; TestPlan       ; Information ; "Meten \ 48V ANIN8" completed with verdict 'Pass'. [12.5 ms]
+2022-07-19 16:44:27.864794 ; TestPlan       ; Information ; "Meten" completed with verdict 'Pass'. [15.5 ms]
+2022-07-19 16:44:27.864794 ; TestPlan       ; Information ; "UIT (1)" started.
+2022-07-19 16:44:27.864794 ; TestStep       ; Information ; Starting 3 child steps in separate threads.
+2022-07-19 16:44:27.864794 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0" started.
+2022-07-19 16:44:27.864794 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 " started.
+2022-07-19 16:44:27.864794 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0" started.
+2022-07-19 16:44:27.866790 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:44:27.866790 ; TestPlan       ; Information ; "UIT (1) \ FIO4 => 0 " completed with verdict 'Inconclusive'. [1.75 ms]
+2022-07-19 16:44:27.869782 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:44:27.869782 ; TestPlan       ; Information ; "UIT (1) \ FIO2 => 0" completed with verdict 'Inconclusive'. [4.31 ms]
+2022-07-19 16:44:27.870779 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:44:27.871776 ; TestPlan       ; Information ; "UIT (1) \ EIO6 => 0" completed with verdict 'Inconclusive'. [6.07 ms]
+2022-07-19 16:44:27.871776 ; TestPlan       ; Information ; "UIT (1)" completed with verdict 'Inconclusive'. [6.39 ms]
+2022-07-19 16:44:27.871776 ; TestPlan       ; Information ; "UIT EINDE" started.
+2022-07-19 16:44:27.871776 ; TestPlan       ; Information ; "UIT EINDE \ FIO2 => 0 (1)" started.
+2022-07-19 16:44:27.873770 ; TestStep       ; Information ; FIO2set to: Low
+2022-07-19 16:44:27.873770 ; TestPlan       ; Information ; "UIT EINDE \ FIO2 => 0 (1)" completed with verdict 'Inconclusive'. [1.84 ms]
+2022-07-19 16:44:27.873770 ; TestPlan       ; Information ; "UIT EINDE \ FIO4 => 0 (1)" started.
+2022-07-19 16:44:27.875765 ; TestStep       ; Information ; FIO4set to: Low
+2022-07-19 16:44:27.875765 ; TestPlan       ; Information ; "UIT EINDE \ FIO4 => 0 (1)" completed with verdict 'Inconclusive'. [1.82 ms]
+2022-07-19 16:44:27.875765 ; TestPlan       ; Information ; "UIT EINDE \ EIO6 => 0 (1)" started.
+2022-07-19 16:44:27.876762 ; TestStep       ; Information ; EIO6set to: Low
+2022-07-19 16:44:27.876762 ; TestPlan       ; Information ; "UIT EINDE \ EIO6 => 0 (1)" completed with verdict 'Inconclusive'. [1.67 ms]
+2022-07-19 16:44:27.877760 ; TestPlan       ; Information ; "UIT EINDE" completed with verdict 'Inconclusive'. [5.68 ms]
+2022-07-19 16:44:27.877760 ; TestPlan       ; Debug       ; Test step runs finished. [39.9 ms]
+2022-07-19 16:44:27.877760 ; TestPlan       ; Debug       ; "UIT EINDE \ EIO6 => 0 (1)" PostPlanRun completed. [167 us]
+2022-07-19 16:44:27.877760 ; TestPlan       ; Debug       ; "UIT EINDE \ FIO4 => 0 (1)" PostPlanRun completed. [13.4 us]
+2022-07-19 16:44:27.877760 ; TestPlan       ; Debug       ; "UIT EINDE \ FIO2 => 0 (1)" PostPlanRun completed. [3.40 us]
+2022-07-19 16:44:27.877760 ; TestPlan       ; Debug       ; "UIT (1) \ EIO6 => 0" PostPlanRun completed. [7.40 us]
+2022-07-19 16:44:27.877760 ; TestPlan       ; Debug       ; "UIT (1) \ FIO4 => 0 " PostPlanRun completed. [4.50 us]
+2022-07-19 16:44:27.877760 ; TestPlan       ; Debug       ; "UIT (1) \ FIO2 => 0" PostPlanRun completed. [2.40 us]
+2022-07-19 16:44:27.877760 ; TestPlan       ; Debug       ; "Meten \ 48V ANIN8" PostPlanRun completed. [2.40 us]
+2022-07-19 16:44:27.877760 ; TestPlan       ; Debug       ; "Meten \ 3V3 AIN1" PostPlanRun completed. [6.20 us]
+2022-07-19 16:44:27.877760 ; TestPlan       ; Debug       ; "AAN \ FIO2 => 1" PostPlanRun completed. [4.80 us]
+2022-07-19 16:44:27.877760 ; TestPlan       ; Debug       ; "AAN \ FIO6 => 0" PostPlanRun completed. [3.80 us]
+2022-07-19 16:44:27.877760 ; TestPlan       ; Debug       ; "UIT START \ EIO6 => 0" PostPlanRun completed. [6.00 us]
+2022-07-19 16:44:27.877760 ; TestPlan       ; Debug       ; "UIT START \ FIO4 => 0" PostPlanRun completed. [4.20 us]
+2022-07-19 16:44:27.877760 ; TestPlan       ; Debug       ; "UIT START \ FIO2 => 0" PostPlanRun completed. [2.29 us]
+2022-07-19 16:44:27.877760 ; Summary        ; Information ; ------------ Summary of test plan started 07/19/2022 16:44:27 ------------
+2022-07-19 16:44:27.877760 ; Summary        ; Information ;  UIT START                                          7.19 ms  Inconclusive
+2022-07-19 16:44:27.877760 ; Summary        ; Information ;    FIO2 => 0                                        2.73 ms  Inconclusive
+2022-07-19 16:44:27.877760 ; Summary        ; Information ;    FIO4 => 0                                        2.00 ms  Inconclusive
+2022-07-19 16:44:27.877760 ; Summary        ; Information ;    EIO6 => 0                                        2.02 ms  Inconclusive
+2022-07-19 16:44:27.877760 ; Summary        ; Information ;  AAN                                                4.83 ms  Inconclusive
+2022-07-19 16:44:27.877760 ; Summary        ; Information ;    FIO6 => 0                                        2.66 ms  Inconclusive
+2022-07-19 16:44:27.877760 ; Summary        ; Information ;    FIO2 => 1                                        1.94 ms  Inconclusive
+2022-07-19 16:44:27.877760 ; Summary        ; Information ;  Meten                                              15.5 ms  Pass   
+2022-07-19 16:44:27.877760 ; Summary        ; Information ;    3V3 AIN1                                         2.77 ms  Pass   
+2022-07-19 16:44:27.877760 ; Summary        ; Information ;    48V ANIN8                                        12.5 ms  Pass   
+2022-07-19 16:44:27.877760 ; Summary        ; Information ;  UIT (1)                                            6.39 ms  Inconclusive
+2022-07-19 16:44:27.877760 ; Summary        ; Information ;    FIO2 => 0                                        4.31 ms  Inconclusive
+2022-07-19 16:44:27.877760 ; Summary        ; Information ;    FIO4 => 0                                        1.75 ms  Inconclusive
+2022-07-19 16:44:27.877760 ; Summary        ; Information ;    EIO6 => 0                                        6.07 ms  Inconclusive
+2022-07-19 16:44:27.877760 ; Summary        ; Information ;  UIT EINDE                                          5.68 ms  Inconclusive
+2022-07-19 16:44:27.877760 ; Summary        ; Information ;    FIO2 => 0 (1)                                    1.84 ms  Inconclusive
+2022-07-19 16:44:27.877760 ; Summary        ; Information ;    FIO4 => 0 (1)                                    1.82 ms  Inconclusive
+2022-07-19 16:44:27.877760 ; Summary        ; Information ;    EIO6 => 0 (1)                                    1.67 ms  Inconclusive
+2022-07-19 16:44:27.877760 ; Summary        ; Information ; --------------------------------------------------------------------------
+2022-07-19 16:44:27.877760 ; Summary        ; Information ; -------- Test plan completed with verdict Inconclusive in 49.8 ms --------
+2022-07-19 16:44:50.513372 ; Settings       ; Debug       ; Saved GuiControlsSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [11.4 ms]
+2022-07-19 16:44:50.527337 ; Settings       ; Debug       ; Saved PanelSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [1.30 ms]
+2022-07-19 16:44:50.530328 ; Settings       ; Debug       ; Saved EditorSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [2.80 ms]
+2022-07-19 16:44:52.199946 ; Labjack        ; Information ; Resource "Labjack" closed. [1.40 us]
+2022-07-19 16:44:52.199946 ; TestPlan       ; Debug       ; TestPlan closed. [257 us]
+2022-07-19 16:44:53.243916 ; Main           ; Information ; Saved test plan to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\test.TapPlan [14.4 ms]
+2022-07-19 16:44:56.290830 ; Settings       ; Debug       ; Saved GuiControlsSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [3.10 ms]
+2022-07-19 16:44:56.292823 ; Settings       ; Debug       ; Saved PanelSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [1.74 ms]
+2022-07-19 16:44:56.295818 ; Settings       ; Debug       ; Saved EditorSettings to D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [2.48 ms]

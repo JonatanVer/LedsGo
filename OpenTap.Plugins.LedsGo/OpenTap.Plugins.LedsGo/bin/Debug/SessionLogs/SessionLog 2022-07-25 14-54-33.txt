@@ -1,0 +1,128 @@
+﻿2022-07-25 14:54:30.735218 ; Session        ; Debug       ; Session log loaded as 'C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\editor 2022-07-25 14-54-29.txt'. [8.76 ms]
+2022-07-25 14:54:30.777037 ; Session        ; Debug       ; Running '"C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\editor.exe" ' in 'C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2022-07-25 14:54:31.146769 ; Session        ; Debug       ; Microsoft Windows 10.0.19044 X64
+2022-07-25 14:54:31.146769 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2022-07-25 14:54:31.185420 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2022-07-25 14:54:31.190403 ; AssemblyFinder ; Debug       ; Found 30/85 assembly files. [41.4 ms]
+2022-07-25 14:54:31.257226 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-07-25 14:54:31.271420 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Wpf, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null in C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\WPF Controls\Keysight.OpenTap.Wpf.dll
+2022-07-25 14:54:31.322579 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-07-25 14:54:31.658201 ; Searcher       ; Debug       ; Ordered 28 assemblies according to references. [457 ms]
+2022-07-25 14:54:31.925225 ; PluginManager  ; Debug       ; Found 18 plugin assemblies containing 267 plugin types. [727 ms]
+2022-07-25 14:54:31.926157 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2022-07-25 14:54:31.926157 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2022-07-25 14:54:31.926157 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2022-07-25 14:54:31.926157 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2022-07-25 14:54:31.926157 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2022-07-25 14:54:31.926157 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2022-07-25 14:54:31.926157 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2022-07-25 14:54:31.926157 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of OpenTap.Plugins.LedsGo.dll
+2022-07-25 14:54:31.926157 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-07-25 14:54:31.926157 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of ResultsViewer.exe
+2022-07-25 14:54:31.926157 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of RunExplorer.exe
+2022-07-25 14:54:31.926157 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2022-07-25 14:54:31.926157 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-07-25 14:54:31.926157 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2022-07-25 14:54:31.926157 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-07-25 14:54:31.926157 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-07-25 14:54:31.926157 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-07-25 14:54:31.926157 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2022-07-25 14:54:31.926157 ; PluginManager  ; Debug       ; Searched 30 Assemblies. [728 ms]
+2022-07-25 14:54:31.948095 ; PluginManager  ; Debug       ; Loaded OpenTap. [820 us]
+2022-07-25 14:54:31.983004 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [27.3 ms]
+2022-07-25 14:54:31.987992 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [22.5 ms]
+2022-07-25 14:54:31.995968 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [510 us]
+2022-07-25 14:54:32.045840 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [17.0 ms]
+2022-07-25 14:54:32.205975 ; PluginManager  ; Debug       ; Loaded mscorlib. [800 ns]
+2022-07-25 14:54:32.482883 ; Settings       ; Debug       ; EditorSettings loaded from C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [764 ms]
+2022-07-25 14:54:32.513872 ; Resolver       ; Debug       ; Found match for MahApps.Metro, Version=1.3.0.0, Culture=neutral, PublicKeyToken=f4fb5a3c4d1e5b4f in C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\MahApps.Metro.1.3.0.0\MahApps.Metro.dll
+2022-07-25 14:54:32.809552 ; GUI            ; Debug       ; Loaded Light Theme. [34.6 ms]
+2022-07-25 14:54:32.842994 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2022-07-25 14:54:33.216739 ; Settings       ; Debug       ; GuiControlsSettings loaded from C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [211 ms]
+2022-07-25 14:54:33.216739 ; Main           ; Debug       ; Window initial dimensions: 1920px, 1040px.
+2022-07-25 14:54:33.278574 ; Settings       ; Debug       ; EngineSettings loaded from C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [58.1 ms]
+2022-07-25 14:54:33.280583 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [1.46 ms]
+2022-07-25 14:54:33.285554 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Licensing, Version=1.1.1.0, Culture=neutral, PublicKeyToken=null in C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\Keysight Licensing\Keysight.OpenTap.Licensing.dll
+2022-07-25 14:54:33.352972 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2022-07-25 14-54-33.txt'. [7.28 ms]
+2022-07-25 14:54:34.369335 ; Main           ; Debug       ; GUI initialized. [1.14 s]
+2022-07-25 14:54:34.369664 ; Main           ; Debug       ; Docking manager initialized. [114 us]
+2022-07-25 14:54:34.378547 ; OpenTAP        ; Information ; OpenTAP version '9.17.4+ea67c63a' 64-bit initialized 07/25/2022 [4.76 s]
+2022-07-25 14:54:34.533271 ; PluginManager  ; Debug       ; Loaded PackageManager. [1.33 ms]
+2022-07-25 14:54:34.534268 ; PluginManager  ; Debug       ; Loaded Editor. [92.6 us]
+2022-07-25 14:54:34.560845 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [26.5 ms]
+2022-07-25 14:54:34.578093 ; PluginManager  ; Debug       ; Loaded RunExplorer. [16.1 ms]
+2022-07-25 14:54:34.584805 ; Settings       ; Debug       ; ConnectionSettings loaded from C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [4.20 ms]
+2022-07-25 14:54:34.587631 ; Settings       ; Debug       ; DutSettings loaded from C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [2.23 ms]
+2022-07-25 14:54:34.715560 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.LedsGo. [116 ms]
+2022-07-25 14:54:34.731518 ; Settings       ; Debug       ; InstrumentSettings loaded from C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [144 ms]
+2022-07-25 14:54:34.733535 ; Settings       ; Debug       ; ResultSettings loaded from C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [1.64 ms]
+2022-07-25 14:54:35.760677 ; Main           ; Information ; Latest version of 'Keysight Licensing' is 1.2, your version is 1.1. Please consider updating. [1.37 s]
+2022-07-25 14:54:35.760677 ; Main           ; Information ; Latest version of 'OpenTAP' is 9.18, your version is 9.17. Please consider updating. [1.37 s]
+2022-07-25 14:54:35.760677 ; Main           ; Debug       ; Update check complete. [1.37 s]
+2022-07-25 14:54:37.296386 ; Settings       ; Debug       ; PanelSettings loaded from C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [4.18 ms]
+2022-07-25 14:54:38.685075 ; Main           ; Debug       ; Application startup finished. [9.07 s]
+2022-07-25 14:55:00.353643 ; Main           ; Debug       ; Loaded Test plan C:\Engineering\Projecten\LedsGo\versie3_1en2samen\OpenTap programs\TX48ED9.TapPlan [944 ms]
+2022-07-25 14:57:11.486886 ; Main           ; Information ; Saved test plan to C:\Engineering\Projecten\LedsGo\versie3_1en2samen\OpenTap programs\TX48ED9.TapPlan [15.9 ms]
+2022-07-25 15:08:31.137438 ; Main           ; Information ; Saved test plan to C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTapPrograms\TX48ED9.TapPlan [14.6 ms]
+2022-07-25 15:12:12.449351 ; Serializer     ; Warning     ; XML line 4 column 6: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.449351 ; Serializer     ; Warning     ; XML line 4 column 6: Unable to deserialize step.
+2022-07-25 15:12:12.449351 ; Serializer     ; Warning     ; XML line 28 column 6: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.449351 ; Serializer     ; Warning     ; XML line 28 column 6: Unable to deserialize step.
+2022-07-25 15:12:12.450309 ; Serializer     ; Warning     ; XML line 52 column 6: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.450309 ; Serializer     ; Warning     ; XML line 52 column 6: Unable to deserialize step.
+2022-07-25 15:12:12.450309 ; Serializer     ; Warning     ; XML line 76 column 6: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.450309 ; Serializer     ; Warning     ; XML line 76 column 6: Unable to deserialize step.
+2022-07-25 15:12:12.450309 ; Serializer     ; Warning     ; XML line 111 column 10: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.450309 ; Serializer     ; Warning     ; XML line 111 column 10: Unable to deserialize step.
+2022-07-25 15:12:12.450309 ; Serializer     ; Warning     ; XML line 135 column 10: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.450309 ; Serializer     ; Warning     ; XML line 135 column 10: Unable to deserialize step.
+2022-07-25 15:12:12.475240 ; Serializer     ; Warning     ; XML line 166 column 10: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.475240 ; Serializer     ; Warning     ; XML line 166 column 10: Unable to deserialize step.
+2022-07-25 15:12:12.475240 ; Serializer     ; Warning     ; XML line 197 column 10: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.475240 ; Serializer     ; Warning     ; XML line 197 column 10: Unable to deserialize step.
+2022-07-25 15:12:12.475240 ; Serializer     ; Warning     ; XML line 221 column 10: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.475240 ; Serializer     ; Warning     ; XML line 221 column 10: Unable to deserialize step.
+2022-07-25 15:12:12.476239 ; Serializer     ; Warning     ; XML line 245 column 10: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.476239 ; Serializer     ; Warning     ; XML line 245 column 10: Unable to deserialize step.
+2022-07-25 15:12:12.477236 ; Serializer     ; Warning     ; XML line 316 column 10: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.477236 ; Serializer     ; Warning     ; XML line 316 column 10: Unable to deserialize step.
+2022-07-25 15:12:12.478234 ; Serializer     ; Warning     ; XML line 340 column 10: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.478234 ; Serializer     ; Warning     ; XML line 340 column 10: Unable to deserialize step.
+2022-07-25 15:12:12.478234 ; Serializer     ; Warning     ; XML line 364 column 10: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.478234 ; Serializer     ; Warning     ; XML line 364 column 10: Unable to deserialize step.
+2022-07-25 15:12:12.478234 ; Serializer     ; Warning     ; XML line 395 column 10: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.478234 ; Serializer     ; Warning     ; XML line 395 column 10: Unable to deserialize step.
+2022-07-25 15:12:12.478234 ; Serializer     ; Warning     ; XML line 419 column 10: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.478234 ; Serializer     ; Warning     ; XML line 419 column 10: Unable to deserialize step.
+2022-07-25 15:12:12.479237 ; Serializer     ; Warning     ; XML line 450 column 10: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.479237 ; Serializer     ; Warning     ; XML line 450 column 10: Unable to deserialize step.
+2022-07-25 15:12:12.479391 ; Serializer     ; Warning     ; XML line 474 column 10: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.479391 ; Serializer     ; Warning     ; XML line 474 column 10: Unable to deserialize step.
+2022-07-25 15:12:12.479391 ; Serializer     ; Warning     ; XML line 505 column 10: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.479391 ; Serializer     ; Warning     ; XML line 505 column 10: Unable to deserialize step.
+2022-07-25 15:12:12.479391 ; Serializer     ; Warning     ; XML line 532 column 6: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.479391 ; Serializer     ; Warning     ; XML line 532 column 6: Unable to deserialize step.
+2022-07-25 15:12:12.481226 ; Serializer     ; Error       ; XML Line 4: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.481226 ; Serializer     ; Error       ; XML Line 28: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.481226 ; Serializer     ; Error       ; XML Line 52: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.481226 ; Serializer     ; Error       ; XML Line 76: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.482223 ; Serializer     ; Error       ; XML Line 111: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.482223 ; Serializer     ; Error       ; XML Line 135: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.482223 ; Serializer     ; Error       ; XML Line 166: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.482223 ; Serializer     ; Error       ; XML Line 197: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.482223 ; Serializer     ; Error       ; XML Line 221: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.482223 ; Serializer     ; Error       ; XML Line 245: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.482223 ; Serializer     ; Error       ; XML Line 316: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.482223 ; Serializer     ; Error       ; XML Line 340: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.482223 ; Serializer     ; Error       ; XML Line 364: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.482223 ; Serializer     ; Error       ; XML Line 395: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.482223 ; Serializer     ; Error       ; XML Line 419: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.482223 ; Serializer     ; Error       ; XML Line 450: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.482223 ; Serializer     ; Error       ; XML Line 474: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.482223 ; Serializer     ; Error       ; XML Line 505: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:12.482223 ; Serializer     ; Error       ; XML Line 532: Unable to locate type 'LedsGo.Plugin.Steps.DAQLJStep'. Are you missing a plugin?
+2022-07-25 15:12:23.956909 ; Main           ; Information ; Saved test plan to C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTapPrograms\ADELE.TapPlan [3.48 ms]
+2022-07-25 15:12:25.358716 ; Main           ; Debug       ; Loaded Test plan C:\Engineering\Projecten\LedsGo\versie1MijnLaatsteVersie\OpentapPrograms\ADELE.TapPlan [12.9 s]
+2022-07-25 15:12:49.745052 ; Settings       ; Debug       ; Saved GuiControlsSettings to C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [32.8 ms]
+2022-07-25 15:12:49.776967 ; Settings       ; Debug       ; Saved PanelSettings to C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [1.81 ms]
+2022-07-25 15:12:49.780956 ; Settings       ; Debug       ; Saved EditorSettings to C:\Engineering\Projecten\LedsGo\versie4updateSingleShot\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [3.66 ms]

@@ -1,0 +1,310 @@
+﻿2022-10-03 08:57:40.967118 ; Session        ; Debug       ; Session log loaded as 'C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\Editor 2022-10-03 08-57-40.txt'. [6.12 ms]
+2022-10-03 08:57:40.980152 ; Session        ; Debug       ; Running '"C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Editor.exe" ' in 'C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2022-10-03 08:57:41.009965 ; Session        ; Debug       ; Microsoft Windows 10.0.19044 X64
+2022-10-03 08:57:41.009965 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2022-10-03 08:57:41.031906 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2022-10-03 08:57:41.044912 ; AssemblyFinder ; Debug       ; Found 38/93 assembly files. [27.4 ms]
+2022-10-03 08:57:41.093310 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-10-03 08:57:41.132232 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-10-03 08:57:41.275840 ; Searcher       ; Debug       ; Ordered 34 assemblies according to references. [223 ms]
+2022-10-03 08:57:41.470320 ; PluginManager  ; Debug       ; Found 18 plugin assemblies containing 267 plugin types. [420 ms]
+2022-10-03 08:57:41.470320 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2022-10-03 08:57:41.470320 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2022-10-03 08:57:41.470320 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2022-10-03 08:57:41.470320 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2022-10-03 08:57:41.470320 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2022-10-03 08:57:41.470320 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2022-10-03 08:57:41.470320 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2022-10-03 08:57:41.471321 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of OpenTap.Plugins.LedsGo.dll
+2022-10-03 08:57:41.471321 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-10-03 08:57:41.471321 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of ResultsViewer.exe
+2022-10-03 08:57:41.471321 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of RunExplorer.exe
+2022-10-03 08:57:41.471321 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2022-10-03 08:57:41.471321 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-10-03 08:57:41.471321 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2022-10-03 08:57:41.471321 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-10-03 08:57:41.471321 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-10-03 08:57:41.471321 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-10-03 08:57:41.471321 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2022-10-03 08:57:41.471321 ; PluginManager  ; Debug       ; Searched 38 Assemblies. [421 ms]
+2022-10-03 08:57:41.489316 ; PluginManager  ; Debug       ; Loaded OpenTap. [888 us]
+2022-10-03 08:57:41.500239 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [6.33 ms]
+2022-10-03 08:57:41.500239 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [6.88 ms]
+2022-10-03 08:57:41.502789 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [246 us]
+2022-10-03 08:57:41.520185 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [4.06 ms]
+2022-10-03 08:57:41.612977 ; PluginManager  ; Debug       ; Loaded mscorlib. [700 ns]
+2022-10-03 08:57:41.768562 ; Settings       ; Debug       ; EditorSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [590 ms]
+2022-10-03 08:57:41.927131 ; GUI            ; Debug       ; Loaded Light Theme. [17.0 ms]
+2022-10-03 08:57:41.945091 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2022-10-03 08:57:42.286909 ; Settings       ; Debug       ; GuiControlsSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [188 ms]
+2022-10-03 08:57:42.286909 ; Main           ; Debug       ; Window initial dimensions: 1920px, 1040px.
+2022-10-03 08:57:42.322771 ; Settings       ; Debug       ; EngineSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [33.2 ms]
+2022-10-03 08:57:42.327758 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [1.27 ms]
+2022-10-03 08:57:42.361683 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2022-10-03 08-57-42.txt'. [7.00 ms]
+2022-10-03 08:57:42.840424 ; Main           ; Debug       ; GUI initialized. [552 ms]
+2022-10-03 08:57:42.840424 ; Main           ; Debug       ; Docking manager initialized. [94.5 us]
+2022-10-03 08:57:42.844377 ; OpenTAP        ; Information ; OpenTAP version '9.17.4+ea67c63a' 64-bit initialized 10/03/2022 [2.05 s]
+2022-10-03 08:57:42.878656 ; PluginManager  ; Debug       ; Loaded PackageManager. [354 us]
+2022-10-03 08:57:42.878656 ; PluginManager  ; Debug       ; Loaded Editor. [28.6 us]
+2022-10-03 08:57:42.882682 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [3.70 ms]
+2022-10-03 08:57:42.886633 ; PluginManager  ; Debug       ; Loaded RunExplorer. [3.94 ms]
+2022-10-03 08:57:42.889665 ; Settings       ; Debug       ; ConnectionSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [1.84 ms]
+2022-10-03 08:57:42.891715 ; Settings       ; Debug       ; DutSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [869 us]
+2022-10-03 08:57:42.900639 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.LedsGo. [3.79 ms]
+2022-10-03 08:57:42.907577 ; Settings       ; Debug       ; InstrumentSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [16.2 ms]
+2022-10-03 08:57:42.908575 ; Settings       ; Debug       ; ResultSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [962 us]
+2022-10-03 08:57:43.458112 ; Main           ; Information ; Latest version of 'Keysight Licensing' is 1.2, your version is 1.1. Please consider updating. [613 ms]
+2022-10-03 08:57:43.458112 ; Main           ; Information ; Latest version of 'OpenTAP' is 9.19, your version is 9.17. Please consider updating. [613 ms]
+2022-10-03 08:57:43.458112 ; Main           ; Debug       ; Update check complete. [613 ms]
+2022-10-03 08:57:44.213151 ; Settings       ; Debug       ; PanelSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [2.47 ms]
+2022-10-03 08:57:44.269981 ; Main           ; Debug       ; Application startup finished. [3.48 s]
+2022-10-03 08:58:01.513389 ; Main           ; Debug       ; Loaded Test plan C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTapPrograms\ADELE\ADELE500.TapPlan [679 ms]
+2022-10-03 08:58:06.111278 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-10-03 08:58:06.168207 ; TestPlan       ; Information ; Starting TestPlan 'ADELE500' on 10/03/2022 08:58:06, 33 of 33 TestSteps enabled.
+2022-10-03 08:58:06.279829 ; TestPlan       ; Debug       ; Saved Test Plan XML [17.4 ms]
+2022-10-03 08:58:06.281039 ; Settings       ; Debug       ; No settings file exists for TestPlanRunPackageParameterMonitor. A new instance with default values has been created. [229 us]
+2022-10-03 08:58:08.214042 ; Labjack        ; Information ; Resource "Labjack" opened. [1.83 s]
+2022-10-03 08:58:08.245956 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PrePlanRun completed. [4.73 ms]
+2022-10-03 08:58:08.247303 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PrePlanRun completed. [1.74 ms]
+2022-10-03 08:58:08.247956 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PrePlanRun completed. [620 us]
+2022-10-03 08:58:08.247956 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PrePlanRun completed. [691 us]
+2022-10-03 08:58:08.248950 ; TestPlan       ; Debug       ; "Spanningen controleren \ 48V Meten AIN8" PrePlanRun completed. [616 us]
+2022-10-03 08:58:08.249946 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PrePlanRun completed. [1.46 ms]
+2022-10-03 08:58:08.250943 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PrePlanRun completed. [632 us]
+2022-10-03 08:58:08.251975 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Top EIO3" PrePlanRun completed. [668 us]
+2022-10-03 08:58:08.252442 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Mid EIO1" PrePlanRun completed. [660 us]
+2022-10-03 08:58:08.254014 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Bot CIO2" PrePlanRun completed. [1.17 ms]
+2022-10-03 08:58:08.254932 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning afleggen FIO2" PrePlanRun completed. [1.42 ms]
+2022-10-03 08:58:08.256931 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning aanleggen FIO2" PrePlanRun completed. [1.49 ms]
+2022-10-03 08:58:08.257938 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 500mA Ok AIN4" PrePlanRun completed. [1.49 ms]
+2022-10-03 08:58:08.258922 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 48VMOD inschakelen FIO6" PrePlanRun completed. [1.34 ms]
+2022-10-03 08:58:08.260916 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 4V ingang DAC1" PrePlanRun completed. [1.25 ms]
+2022-10-03 08:58:08.261915 ; TestPlan       ; Debug       ; "Simuleer LED1 \ LED meten AIN4" PrePlanRun completed. [1.66 ms]
+2022-10-03 08:58:08.264088 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 2V ingang DAC1" PrePlanRun completed. [1.63 ms]
+2022-10-03 08:58:08.265905 ; TestPlan       ; Debug       ; "Simuleer LED1 \ LED meten AIN4" PrePlanRun completed. [1.76 ms]
+2022-10-03 08:58:08.267104 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 0V ingang DAC1" PrePlanRun completed. [1.29 ms]
+2022-10-03 08:58:08.268897 ; TestPlan       ; Debug       ; "Simuleer LED1 \ LED meten AIN4" PrePlanRun completed. [1.75 ms]
+2022-10-03 08:58:08.270900 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PrePlanRun completed. [22.1 ms]
+2022-10-03 08:58:08.270900 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [33.3 ms]
+2022-10-03 08:58:08.284894 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" started.
+2022-10-03 08:58:08.294592 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-10-03 08:58:08.300810 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" completed with verdict 'Pass'. [13.7 ms]
+2022-10-03 08:58:08.301808 ; TestPlan       ; Information ; "DALI afleggen FIO4" started.
+2022-10-03 08:58:08.303224 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-10-03 08:58:08.303224 ; TestPlan       ; Information ; "DALI afleggen FIO4" completed with verdict 'Pass'. [1.31 ms]
+2022-10-03 08:58:08.303224 ; TestPlan       ; Information ; "48V inschakelen FIO6" started.
+2022-10-03 08:58:08.304801 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-10-03 08:58:08.304801 ; TestPlan       ; Information ; "48V inschakelen FIO6" completed with verdict 'Pass'. [1.58 ms]
+2022-10-03 08:58:08.304801 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" started.
+2022-10-03 08:58:08.306796 ; TestStep       ; Debug       ; FIO2set to: High
+2022-10-03 08:58:08.306796 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [1.48 ms]
+2022-10-03 08:58:08.306796 ; TestPlan       ; Information ; "Delay 100ms" started.
+2022-10-03 08:58:08.407526 ; TestPlan       ; Information ; "Delay 100ms" completed. [100 ms]
+2022-10-03 08:58:08.407526 ; TestPlan       ; Information ; "Spanningen controleren" started.
+2022-10-03 08:58:08.412514 ; TestPlan       ; Information ; "Spanningen controleren \ 48V Meten AIN8" started.
+2022-10-03 08:58:08.471358 ; TestStep       ; Debug       ; AIN8 measured: 47.6740594017506
+2022-10-03 08:58:08.471358 ; TestPlan       ; Information ; "Spanningen controleren \ 48V Meten AIN8" completed with verdict 'Pass'. [58.2 ms]
+2022-10-03 08:58:08.471358 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" started.
+2022-10-03 08:58:08.516255 ; TestStep       ; Debug       ; AIN1 measured: 3.29762780427933
+2022-10-03 08:58:08.516255 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" completed with verdict 'Pass'. [44.4 ms]
+2022-10-03 08:58:08.519229 ; TestPlan       ; Information ; "Spanningen controleren" completed with verdict 'Pass'. [111 ms]
+2022-10-03 08:58:08.519561 ; TestPlan       ; Information ; "Stromen controleren" started.
+2022-10-03 08:58:08.519561 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" started.
+2022-10-03 08:58:08.573183 ; TestStep       ; Debug       ; AIN0 measured: 17.7593184113503
+2022-10-03 08:58:08.573183 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" completed with verdict 'Pass'. [53.6 ms]
+2022-10-03 08:58:08.573183 ; TestPlan       ; Information ; "Stromen controleren" completed with verdict 'Pass'. [54.0 ms]
+2022-10-03 08:58:08.573183 ; TestPlan       ; Information ; "Soldeerlinken controleren" started.
+2022-10-03 08:58:08.573183 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Top EIO3" started.
+2022-10-03 08:58:08.578171 ; TestStep       ; Debug       ; EIO3read: Low
+2022-10-03 08:58:08.578171 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Top EIO3" completed with verdict 'Pass'. [4.78 ms]
+2022-10-03 08:58:08.578754 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Mid EIO1" started.
+2022-10-03 08:58:08.580232 ; TestStep       ; Debug       ; EIO1read: Low
+2022-10-03 08:58:08.580232 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Mid EIO1" completed with verdict 'Pass'. [1.87 ms]
+2022-10-03 08:58:08.580834 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Bot CIO2" started.
+2022-10-03 08:58:08.582221 ; TestStep       ; Debug       ; CIO2read: Low
+2022-10-03 08:58:08.582810 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Bot CIO2" completed with verdict 'Pass'. [1.77 ms]
+2022-10-03 08:58:08.582810 ; TestPlan       ; Information ; "Soldeerlinken controleren" completed with verdict 'Pass'. [9.15 ms]
+2022-10-03 08:58:08.582810 ; TestPlan       ; Information ; "Programmeren uC DUT" started.
+2022-10-03 08:58:08.583059 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" started.
+2022-10-03 08:58:08.592457 ; TestStep       ; Debug       ; Starting process ..\..\..\..\..\..\..\..\Program Files\SEGGER\JLink\JLink.exe with arguments "-commanderscript AppFirmware.jlink"
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; SEGGER J-Link Commander V7.62b (Compiled Mar  8 2022 15:16:51)
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; DLL version V7.62b, compiled Mar  8 2022 15:15:34
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; 
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; 
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; J-Link Command File read successfully.
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; Processing script file...
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; J-Link>device MKL03Z32xxx4
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; J-Link connection not established yet but required for command.
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; Connecting to J-Link via USB...O.K.
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; Firmware: J-Link V11 compiled Sep 22 2022 14:53:28
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; Hardware version: V11.00
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; S/N: 51020380
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; License(s): GDB
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; USB speed mode: High speed (480 MBit/s)
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; VTref=3.300V (fixed)
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; J-Link>si SWD
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; Selecting SWD as current target interface.
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; J-Link>speed 1000
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; Selecting 1000 kHz as target interface speed
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; J-Link>Sleep 600
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; Sleep(600)
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; J-Link>loadfile C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\ADELE\MDL_v3.0.hex, 0x00
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; Target connection not established yet but required for command.
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; Device "MKL03Z32XXX4" selected.
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; 
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; 
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; Connecting to target via SWD
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; ConfigTargetSettings() start
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; ConfigTargetSettings() end
+2022-10-03 08:58:10.983133 ; TestStep       ; Information ; InitTarget() start
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; InitTarget()
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; Protection bytes in flash at addr. 0x400 - 0x40F indicate that readout protection is set.
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; For debugger connection the device needs to be unsecured.
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; Note: Unsecuring will trigger a mass erase of the internal flash.
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; Executing default behavior previously saved in the registry.
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; Device will be unsecured now.
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; InitTarget() end
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; Found SW-DP with ID 0x0BC11477
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; DPIDR: 0x0BC11477
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; CoreSight SoC-400 or earlier
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; AP map detection skipped. Manually configured AP map found.
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; AP[0]: AHB-AP (IDR: Not set)
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; AP[1]: MEM-AP (IDR: Not set)
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; AP[0]: Core found
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; AP[0]: AHB-AP ROM base: 0xF0002000
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; CPUID register: 0x410CC601. Implementer code: 0x41 (ARM)
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; Found Cortex-M0 r0p1, Little endian.
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; FPUnit: 2 code (BP) slots and 0 literal slots
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; CoreSight components:
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; ROMTbl[0] @ F0002000
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; [0][0]: F0000000 CID B105900D PID 001BB932 MTB-M0+
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; [0][1]: F0001000 CID B105900D PID 0008E000 MTBDWT
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; [0][2]: E00FF000 CID B105100D PID 000BB4C0 ROM Table
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; ROMTbl[1] @ E00FF000
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; [1][0]: E000E000 CID B105E00D PID 000BB008 SCS
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; [1][1]: E0001000 CID B105E00D PID 000BB00A DWT
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; [1][2]: E0002000 CID B105E00D PID 000BB00B FPB
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; Cortex-M0 identified.
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; Downloading file [C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\ADELE\MDL_v3.0.hex]...
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; J-Link: Flash download: Bank 0 @ 0x00000000: 2 ranges affected (16384 bytes)
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; J-Link: Flash download: Total: 1.198s (Prepare: 0.137s, Compare: 0.196s, Erase: 0.043s, Program & Verify: 0.782s, Restore: 0.038s)
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; J-Link: Flash download: Program & Verify speed: 20 KB/s
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; O.K.
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; J-Link>r
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; Reset delay: 0 ms
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; Reset type NORMAL: Resets core & peripherals via SYSRESETREQ & VECTRESET bit.
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; Reset: Halt core after reset via DEMCR.VC_CORERESET.
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; Reset: Reset device via AIRCR.SYSRESETREQ.
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; J-Link>g
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; J-Link>qc
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; 
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; Script processing completed.
+2022-10-03 08:58:10.984132 ; TestStep       ; Information ; 
+2022-10-03 08:58:11.022084 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" completed with verdict 'Pass'. [2.43 s]
+2022-10-03 08:58:11.022084 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning afleggen FIO2" started.
+2022-10-03 08:58:11.025078 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-10-03 08:58:11.025245 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning afleggen FIO2" completed with verdict 'Pass'. [2.92 ms]
+2022-10-03 08:58:11.025245 ; TestPlan       ; Information ; "Programmeren uC DUT \ Delay 500ms" started.
+2022-10-03 08:58:11.525398 ; TestPlan       ; Information ; "Programmeren uC DUT \ Delay 500ms" completed. [500 ms]
+2022-10-03 08:58:11.526245 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning aanleggen FIO2" started.
+2022-10-03 08:58:11.527728 ; TestStep       ; Debug       ; FIO2set to: High
+2022-10-03 08:58:11.527728 ; TestPlan       ; Information ; "Programmeren uC DUT \ Spanning aanleggen FIO2" completed with verdict 'Pass'. [1.79 ms]
+2022-10-03 08:58:11.528238 ; TestPlan       ; Information ; "Programmeren uC DUT" completed with verdict 'Pass'. [2.94 s]
+2022-10-03 08:58:11.528348 ; TestPlan       ; Information ; "Delay 1s" started.
+2022-10-03 08:58:12.527889 ; TestPlan       ; Information ; "Delay 1s" completed. [1.00 s]
+2022-10-03 08:58:12.527889 ; TestPlan       ; Information ; "Simuleer LED1" started.
+2022-10-03 08:58:12.528833 ; TestPlan       ; Information ; "Simuleer LED1 \ 500mA Ok AIN4" started.
+2022-10-03 08:58:12.564779 ; TestStep       ; Debug       ; AIN4 measured: 487.115458011627
+2022-10-03 08:58:12.564779 ; TestPlan       ; Information ; "Simuleer LED1 \ 500mA Ok AIN4" completed with verdict 'Pass'. [36.2 ms]
+2022-10-03 08:58:12.564779 ; TestPlan       ; Information ; "Simuleer LED1 \ 48VMOD inschakelen FIO6" started.
+2022-10-03 08:58:12.565780 ; TestStep       ; Debug       ; FIO6set to: High
+2022-10-03 08:58:12.566815 ; TestPlan       ; Information ; "Simuleer LED1 \ 48VMOD inschakelen FIO6" completed with verdict 'Pass'. [1.51 ms]
+2022-10-03 08:58:12.566815 ; TestPlan       ; Information ; "Simuleer LED1 \ 4V ingang DAC1" started.
+2022-10-03 08:58:12.571760 ; TestStep       ; Debug       ; Undefinedset to voltage: Pass
+2022-10-03 08:58:12.572761 ; TestPlan       ; Information ; "Simuleer LED1 \ 4V ingang DAC1" completed with verdict 'Pass'. [5.79 ms]
+2022-10-03 08:58:12.572761 ; TestPlan       ; Information ; "Simuleer LED1 \ Delay 800ms" started.
+2022-10-03 08:58:13.373876 ; TestPlan       ; Information ; "Simuleer LED1 \ Delay 800ms" completed. [800 ms]
+2022-10-03 08:58:13.373876 ; TestPlan       ; Information ; "Simuleer LED1 \ LED meten AIN4" started.
+2022-10-03 08:58:13.427737 ; TestStep       ; Debug       ; AIN4 measured: 61.1956005692482
+2022-10-03 08:58:13.427737 ; TestPlan       ; Information ; "Simuleer LED1 \ LED meten AIN4" completed with verdict 'Pass'. [53.9 ms]
+2022-10-03 08:58:13.428434 ; TestPlan       ; Information ; "Simuleer LED1 \ 2V ingang DAC1" started.
+2022-10-03 08:58:13.431729 ; TestStep       ; Debug       ; Undefinedset to voltage: Pass
+2022-10-03 08:58:13.431729 ; TestPlan       ; Information ; "Simuleer LED1 \ 2V ingang DAC1" completed with verdict 'Pass'. [3.70 ms]
+2022-10-03 08:58:13.431729 ; TestPlan       ; Information ; "Simuleer LED1 \ Delay 800ms" started.
+2022-10-03 08:58:14.232634 ; TestPlan       ; Information ; "Simuleer LED1 \ Delay 800ms" completed. [800 ms]
+2022-10-03 08:58:14.232634 ; TestPlan       ; Information ; "Simuleer LED1 \ LED meten AIN4" started.
+2022-10-03 08:58:14.276512 ; TestStep       ; Debug       ; AIN4 measured: 29.8900075256824
+2022-10-03 08:58:14.277477 ; TestPlan       ; Information ; "Simuleer LED1 \ LED meten AIN4" completed with verdict 'Pass'. [44.7 ms]
+2022-10-03 08:58:14.277477 ; TestPlan       ; Information ; "Simuleer LED1 \ 0V ingang DAC1" started.
+2022-10-03 08:58:14.280610 ; TestPlan       ; Information ; "Simuleer LED1 \ 0V ingang DAC1" completed with verdict 'Pass'. [3.21 ms]
+2022-10-03 08:58:14.280610 ; TestPlan       ; Information ; "Simuleer LED1 \ Delay 800ms" started.
+2022-10-03 08:58:15.081400 ; TestPlan       ; Information ; "Simuleer LED1 \ Delay 800ms" completed. [800 ms]
+2022-10-03 08:58:15.081400 ; TestPlan       ; Information ; "Simuleer LED1 \ LED meten AIN4" started.
+2022-10-03 08:58:15.128223 ; TestStep       ; Debug       ; AIN4 measured: 0
+2022-10-03 08:58:15.128223 ; TestPlan       ; Information ; "Simuleer LED1 \ LED meten AIN4" completed with verdict 'Pass'. [46.6 ms]
+2022-10-03 08:58:15.128223 ; TestPlan       ; Information ; "Simuleer LED1" completed with verdict 'Pass'. [2.60 s]
+2022-10-03 08:58:15.128223 ; TestPlan       ; Information ; "48V naar DUT afleggen einde FIO2" started.
+2022-10-03 08:58:15.129220 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-10-03 08:58:15.130297 ; TestPlan       ; Information ; "48V naar DUT afleggen einde FIO2" completed with verdict 'Pass'. [1.38 ms]
+2022-10-03 08:58:15.130297 ; TestPlan       ; Debug       ; Test step runs finished. [6.86 s]
+2022-10-03 08:58:15.141225 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PostPlanRun completed. [2.60 ms]
+2022-10-03 08:58:15.141225 ; TestPlan       ; Debug       ; "Simuleer LED1 \ LED meten AIN4" PostPlanRun completed. [34.3 us]
+2022-10-03 08:58:15.141225 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 0V ingang DAC1" PostPlanRun completed. [9.40 us]
+2022-10-03 08:58:15.141225 ; TestPlan       ; Debug       ; "Simuleer LED1 \ LED meten AIN4" PostPlanRun completed. [8.40 us]
+2022-10-03 08:58:15.141225 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 2V ingang DAC1" PostPlanRun completed. [21.2 us]
+2022-10-03 08:58:15.141225 ; TestPlan       ; Debug       ; "Simuleer LED1 \ LED meten AIN4" PostPlanRun completed. [8.30 us]
+2022-10-03 08:58:15.141225 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 4V ingang DAC1" PostPlanRun completed. [16.6 us]
+2022-10-03 08:58:15.141225 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 48VMOD inschakelen FIO6" PostPlanRun completed. [23.8 us]
+2022-10-03 08:58:15.141225 ; TestPlan       ; Debug       ; "Simuleer LED1 \ 500mA Ok AIN4" PostPlanRun completed. [16.4 us]
+2022-10-03 08:58:15.141225 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning aanleggen FIO2" PostPlanRun completed. [25.1 us]
+2022-10-03 08:58:15.141225 ; TestPlan       ; Debug       ; "Programmeren uC DUT \ Spanning afleggen FIO2" PostPlanRun completed. [173 us]
+2022-10-03 08:58:15.141225 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Bot CIO2" PostPlanRun completed. [53.3 us]
+2022-10-03 08:58:15.141225 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Mid EIO1" PostPlanRun completed. [46.7 us]
+2022-10-03 08:58:15.141225 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Top EIO3" PostPlanRun completed. [65.0 us]
+2022-10-03 08:58:15.142191 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PostPlanRun completed. [28.3 us]
+2022-10-03 08:58:15.142191 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PostPlanRun completed. [9.90 us]
+2022-10-03 08:58:15.142191 ; TestPlan       ; Debug       ; "Spanningen controleren \ 48V Meten AIN8" PostPlanRun completed. [7.80 us]
+2022-10-03 08:58:15.142191 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PostPlanRun completed. [13.4 us]
+2022-10-03 08:58:15.142191 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PostPlanRun completed. [7.70 us]
+2022-10-03 08:58:15.142191 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PostPlanRun completed. [7.80 us]
+2022-10-03 08:58:15.142191 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PostPlanRun completed. [9.19 us]
+2022-10-03 08:58:15.167154 ; Summary        ; Information ; -------- Summary of test plan started 10/03/2022 08:58:06 --------
+2022-10-03 08:58:15.173100 ; Summary        ; Information ;  48V nr DUT afleggen begin FIO2                     13.7 ms  Pass   
+2022-10-03 08:58:15.173100 ; Summary        ; Information ;  DALI afleggen FIO4                                 1.31 ms  Pass   
+2022-10-03 08:58:15.173100 ; Summary        ; Information ;  48V inschakelen FIO6                               1.58 ms  Pass   
+2022-10-03 08:58:15.173100 ; Summary        ; Information ;  48V nr DUT aanleggen FIO2                          1.48 ms  Pass   
+2022-10-03 08:58:15.173100 ; Summary        ; Information ;  Delay 100ms                                         100 ms         
+2022-10-03 08:58:15.173100 ; Summary        ; Information ;  Spanningen controleren                              111 ms  Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;    48V Meten AIN8                                   58.2 ms  Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;    3V3 Meten AIN1                                   44.4 ms  Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;  Stromen controleren                                54.0 ms  Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;    DUT nt kortgesloten AIN0                         53.6 ms  Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;  Soldeerlinken controleren                          9.15 ms  Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;    SL Top EIO3                                      4.78 ms  Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;    SL Mid EIO1                                      1.87 ms  Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;    SL Bot CIO2                                      1.77 ms  Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;  Programmeren uC DUT                                2.94 s   Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;    Run Program                                      2.43 s   Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;    Spanning afleggen FIO2                           2.92 ms  Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;    Delay 500ms                                       500 ms         
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;    Spanning aanleggen FIO2                          1.79 ms  Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;  Delay 1s                                           1.00 s          
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;  Simuleer LED1                                      2.60 s   Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;    500mA Ok AIN4                                    36.2 ms  Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;    48VMOD inschakelen FIO6                          1.51 ms  Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;    4V ingang DAC1                                   5.79 ms  Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;    Delay 800ms                                       800 ms         
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;    LED meten AIN4                                   53.9 ms  Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;    2V ingang DAC1                                   3.70 ms  Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;    Delay 800ms                                       800 ms         
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;    LED meten AIN4                                   44.7 ms  Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;    0V ingang DAC1                                   3.21 ms  Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;    Delay 800ms                                       800 ms         
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;    LED meten AIN4                                   46.6 ms  Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ;  48V naar DUT afleggen einde FIO2                   1.38 ms  Pass   
+2022-10-03 08:58:15.174157 ; Summary        ; Information ; ------------------------------------------------------------------
+2022-10-03 08:58:15.176125 ; Summary        ; Information ; ----------- Test plan completed successfully in 8.86 s -----------
+2022-10-03 08:58:15.195109 ; Labjack        ; Information ; Resource "Labjack" closed. [6.10 us]
+2022-10-03 08:58:22.848510 ; Settings       ; Debug       ; Saved GuiControlsSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [11.7 ms]
+2022-10-03 08:58:22.866471 ; Settings       ; Debug       ; Saved PanelSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [1.54 ms]
+2022-10-03 08:58:22.869460 ; Settings       ; Debug       ; Saved EditorSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [2.61 ms]

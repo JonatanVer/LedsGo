@@ -1,0 +1,9 @@
+device MKL16Z32xxx4
+si SWD
+speed 1000
+Sleep 600
+erase
+loadfile C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\TX48ED9\Tx-DIM9_v1.3.hex, 0x00
+r
+g
+qc

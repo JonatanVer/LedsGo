@@ -1,0 +1,1714 @@
+﻿2022-07-27 14:40:53.899632 ; Session        ; Debug       ; Session log loaded as 'C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\editor 2022-07-27 14-40-53.txt'. [10.1 ms]
+2022-07-27 14:40:53.936540 ; Session        ; Debug       ; Running '"C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\editor.exe" ' in 'C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2022-07-27 14:40:54.068550 ; Session        ; Debug       ; Microsoft Windows 10.0.19044 X64
+2022-07-27 14:40:54.068550 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2022-07-27 14:40:54.090492 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2022-07-27 14:40:54.097474 ; AssemblyFinder ; Debug       ; Found 38/93 assembly files. [25.3 ms]
+2022-07-27 14:40:54.135373 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-07-27 14:40:54.211169 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-07-27 14:40:54.316893 ; Searcher       ; Debug       ; Ordered 34 assemblies according to references. [213 ms]
+2022-07-27 14:40:54.584174 ; PluginManager  ; Debug       ; Found 18 plugin assemblies containing 267 plugin types. [483 ms]
+2022-07-27 14:40:54.586173 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2022-07-27 14:40:54.586173 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2022-07-27 14:40:54.586173 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2022-07-27 14:40:54.586173 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2022-07-27 14:40:54.586173 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2022-07-27 14:40:54.586173 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2022-07-27 14:40:54.586173 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2022-07-27 14:40:54.586173 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of OpenTap.Plugins.LedsGo.dll
+2022-07-27 14:40:54.586173 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-07-27 14:40:54.586173 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of ResultsViewer.exe
+2022-07-27 14:40:54.586173 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of RunExplorer.exe
+2022-07-27 14:40:54.586173 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2022-07-27 14:40:54.586173 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-07-27 14:40:54.586173 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2022-07-27 14:40:54.586173 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-07-27 14:40:54.586173 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-07-27 14:40:54.586173 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-07-27 14:40:54.586173 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2022-07-27 14:40:54.586173 ; PluginManager  ; Debug       ; Searched 38 Assemblies. [485 ms]
+2022-07-27 14:40:54.605120 ; PluginManager  ; Debug       ; Loaded OpenTap. [1.08 ms]
+2022-07-27 14:40:54.632047 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [607 us]
+2022-07-27 14:40:54.654003 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [31.0 ms]
+2022-07-27 14:40:54.664961 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [44.1 ms]
+2022-07-27 14:40:54.724800 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [15.2 ms]
+2022-07-27 14:40:54.866422 ; PluginManager  ; Debug       ; Loaded mscorlib. [1.20 us]
+2022-07-27 14:40:55.139692 ; Settings       ; Debug       ; EditorSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [759 ms]
+2022-07-27 14:40:55.324200 ; GUI            ; Debug       ; Loaded Light Theme. [16.6 ms]
+2022-07-27 14:40:55.355117 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2022-07-27 14:40:55.709172 ; Settings       ; Debug       ; GuiControlsSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [202 ms]
+2022-07-27 14:40:55.709172 ; Main           ; Debug       ; Window initial dimensions: 1934px, 1054px.
+2022-07-27 14:40:55.743082 ; Settings       ; Debug       ; EngineSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [32.7 ms]
+2022-07-27 14:40:55.748067 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [1.51 ms]
+2022-07-27 14:40:55.776991 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2022-07-27 14-40-55.txt'. [7.41 ms]
+2022-07-27 14:40:56.205139 ; Main           ; Debug       ; GUI initialized. [495 ms]
+2022-07-27 14:40:56.205139 ; Main           ; Debug       ; Docking manager initialized. [61.3 us]
+2022-07-27 14:40:56.208131 ; OpenTAP        ; Information ; OpenTAP version '9.17.4+ea67c63a' 64-bit initialized 07/27/2022 [2.66 s]
+2022-07-27 14:40:56.276947 ; PluginManager  ; Debug       ; Loaded PackageManager. [370 us]
+2022-07-27 14:40:56.276947 ; PluginManager  ; Debug       ; Loaded Editor. [28.2 us]
+2022-07-27 14:40:56.283929 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [6.58 ms]
+2022-07-27 14:40:56.291908 ; PluginManager  ; Debug       ; Loaded RunExplorer. [7.36 ms]
+2022-07-27 14:40:56.293903 ; Settings       ; Debug       ; ConnectionSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [1.31 ms]
+2022-07-27 14:40:56.294901 ; Settings       ; Debug       ; DutSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [583 us]
+2022-07-27 14:40:56.307973 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.LedsGo. [9.27 ms]
+2022-07-27 14:40:56.318945 ; Settings       ; Debug       ; InstrumentSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [24.4 ms]
+2022-07-27 14:40:56.319944 ; Settings       ; Debug       ; ResultSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [971 us]
+2022-07-27 14:40:56.715003 ; Main           ; Information ; Latest version of 'Keysight Licensing' is 1.2, your version is 1.1. Please consider updating. [505 ms]
+2022-07-27 14:40:56.715003 ; Main           ; Information ; Latest version of 'OpenTAP' is 9.18, your version is 9.17. Please consider updating. [505 ms]
+2022-07-27 14:40:56.715003 ; Main           ; Debug       ; Update check complete. [505 ms]
+2022-07-27 14:40:57.691903 ; Settings       ; Debug       ; PanelSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [1.90 ms]
+2022-07-27 14:40:58.720224 ; Main           ; Debug       ; Application startup finished. [5.17 s]
+2022-07-27 14:41:03.266468 ; Main           ; Debug       ; Loaded Test plan C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTapPrograms\TX48ED9.TapPlan [639 ms]
+2022-07-27 14:41:08.126693 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-27 14:41:08.168582 ; TestPlan       ; Information ; Starting TestPlan 'TX48ED9' on 07/27/2022 14:41:08, 35 of 36 TestSteps enabled.
+2022-07-27 14:41:08.243382 ; TestPlan       ; Debug       ; Saved Test Plan XML [9.25 ms]
+2022-07-27 14:41:08.245413 ; Settings       ; Debug       ; No settings file exists for TestPlanRunPackageParameterMonitor. A new instance with default values has been created. [142 us]
+2022-07-27 14:41:10.330049 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:41:10.331105 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:41:11.123899 ; Labjack        ; Information ; Resource "Labjack" opened. [2.81 s]
+2022-07-27 14:41:11.141851 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PrePlanRun completed. [2.81 ms]
+2022-07-27 14:41:11.141851 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PrePlanRun completed. [599 us]
+2022-07-27 14:41:11.141851 ; TestPlan       ; Debug       ; "DIM uitschakelen EIO6" PrePlanRun completed. [37.9 us]
+2022-07-27 14:41:11.141851 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PrePlanRun completed. [33.5 us]
+2022-07-27 14:41:11.141851 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PrePlanRun completed. [27.9 us]
+2022-07-27 14:41:11.142849 ; TestPlan       ; Debug       ; "Spanningen controleren \ 48V Meten AIN8" PrePlanRun completed. [24.3 us]
+2022-07-27 14:41:11.142849 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PrePlanRun completed. [355 us]
+2022-07-27 14:41:11.142849 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PrePlanRun completed. [21.7 us]
+2022-07-27 14:41:11.142849 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM inschakelen EIO6" PrePlanRun completed. [28.5 us]
+2022-07-27 14:41:11.142849 ; TestPlan       ; Debug       ; "Stromen controleren \ 200uA Meten AIN12" PrePlanRun completed. [26.5 us]
+2022-07-27 14:41:11.142849 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM uitschakelen EIO6" PrePlanRun completed. [36.3 us]
+2022-07-27 14:41:11.142849 ; TestPlan       ; Debug       ; "DALI \ DALI aanleggen FIO4" PrePlanRun completed. [22.7 us]
+2022-07-27 14:41:11.142849 ; TestPlan       ; Debug       ; "DALI \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PrePlanRun completed. [247 us]
+2022-07-27 14:41:11.142849 ; TestPlan       ; Debug       ; "DALI \ Stroom door de diodes meten LED1 AIN4" PrePlanRun completed. [294 us]
+2022-07-27 14:41:11.142849 ; TestPlan       ; Debug       ; "DALI \ DALI afleggen FIO4" PrePlanRun completed. [70.2 us]
+2022-07-27 14:41:11.142849 ; TestPlan       ; Debug       ; "DALI \ 48V naar DUT afleggen FIO2" PrePlanRun completed. [37.2 us]
+2022-07-27 14:41:11.142849 ; TestPlan       ; Debug       ; "48VMOD \ 48V nr DUT aanleggen FIO2" PrePlanRun completed. [24.7 us]
+2022-07-27 14:41:11.142849 ; TestPlan       ; Debug       ; "48VMOD \ 500mA OK AIN4" PrePlanRun completed. [37.8 us]
+2022-07-27 14:41:11.142849 ; TestPlan       ; Debug       ; "48VMOD \ DIM nr GND EIO6" PrePlanRun completed. [27.5 us]
+2022-07-27 14:41:11.142849 ; TestPlan       ; Debug       ; "48VMOD \ 0mA OK AIN4" PrePlanRun completed. [26.2 us]
+2022-07-27 14:41:11.142849 ; TestPlan       ; Debug       ; "48VMOD \ DIM nt nr GND EIO6" PrePlanRun completed. [24.7 us]
+2022-07-27 14:41:11.142849 ; TestPlan       ; Debug       ; "48VMOD \ 500mA OK AIN4" PrePlanRun completed. [31.0 us]
+2022-07-27 14:41:11.143845 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PrePlanRun completed. [1.32 ms]
+2022-07-27 14:41:11.143845 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [6.64 ms]
+2022-07-27 14:41:11.153818 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" started.
+2022-07-27 14:41:11.159841 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-27 14:41:11.166784 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" completed with verdict 'Pass'. [11.9 ms]
+2022-07-27 14:41:11.167781 ; TestPlan       ; Information ; "DALI afleggen FIO4" started.
+2022-07-27 14:41:11.168779 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-27 14:41:11.169777 ; TestPlan       ; Information ; "DALI afleggen FIO4" completed with verdict 'Pass'. [1.33 ms]
+2022-07-27 14:41:11.169777 ; TestPlan       ; Information ; "DIM uitschakelen EIO6" started.
+2022-07-27 14:41:11.170774 ; TestStep       ; Debug       ; EIO6set to: Low
+2022-07-27 14:41:11.170774 ; TestPlan       ; Information ; "DIM uitschakelen EIO6" completed with verdict 'Pass'. [1.13 ms]
+2022-07-27 14:41:11.170774 ; TestPlan       ; Information ; "48V inschakelen FIO6" started.
+2022-07-27 14:41:11.172154 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-27 14:41:11.172154 ; TestPlan       ; Information ; "48V inschakelen FIO6" completed with verdict 'Pass'. [1.15 ms]
+2022-07-27 14:41:11.172154 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" started.
+2022-07-27 14:41:11.173516 ; TestStep       ; Debug       ; FIO2set to: High
+2022-07-27 14:41:11.173516 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [1.22 ms]
+2022-07-27 14:41:11.173516 ; TestPlan       ; Information ; "Delay 100ms" started.
+2022-07-27 14:41:11.273316 ; TestPlan       ; Information ; "Delay 100ms" completed. [100 ms]
+2022-07-27 14:41:11.274251 ; TestPlan       ; Information ; "Spanningen controleren" started.
+2022-07-27 14:41:11.277250 ; TestPlan       ; Information ; "Spanningen controleren \ 48V Meten AIN8" started.
+2022-07-27 14:41:11.320128 ; TestStep       ; Debug       ; AIN8 measured: 47.9267289626598
+2022-07-27 14:41:11.320128 ; TestPlan       ; Information ; "Spanningen controleren \ 48V Meten AIN8" completed with verdict 'Pass'. [43.1 ms]
+2022-07-27 14:41:11.320128 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" started.
+2022-07-27 14:41:11.361019 ; TestStep       ; Debug       ; AIN1 measured: 3.28584222078323
+2022-07-27 14:41:11.362015 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" completed with verdict 'Pass'. [40.8 ms]
+2022-07-27 14:41:11.363012 ; TestPlan       ; Information ; "Spanningen controleren" completed with verdict 'Pass'. [89.5 ms]
+2022-07-27 14:41:11.363012 ; TestPlan       ; Information ; "Stromen controleren" started.
+2022-07-27 14:41:11.363012 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" started.
+2022-07-27 14:41:11.401911 ; TestStep       ; Debug       ; AIN0 measured: 0.173014892897336
+2022-07-27 14:41:11.401911 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" completed with verdict 'Pass'. [38.6 ms]
+2022-07-27 14:41:11.401911 ; TestPlan       ; Information ; "Stromen controleren \ DIM inschakelen EIO6" started.
+2022-07-27 14:41:11.402907 ; TestStep       ; Debug       ; EIO6set to: High
+2022-07-27 14:41:11.402907 ; TestPlan       ; Information ; "Stromen controleren \ DIM inschakelen EIO6" completed with verdict 'Pass'. [572 us]
+2022-07-27 14:41:11.402907 ; TestPlan       ; Information ; "Stromen controleren \ 200uA Meten AIN12" started.
+2022-07-27 14:41:11.442801 ; TestStep       ; Debug       ; AIN12 measured: 1.07910357356071
+2022-07-27 14:41:11.442801 ; TestPlan       ; Information ; "Stromen controleren \ 200uA Meten AIN12" completed with verdict 'Pass'. [40.2 ms]
+2022-07-27 14:41:11.443800 ; TestPlan       ; Information ; "Stromen controleren \ DIM uitschakelen EIO6" started.
+2022-07-27 14:41:11.444796 ; TestStep       ; Debug       ; EIO6set to: Low
+2022-07-27 14:41:11.444796 ; TestPlan       ; Information ; "Stromen controleren \ DIM uitschakelen EIO6" completed with verdict 'Pass'. [1.21 ms]
+2022-07-27 14:41:11.444796 ; TestPlan       ; Information ; "Stromen controleren" completed with verdict 'Pass'. [81.3 ms]
+2022-07-27 14:41:11.444796 ; TestPlan       ; Information ; "Programmeren uC DUT" started.
+2022-07-27 14:41:11.445820 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" started.
+2022-07-27 14:41:11.449782 ; TestStep       ; Debug       ; Starting process ..\..\..\..\..\..\..\..\Program Files\SEGGER\JLink\JLink.exe with arguments "-commanderscript AppFirmware.jlink"
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; SEGGER J-Link Commander V7.62b (Compiled Mar  8 2022 15:16:51)
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; DLL version V7.62b, compiled Mar  8 2022 15:15:34
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; 
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; 
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; J-Link Command File read successfully.
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; Processing script file...
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; J-Link>device MKL16Z32xxx4
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; J-Link connection not established yet but required for command.
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; Connecting to J-Link via USB...O.K.
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; Firmware: J-Link V11 compiled Mar  3 2022 10:16:14
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; Hardware version: V11.00
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; S/N: 51020380
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; License(s): GDB
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; USB speed mode: High speed (480 MBit/s)
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; VTref=3.296V
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; J-Link>si SWD
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; Selecting SWD as current target interface.
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; J-Link>speed 1000
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; Selecting 1000 kHz as target interface speed
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; J-Link>Sleep 600
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; Sleep(600)
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; J-Link>erase
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; Target connection not established yet but required for command.
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; Device "MKL16Z32XXX4" selected.
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; 
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; 
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; Connecting to target via SWD
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; ConfigTargetSettings() start
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; ConfigTargetSettings() end
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; InitTarget() start
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; InitTarget()
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; InitTarget() end
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; Found SW-DP with ID 0x0BC11477
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; DPIDR: 0x0BC11477
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; CoreSight SoC-400 or earlier
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; AP map detection skipped. Manually configured AP map found.
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; AP[0]: AHB-AP (IDR: Not set)
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; AP[1]: MEM-AP (IDR: Not set)
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; AP[0]: Core found
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; AP[0]: AHB-AP ROM base: 0xF0002000
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; CPUID register: 0x410CC600. Implementer code: 0x41 (ARM)
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; Found Cortex-M0 r0p0, Little endian.
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; FPUnit: 2 code (BP) slots and 0 literal slots
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; CoreSight components:
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; ROMTbl[0] @ F0002000
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; [0][0]: F0000000 CID B105900D PID 000BB932 MTB-M0+
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; [0][1]: F0001000 CID B105900D PID 0008E000 MTBDWT
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; [0][2]: E00FF000 CID B105100D PID 000BB4C0 ROM Table
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; ROMTbl[1] @ E00FF000
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; [1][0]: E000E000 CID B105E00D PID 000BB008 SCS
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; [1][1]: E0001000 CID B105E00D PID 000BB00A DWT
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; [1][2]: E0002000 CID B105E00D PID 000BB00B FPB
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; Cortex-M0 identified.
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; Without any given address range, Erase Chip will be executed
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; Erasing device...
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; J-Link: Flash download: Total time needed: 0.686s (Prepare: 0.069s, Compare: 0.000s, Erase: 0.608s, Program: 0.000s, Verify: 0.000s, Restore: 0.008s)
+2022-07-27 14:41:13.829013 ; TestStep       ; Information ; Erasing done.
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; J-Link>loadfile C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\TX48E9\Tx-DIM9_v1.3.hex, 0x00
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Downloading file [C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\TX48E9\Tx-DIM9_v1.3.hex]...
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Failed to open file.
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; J-Link>r
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Reset delay: 0 ms
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Reset type NORMAL: Resets core & peripherals via SYSRESETREQ & VECTRESET bit.
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Reset: Halt core after reset via DEMCR.VC_CORERESET.
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Reset: Reset device via AIRCR.SYSRESETREQ.
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Reset: SYSRESETREQ has confused core.
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Found SW-DP with ID 0x0BC11477
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; DPIDR: 0x0BC11477
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; CoreSight SoC-400 or earlier
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; AP map detection skipped. Manually configured AP map found.
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; AP[0]: AHB-AP (IDR: Not set)
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; AP[1]: MEM-AP (IDR: Not set)
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; AP[0]: Skipped. Could not read CPUID register
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Reset: Using fallback: Reset pin.
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Reset: Halt core after reset via DEMCR.VC_CORERESET.
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Reset: Reset device via reset pin
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Reset: VC_CORERESET did not halt CPU. (Debug logic also reset by reset pin?).
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Reset: Reconnecting and manually halting CPU.
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Found SW-DP with ID 0x0BC11477
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; DPIDR: 0x0BC11477
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; CoreSight SoC-400 or earlier
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; AP map detection skipped. Manually configured AP map found.
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; AP[0]: AHB-AP (IDR: Not set)
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; AP[1]: MEM-AP (IDR: Not set)
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; AP[0]: Skipped. Could not read CPUID register
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; CPU could not be halted
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Reset: Core is locked-up, trying to disable WDT.
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Reset: Halt core after reset via DEMCR.VC_CORERESET.
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Reset: Reset device via reset pin
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Reset: VC_CORERESET did not halt CPU. (Debug logic also reset by reset pin?).
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Reset: Reconnecting and manually halting CPU.
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Found SW-DP with ID 0x0BC11477
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; DPIDR: 0x0BC11477
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; CoreSight SoC-400 or earlier
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; AP map detection skipped. Manually configured AP map found.
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; AP[0]: AHB-AP (IDR: Not set)
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; AP[1]: MEM-AP (IDR: Not set)
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; AP[0]: Skipped. Could not read CPUID register
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; CPU could not be halted
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Reset: Failed. Toggling reset pin and trying reset strategy again.
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Found SW-DP with ID 0x0BC11477
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; DPIDR: 0x0BC11477
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; CoreSight SoC-400 or earlier
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; AP map detection skipped. Manually configured AP map found.
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; AP[0]: AHB-AP (IDR: Not set)
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; AP[1]: MEM-AP (IDR: Not set)
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; AP[0]: Skipped. Could not read CPUID register
+2022-07-27 14:41:13.830014 ; TestStep       ; Information ; Reset: Halt core after reset via DEMCR.VC_CORERESET.
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; Reset: Reset device via AIRCR.SYSRESETREQ.
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; Reset: SYSRESETREQ has confused core.
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; Found SW-DP with ID 0x0BC11477
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; DPIDR: 0x0BC11477
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; CoreSight SoC-400 or earlier
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; AP map detection skipped. Manually configured AP map found.
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; AP[0]: AHB-AP (IDR: Not set)
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; AP[1]: MEM-AP (IDR: Not set)
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; AP[0]: Skipped. Could not read CPUID register
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; Reset: Using fallback: Reset pin.
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; Reset: Halt core after reset via DEMCR.VC_CORERESET.
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; Reset: Reset device via reset pin
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; Reset: VC_CORERESET did not halt CPU. (Debug logic also reset by reset pin?).
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; Reset: Reconnecting and manually halting CPU.
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; Found SW-DP with ID 0x0BC11477
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; DPIDR: 0x0BC11477
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; CoreSight SoC-400 or earlier
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; AP map detection skipped. Manually configured AP map found.
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; AP[0]: AHB-AP (IDR: Not set)
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; AP[1]: MEM-AP (IDR: Not set)
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; AP[0]: Skipped. Could not read CPUID register
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; CPU could not be halted
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; Reset: Core is locked-up, trying to disable WDT.
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; Reset: Halt core after reset via DEMCR.VC_CORERESET.
+2022-07-27 14:41:14.504212 ; TestStep       ; Information ; Reset: Reset device via reset pin
+2022-07-27 14:41:14.505209 ; TestStep       ; Information ; Reset: VC_CORERESET did not halt CPU. (Debug logic also reset by reset pin?).
+2022-07-27 14:41:14.505209 ; TestStep       ; Information ; Reset: Reconnecting and manually halting CPU.
+2022-07-27 14:41:14.505209 ; TestStep       ; Information ; Found SW-DP with ID 0x0BC11477
+2022-07-27 14:41:14.505209 ; TestStep       ; Information ; DPIDR: 0x0BC11477
+2022-07-27 14:41:14.505209 ; TestStep       ; Information ; CoreSight SoC-400 or earlier
+2022-07-27 14:41:14.505209 ; TestStep       ; Information ; AP map detection skipped. Manually configured AP map found.
+2022-07-27 14:41:14.505209 ; TestStep       ; Information ; AP[0]: AHB-AP (IDR: Not set)
+2022-07-27 14:41:14.505209 ; TestStep       ; Information ; AP[1]: MEM-AP (IDR: Not set)
+2022-07-27 14:41:14.505209 ; TestStep       ; Information ; AP[0]: Skipped. Could not read CPUID register
+2022-07-27 14:41:14.505209 ; TestStep       ; Information ; CPU could not be halted
+2022-07-27 14:41:14.505209 ; TestStep       ; Information ; CPU could not be halted
+2022-07-27 14:41:14.505209 ; TestStep       ; Information ; 
+2022-07-27 14:41:14.505209 ; TestStep       ; Information ; ****** Error: Could not find core in Coresight setup
+2022-07-27 14:41:14.505209 ; TestStep       ; Information ; Failed to halt CPU.
+2022-07-27 14:41:14.505209 ; TestStep       ; Information ; J-Link>g
+2022-07-27 14:41:14.505209 ; TestStep       ; Information ; 
+2022-07-27 14:41:14.505209 ; TestStep       ; Information ; ****** Error: CPU is not halted
+2022-07-27 14:41:14.505209 ; TestStep       ; Information ; J-Link>qc
+2022-07-27 14:41:14.505209 ; TestStep       ; Information ; 
+2022-07-27 14:41:14.505209 ; TestStep       ; Information ; Script processing completed.
+2022-07-27 14:41:14.505209 ; TestStep       ; Information ; 
+2022-07-27 14:41:14.516181 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" completed with verdict 'Pass'. [3.07 s]
+2022-07-27 14:41:14.516181 ; TestPlan       ; Information ; "Programmeren uC DUT" completed with verdict 'Pass'. [3.07 s]
+2022-07-27 14:41:14.516181 ; TestPlan       ; Information ; "Delay 1s" started.
+2022-07-27 14:41:15.516198 ; TestPlan       ; Information ; "Delay 1s" completed. [1.00 s]
+2022-07-27 14:41:15.516198 ; TestPlan       ; Information ; "DALI" started.
+2022-07-27 14:41:15.516198 ; TestPlan       ; Information ; "DALI \ DALI aanleggen FIO4" started.
+2022-07-27 14:41:15.518201 ; TestStep       ; Debug       ; FIO4set to: High
+2022-07-27 14:41:15.518201 ; TestPlan       ; Information ; "DALI \ DALI aanleggen FIO4" completed with verdict 'Pass'. [1.30 ms]
+2022-07-27 14:41:15.518201 ; TestPlan       ; Information ; "DALI \ Stroom door de diodes meten LED1 AIN4" started.
+2022-07-27 14:41:24.578648 ; TestPlan       ; Information ; "DALI \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" started.
+2022-07-27 14:41:28.737565 ; TestPlan       ; Information ; "DALI \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" completed with verdict 'Fail'. [4.15 s]
+2022-07-27 14:41:28.738564 ; Test Step      ; Debug       ; Break issued from 'ChildDAQ' due to verdict Fail. See Break Conditions settings.
+2022-07-27 14:41:28.738564 ; TestPlan       ; Information ; "DALI \ Stroom door de diodes meten LED1 AIN4" completed with verdict 'Fail'. [13.2 s]
+2022-07-27 14:41:28.738564 ; Test Step      ; Debug       ; Break issued from 'Stroom door de diodes meten LED1 AIN4' due to verdict Fail. See Break Conditions settings.
+2022-07-27 14:41:28.738564 ; TestPlan       ; Information ; "DALI" completed with verdict 'Fail'. [13.2 s]
+2022-07-27 14:41:28.738564 ; Test Step      ; Debug       ; Break issued from 'DALI' due to verdict Fail. See Break Conditions settings.
+2022-07-27 14:41:28.738564 ; TestPlan       ; Debug       ; Test step runs finished. [17.5 s]
+2022-07-27 14:41:28.743551 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PostPlanRun completed. [982 us]
+2022-07-27 14:41:28.743551 ; TestPlan       ; Debug       ; "48VMOD \ 500mA OK AIN4" PostPlanRun completed. [37.8 us]
+2022-07-27 14:41:28.743551 ; TestPlan       ; Debug       ; "48VMOD \ DIM nt nr GND EIO6" PostPlanRun completed. [5.30 us]
+2022-07-27 14:41:28.743551 ; TestPlan       ; Debug       ; "48VMOD \ 0mA OK AIN4" PostPlanRun completed. [3.70 us]
+2022-07-27 14:41:28.743551 ; TestPlan       ; Debug       ; "48VMOD \ DIM nr GND EIO6" PostPlanRun completed. [6.60 us]
+2022-07-27 14:41:28.743551 ; TestPlan       ; Debug       ; "48VMOD \ 500mA OK AIN4" PostPlanRun completed. [4.40 us]
+2022-07-27 14:41:28.743551 ; TestPlan       ; Debug       ; "48VMOD \ 48V nr DUT aanleggen FIO2" PostPlanRun completed. [3.80 us]
+2022-07-27 14:41:28.743551 ; TestPlan       ; Debug       ; "DALI \ 48V naar DUT afleggen FIO2" PostPlanRun completed. [4.20 us]
+2022-07-27 14:41:28.743551 ; TestPlan       ; Debug       ; "DALI \ DALI afleggen FIO4" PostPlanRun completed. [6.80 us]
+2022-07-27 14:41:28.744548 ; TestPlan       ; Debug       ; "DALI \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PostPlanRun completed. [321 us]
+2022-07-27 14:41:28.744548 ; TestPlan       ; Debug       ; "DALI \ Stroom door de diodes meten LED1 AIN4" PostPlanRun completed. [11.6 us]
+2022-07-27 14:41:28.744548 ; TestPlan       ; Debug       ; "DALI \ DALI aanleggen FIO4" PostPlanRun completed. [8.60 us]
+2022-07-27 14:41:28.744548 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM uitschakelen EIO6" PostPlanRun completed. [9.30 us]
+2022-07-27 14:41:28.744548 ; TestPlan       ; Debug       ; "Stromen controleren \ 200uA Meten AIN12" PostPlanRun completed. [9.90 us]
+2022-07-27 14:41:28.744548 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM inschakelen EIO6" PostPlanRun completed. [9.50 us]
+2022-07-27 14:41:28.744548 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PostPlanRun completed. [11.8 us]
+2022-07-27 14:41:28.744548 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PostPlanRun completed. [4.70 us]
+2022-07-27 14:41:28.744548 ; TestPlan       ; Debug       ; "Spanningen controleren \ 48V Meten AIN8" PostPlanRun completed. [4.00 us]
+2022-07-27 14:41:28.744548 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PostPlanRun completed. [7.60 us]
+2022-07-27 14:41:28.744548 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PostPlanRun completed. [7.40 us]
+2022-07-27 14:41:28.744548 ; TestPlan       ; Debug       ; "DIM uitschakelen EIO6" PostPlanRun completed. [7.60 us]
+2022-07-27 14:41:28.744548 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PostPlanRun completed. [6.90 us]
+2022-07-27 14:41:28.744548 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PostPlanRun completed. [7.90 us]
+2022-07-27 14:41:28.763499 ; Summary        ; Information ; --------- Summary of test plan started 07/27/2022 14:41:08 ---------
+2022-07-27 14:41:28.767767 ; Summary        ; Information ;  48V nr DUT afleggen begin FIO2                       11.9 ms  Pass   
+2022-07-27 14:41:28.767767 ; Summary        ; Information ;  DALI afleggen FIO4                                   1.33 ms  Pass   
+2022-07-27 14:41:28.767767 ; Summary        ; Information ;  DIM uitschakelen EIO6                                1.13 ms  Pass   
+2022-07-27 14:41:28.767767 ; Summary        ; Information ;  48V inschakelen FIO6                                 1.15 ms  Pass   
+2022-07-27 14:41:28.767767 ; Summary        ; Information ;  48V nr DUT aanleggen FIO2                            1.22 ms  Pass   
+2022-07-27 14:41:28.767767 ; Summary        ; Information ;  Delay 100ms                                           100 ms         
+2022-07-27 14:41:28.767767 ; Summary        ; Information ;  Spanningen controleren                               89.5 ms  Pass   
+2022-07-27 14:41:28.767852 ; Summary        ; Information ;    48V Meten AIN8                                     43.1 ms  Pass   
+2022-07-27 14:41:28.767852 ; Summary        ; Information ;    3V3 Meten AIN1                                     40.8 ms  Pass   
+2022-07-27 14:41:28.767852 ; Summary        ; Information ;  Stromen controleren                                  81.3 ms  Pass   
+2022-07-27 14:41:28.767852 ; Summary        ; Information ;    DUT nt kortgesloten AIN0                           38.6 ms  Pass   
+2022-07-27 14:41:28.767852 ; Summary        ; Information ;    DIM inschakelen EIO6                                572 us  Pass   
+2022-07-27 14:41:28.767852 ; Summary        ; Information ;    200uA Meten AIN12                                  40.2 ms  Pass   
+2022-07-27 14:41:28.767852 ; Summary        ; Information ;    DIM uitschakelen EIO6                              1.21 ms  Pass   
+2022-07-27 14:41:28.767852 ; Summary        ; Information ;  Programmeren uC DUT                                  3.07 s   Pass   
+2022-07-27 14:41:28.767852 ; Summary        ; Information ;    Run Program                                        3.07 s   Pass   
+2022-07-27 14:41:28.767852 ; Summary        ; Information ;  Delay 1s                                             1.00 s          
+2022-07-27 14:41:28.767852 ; Summary        ; Information ;  DALI                                                 13.2 s   Fail   
+2022-07-27 14:41:28.767852 ; Summary        ; Information ;    DALI aanleggen FIO4                                1.30 ms  Pass   
+2022-07-27 14:41:28.767852 ; Summary        ; Information ;    Stroom door de diodes meten LED1 AIN4              13.2 s   Fail   
+2022-07-27 14:41:28.767852 ; Summary        ; Information ;      ChildDAQ                                         4.15 s   Fail   
+2022-07-27 14:41:28.768397 ; Summary        ; Information ; --------------------------------------------------------------------
+2022-07-27 14:41:28.769033 ; Summary        ; Information ; --------- Test plan completed with verdict Fail in 20.5 s ----------
+2022-07-27 14:41:28.789124 ; Labjack        ; Information ; Resource "Labjack" closed. [14.8 us]
+2022-07-27 14:41:35.933620 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-27 14:41:35.934590 ; TestPlan       ; Information ; Starting TestPlan 'TX48ED9' on 07/27/2022 14:41:35, 15 of 36 TestSteps enabled.
+2022-07-27 14:41:35.994768 ; TestPlan       ; Debug       ; Saved Test Plan XML [60.5 ms]
+2022-07-27 14:41:37.996506 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:41:37.996506 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:41:37.996506 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:41:37.996506 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:41:38.751817 ; Labjack        ; Information ; Resource "Labjack" opened. [2.81 s]
+2022-07-27 14:41:38.752814 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PrePlanRun completed. [69.3 us]
+2022-07-27 14:41:38.752814 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PrePlanRun completed. [32.9 us]
+2022-07-27 14:41:38.752814 ; TestPlan       ; Debug       ; "DIM uitschakelen EIO6" PrePlanRun completed. [15.7 us]
+2022-07-27 14:41:38.752814 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PrePlanRun completed. [17.8 us]
+2022-07-27 14:41:38.752814 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PrePlanRun completed. [19.1 us]
+2022-07-27 14:41:38.752814 ; TestPlan       ; Debug       ; "Spanningen controleren \ 48V Meten AIN8" PrePlanRun completed. [16.0 us]
+2022-07-27 14:41:38.752814 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PrePlanRun completed. [19.4 us]
+2022-07-27 14:41:38.752814 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PrePlanRun completed. [16.1 us]
+2022-07-27 14:41:38.752814 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM inschakelen EIO6" PrePlanRun completed. [15.2 us]
+2022-07-27 14:41:38.752814 ; TestPlan       ; Debug       ; "Stromen controleren \ 200uA Meten AIN12" PrePlanRun completed. [15.0 us]
+2022-07-27 14:41:38.752814 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM uitschakelen EIO6" PrePlanRun completed. [14.6 us]
+2022-07-27 14:41:38.752814 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PrePlanRun completed. [127 us]
+2022-07-27 14:41:38.752814 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [287 us]
+2022-07-27 14:41:38.752814 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" started.
+2022-07-27 14:41:38.753809 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-27 14:41:38.753809 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" completed with verdict 'Pass'. [1.24 ms]
+2022-07-27 14:41:38.753809 ; TestPlan       ; Information ; "DALI afleggen FIO4" started.
+2022-07-27 14:41:38.754806 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-27 14:41:38.754806 ; TestPlan       ; Information ; "DALI afleggen FIO4" completed with verdict 'Pass'. [547 us]
+2022-07-27 14:41:38.754806 ; TestPlan       ; Information ; "DIM uitschakelen EIO6" started.
+2022-07-27 14:41:38.755804 ; TestStep       ; Debug       ; EIO6set to: Low
+2022-07-27 14:41:38.755804 ; TestPlan       ; Information ; "DIM uitschakelen EIO6" completed with verdict 'Pass'. [567 us]
+2022-07-27 14:41:38.755804 ; TestPlan       ; Information ; "48V inschakelen FIO6" started.
+2022-07-27 14:41:38.756801 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-27 14:41:38.756801 ; TestPlan       ; Information ; "48V inschakelen FIO6" completed with verdict 'Pass'. [1.13 ms]
+2022-07-27 14:41:38.756801 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" started.
+2022-07-27 14:41:38.757787 ; TestStep       ; Debug       ; FIO2set to: High
+2022-07-27 14:41:38.757787 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [633 us]
+2022-07-27 14:41:38.757787 ; TestPlan       ; Information ; "Delay 100ms" started.
+2022-07-27 14:41:38.857525 ; TestPlan       ; Information ; "Delay 100ms" completed. [100 ms]
+2022-07-27 14:41:38.857525 ; TestPlan       ; Information ; "Spanningen controleren" started.
+2022-07-27 14:41:38.857525 ; TestPlan       ; Information ; "Spanningen controleren \ 48V Meten AIN8" started.
+2022-07-27 14:41:38.903678 ; TestStep       ; Debug       ; AIN8 measured: 0
+2022-07-27 14:41:38.903678 ; TestPlan       ; Information ; "Spanningen controleren \ 48V Meten AIN8" completed with verdict 'Fail'. [46.0 ms]
+2022-07-27 14:41:38.903678 ; Test Step      ; Debug       ; Break issued from '48V Meten AIN8' due to verdict Fail. See Break Conditions settings.
+2022-07-27 14:41:38.903678 ; TestPlan       ; Information ; "Spanningen controleren" completed with verdict 'Fail'. [46.1 ms]
+2022-07-27 14:41:38.903678 ; Test Step      ; Debug       ; Break issued from 'Spanningen controleren' due to verdict Fail. See Break Conditions settings.
+2022-07-27 14:41:38.903678 ; TestPlan       ; Debug       ; Test step runs finished. [151 ms]
+2022-07-27 14:41:38.903678 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PostPlanRun completed. [121 us]
+2022-07-27 14:41:38.903678 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM uitschakelen EIO6" PostPlanRun completed. [17.3 us]
+2022-07-27 14:41:38.903678 ; TestPlan       ; Debug       ; "Stromen controleren \ 200uA Meten AIN12" PostPlanRun completed. [12.1 us]
+2022-07-27 14:41:38.903678 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM inschakelen EIO6" PostPlanRun completed. [3.50 us]
+2022-07-27 14:41:38.903678 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PostPlanRun completed. [2.50 us]
+2022-07-27 14:41:38.903678 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PostPlanRun completed. [3.90 us]
+2022-07-27 14:41:38.903678 ; TestPlan       ; Debug       ; "Spanningen controleren \ 48V Meten AIN8" PostPlanRun completed. [2.29 us]
+2022-07-27 14:41:38.903678 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PostPlanRun completed. [2.70 us]
+2022-07-27 14:41:38.903678 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PostPlanRun completed. [2.29 us]
+2022-07-27 14:41:38.903678 ; TestPlan       ; Debug       ; "DIM uitschakelen EIO6" PostPlanRun completed. [2.29 us]
+2022-07-27 14:41:38.903678 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PostPlanRun completed. [2.10 us]
+2022-07-27 14:41:38.903678 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PostPlanRun completed. [2.90 us]
+2022-07-27 14:41:38.904680 ; Summary        ; Information ; -------- Summary of test plan started 07/27/2022 14:41:35 --------
+2022-07-27 14:41:38.904680 ; Summary        ; Information ;  48V nr DUT afleggen begin FIO2                     1.24 ms  Pass   
+2022-07-27 14:41:38.904680 ; Summary        ; Information ;  DALI afleggen FIO4                                  547 us  Pass   
+2022-07-27 14:41:38.904680 ; Summary        ; Information ;  DIM uitschakelen EIO6                               567 us  Pass   
+2022-07-27 14:41:38.904680 ; Summary        ; Information ;  48V inschakelen FIO6                               1.13 ms  Pass   
+2022-07-27 14:41:38.904680 ; Summary        ; Information ;  48V nr DUT aanleggen FIO2                           633 us  Pass   
+2022-07-27 14:41:38.904680 ; Summary        ; Information ;  Delay 100ms                                         100 ms         
+2022-07-27 14:41:38.904680 ; Summary        ; Information ;  Spanningen controleren                             46.1 ms  Fail   
+2022-07-27 14:41:38.904680 ; Summary        ; Information ;    48V Meten AIN8                                   46.0 ms  Fail   
+2022-07-27 14:41:38.904680 ; Summary        ; Information ; ------------------------------------------------------------------
+2022-07-27 14:41:38.904680 ; Summary        ; Information ; -------- Test plan completed with verdict Fail in 2.97 s ---------
+2022-07-27 14:41:38.910950 ; Labjack        ; Information ; Resource "Labjack" closed. [5.00 us]
+2022-07-27 14:41:44.620739 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-27 14:41:44.620739 ; TestPlan       ; Information ; Starting TestPlan 'TX48ED9' on 07/27/2022 14:41:44, 7 of 36 TestSteps enabled.
+2022-07-27 14:41:44.634703 ; TestPlan       ; Debug       ; Saved Test Plan XML [13.8 ms]
+2022-07-27 14:41:46.634847 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:41:46.634847 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:41:46.634847 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:41:46.634847 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:41:47.440110 ; Labjack        ; Information ; Resource "Labjack" opened. [2.81 s]
+2022-07-27 14:41:47.441106 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PrePlanRun completed. [78.4 us]
+2022-07-27 14:41:47.441106 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PrePlanRun completed. [50.8 us]
+2022-07-27 14:41:47.441106 ; TestPlan       ; Debug       ; "DIM uitschakelen EIO6" PrePlanRun completed. [34.5 us]
+2022-07-27 14:41:47.441106 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PrePlanRun completed. [35.4 us]
+2022-07-27 14:41:47.441106 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PrePlanRun completed. [33.0 us]
+2022-07-27 14:41:47.441106 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PrePlanRun completed. [33.2 us]
+2022-07-27 14:41:47.441106 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [273 us]
+2022-07-27 14:41:47.441106 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" started.
+2022-07-27 14:41:47.443100 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-27 14:41:47.443100 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" completed with verdict 'Pass'. [1.27 ms]
+2022-07-27 14:41:47.443100 ; TestPlan       ; Information ; "DALI afleggen FIO4" started.
+2022-07-27 14:41:47.444130 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-27 14:41:47.444130 ; TestPlan       ; Information ; "DALI afleggen FIO4" completed with verdict 'Pass'. [1.10 ms]
+2022-07-27 14:41:47.444130 ; TestPlan       ; Information ; "DIM uitschakelen EIO6" started.
+2022-07-27 14:41:47.445096 ; TestStep       ; Debug       ; EIO6set to: Low
+2022-07-27 14:41:47.445096 ; TestPlan       ; Information ; "DIM uitschakelen EIO6" completed with verdict 'Pass'. [1.37 ms]
+2022-07-27 14:41:47.445096 ; TestPlan       ; Information ; "48V inschakelen FIO6" started.
+2022-07-27 14:41:47.447090 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-27 14:41:47.447090 ; TestPlan       ; Information ; "48V inschakelen FIO6" completed with verdict 'Pass'. [1.14 ms]
+2022-07-27 14:41:47.447090 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" started.
+2022-07-27 14:41:47.448115 ; TestStep       ; Debug       ; FIO2set to: High
+2022-07-27 14:41:47.448115 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [1.14 ms]
+2022-07-27 14:41:47.448115 ; TestPlan       ; Information ; "Delay 100ms" started.
+2022-07-27 14:41:47.547820 ; TestPlan       ; Information ; "Delay 100ms" completed. [100 ms]
+2022-07-27 14:41:47.547820 ; TestPlan       ; Information ; "48V naar DUT afleggen einde FIO2" started.
+2022-07-27 14:41:47.549816 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-27 14:41:47.549816 ; TestPlan       ; Information ; "48V naar DUT afleggen einde FIO2" completed with verdict 'Pass'. [1.36 ms]
+2022-07-27 14:41:47.549816 ; TestPlan       ; Debug       ; Test step runs finished. [108 ms]
+2022-07-27 14:41:47.549816 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PostPlanRun completed. [170 us]
+2022-07-27 14:41:47.549816 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PostPlanRun completed. [9.19 us]
+2022-07-27 14:41:47.549816 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PostPlanRun completed. [6.10 us]
+2022-07-27 14:41:47.549816 ; TestPlan       ; Debug       ; "DIM uitschakelen EIO6" PostPlanRun completed. [6.40 us]
+2022-07-27 14:41:47.549816 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PostPlanRun completed. [7.40 us]
+2022-07-27 14:41:47.549816 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PostPlanRun completed. [11.6 us]
+2022-07-27 14:41:47.549816 ; Summary        ; Information ; ------- Summary of test plan started 07/27/2022 14:41:44 -------
+2022-07-27 14:41:47.549816 ; Summary        ; Information ;  48V nr DUT afleggen begin FIO2                   1.27 ms  Pass   
+2022-07-27 14:41:47.549816 ; Summary        ; Information ;  DALI afleggen FIO4                               1.10 ms  Pass   
+2022-07-27 14:41:47.549816 ; Summary        ; Information ;  DIM uitschakelen EIO6                            1.37 ms  Pass   
+2022-07-27 14:41:47.549816 ; Summary        ; Information ;  48V inschakelen FIO6                             1.14 ms  Pass   
+2022-07-27 14:41:47.549816 ; Summary        ; Information ;  48V nr DUT aanleggen FIO2                        1.14 ms  Pass   
+2022-07-27 14:41:47.549816 ; Summary        ; Information ;  Delay 100ms                                       100 ms         
+2022-07-27 14:41:47.549816 ; Summary        ; Information ;  48V naar DUT afleggen einde FIO2                 1.36 ms  Pass   
+2022-07-27 14:41:47.549816 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-27 14:41:47.549816 ; Summary        ; Information ; ---------- Test plan completed successfully in 2.92 s ----------
+2022-07-27 14:41:47.556798 ; Labjack        ; Information ; Resource "Labjack" closed. [1.80 us]
+2022-07-27 14:41:58.932730 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-27 14:41:58.933727 ; TestPlan       ; Information ; Starting TestPlan 'TX48ED9' on 07/27/2022 14:41:58, 6 of 36 TestSteps enabled.
+2022-07-27 14:41:58.935756 ; Labjack        ; Information ; Resource "Labjack" opened. [378 us]
+2022-07-27 14:41:58.941739 ; TestPlan       ; Debug       ; Saved Test Plan XML [8.27 ms]
+2022-07-27 14:41:58.944732 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PrePlanRun completed. [70.1 us]
+2022-07-27 14:41:58.944732 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PrePlanRun completed. [57.3 us]
+2022-07-27 14:41:58.944732 ; TestPlan       ; Debug       ; "DIM uitschakelen EIO6" PrePlanRun completed. [41.6 us]
+2022-07-27 14:41:58.944732 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PrePlanRun completed. [22.8 us]
+2022-07-27 14:41:58.944732 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PrePlanRun completed. [17.2 us]
+2022-07-27 14:41:58.944732 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [215 us]
+2022-07-27 14:41:58.944732 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" started.
+2022-07-27 14:41:58.945730 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-27 14:41:58.946727 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" completed with verdict 'Pass'. [1.80 ms]
+2022-07-27 14:41:58.946727 ; TestPlan       ; Information ; "DALI afleggen FIO4" started.
+2022-07-27 14:41:58.948721 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-27 14:41:58.949721 ; TestPlan       ; Information ; "DALI afleggen FIO4" completed with verdict 'Pass'. [2.74 ms]
+2022-07-27 14:41:58.949721 ; TestPlan       ; Information ; "DIM uitschakelen EIO6" started.
+2022-07-27 14:41:58.951714 ; TestStep       ; Debug       ; EIO6set to: Low
+2022-07-27 14:41:58.951714 ; TestPlan       ; Information ; "DIM uitschakelen EIO6" completed with verdict 'Pass'. [2.67 ms]
+2022-07-27 14:41:58.952710 ; TestPlan       ; Information ; "48V inschakelen FIO6" started.
+2022-07-27 14:41:58.953748 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-27 14:41:58.953748 ; TestPlan       ; Information ; "48V inschakelen FIO6" completed with verdict 'Pass'. [1.69 ms]
+2022-07-27 14:41:58.953748 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" started.
+2022-07-27 14:41:58.957090 ; TestStep       ; Debug       ; FIO2set to: High
+2022-07-27 14:41:58.957090 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [2.73 ms]
+2022-07-27 14:41:58.957090 ; TestPlan       ; Information ; "Delay 100ms" started.
+2022-07-27 14:41:59.057060 ; TestPlan       ; Information ; "Delay 100ms" completed. [100 ms]
+2022-07-27 14:41:59.057060 ; TestPlan       ; Debug       ; Test step runs finished. [112 ms]
+2022-07-27 14:41:59.058060 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PostPlanRun completed. [460 us]
+2022-07-27 14:41:59.058060 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PostPlanRun completed. [12.2 us]
+2022-07-27 14:41:59.058060 ; TestPlan       ; Debug       ; "DIM uitschakelen EIO6" PostPlanRun completed. [2.20 us]
+2022-07-27 14:41:59.058060 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PostPlanRun completed. [4.70 us]
+2022-07-27 14:41:59.058060 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PostPlanRun completed. [2.70 us]
+2022-07-27 14:41:59.058060 ; Summary        ; Information ; ------- Summary of test plan started 07/27/2022 14:41:58 -------
+2022-07-27 14:41:59.058060 ; Summary        ; Information ;  48V nr DUT afleggen begin FIO2                   1.80 ms  Pass   
+2022-07-27 14:41:59.058060 ; Summary        ; Information ;  DALI afleggen FIO4                               2.74 ms  Pass   
+2022-07-27 14:41:59.058060 ; Summary        ; Information ;  DIM uitschakelen EIO6                            2.67 ms  Pass   
+2022-07-27 14:41:59.058060 ; Summary        ; Information ;  48V inschakelen FIO6                             1.69 ms  Pass   
+2022-07-27 14:41:59.058060 ; Summary        ; Information ;  48V nr DUT aanleggen FIO2                        2.73 ms  Pass   
+2022-07-27 14:41:59.058060 ; Summary        ; Information ;  Delay 100ms                                       100 ms         
+2022-07-27 14:41:59.058060 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-27 14:41:59.058060 ; Summary        ; Information ; ---------- Test plan completed successfully in 123 ms ----------
+2022-07-27 14:41:59.064049 ; Labjack        ; Information ; Resource "Labjack" closed. [7.20 us]
+2022-07-27 14:42:32.724417 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-27 14:42:32.724417 ; TestPlan       ; Information ; Starting TestPlan 'TX48ED9' on 07/27/2022 14:42:32, 6 of 36 TestSteps enabled.
+2022-07-27 14:42:32.736559 ; TestPlan       ; Debug       ; Saved Test Plan XML [11.8 ms]
+2022-07-27 14:42:34.736992 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:42:34.736992 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:42:34.736992 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:42:34.736992 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:42:35.542833 ; Labjack        ; Information ; Resource "Labjack" opened. [2.81 s]
+2022-07-27 14:42:35.543784 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PrePlanRun completed. [57.4 us]
+2022-07-27 14:42:35.543784 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PrePlanRun completed. [28.3 us]
+2022-07-27 14:42:35.543784 ; TestPlan       ; Debug       ; "DIM uitschakelen EIO6" PrePlanRun completed. [19.9 us]
+2022-07-27 14:42:35.543784 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PrePlanRun completed. [16.8 us]
+2022-07-27 14:42:35.543784 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PrePlanRun completed. [20.4 us]
+2022-07-27 14:42:35.543784 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [149 us]
+2022-07-27 14:42:35.543784 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" started.
+2022-07-27 14:42:35.544787 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-27 14:42:35.544787 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" completed with verdict 'Pass'. [1.12 ms]
+2022-07-27 14:42:35.544787 ; TestPlan       ; Information ; "DALI afleggen FIO4" started.
+2022-07-27 14:42:35.545816 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-27 14:42:35.545816 ; TestPlan       ; Information ; "DALI afleggen FIO4" completed with verdict 'Pass'. [1.22 ms]
+2022-07-27 14:42:35.545816 ; TestPlan       ; Information ; "DIM uitschakelen EIO6" started.
+2022-07-27 14:42:35.546776 ; TestStep       ; Debug       ; EIO6set to: Low
+2022-07-27 14:42:35.546776 ; TestPlan       ; Information ; "DIM uitschakelen EIO6" completed with verdict 'Pass'. [1.18 ms]
+2022-07-27 14:42:35.546776 ; TestPlan       ; Information ; "48V inschakelen FIO6" started.
+2022-07-27 14:42:35.548770 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-27 14:42:35.548770 ; TestPlan       ; Information ; "48V inschakelen FIO6" completed with verdict 'Pass'. [1.20 ms]
+2022-07-27 14:42:35.548770 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" started.
+2022-07-27 14:42:35.549795 ; TestStep       ; Debug       ; FIO2set to: High
+2022-07-27 14:42:35.549795 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [1.26 ms]
+2022-07-27 14:42:35.549795 ; TestPlan       ; Information ; "Delay 100ms" started.
+2022-07-27 14:42:35.651055 ; TestPlan       ; Information ; "Delay 100ms" completed. [100 ms]
+2022-07-27 14:42:35.651055 ; TestPlan       ; Debug       ; Test step runs finished. [107 ms]
+2022-07-27 14:42:35.651055 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PostPlanRun completed. [215 us]
+2022-07-27 14:42:35.651055 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PostPlanRun completed. [11.7 us]
+2022-07-27 14:42:35.651055 ; TestPlan       ; Debug       ; "DIM uitschakelen EIO6" PostPlanRun completed. [2.40 us]
+2022-07-27 14:42:35.651055 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PostPlanRun completed. [2.20 us]
+2022-07-27 14:42:35.651055 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PostPlanRun completed. [2.29 us]
+2022-07-27 14:42:35.651055 ; Summary        ; Information ; ------- Summary of test plan started 07/27/2022 14:42:32 -------
+2022-07-27 14:42:35.651055 ; Summary        ; Information ;  48V nr DUT afleggen begin FIO2                   1.12 ms  Pass   
+2022-07-27 14:42:35.651055 ; Summary        ; Information ;  DALI afleggen FIO4                               1.22 ms  Pass   
+2022-07-27 14:42:35.651055 ; Summary        ; Information ;  DIM uitschakelen EIO6                            1.18 ms  Pass   
+2022-07-27 14:42:35.651055 ; Summary        ; Information ;  48V inschakelen FIO6                             1.20 ms  Pass   
+2022-07-27 14:42:35.651055 ; Summary        ; Information ;  48V nr DUT aanleggen FIO2                        1.26 ms  Pass   
+2022-07-27 14:42:35.651055 ; Summary        ; Information ;  Delay 100ms                                       100 ms         
+2022-07-27 14:42:35.651055 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-27 14:42:35.651055 ; Summary        ; Information ; ---------- Test plan completed successfully in 2.92 s ----------
+2022-07-27 14:42:35.662320 ; Labjack        ; Information ; Resource "Labjack" closed. [1.30 us]
+2022-07-27 14:42:42.411870 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-27 14:42:42.411870 ; TestPlan       ; Information ; Starting TestPlan 'TX48ED9' on 07/27/2022 14:42:42, 33 of 36 TestSteps enabled.
+2022-07-27 14:42:42.423837 ; TestPlan       ; Debug       ; Saved Test Plan XML [12.1 ms]
+2022-07-27 14:42:44.425039 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:42:44.425039 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:42:44.425039 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:42:44.425039 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:42:45.227622 ; Labjack        ; Information ; Resource "Labjack" opened. [2.81 s]
+2022-07-27 14:42:45.228619 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PrePlanRun completed. [67.2 us]
+2022-07-27 14:42:45.228619 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PrePlanRun completed. [57.6 us]
+2022-07-27 14:42:45.229617 ; TestPlan       ; Debug       ; "DIM uitschakelen EIO6" PrePlanRun completed. [56.5 us]
+2022-07-27 14:42:45.229617 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PrePlanRun completed. [126 us]
+2022-07-27 14:42:45.229617 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PrePlanRun completed. [72.0 us]
+2022-07-27 14:42:45.229617 ; TestPlan       ; Debug       ; "Spanningen controleren \ 48V Meten AIN8" PrePlanRun completed. [51.4 us]
+2022-07-27 14:42:45.229617 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PrePlanRun completed. [91.4 us]
+2022-07-27 14:42:45.229617 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PrePlanRun completed. [43.3 us]
+2022-07-27 14:42:45.229617 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM inschakelen EIO6" PrePlanRun completed. [65.5 us]
+2022-07-27 14:42:45.229617 ; TestPlan       ; Debug       ; "Stromen controleren \ 200uA Meten AIN12" PrePlanRun completed. [58.7 us]
+2022-07-27 14:42:45.229617 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM uitschakelen EIO6" PrePlanRun completed. [68.2 us]
+2022-07-27 14:42:45.229617 ; TestPlan       ; Debug       ; "DALI \ DALI aanleggen FIO4" PrePlanRun completed. [49.7 us]
+2022-07-27 14:42:45.229617 ; TestPlan       ; Debug       ; "DALI \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PrePlanRun completed. [71.2 us]
+2022-07-27 14:42:45.229617 ; TestPlan       ; Debug       ; "DALI \ Stroom door de diodes meten LED1 AIN4" PrePlanRun completed. [152 us]
+2022-07-27 14:42:45.229617 ; TestPlan       ; Debug       ; "DALI \ DALI afleggen FIO4" PrePlanRun completed. [61.4 us]
+2022-07-27 14:42:45.230618 ; TestPlan       ; Debug       ; "DALI \ 48V naar DUT afleggen FIO2" PrePlanRun completed. [113 us]
+2022-07-27 14:42:45.230618 ; TestPlan       ; Debug       ; "48VMOD \ 48V nr DUT aanleggen FIO2" PrePlanRun completed. [55.9 us]
+2022-07-27 14:42:45.230618 ; TestPlan       ; Debug       ; "48VMOD \ 500mA OK AIN4" PrePlanRun completed. [53.3 us]
+2022-07-27 14:42:45.230618 ; TestPlan       ; Debug       ; "48VMOD \ DIM nr GND EIO6" PrePlanRun completed. [68.3 us]
+2022-07-27 14:42:45.230618 ; TestPlan       ; Debug       ; "48VMOD \ 0mA OK AIN4" PrePlanRun completed. [50.6 us]
+2022-07-27 14:42:45.230618 ; TestPlan       ; Debug       ; "48VMOD \ DIM nt nr GND EIO6" PrePlanRun completed. [33.7 us]
+2022-07-27 14:42:45.230618 ; TestPlan       ; Debug       ; "48VMOD \ 500mA OK AIN4" PrePlanRun completed. [29.0 us]
+2022-07-27 14:42:45.230618 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PrePlanRun completed. [1.17 ms]
+2022-07-27 14:42:45.230618 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [1.56 ms]
+2022-07-27 14:42:45.230618 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" started.
+2022-07-27 14:42:45.231611 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-27 14:42:45.231611 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" completed with verdict 'Pass'. [1.33 ms]
+2022-07-27 14:42:45.231611 ; TestPlan       ; Information ; "DALI afleggen FIO4" started.
+2022-07-27 14:42:45.233607 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-27 14:42:45.233607 ; TestPlan       ; Information ; "DALI afleggen FIO4" completed with verdict 'Pass'. [1.25 ms]
+2022-07-27 14:42:45.233607 ; TestPlan       ; Information ; "DIM uitschakelen EIO6" started.
+2022-07-27 14:42:45.234607 ; TestStep       ; Debug       ; EIO6set to: Low
+2022-07-27 14:42:45.234607 ; TestPlan       ; Information ; "DIM uitschakelen EIO6" completed with verdict 'Pass'. [1.15 ms]
+2022-07-27 14:42:45.234607 ; TestPlan       ; Information ; "48V inschakelen FIO6" started.
+2022-07-27 14:42:45.235600 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-27 14:42:45.235600 ; TestPlan       ; Information ; "48V inschakelen FIO6" completed with verdict 'Pass'. [1.17 ms]
+2022-07-27 14:42:45.235600 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" started.
+2022-07-27 14:42:45.237595 ; TestStep       ; Debug       ; FIO2set to: High
+2022-07-27 14:42:45.237595 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [1.13 ms]
+2022-07-27 14:42:45.237595 ; TestPlan       ; Information ; "Delay 100ms" started.
+2022-07-27 14:42:45.337364 ; TestPlan       ; Information ; "Delay 100ms" completed. [100 ms]
+2022-07-27 14:42:45.337364 ; TestPlan       ; Information ; "Spanningen controleren" started.
+2022-07-27 14:42:45.337364 ; TestPlan       ; Information ; "Spanningen controleren \ 48V Meten AIN8" started.
+2022-07-27 14:42:45.387248 ; TestStep       ; Debug       ; AIN8 measured: 47.8659998452663
+2022-07-27 14:42:45.387248 ; TestPlan       ; Information ; "Spanningen controleren \ 48V Meten AIN8" completed with verdict 'Pass'. [49.4 ms]
+2022-07-27 14:42:45.387248 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" started.
+2022-07-27 14:42:45.428392 ; TestStep       ; Debug       ; AIN1 measured: 3.28408510684967
+2022-07-27 14:42:45.428392 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" completed with verdict 'Pass'. [41.5 ms]
+2022-07-27 14:42:45.428392 ; TestPlan       ; Information ; "Spanningen controleren" completed with verdict 'Pass'. [91.2 ms]
+2022-07-27 14:42:45.428392 ; TestPlan       ; Information ; "Stromen controleren" started.
+2022-07-27 14:42:45.428392 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" started.
+2022-07-27 14:42:45.462306 ; TestStep       ; Debug       ; AIN0 measured: 0.613680584628601
+2022-07-27 14:42:45.462306 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" completed with verdict 'Pass'. [33.7 ms]
+2022-07-27 14:42:45.462306 ; TestPlan       ; Information ; "Stromen controleren \ DIM inschakelen EIO6" started.
+2022-07-27 14:42:45.464302 ; TestStep       ; Debug       ; EIO6set to: High
+2022-07-27 14:42:45.464302 ; TestPlan       ; Information ; "Stromen controleren \ DIM inschakelen EIO6" completed with verdict 'Pass'. [1.23 ms]
+2022-07-27 14:42:45.464302 ; TestPlan       ; Information ; "Stromen controleren \ 200uA Meten AIN12" started.
+2022-07-27 14:42:45.503196 ; TestStep       ; Debug       ; AIN12 measured: 1.06872810125351
+2022-07-27 14:42:45.503196 ; TestPlan       ; Information ; "Stromen controleren \ 200uA Meten AIN12" completed with verdict 'Pass'. [39.2 ms]
+2022-07-27 14:42:45.503196 ; TestPlan       ; Information ; "Stromen controleren \ DIM uitschakelen EIO6" started.
+2022-07-27 14:42:45.504195 ; TestStep       ; Debug       ; EIO6set to: Low
+2022-07-27 14:42:45.505190 ; TestPlan       ; Information ; "Stromen controleren \ DIM uitschakelen EIO6" completed with verdict 'Pass'. [1.21 ms]
+2022-07-27 14:42:45.505190 ; TestPlan       ; Information ; "Stromen controleren" completed with verdict 'Pass'. [76.0 ms]
+2022-07-27 14:42:45.505190 ; TestPlan       ; Information ; "Delay 1s" started.
+2022-07-27 14:42:46.504560 ; TestPlan       ; Information ; "Delay 1s" completed. [1.00 s]
+2022-07-27 14:42:46.505541 ; TestPlan       ; Information ; "DALI" started.
+2022-07-27 14:42:46.505541 ; TestPlan       ; Information ; "DALI \ DALI aanleggen FIO4" started.
+2022-07-27 14:42:46.506568 ; TestStep       ; Debug       ; FIO4set to: High
+2022-07-27 14:42:46.506568 ; TestPlan       ; Information ; "DALI \ DALI aanleggen FIO4" completed with verdict 'Pass'. [1.19 ms]
+2022-07-27 14:42:46.506568 ; TestPlan       ; Information ; "DALI \ Stroom door de diodes meten LED1 AIN4" started.
+2022-07-27 14:42:55.605805 ; TestPlan       ; Information ; "DALI \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" started.
+2022-07-27 14:42:55.606806 ; TestPlan       ; Information ; "DALI \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" completed with verdict 'Fail'. [516 us]
+2022-07-27 14:42:55.606806 ; Test Step      ; Debug       ; Break issued from 'ChildDAQ' due to verdict Fail. See Break Conditions settings.
+2022-07-27 14:42:55.606806 ; TestPlan       ; Information ; "DALI \ Stroom door de diodes meten LED1 AIN4" completed with verdict 'Fail'. [9.10 s]
+2022-07-27 14:42:55.606806 ; Test Step      ; Debug       ; Break issued from 'Stroom door de diodes meten LED1 AIN4' due to verdict Fail. See Break Conditions settings.
+2022-07-27 14:42:55.606806 ; TestPlan       ; Information ; "DALI" completed with verdict 'Fail'. [9.10 s]
+2022-07-27 14:42:55.606806 ; Test Step      ; Debug       ; Break issued from 'DALI' due to verdict Fail. See Break Conditions settings.
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; Test step runs finished. [10.3 s]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PostPlanRun completed. [100 us]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "48VMOD \ 500mA OK AIN4" PostPlanRun completed. [5.30 us]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "48VMOD \ DIM nt nr GND EIO6" PostPlanRun completed. [3.80 us]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "48VMOD \ 0mA OK AIN4" PostPlanRun completed. [5.40 us]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "48VMOD \ DIM nr GND EIO6" PostPlanRun completed. [3.60 us]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "48VMOD \ 500mA OK AIN4" PostPlanRun completed. [3.60 us]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "48VMOD \ 48V nr DUT aanleggen FIO2" PostPlanRun completed. [4.00 us]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "DALI \ 48V naar DUT afleggen FIO2" PostPlanRun completed. [4.00 us]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "DALI \ DALI afleggen FIO4" PostPlanRun completed. [3.90 us]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "DALI \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PostPlanRun completed. [34.0 us]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "DALI \ Stroom door de diodes meten LED1 AIN4" PostPlanRun completed. [4.40 us]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "DALI \ DALI aanleggen FIO4" PostPlanRun completed. [4.30 us]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM uitschakelen EIO6" PostPlanRun completed. [4.20 us]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "Stromen controleren \ 200uA Meten AIN12" PostPlanRun completed. [4.00 us]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM inschakelen EIO6" PostPlanRun completed. [4.00 us]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PostPlanRun completed. [5.20 us]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PostPlanRun completed. [4.09 us]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "Spanningen controleren \ 48V Meten AIN8" PostPlanRun completed. [4.00 us]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PostPlanRun completed. [3.70 us]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PostPlanRun completed. [3.70 us]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "DIM uitschakelen EIO6" PostPlanRun completed. [3.40 us]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PostPlanRun completed. [5.30 us]
+2022-07-27 14:42:55.606806 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PostPlanRun completed. [3.70 us]
+2022-07-27 14:42:55.606806 ; Summary        ; Information ; --------- Summary of test plan started 07/27/2022 14:42:42 ---------
+2022-07-27 14:42:55.606806 ; Summary        ; Information ;  48V nr DUT afleggen begin FIO2                       1.33 ms  Pass   
+2022-07-27 14:42:55.606806 ; Summary        ; Information ;  DALI afleggen FIO4                                   1.25 ms  Pass   
+2022-07-27 14:42:55.606806 ; Summary        ; Information ;  DIM uitschakelen EIO6                                1.15 ms  Pass   
+2022-07-27 14:42:55.606806 ; Summary        ; Information ;  48V inschakelen FIO6                                 1.17 ms  Pass   
+2022-07-27 14:42:55.606806 ; Summary        ; Information ;  48V nr DUT aanleggen FIO2                            1.13 ms  Pass   
+2022-07-27 14:42:55.606806 ; Summary        ; Information ;  Delay 100ms                                           100 ms         
+2022-07-27 14:42:55.606806 ; Summary        ; Information ;  Spanningen controleren                               91.2 ms  Pass   
+2022-07-27 14:42:55.606806 ; Summary        ; Information ;    48V Meten AIN8                                     49.4 ms  Pass   
+2022-07-27 14:42:55.606806 ; Summary        ; Information ;    3V3 Meten AIN1                                     41.5 ms  Pass   
+2022-07-27 14:42:55.606806 ; Summary        ; Information ;  Stromen controleren                                  76.0 ms  Pass   
+2022-07-27 14:42:55.606806 ; Summary        ; Information ;    DUT nt kortgesloten AIN0                           33.7 ms  Pass   
+2022-07-27 14:42:55.606806 ; Summary        ; Information ;    DIM inschakelen EIO6                               1.23 ms  Pass   
+2022-07-27 14:42:55.606806 ; Summary        ; Information ;    200uA Meten AIN12                                  39.2 ms  Pass   
+2022-07-27 14:42:55.606806 ; Summary        ; Information ;    DIM uitschakelen EIO6                              1.21 ms  Pass   
+2022-07-27 14:42:55.606806 ; Summary        ; Information ;  Delay 1s                                             1.00 s          
+2022-07-27 14:42:55.606806 ; Summary        ; Information ;  DALI                                                 9.10 s   Fail   
+2022-07-27 14:42:55.606806 ; Summary        ; Information ;    DALI aanleggen FIO4                                1.19 ms  Pass   
+2022-07-27 14:42:55.606806 ; Summary        ; Information ;    Stroom door de diodes meten LED1 AIN4              9.10 s   Fail   
+2022-07-27 14:42:55.606806 ; Summary        ; Information ;      ChildDAQ                                          516 us  Fail   
+2022-07-27 14:42:55.606806 ; Summary        ; Information ; --------------------------------------------------------------------
+2022-07-27 14:42:55.606806 ; Summary        ; Information ; --------- Test plan completed with verdict Fail in 13.2 s ----------
+2022-07-27 14:42:55.613464 ; Labjack        ; Information ; Resource "Labjack" closed. [1.50 us]
+2022-07-27 14:43:04.565056 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-27 14:43:04.565056 ; TestPlan       ; Information ; Starting TestPlan 'TX48ED9' on 07/27/2022 14:43:04, 16 of 36 TestSteps enabled.
+2022-07-27 14:43:04.579991 ; TestPlan       ; Debug       ; Saved Test Plan XML [14.2 ms]
+2022-07-27 14:43:06.580448 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:43:06.580448 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:43:06.580448 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:43:06.580448 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:43:07.386240 ; Labjack        ; Information ; Resource "Labjack" opened. [2.81 s]
+2022-07-27 14:43:07.388182 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PrePlanRun completed. [68.5 us]
+2022-07-27 14:43:07.388182 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PrePlanRun completed. [42.7 us]
+2022-07-27 14:43:07.388182 ; TestPlan       ; Debug       ; "DIM uitschakelen EIO6" PrePlanRun completed. [33.3 us]
+2022-07-27 14:43:07.389180 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PrePlanRun completed. [31.1 us]
+2022-07-27 14:43:07.389180 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PrePlanRun completed. [35.4 us]
+2022-07-27 14:43:07.389180 ; TestPlan       ; Debug       ; "Spanningen controleren \ 48V Meten AIN8" PrePlanRun completed. [31.2 us]
+2022-07-27 14:43:07.389180 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PrePlanRun completed. [35.9 us]
+2022-07-27 14:43:07.389180 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PrePlanRun completed. [23.7 us]
+2022-07-27 14:43:07.389180 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM inschakelen EIO6" PrePlanRun completed. [35.1 us]
+2022-07-27 14:43:07.389180 ; TestPlan       ; Debug       ; "Stromen controleren \ 200uA Meten AIN12" PrePlanRun completed. [31.6 us]
+2022-07-27 14:43:07.389180 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM uitschakelen EIO6" PrePlanRun completed. [27.3 us]
+2022-07-27 14:43:07.389180 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PrePlanRun completed. [233 us]
+2022-07-27 14:43:07.389180 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [453 us]
+2022-07-27 14:43:07.389180 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" started.
+2022-07-27 14:43:07.390177 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-27 14:43:07.390177 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" completed with verdict 'Pass'. [1.32 ms]
+2022-07-27 14:43:07.390177 ; TestPlan       ; Information ; "DALI afleggen FIO4" started.
+2022-07-27 14:43:07.391174 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-27 14:43:07.391174 ; TestPlan       ; Information ; "DALI afleggen FIO4" completed with verdict 'Pass'. [1.14 ms]
+2022-07-27 14:43:07.392172 ; TestPlan       ; Information ; "DIM uitschakelen EIO6" started.
+2022-07-27 14:43:07.393169 ; TestStep       ; Debug       ; EIO6set to: Low
+2022-07-27 14:43:07.393169 ; TestPlan       ; Information ; "DIM uitschakelen EIO6" completed with verdict 'Pass'. [1.12 ms]
+2022-07-27 14:43:07.393169 ; TestPlan       ; Information ; "48V inschakelen FIO6" started.
+2022-07-27 14:43:07.394166 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-27 14:43:07.394166 ; TestPlan       ; Information ; "48V inschakelen FIO6" completed with verdict 'Pass'. [1.17 ms]
+2022-07-27 14:43:07.394166 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" started.
+2022-07-27 14:43:07.395085 ; TestStep       ; Debug       ; FIO2set to: High
+2022-07-27 14:43:07.395085 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [508 us]
+2022-07-27 14:43:07.395085 ; TestPlan       ; Information ; "Delay 100ms" started.
+2022-07-27 14:43:07.494823 ; TestPlan       ; Information ; "Delay 100ms" completed. [100 ms]
+2022-07-27 14:43:07.494823 ; TestPlan       ; Information ; "Spanningen controleren" started.
+2022-07-27 14:43:07.494823 ; TestPlan       ; Information ; "Spanningen controleren \ 48V Meten AIN8" started.
+2022-07-27 14:43:07.535963 ; TestStep       ; Debug       ; AIN8 measured: 47.8629335331917
+2022-07-27 14:43:07.535963 ; TestPlan       ; Information ; "Spanningen controleren \ 48V Meten AIN8" completed with verdict 'Pass'. [41.0 ms]
+2022-07-27 14:43:07.535963 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" started.
+2022-07-27 14:43:07.577854 ; TestStep       ; Debug       ; AIN1 measured: 3.28708512306213
+2022-07-27 14:43:07.577854 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" completed with verdict 'Pass'. [41.9 ms]
+2022-07-27 14:43:07.577854 ; TestPlan       ; Information ; "Spanningen controleren" completed with verdict 'Pass'. [83.3 ms]
+2022-07-27 14:43:07.578853 ; TestPlan       ; Information ; "Stromen controleren" started.
+2022-07-27 14:43:07.578853 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" started.
+2022-07-27 14:43:07.608772 ; TestStep       ; Debug       ; AIN0 measured: 0.605093771242537
+2022-07-27 14:43:07.608772 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" completed with verdict 'Pass'. [30.0 ms]
+2022-07-27 14:43:07.608772 ; TestPlan       ; Information ; "Stromen controleren \ DIM inschakelen EIO6" started.
+2022-07-27 14:43:07.609771 ; TestStep       ; Debug       ; EIO6set to: High
+2022-07-27 14:43:07.609771 ; TestPlan       ; Information ; "Stromen controleren \ DIM inschakelen EIO6" completed with verdict 'Pass'. [1.21 ms]
+2022-07-27 14:43:07.609771 ; TestPlan       ; Information ; "Stromen controleren \ 200uA Meten AIN12" started.
+2022-07-27 14:43:07.658598 ; TestStep       ; Debug       ; AIN12 measured: 1.07076281309128
+2022-07-27 14:43:07.659637 ; TestPlan       ; Information ; "Stromen controleren \ 200uA Meten AIN12" completed with verdict 'Pass'. [49.2 ms]
+2022-07-27 14:43:07.659637 ; TestPlan       ; Information ; "Stromen controleren \ DIM uitschakelen EIO6" started.
+2022-07-27 14:43:07.660603 ; TestStep       ; Debug       ; EIO6set to: Low
+2022-07-27 14:43:07.660603 ; TestPlan       ; Information ; "Stromen controleren \ DIM uitschakelen EIO6" completed with verdict 'Pass'. [1.06 ms]
+2022-07-27 14:43:07.660603 ; TestPlan       ; Information ; "Stromen controleren" completed with verdict 'Pass'. [82.1 ms]
+2022-07-27 14:43:07.660603 ; TestPlan       ; Information ; "Delay 1s" started.
+2022-07-27 14:43:08.661111 ; TestPlan       ; Information ; "Delay 1s" completed. [1.00 s]
+2022-07-27 14:43:08.661111 ; TestPlan       ; Information ; "48V naar DUT afleggen einde FIO2" started.
+2022-07-27 14:43:08.662120 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-27 14:43:08.662120 ; TestPlan       ; Information ; "48V naar DUT afleggen einde FIO2" completed with verdict 'Pass'. [1.14 ms]
+2022-07-27 14:43:08.662120 ; TestPlan       ; Debug       ; Test step runs finished. [1.27 s]
+2022-07-27 14:43:08.662120 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PostPlanRun completed. [101 us]
+2022-07-27 14:43:08.662120 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM uitschakelen EIO6" PostPlanRun completed. [6.10 us]
+2022-07-27 14:43:08.662120 ; TestPlan       ; Debug       ; "Stromen controleren \ 200uA Meten AIN12" PostPlanRun completed. [4.59 us]
+2022-07-27 14:43:08.662120 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM inschakelen EIO6" PostPlanRun completed. [4.20 us]
+2022-07-27 14:43:08.662120 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PostPlanRun completed. [4.09 us]
+2022-07-27 14:43:08.662120 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PostPlanRun completed. [4.09 us]
+2022-07-27 14:43:08.662120 ; TestPlan       ; Debug       ; "Spanningen controleren \ 48V Meten AIN8" PostPlanRun completed. [3.90 us]
+2022-07-27 14:43:08.662120 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PostPlanRun completed. [3.80 us]
+2022-07-27 14:43:08.662120 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PostPlanRun completed. [3.60 us]
+2022-07-27 14:43:08.662120 ; TestPlan       ; Debug       ; "DIM uitschakelen EIO6" PostPlanRun completed. [3.60 us]
+2022-07-27 14:43:08.662120 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PostPlanRun completed. [3.70 us]
+2022-07-27 14:43:08.662120 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PostPlanRun completed. [4.20 us]
+2022-07-27 14:43:08.662120 ; Summary        ; Information ; -------- Summary of test plan started 07/27/2022 14:43:04 --------
+2022-07-27 14:43:08.662120 ; Summary        ; Information ;  48V nr DUT afleggen begin FIO2                     1.32 ms  Pass   
+2022-07-27 14:43:08.662120 ; Summary        ; Information ;  DALI afleggen FIO4                                 1.14 ms  Pass   
+2022-07-27 14:43:08.662120 ; Summary        ; Information ;  DIM uitschakelen EIO6                              1.12 ms  Pass   
+2022-07-27 14:43:08.662120 ; Summary        ; Information ;  48V inschakelen FIO6                               1.17 ms  Pass   
+2022-07-27 14:43:08.662120 ; Summary        ; Information ;  48V nr DUT aanleggen FIO2                           508 us  Pass   
+2022-07-27 14:43:08.662120 ; Summary        ; Information ;  Delay 100ms                                         100 ms         
+2022-07-27 14:43:08.662120 ; Summary        ; Information ;  Spanningen controleren                             83.3 ms  Pass   
+2022-07-27 14:43:08.662120 ; Summary        ; Information ;    48V Meten AIN8                                   41.0 ms  Pass   
+2022-07-27 14:43:08.662120 ; Summary        ; Information ;    3V3 Meten AIN1                                   41.9 ms  Pass   
+2022-07-27 14:43:08.662120 ; Summary        ; Information ;  Stromen controleren                                82.1 ms  Pass   
+2022-07-27 14:43:08.662120 ; Summary        ; Information ;    DUT nt kortgesloten AIN0                         30.0 ms  Pass   
+2022-07-27 14:43:08.662120 ; Summary        ; Information ;    DIM inschakelen EIO6                             1.21 ms  Pass   
+2022-07-27 14:43:08.662120 ; Summary        ; Information ;    200uA Meten AIN12                                49.2 ms  Pass   
+2022-07-27 14:43:08.662120 ; Summary        ; Information ;    DIM uitschakelen EIO6                            1.06 ms  Pass   
+2022-07-27 14:43:08.662120 ; Summary        ; Information ;  Delay 1s                                           1.00 s          
+2022-07-27 14:43:08.662120 ; Summary        ; Information ;  48V naar DUT afleggen einde FIO2                   1.14 ms  Pass   
+2022-07-27 14:43:08.662120 ; Summary        ; Information ; ------------------------------------------------------------------
+2022-07-27 14:43:08.662120 ; Summary        ; Information ; ----------- Test plan completed successfully in 4.09 s -----------
+2022-07-27 14:43:08.669001 ; Labjack        ; Information ; Resource "Labjack" closed. [1.60 us]
+2022-07-27 14:46:57.994231 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-27 14:46:57.994231 ; TestPlan       ; Information ; Starting TestPlan 'TX48ED9' on 07/27/2022 14:46:57, 18 of 36 TestSteps enabled.
+2022-07-27 14:46:58.004608 ; TestPlan       ; Debug       ; Saved Test Plan XML [10.2 ms]
+2022-07-27 14:47:00.004939 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:47:00.004939 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:47:00.004939 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:47:00.004939 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:47:00.811698 ; Labjack        ; Information ; Resource "Labjack" opened. [2.81 s]
+2022-07-27 14:47:00.812696 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PrePlanRun completed. [53.2 us]
+2022-07-27 14:47:00.812696 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PrePlanRun completed. [30.1 us]
+2022-07-27 14:47:00.812696 ; TestPlan       ; Debug       ; "DIM uitschakelen EIO6" PrePlanRun completed. [16.9 us]
+2022-07-27 14:47:00.812696 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PrePlanRun completed. [17.8 us]
+2022-07-27 14:47:00.812696 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PrePlanRun completed. [19.9 us]
+2022-07-27 14:47:00.812696 ; TestPlan       ; Debug       ; "Spanningen controleren \ 48V Meten AIN8" PrePlanRun completed. [18.8 us]
+2022-07-27 14:47:00.812696 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PrePlanRun completed. [19.5 us]
+2022-07-27 14:47:00.812696 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PrePlanRun completed. [14.5 us]
+2022-07-27 14:47:00.812696 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM inschakelen EIO6" PrePlanRun completed. [19.9 us]
+2022-07-27 14:47:00.812696 ; TestPlan       ; Debug       ; "Stromen controleren \ 200uA Meten AIN12" PrePlanRun completed. [21.5 us]
+2022-07-27 14:47:00.812696 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM uitschakelen EIO6" PrePlanRun completed. [14.8 us]
+2022-07-27 14:47:00.812696 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PrePlanRun completed. [135 us]
+2022-07-27 14:47:00.812696 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [279 us]
+2022-07-27 14:47:00.812696 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" started.
+2022-07-27 14:47:00.814699 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-27 14:47:00.814699 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" completed with verdict 'Pass'. [1.16 ms]
+2022-07-27 14:47:00.814699 ; TestPlan       ; Information ; "DALI afleggen FIO4" started.
+2022-07-27 14:47:00.815744 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-27 14:47:00.815744 ; TestPlan       ; Information ; "DALI afleggen FIO4" completed with verdict 'Pass'. [1.13 ms]
+2022-07-27 14:47:00.815744 ; TestPlan       ; Information ; "DIM uitschakelen EIO6" started.
+2022-07-27 14:47:00.816693 ; TestStep       ; Debug       ; EIO6set to: Low
+2022-07-27 14:47:00.816693 ; TestPlan       ; Information ; "DIM uitschakelen EIO6" completed with verdict 'Pass'. [589 us]
+2022-07-27 14:47:00.816693 ; TestPlan       ; Information ; "48V inschakelen FIO6" started.
+2022-07-27 14:47:00.816693 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-27 14:47:00.816693 ; TestPlan       ; Information ; "48V inschakelen FIO6" completed with verdict 'Pass'. [575 us]
+2022-07-27 14:47:00.816693 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" started.
+2022-07-27 14:47:00.817692 ; TestStep       ; Debug       ; FIO2set to: High
+2022-07-27 14:47:00.817692 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [577 us]
+2022-07-27 14:47:00.817692 ; TestPlan       ; Information ; "Delay 100ms" started.
+2022-07-27 14:47:00.917425 ; TestPlan       ; Information ; "Delay 100ms" completed. [100 ms]
+2022-07-27 14:47:00.917425 ; TestPlan       ; Information ; "Spanningen controleren" started.
+2022-07-27 14:47:00.917425 ; TestPlan       ; Information ; "Spanningen controleren \ 48V Meten AIN8" started.
+2022-07-27 14:47:00.965301 ; TestStep       ; Debug       ; AIN8 measured: 47.9306895768642
+2022-07-27 14:47:00.965301 ; TestPlan       ; Information ; "Spanningen controleren \ 48V Meten AIN8" completed with verdict 'Pass'. [47.2 ms]
+2022-07-27 14:47:00.965301 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" started.
+2022-07-27 14:47:01.008231 ; TestStep       ; Debug       ; AIN1 measured: 3.27412602901459
+2022-07-27 14:47:01.008231 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" completed with verdict 'Pass'. [43.3 ms]
+2022-07-27 14:47:01.008231 ; TestPlan       ; Information ; "Spanningen controleren" completed with verdict 'Pass'. [90.8 ms]
+2022-07-27 14:47:01.009201 ; TestPlan       ; Information ; "Stromen controleren" started.
+2022-07-27 14:47:01.009201 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" started.
+2022-07-27 14:47:01.040880 ; TestStep       ; Debug       ; AIN0 measured: 0.178929767326044
+2022-07-27 14:47:01.040880 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" completed with verdict 'Pass'. [32.4 ms]
+2022-07-27 14:47:01.041829 ; TestPlan       ; Information ; "Stromen controleren \ DIM inschakelen EIO6" started.
+2022-07-27 14:47:01.042827 ; TestStep       ; Debug       ; EIO6set to: High
+2022-07-27 14:47:01.042827 ; TestPlan       ; Information ; "Stromen controleren \ DIM inschakelen EIO6" completed with verdict 'Pass'. [1.01 ms]
+2022-07-27 14:47:01.042827 ; TestPlan       ; Information ; "Stromen controleren \ 200uA Meten AIN12" started.
+2022-07-27 14:47:01.090699 ; TestStep       ; Debug       ; AIN12 measured: 1.08798060894012
+2022-07-27 14:47:01.090699 ; TestPlan       ; Information ; "Stromen controleren \ 200uA Meten AIN12" completed with verdict 'Pass'. [48.3 ms]
+2022-07-27 14:47:01.090699 ; TestPlan       ; Information ; "Stromen controleren \ DIM uitschakelen EIO6" started.
+2022-07-27 14:47:01.091697 ; TestStep       ; Debug       ; EIO6set to: Low
+2022-07-27 14:47:01.091697 ; TestPlan       ; Information ; "Stromen controleren \ DIM uitschakelen EIO6" completed with verdict 'Pass'. [517 us]
+2022-07-27 14:47:01.091697 ; TestPlan       ; Information ; "Stromen controleren" completed with verdict 'Pass'. [82.7 ms]
+2022-07-27 14:47:01.091697 ; TestPlan       ; Information ; "Programmeren uC DUT" started.
+2022-07-27 14:47:01.091697 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" started.
+2022-07-27 14:47:01.091697 ; TestStep       ; Debug       ; Starting process ..\..\..\..\..\..\..\..\Program Files\SEGGER\JLink\JLink.exe with arguments "-commanderscript AppFirmware.jlink"
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; SEGGER J-Link Commander V7.62b (Compiled Mar  8 2022 15:16:51)
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; DLL version V7.62b, compiled Mar  8 2022 15:15:34
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; 
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; 
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; J-Link Command File read successfully.
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; Processing script file...
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; J-Link>device MKL16Z32xxx4
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; J-Link connection not established yet but required for command.
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; Connecting to J-Link via USB...O.K.
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; Firmware: J-Link V11 compiled Mar  3 2022 10:16:14
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; Hardware version: V11.00
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; S/N: 51020380
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; License(s): GDB
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; USB speed mode: High speed (480 MBit/s)
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; VTref=3.283V
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; J-Link>si SWD
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; Selecting SWD as current target interface.
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; J-Link>speed 1000
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; Selecting 1000 kHz as target interface speed
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; J-Link>Sleep 600
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; Sleep(600)
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; J-Link>erase
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; Target connection not established yet but required for command.
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; Device "MKL16Z32XXX4" selected.
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; 
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; 
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; Connecting to target via SWD
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; ConfigTargetSettings() start
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; ConfigTargetSettings() end
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; InitTarget() start
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; InitTarget()
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; InitTarget() end
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; Found SW-DP with ID 0x0BC11477
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; DPIDR: 0x0BC11477
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; CoreSight SoC-400 or earlier
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; AP map detection skipped. Manually configured AP map found.
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; AP[0]: AHB-AP (IDR: Not set)
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; AP[1]: MEM-AP (IDR: Not set)
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; AP[0]: Core found
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; AP[0]: AHB-AP ROM base: 0xF0002000
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; CPUID register: 0x410CC600. Implementer code: 0x41 (ARM)
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; Found Cortex-M0 r0p0, Little endian.
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; FPUnit: 2 code (BP) slots and 0 literal slots
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; CoreSight components:
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; ROMTbl[0] @ F0002000
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; [0][0]: F0000000 CID B105900D PID 000BB932 MTB-M0+
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; [0][1]: F0001000 CID B105900D PID 0008E000 MTBDWT
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; [0][2]: E00FF000 CID B105100D PID 000BB4C0 ROM Table
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; ROMTbl[1] @ E00FF000
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; [1][0]: E000E000 CID B105E00D PID 000BB008 SCS
+2022-07-27 14:47:03.629222 ; TestStep       ; Information ; [1][1]: E0001000 CID B105E00D PID 000BB00A DWT
+2022-07-27 14:47:03.630207 ; TestStep       ; Information ; [1][2]: E0002000 CID B105E00D PID 000BB00B FPB
+2022-07-27 14:47:03.630207 ; TestStep       ; Information ; Cortex-M0 identified.
+2022-07-27 14:47:03.630207 ; TestStep       ; Information ; Without any given address range, Erase Chip will be executed
+2022-07-27 14:47:03.630207 ; TestStep       ; Information ; Erasing device...
+2022-07-27 14:47:03.630207 ; TestStep       ; Information ; J-Link: Flash download: Total time needed: 0.627s (Prepare: 0.036s, Compare: 0.000s, Erase: 0.581s, Program: 0.000s, Verify: 0.000s, Restore: 0.009s)
+2022-07-27 14:47:03.630207 ; TestStep       ; Information ; Erasing done.
+2022-07-27 14:47:03.630207 ; TestStep       ; Information ; J-Link>loadfile C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\TX48ED9\Tx-DIM9_v1.3.hex, 0x00
+2022-07-27 14:47:03.630207 ; TestStep       ; Information ; Downloading file [C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\TX48ED9\Tx-DIM9_v1.3.hex]...
+2022-07-27 14:47:03.630207 ; TestStep       ; Information ; J-Link: Flash download: Bank 0 @ 0x00000000: 2 ranges affected (17408 bytes)
+2022-07-27 14:47:03.630207 ; TestStep       ; Information ; J-Link: Flash download: Total: 0.792s (Prepare: 0.085s, Compare: 0.060s, Erase: 0.037s, Program & Verify: 0.549s, Restore: 0.059s)
+2022-07-27 14:47:03.630207 ; TestStep       ; Information ; J-Link: Flash download: Program & Verify speed: 30 KB/s
+2022-07-27 14:47:03.630207 ; TestStep       ; Information ; O.K.
+2022-07-27 14:47:03.630207 ; TestStep       ; Information ; J-Link>r
+2022-07-27 14:47:03.630207 ; TestStep       ; Information ; Reset delay: 0 ms
+2022-07-27 14:47:03.630207 ; TestStep       ; Information ; Reset type NORMAL: Resets core & peripherals via SYSRESETREQ & VECTRESET bit.
+2022-07-27 14:47:03.630207 ; TestStep       ; Information ; Reset: Halt core after reset via DEMCR.VC_CORERESET.
+2022-07-27 14:47:03.630207 ; TestStep       ; Information ; Reset: Reset device via AIRCR.SYSRESETREQ.
+2022-07-27 14:47:03.630207 ; TestStep       ; Information ; J-Link>g
+2022-07-27 14:47:03.630207 ; TestStep       ; Information ; J-Link>qc
+2022-07-27 14:47:03.630207 ; TestStep       ; Information ; 
+2022-07-27 14:47:03.630207 ; TestStep       ; Information ; Script processing completed.
+2022-07-27 14:47:03.630207 ; TestStep       ; Information ; 
+2022-07-27 14:47:03.640176 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" completed with verdict 'Pass'. [2.54 s]
+2022-07-27 14:47:03.641175 ; TestPlan       ; Information ; "Programmeren uC DUT" completed with verdict 'Pass'. [2.54 s]
+2022-07-27 14:47:03.641175 ; TestPlan       ; Information ; "Delay 1s" started.
+2022-07-27 14:47:04.641130 ; TestPlan       ; Information ; "Delay 1s" completed. [1.00 s]
+2022-07-27 14:47:04.641130 ; TestPlan       ; Information ; "48V naar DUT afleggen einde FIO2" started.
+2022-07-27 14:47:04.642130 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-27 14:47:04.642130 ; TestPlan       ; Information ; "48V naar DUT afleggen einde FIO2" completed with verdict 'Pass'. [1.31 ms]
+2022-07-27 14:47:04.642130 ; TestPlan       ; Debug       ; Test step runs finished. [3.82 s]
+2022-07-27 14:47:04.643125 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PostPlanRun completed. [140 us]
+2022-07-27 14:47:04.643125 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM uitschakelen EIO6" PostPlanRun completed. [10.6 us]
+2022-07-27 14:47:04.643125 ; TestPlan       ; Debug       ; "Stromen controleren \ 200uA Meten AIN12" PostPlanRun completed. [4.30 us]
+2022-07-27 14:47:04.643125 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM inschakelen EIO6" PostPlanRun completed. [3.90 us]
+2022-07-27 14:47:04.643125 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PostPlanRun completed. [7.60 us]
+2022-07-27 14:47:04.643125 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PostPlanRun completed. [6.60 us]
+2022-07-27 14:47:04.643125 ; TestPlan       ; Debug       ; "Spanningen controleren \ 48V Meten AIN8" PostPlanRun completed. [10.4 us]
+2022-07-27 14:47:04.643125 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PostPlanRun completed. [3.60 us]
+2022-07-27 14:47:04.643125 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PostPlanRun completed. [4.50 us]
+2022-07-27 14:47:04.643125 ; TestPlan       ; Debug       ; "DIM uitschakelen EIO6" PostPlanRun completed. [7.10 us]
+2022-07-27 14:47:04.643125 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PostPlanRun completed. [3.30 us]
+2022-07-27 14:47:04.643125 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PostPlanRun completed. [7.90 us]
+2022-07-27 14:47:04.643125 ; Summary        ; Information ; -------- Summary of test plan started 07/27/2022 14:46:57 --------
+2022-07-27 14:47:04.643125 ; Summary        ; Information ;  48V nr DUT afleggen begin FIO2                     1.16 ms  Pass   
+2022-07-27 14:47:04.643125 ; Summary        ; Information ;  DALI afleggen FIO4                                 1.13 ms  Pass   
+2022-07-27 14:47:04.643125 ; Summary        ; Information ;  DIM uitschakelen EIO6                               589 us  Pass   
+2022-07-27 14:47:04.643125 ; Summary        ; Information ;  48V inschakelen FIO6                                575 us  Pass   
+2022-07-27 14:47:04.643125 ; Summary        ; Information ;  48V nr DUT aanleggen FIO2                           577 us  Pass   
+2022-07-27 14:47:04.643125 ; Summary        ; Information ;  Delay 100ms                                         100 ms         
+2022-07-27 14:47:04.643125 ; Summary        ; Information ;  Spanningen controleren                             90.8 ms  Pass   
+2022-07-27 14:47:04.643125 ; Summary        ; Information ;    48V Meten AIN8                                   47.2 ms  Pass   
+2022-07-27 14:47:04.643125 ; Summary        ; Information ;    3V3 Meten AIN1                                   43.3 ms  Pass   
+2022-07-27 14:47:04.643125 ; Summary        ; Information ;  Stromen controleren                                82.7 ms  Pass   
+2022-07-27 14:47:04.643125 ; Summary        ; Information ;    DUT nt kortgesloten AIN0                         32.4 ms  Pass   
+2022-07-27 14:47:04.643125 ; Summary        ; Information ;    DIM inschakelen EIO6                             1.01 ms  Pass   
+2022-07-27 14:47:04.643125 ; Summary        ; Information ;    200uA Meten AIN12                                48.3 ms  Pass   
+2022-07-27 14:47:04.643125 ; Summary        ; Information ;    DIM uitschakelen EIO6                             517 us  Pass   
+2022-07-27 14:47:04.643125 ; Summary        ; Information ;  Programmeren uC DUT                                2.54 s   Pass   
+2022-07-27 14:47:04.643125 ; Summary        ; Information ;    Run Program                                      2.54 s   Pass   
+2022-07-27 14:47:04.643125 ; Summary        ; Information ;  Delay 1s                                           1.00 s          
+2022-07-27 14:47:04.643125 ; Summary        ; Information ;  48V naar DUT afleggen einde FIO2                   1.31 ms  Pass   
+2022-07-27 14:47:04.643125 ; Summary        ; Information ; ------------------------------------------------------------------
+2022-07-27 14:47:04.643125 ; Summary        ; Information ; ----------- Test plan completed successfully in 6.64 s -----------
+2022-07-27 14:47:04.650106 ; Labjack        ; Information ; Resource "Labjack" closed. [2.00 us]
+2022-07-27 14:49:49.696298 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-27 14:49:49.696298 ; TestPlan       ; Information ; Starting TestPlan 'TX48ED9' on 07/27/2022 14:49:49, 35 of 36 TestSteps enabled.
+2022-07-27 14:49:49.698419 ; Labjack        ; Information ; Resource "Labjack" opened. [313 us]
+2022-07-27 14:49:49.706404 ; TestPlan       ; Debug       ; Saved Test Plan XML [9.42 ms]
+2022-07-27 14:49:49.707398 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PrePlanRun completed. [69.4 us]
+2022-07-27 14:49:49.707398 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PrePlanRun completed. [49.5 us]
+2022-07-27 14:49:49.707398 ; TestPlan       ; Debug       ; "DIM uitschakelen EIO6" PrePlanRun completed. [29.2 us]
+2022-07-27 14:49:49.708396 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PrePlanRun completed. [29.3 us]
+2022-07-27 14:49:49.708396 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PrePlanRun completed. [30.2 us]
+2022-07-27 14:49:49.708396 ; TestPlan       ; Debug       ; "Spanningen controleren \ 48V Meten AIN8" PrePlanRun completed. [20.0 us]
+2022-07-27 14:49:49.708396 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PrePlanRun completed. [28.9 us]
+2022-07-27 14:49:49.708396 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PrePlanRun completed. [22.1 us]
+2022-07-27 14:49:49.708396 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM inschakelen EIO6" PrePlanRun completed. [27.4 us]
+2022-07-27 14:49:49.708396 ; TestPlan       ; Debug       ; "Stromen controleren \ 200uA Meten AIN12" PrePlanRun completed. [38.9 us]
+2022-07-27 14:49:49.708396 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM uitschakelen EIO6" PrePlanRun completed. [43.6 us]
+2022-07-27 14:49:49.708396 ; TestPlan       ; Debug       ; "DALI \ DALI aanleggen FIO4" PrePlanRun completed. [29.9 us]
+2022-07-27 14:49:49.708396 ; TestPlan       ; Debug       ; "DALI \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PrePlanRun completed. [9.60 us]
+2022-07-27 14:49:49.708396 ; TestPlan       ; Debug       ; "DALI \ Stroom door de diodes meten LED1 AIN4" PrePlanRun completed. [67.8 us]
+2022-07-27 14:49:49.708396 ; TestPlan       ; Debug       ; "DALI \ DALI afleggen FIO4" PrePlanRun completed. [35.0 us]
+2022-07-27 14:49:49.708396 ; TestPlan       ; Debug       ; "DALI \ 48V naar DUT afleggen FIO2" PrePlanRun completed. [27.9 us]
+2022-07-27 14:49:49.708396 ; TestPlan       ; Debug       ; "48VMOD \ 48V nr DUT aanleggen FIO2" PrePlanRun completed. [23.9 us]
+2022-07-27 14:49:49.708396 ; TestPlan       ; Debug       ; "48VMOD \ 500mA OK AIN4" PrePlanRun completed. [24.5 us]
+2022-07-27 14:49:49.708396 ; TestPlan       ; Debug       ; "48VMOD \ DIM nr GND EIO6" PrePlanRun completed. [23.2 us]
+2022-07-27 14:49:49.708396 ; TestPlan       ; Debug       ; "48VMOD \ 0mA OK AIN4" PrePlanRun completed. [27.4 us]
+2022-07-27 14:49:49.708396 ; TestPlan       ; Debug       ; "48VMOD \ DIM nt nr GND EIO6" PrePlanRun completed. [27.3 us]
+2022-07-27 14:49:49.708396 ; TestPlan       ; Debug       ; "48VMOD \ 500mA OK AIN4" PrePlanRun completed. [29.9 us]
+2022-07-27 14:49:49.708396 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PrePlanRun completed. [567 us]
+2022-07-27 14:49:49.708396 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [782 us]
+2022-07-27 14:49:49.708396 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" started.
+2022-07-27 14:49:49.710390 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-27 14:49:49.710390 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" completed with verdict 'Pass'. [1.97 ms]
+2022-07-27 14:49:49.710390 ; TestPlan       ; Information ; "DALI afleggen FIO4" started.
+2022-07-27 14:49:49.718374 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-27 14:49:49.718374 ; TestPlan       ; Information ; "DALI afleggen FIO4" completed with verdict 'Pass'. [7.35 ms]
+2022-07-27 14:49:49.718374 ; TestPlan       ; Information ; "DIM uitschakelen EIO6" started.
+2022-07-27 14:49:49.720364 ; TestStep       ; Debug       ; EIO6set to: Low
+2022-07-27 14:49:49.720364 ; TestPlan       ; Information ; "DIM uitschakelen EIO6" completed with verdict 'Pass'. [1.83 ms]
+2022-07-27 14:49:49.720364 ; TestPlan       ; Information ; "48V inschakelen FIO6" started.
+2022-07-27 14:49:49.721362 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-27 14:49:49.722359 ; TestPlan       ; Information ; "48V inschakelen FIO6" completed with verdict 'Pass'. [1.81 ms]
+2022-07-27 14:49:49.722359 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" started.
+2022-07-27 14:49:49.729156 ; TestStep       ; Debug       ; FIO2set to: High
+2022-07-27 14:49:49.729156 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [6.79 ms]
+2022-07-27 14:49:49.729156 ; TestPlan       ; Information ; "Delay 100ms" started.
+2022-07-27 14:49:49.830345 ; TestPlan       ; Information ; "Delay 100ms" completed. [101 ms]
+2022-07-27 14:49:49.830345 ; TestPlan       ; Information ; "Spanningen controleren" started.
+2022-07-27 14:49:49.830345 ; TestPlan       ; Information ; "Spanningen controleren \ 48V Meten AIN8" started.
+2022-07-27 14:49:49.883197 ; TestStep       ; Debug       ; AIN8 measured: 47.9346501588821
+2022-07-27 14:49:49.884195 ; TestPlan       ; Information ; "Spanningen controleren \ 48V Meten AIN8" completed with verdict 'Pass'. [53.5 ms]
+2022-07-27 14:49:49.884195 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" started.
+2022-07-27 14:49:49.923107 ; TestStep       ; Debug       ; AIN1 measured: 3.2703468298912
+2022-07-27 14:49:49.924092 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" completed with verdict 'Pass'. [39.3 ms]
+2022-07-27 14:49:49.924092 ; TestPlan       ; Information ; "Spanningen controleren" completed with verdict 'Pass'. [93.7 ms]
+2022-07-27 14:49:49.924092 ; TestPlan       ; Information ; "Stromen controleren" started.
+2022-07-27 14:49:49.924092 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" started.
+2022-07-27 14:49:49.971139 ; TestStep       ; Debug       ; AIN0 measured: 0.181790978425997
+2022-07-27 14:49:49.971139 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" completed with verdict 'Pass'. [47.2 ms]
+2022-07-27 14:49:49.972096 ; TestPlan       ; Information ; "Stromen controleren \ DIM inschakelen EIO6" started.
+2022-07-27 14:49:49.973094 ; TestStep       ; Debug       ; EIO6set to: High
+2022-07-27 14:49:49.973094 ; TestPlan       ; Information ; "Stromen controleren \ DIM inschakelen EIO6" completed with verdict 'Pass'. [1.77 ms]
+2022-07-27 14:49:49.974093 ; TestPlan       ; Information ; "Stromen controleren \ 200uA Meten AIN12" started.
+2022-07-27 14:49:50.028986 ; TestStep       ; Debug       ; AIN12 measured: 1.08688596010208
+2022-07-27 14:49:50.028986 ; TestPlan       ; Information ; "Stromen controleren \ 200uA Meten AIN12" completed with verdict 'Pass'. [54.9 ms]
+2022-07-27 14:49:50.028986 ; TestPlan       ; Information ; "Stromen controleren \ DIM uitschakelen EIO6" started.
+2022-07-27 14:49:50.032019 ; TestStep       ; Debug       ; EIO6set to: Low
+2022-07-27 14:49:50.032019 ; TestPlan       ; Information ; "Stromen controleren \ DIM uitschakelen EIO6" completed with verdict 'Pass'. [3.27 ms]
+2022-07-27 14:49:50.032019 ; TestPlan       ; Information ; "Stromen controleren" completed with verdict 'Pass'. [108 ms]
+2022-07-27 14:49:50.032019 ; TestPlan       ; Information ; "Programmeren uC DUT" started.
+2022-07-27 14:49:50.032019 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" started.
+2022-07-27 14:49:50.032019 ; TestStep       ; Debug       ; Starting process ..\..\..\..\..\..\..\..\Program Files\SEGGER\JLink\JLink.exe with arguments "-commanderscript AppFirmware.jlink"
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; SEGGER J-Link Commander V7.62b (Compiled Mar  8 2022 15:16:51)
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; DLL version V7.62b, compiled Mar  8 2022 15:15:34
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; 
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; 
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; J-Link Command File read successfully.
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; Processing script file...
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; J-Link>device MKL16Z32xxx4
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; J-Link connection not established yet but required for command.
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; Connecting to J-Link via USB...O.K.
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; Firmware: J-Link V11 compiled Mar  3 2022 10:16:14
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; Hardware version: V11.00
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; S/N: 51020380
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; License(s): GDB
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; USB speed mode: High speed (480 MBit/s)
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; VTref=3.283V
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; J-Link>si SWD
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; Selecting SWD as current target interface.
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; J-Link>speed 1000
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; Selecting 1000 kHz as target interface speed
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; J-Link>Sleep 600
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; Sleep(600)
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; J-Link>erase
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; Target connection not established yet but required for command.
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; Device "MKL16Z32XXX4" selected.
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; 
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; 
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; Connecting to target via SWD
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; ConfigTargetSettings() start
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; ConfigTargetSettings() end
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; InitTarget() start
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; InitTarget()
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; InitTarget() end
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; Found SW-DP with ID 0x0BC11477
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; DPIDR: 0x0BC11477
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; CoreSight SoC-400 or earlier
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; AP map detection skipped. Manually configured AP map found.
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; AP[0]: AHB-AP (IDR: Not set)
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; AP[1]: MEM-AP (IDR: Not set)
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; AP[0]: Core found
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; AP[0]: AHB-AP ROM base: 0xF0002000
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; CPUID register: 0x410CC600. Implementer code: 0x41 (ARM)
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; Found Cortex-M0 r0p0, Little endian.
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; FPUnit: 2 code (BP) slots and 0 literal slots
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; CoreSight components:
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; ROMTbl[0] @ F0002000
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; [0][0]: F0000000 CID B105900D PID 000BB932 MTB-M0+
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; [0][1]: F0001000 CID B105900D PID 0008E000 MTBDWT
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; [0][2]: E00FF000 CID B105100D PID 000BB4C0 ROM Table
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; ROMTbl[1] @ E00FF000
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; [1][0]: E000E000 CID B105E00D PID 000BB008 SCS
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; [1][1]: E0001000 CID B105E00D PID 000BB00A DWT
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; [1][2]: E0002000 CID B105E00D PID 000BB00B FPB
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; Cortex-M0 identified.
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; Without any given address range, Erase Chip will be executed
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; Erasing device...
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; J-Link: Flash download: Total time needed: 0.657s (Prepare: 0.038s, Compare: 0.000s, Erase: 0.609s, Program: 0.000s, Verify: 0.000s, Restore: 0.009s)
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; Erasing done.
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; J-Link>loadfile C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\TX48ED9\Tx-DIM9_v1.3.hex, 0x00
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; Downloading file [C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\TX48ED9\Tx-DIM9_v1.3.hex]...
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; J-Link: Flash download: Bank 0 @ 0x00000000: 2 ranges affected (17408 bytes)
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; J-Link: Flash download: Total: 0.805s (Prepare: 0.087s, Compare: 0.060s, Erase: 0.035s, Program & Verify: 0.563s, Restore: 0.059s)
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; J-Link: Flash download: Program & Verify speed: 29 KB/s
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; O.K.
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; J-Link>r
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; Reset delay: 0 ms
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; Reset type NORMAL: Resets core & peripherals via SYSRESETREQ & VECTRESET bit.
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; Reset: Halt core after reset via DEMCR.VC_CORERESET.
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; Reset: Reset device via AIRCR.SYSRESETREQ.
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; J-Link>g
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; J-Link>qc
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; 
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; Script processing completed.
+2022-07-27 14:49:52.631617 ; TestStep       ; Information ; 
+2022-07-27 14:49:52.641601 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" completed with verdict 'Pass'. [2.60 s]
+2022-07-27 14:49:52.642599 ; TestPlan       ; Information ; "Programmeren uC DUT" completed with verdict 'Pass'. [2.61 s]
+2022-07-27 14:49:52.643590 ; TestPlan       ; Information ; "Delay 1s" started.
+2022-07-27 14:49:53.643705 ; TestPlan       ; Information ; "Delay 1s" completed. [1.00 s]
+2022-07-27 14:49:53.643705 ; TestPlan       ; Information ; "DALI" started.
+2022-07-27 14:49:53.643705 ; TestPlan       ; Information ; "DALI \ DALI aanleggen FIO4" started.
+2022-07-27 14:49:53.645982 ; TestStep       ; Debug       ; FIO4set to: High
+2022-07-27 14:49:53.645982 ; TestPlan       ; Information ; "DALI \ DALI aanleggen FIO4" completed with verdict 'Pass'. [2.23 ms]
+2022-07-27 14:49:53.645982 ; TestPlan       ; Information ; "DALI \ Stroom door de diodes meten LED1 AIN4" started.
+2022-07-27 14:50:02.779887 ; TestPlan       ; Information ; "DALI \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" started.
+2022-07-27 14:50:02.780886 ; TestPlan       ; Information ; "DALI \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" completed with verdict 'Pass'. [563 us]
+2022-07-27 14:50:02.780886 ; TestPlan       ; Information ; "DALI \ Stroom door de diodes meten LED1 AIN4" completed with verdict 'Pass'. [9.13 s]
+2022-07-27 14:50:02.780886 ; TestPlan       ; Information ; "DALI \ DALI afleggen FIO4" started.
+2022-07-27 14:50:02.782879 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-27 14:50:02.782879 ; TestPlan       ; Information ; "DALI \ DALI afleggen FIO4" completed with verdict 'Pass'. [1.73 ms]
+2022-07-27 14:50:02.782879 ; TestPlan       ; Information ; "DALI \ 48V naar DUT afleggen FIO2" started.
+2022-07-27 14:50:02.784874 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-27 14:50:02.784874 ; TestPlan       ; Information ; "DALI \ 48V naar DUT afleggen FIO2" completed with verdict 'Pass'. [1.97 ms]
+2022-07-27 14:50:02.784874 ; TestPlan       ; Information ; "DALI" completed with verdict 'Pass'. [9.14 s]
+2022-07-27 14:50:02.784874 ; TestPlan       ; Information ; "Dialog" started.
+2022-07-27 14:50:08.214323 ; TestPlan       ; Information ; "Dialog" completed with verdict 'Pass'. [5.42 s]
+2022-07-27 14:50:08.214323 ; TestPlan       ; Information ; "48VMOD" started.
+2022-07-27 14:50:08.214323 ; TestPlan       ; Information ; "48VMOD \ 48V nr DUT aanleggen FIO2" started.
+2022-07-27 14:50:08.217314 ; TestStep       ; Debug       ; FIO2set to: High
+2022-07-27 14:50:08.217314 ; TestPlan       ; Information ; "48VMOD \ 48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [3.29 ms]
+2022-07-27 14:50:08.217314 ; TestPlan       ; Information ; "48VMOD \ Delay 800ms" started.
+2022-07-27 14:50:09.018085 ; TestPlan       ; Information ; "48VMOD \ Delay 800ms" completed. [800 ms]
+2022-07-27 14:50:09.018085 ; TestPlan       ; Information ; "48VMOD \ 500mA OK AIN4" started.
+2022-07-27 14:50:09.068536 ; TestStep       ; Debug       ; AIN4 measured: 2.33922009706497
+2022-07-27 14:50:09.068536 ; TestPlan       ; Information ; "48VMOD \ 500mA OK AIN4" completed with verdict 'Pass'. [50.9 ms]
+2022-07-27 14:50:09.068536 ; TestPlan       ; Information ; "48VMOD \ DIM nr GND EIO6" started.
+2022-07-27 14:50:09.070531 ; TestStep       ; Debug       ; EIO6set to: High
+2022-07-27 14:50:09.070531 ; TestPlan       ; Information ; "48VMOD \ DIM nr GND EIO6" completed with verdict 'Pass'. [1.50 ms]
+2022-07-27 14:50:09.070531 ; TestPlan       ; Information ; "48VMOD \ Delay 800ms" started.
+2022-07-27 14:50:09.871732 ; TestPlan       ; Information ; "48VMOD \ Delay 800ms" completed. [800 ms]
+2022-07-27 14:50:09.871732 ; TestPlan       ; Information ; "48VMOD \ 0mA OK AIN4" started.
+2022-07-27 14:50:09.931152 ; TestStep       ; Debug       ; AIN4 measured: 0
+2022-07-27 14:50:09.931152 ; TestPlan       ; Information ; "48VMOD \ 0mA OK AIN4" completed with verdict 'Pass'. [60.0 ms]
+2022-07-27 14:50:09.931152 ; TestPlan       ; Information ; "48VMOD \ DIM nt nr GND EIO6" started.
+2022-07-27 14:50:09.933153 ; TestStep       ; Debug       ; EIO6set to: Low
+2022-07-27 14:50:09.933153 ; TestPlan       ; Information ; "48VMOD \ DIM nt nr GND EIO6" completed with verdict 'Pass'. [1.96 ms]
+2022-07-27 14:50:09.934145 ; TestPlan       ; Information ; "48VMOD \ Delay 800ms" started.
+2022-07-27 14:50:10.733961 ; TestPlan       ; Information ; "48VMOD \ Delay 800ms" completed. [800 ms]
+2022-07-27 14:50:10.733961 ; TestPlan       ; Information ; "48VMOD \ 500mA OK AIN4" started.
+2022-07-27 14:50:10.791366 ; TestStep       ; Debug       ; AIN4 measured: 2.34945677042007
+2022-07-27 14:50:10.791366 ; TestPlan       ; Information ; "48VMOD \ 500mA OK AIN4" completed with verdict 'Pass'. [57.4 ms]
+2022-07-27 14:50:10.791366 ; TestPlan       ; Information ; "48VMOD" completed with verdict 'Pass'. [2.57 s]
+2022-07-27 14:50:10.791366 ; TestPlan       ; Information ; "48V naar DUT afleggen einde FIO2" started.
+2022-07-27 14:50:10.793361 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-27 14:50:10.793361 ; TestPlan       ; Information ; "48V naar DUT afleggen einde FIO2" completed with verdict 'Pass'. [1.58 ms]
+2022-07-27 14:50:10.793361 ; TestPlan       ; Debug       ; Test step runs finished. [21.0 s]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PostPlanRun completed. [670 us]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "48VMOD \ 500mA OK AIN4" PostPlanRun completed. [7.00 us]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "48VMOD \ DIM nt nr GND EIO6" PostPlanRun completed. [4.70 us]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "48VMOD \ 0mA OK AIN4" PostPlanRun completed. [3.00 us]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "48VMOD \ DIM nr GND EIO6" PostPlanRun completed. [2.70 us]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "48VMOD \ 500mA OK AIN4" PostPlanRun completed. [6.00 us]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "48VMOD \ 48V nr DUT aanleggen FIO2" PostPlanRun completed. [27.4 us]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "DALI \ 48V naar DUT afleggen FIO2" PostPlanRun completed. [9.10 us]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "DALI \ DALI afleggen FIO4" PostPlanRun completed. [15.6 us]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "DALI \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PostPlanRun completed. [19.6 us]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "DALI \ Stroom door de diodes meten LED1 AIN4" PostPlanRun completed. [7.70 us]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "DALI \ DALI aanleggen FIO4" PostPlanRun completed. [12.1 us]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM uitschakelen EIO6" PostPlanRun completed. [10.6 us]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "Stromen controleren \ 200uA Meten AIN12" PostPlanRun completed. [16.8 us]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM inschakelen EIO6" PostPlanRun completed. [11.2 us]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PostPlanRun completed. [10.1 us]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PostPlanRun completed. [18.1 us]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "Spanningen controleren \ 48V Meten AIN8" PostPlanRun completed. [14.6 us]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PostPlanRun completed. [10.6 us]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PostPlanRun completed. [16.8 us]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "DIM uitschakelen EIO6" PostPlanRun completed. [6.40 us]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PostPlanRun completed. [9.80 us]
+2022-07-27 14:50:10.794359 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PostPlanRun completed. [6.90 us]
+2022-07-27 14:50:10.794359 ; Summary        ; Information ; --------- Summary of test plan started 07/27/2022 14:49:49 ---------
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;  48V nr DUT afleggen begin FIO2                       1.97 ms  Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;  DALI afleggen FIO4                                   7.35 ms  Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;  DIM uitschakelen EIO6                                1.83 ms  Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;  48V inschakelen FIO6                                 1.81 ms  Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;  48V nr DUT aanleggen FIO2                            6.79 ms  Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;  Delay 100ms                                           101 ms         
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;  Spanningen controleren                               93.7 ms  Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;    48V Meten AIN8                                     53.5 ms  Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;    3V3 Meten AIN1                                     39.3 ms  Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;  Stromen controleren                                   108 ms  Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;    DUT nt kortgesloten AIN0                           47.2 ms  Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;    DIM inschakelen EIO6                               1.77 ms  Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;    200uA Meten AIN12                                  54.9 ms  Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;    DIM uitschakelen EIO6                              3.27 ms  Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;  Programmeren uC DUT                                  2.61 s   Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;    Run Program                                        2.60 s   Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;  Delay 1s                                             1.00 s          
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;  DALI                                                 9.14 s   Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;    DALI aanleggen FIO4                                2.23 ms  Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;    Stroom door de diodes meten LED1 AIN4              9.13 s   Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;      ChildDAQ                                          563 us  Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;    DALI afleggen FIO4                                 1.73 ms  Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;    48V naar DUT afleggen FIO2                         1.97 ms  Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;  Dialog                                               5.42 s   Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;  48VMOD                                               2.57 s   Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;    48V nr DUT aanleggen FIO2                          3.29 ms  Pass   
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;    Delay 800ms                                         800 ms         
+2022-07-27 14:50:10.794359 ; Summary        ; Information ;    500mA OK AIN4                                      50.9 ms  Pass   
+2022-07-27 14:50:10.795357 ; Summary        ; Information ;    DIM nr GND EIO6                                    1.50 ms  Pass   
+2022-07-27 14:50:10.795357 ; Summary        ; Information ;    Delay 800ms                                         800 ms         
+2022-07-27 14:50:10.795357 ; Summary        ; Information ;    0mA OK AIN4                                        60.0 ms  Pass   
+2022-07-27 14:50:10.795357 ; Summary        ; Information ;    DIM nt nr GND EIO6                                 1.96 ms  Pass   
+2022-07-27 14:50:10.795357 ; Summary        ; Information ;    Delay 800ms                                         800 ms         
+2022-07-27 14:50:10.795357 ; Summary        ; Information ;    500mA OK AIN4                                      57.4 ms  Pass   
+2022-07-27 14:50:10.795357 ; Summary        ; Information ;  48V naar DUT afleggen einde FIO2                     1.58 ms  Pass   
+2022-07-27 14:50:10.795357 ; Summary        ; Information ; --------------------------------------------------------------------
+2022-07-27 14:50:10.795357 ; Summary        ; Information ; ------------ Test plan completed successfully in 21.1 s ------------
+2022-07-27 14:50:10.801340 ; Labjack        ; Information ; Resource "Labjack" closed. [2.00 us]
+2022-07-27 14:50:14.040628 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-27 14:50:14.041625 ; TestPlan       ; Information ; Starting TestPlan 'TX48ED9' on 07/27/2022 14:50:14, 35 of 36 TestSteps enabled.
+2022-07-27 14:50:14.071465 ; TestPlan       ; Debug       ; Saved Test Plan XML [30.1 ms]
+2022-07-27 14:50:16.073074 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:50:16.073074 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:50:16.073074 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:50:16.073074 ; TestPlan       ; Information ; Waiting for resources to open:
+2022-07-27 14:50:16.857756 ; Labjack        ; Information ; Resource "Labjack" opened. [2.81 s]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PrePlanRun completed. [54.0 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PrePlanRun completed. [28.7 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "DIM uitschakelen EIO6" PrePlanRun completed. [24.6 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PrePlanRun completed. [16.8 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PrePlanRun completed. [16.8 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "Spanningen controleren \ 48V Meten AIN8" PrePlanRun completed. [11.3 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PrePlanRun completed. [15.7 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PrePlanRun completed. [13.7 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM inschakelen EIO6" PrePlanRun completed. [18.6 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "Stromen controleren \ 200uA Meten AIN12" PrePlanRun completed. [19.4 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM uitschakelen EIO6" PrePlanRun completed. [20.6 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "DALI \ DALI aanleggen FIO4" PrePlanRun completed. [15.8 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "DALI \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PrePlanRun completed. [3.40 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "DALI \ Stroom door de diodes meten LED1 AIN4" PrePlanRun completed. [23.4 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "DALI \ DALI afleggen FIO4" PrePlanRun completed. [14.4 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "DALI \ 48V naar DUT afleggen FIO2" PrePlanRun completed. [16.6 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "48VMOD \ 48V nr DUT aanleggen FIO2" PrePlanRun completed. [15.9 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "48VMOD \ 500mA OK AIN4" PrePlanRun completed. [16.8 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "48VMOD \ DIM nr GND EIO6" PrePlanRun completed. [17.8 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "48VMOD \ 0mA OK AIN4" PrePlanRun completed. [19.4 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "48VMOD \ DIM nt nr GND EIO6" PrePlanRun completed. [17.9 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "48VMOD \ 500mA OK AIN4" PrePlanRun completed. [17.5 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PrePlanRun completed. [309 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [457 us]
+2022-07-27 14:50:16.859752 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" started.
+2022-07-27 14:50:16.860749 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-27 14:50:16.860749 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" completed with verdict 'Pass'. [1.12 ms]
+2022-07-27 14:50:16.860749 ; TestPlan       ; Information ; "DALI afleggen FIO4" started.
+2022-07-27 14:50:16.861746 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-27 14:50:16.861746 ; TestPlan       ; Information ; "DALI afleggen FIO4" completed with verdict 'Pass'. [1.16 ms]
+2022-07-27 14:50:16.861746 ; TestPlan       ; Information ; "DIM uitschakelen EIO6" started.
+2022-07-27 14:50:16.863745 ; TestStep       ; Debug       ; EIO6set to: Low
+2022-07-27 14:50:16.863745 ; TestPlan       ; Information ; "DIM uitschakelen EIO6" completed with verdict 'Pass'. [1.21 ms]
+2022-07-27 14:50:16.863745 ; TestPlan       ; Information ; "48V inschakelen FIO6" started.
+2022-07-27 14:50:16.864739 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-27 14:50:16.864739 ; TestPlan       ; Information ; "48V inschakelen FIO6" completed with verdict 'Pass'. [1.06 ms]
+2022-07-27 14:50:16.864739 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" started.
+2022-07-27 14:50:16.866286 ; TestStep       ; Debug       ; FIO2set to: High
+2022-07-27 14:50:16.866286 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [1.21 ms]
+2022-07-27 14:50:16.866286 ; TestPlan       ; Information ; "Delay 100ms" started.
+2022-07-27 14:50:16.966024 ; TestPlan       ; Information ; "Delay 100ms" completed. [100 ms]
+2022-07-27 14:50:16.966024 ; TestPlan       ; Information ; "Spanningen controleren" started.
+2022-07-27 14:50:16.966024 ; TestPlan       ; Information ; "Spanningen controleren \ 48V Meten AIN8" started.
+2022-07-27 14:50:17.003969 ; TestStep       ; Debug       ; AIN8 measured: 47.9166788220406
+2022-07-27 14:50:17.003969 ; TestPlan       ; Information ; "Spanningen controleren \ 48V Meten AIN8" completed with verdict 'Pass'. [38.0 ms]
+2022-07-27 14:50:17.003969 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" started.
+2022-07-27 14:50:17.045810 ; TestStep       ; Debug       ; AIN1 measured: 3.27103137493134
+2022-07-27 14:50:17.046809 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" completed with verdict 'Pass'. [41.9 ms]
+2022-07-27 14:50:17.046809 ; TestPlan       ; Information ; "Spanningen controleren" completed with verdict 'Pass'. [80.3 ms]
+2022-07-27 14:50:17.046809 ; TestPlan       ; Information ; "Stromen controleren" started.
+2022-07-27 14:50:17.046809 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" started.
+2022-07-27 14:50:17.087271 ; TestStep       ; Debug       ; AIN0 measured: 0.162358680249308
+2022-07-27 14:50:17.087271 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" completed with verdict 'Pass'. [40.3 ms]
+2022-07-27 14:50:17.087271 ; TestPlan       ; Information ; "Stromen controleren \ DIM inschakelen EIO6" started.
+2022-07-27 14:50:17.087271 ; TestStep       ; Debug       ; EIO6set to: High
+2022-07-27 14:50:17.088272 ; TestPlan       ; Information ; "Stromen controleren \ DIM inschakelen EIO6" completed with verdict 'Pass'. [653 us]
+2022-07-27 14:50:17.088272 ; TestPlan       ; Information ; "Stromen controleren \ 200uA Meten AIN12" started.
+2022-07-27 14:50:17.128794 ; TestStep       ; Debug       ; AIN12 measured: 1.08704053640366
+2022-07-27 14:50:17.128794 ; TestPlan       ; Information ; "Stromen controleren \ 200uA Meten AIN12" completed with verdict 'Pass'. [40.6 ms]
+2022-07-27 14:50:17.128794 ; TestPlan       ; Information ; "Stromen controleren \ DIM uitschakelen EIO6" started.
+2022-07-27 14:50:17.128794 ; TestStep       ; Debug       ; EIO6set to: Low
+2022-07-27 14:50:17.129795 ; TestPlan       ; Information ; "Stromen controleren \ DIM uitschakelen EIO6" completed with verdict 'Pass'. [711 us]
+2022-07-27 14:50:17.129795 ; TestPlan       ; Information ; "Stromen controleren" completed with verdict 'Pass'. [82.7 ms]
+2022-07-27 14:50:17.129795 ; TestPlan       ; Information ; "Programmeren uC DUT" started.
+2022-07-27 14:50:17.129795 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" started.
+2022-07-27 14:50:17.129795 ; TestStep       ; Debug       ; Starting process ..\..\..\..\..\..\..\..\Program Files\SEGGER\JLink\JLink.exe with arguments "-commanderscript AppFirmware.jlink"
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; SEGGER J-Link Commander V7.62b (Compiled Mar  8 2022 15:16:51)
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; DLL version V7.62b, compiled Mar  8 2022 15:15:34
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; 
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; 
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; J-Link Command File read successfully.
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; Processing script file...
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; J-Link>device MKL16Z32xxx4
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; J-Link connection not established yet but required for command.
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; Connecting to J-Link via USB...O.K.
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; Firmware: J-Link V11 compiled Mar  3 2022 10:16:14
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; Hardware version: V11.00
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; S/N: 51020380
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; License(s): GDB
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; USB speed mode: High speed (480 MBit/s)
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; VTref=3.283V
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; J-Link>si SWD
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; Selecting SWD as current target interface.
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; J-Link>speed 1000
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; Selecting 1000 kHz as target interface speed
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; J-Link>Sleep 600
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; Sleep(600)
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; J-Link>erase
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; Target connection not established yet but required for command.
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; Device "MKL16Z32XXX4" selected.
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; 
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; 
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; Connecting to target via SWD
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; ConfigTargetSettings() start
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; ConfigTargetSettings() end
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; InitTarget() start
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; InitTarget()
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; InitTarget() end
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; Found SW-DP with ID 0x0BC11477
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; DPIDR: 0x0BC11477
+2022-07-27 14:50:19.594588 ; TestStep       ; Information ; CoreSight SoC-400 or earlier
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; AP map detection skipped. Manually configured AP map found.
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; AP[0]: AHB-AP (IDR: Not set)
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; AP[1]: MEM-AP (IDR: Not set)
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; AP[0]: Core found
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; AP[0]: AHB-AP ROM base: 0xF0002000
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; CPUID register: 0x410CC600. Implementer code: 0x41 (ARM)
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; Found Cortex-M0 r0p0, Little endian.
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; FPUnit: 2 code (BP) slots and 0 literal slots
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; CoreSight components:
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; ROMTbl[0] @ F0002000
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; [0][0]: F0000000 CID B105900D PID 000BB932 MTB-M0+
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; [0][1]: F0001000 CID B105900D PID 0008E000 MTBDWT
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; [0][2]: E00FF000 CID B105100D PID 000BB4C0 ROM Table
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; ROMTbl[1] @ E00FF000
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; [1][0]: E000E000 CID B105E00D PID 000BB008 SCS
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; [1][1]: E0001000 CID B105E00D PID 000BB00A DWT
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; [1][2]: E0002000 CID B105E00D PID 000BB00B FPB
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; Cortex-M0 identified.
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; Without any given address range, Erase Chip will be executed
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; Erasing device...
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; J-Link: Flash download: Total time needed: 0.634s (Prepare: 0.037s, Compare: 0.000s, Erase: 0.586s, Program: 0.000s, Verify: 0.000s, Restore: 0.009s)
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; Erasing done.
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; J-Link>loadfile C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\TX48ED9\Tx-DIM9_v1.3.hex, 0x00
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; Downloading file [C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\TX48ED9\Tx-DIM9_v1.3.hex]...
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; J-Link: Flash download: Bank 0 @ 0x00000000: 2 ranges affected (17408 bytes)
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; J-Link: Flash download: Total: 0.789s (Prepare: 0.084s, Compare: 0.058s, Erase: 0.034s, Program & Verify: 0.551s, Restore: 0.060s)
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; J-Link: Flash download: Program & Verify speed: 30 KB/s
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; O.K.
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; J-Link>r
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; Reset delay: 0 ms
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; Reset type NORMAL: Resets core & peripherals via SYSRESETREQ & VECTRESET bit.
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; Reset: Halt core after reset via DEMCR.VC_CORERESET.
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; Reset: Reset device via AIRCR.SYSRESETREQ.
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; J-Link>g
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; J-Link>qc
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; 
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; Script processing completed.
+2022-07-27 14:50:19.595587 ; TestStep       ; Information ; 
+2022-07-27 14:50:19.604589 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" completed with verdict 'Pass'. [2.47 s]
+2022-07-27 14:50:19.604589 ; TestPlan       ; Information ; "Programmeren uC DUT" completed with verdict 'Pass'. [2.47 s]
+2022-07-27 14:50:19.604589 ; TestPlan       ; Information ; "Delay 1s" started.
+2022-07-27 14:50:20.605349 ; TestPlan       ; Information ; "Delay 1s" completed. [1.00 s]
+2022-07-27 14:50:20.605349 ; TestPlan       ; Information ; "DALI" started.
+2022-07-27 14:50:20.605349 ; TestPlan       ; Information ; "DALI \ DALI aanleggen FIO4" started.
+2022-07-27 14:50:20.606348 ; TestStep       ; Debug       ; FIO4set to: High
+2022-07-27 14:50:20.606348 ; TestPlan       ; Information ; "DALI \ DALI aanleggen FIO4" completed with verdict 'Pass'. [1.36 ms]
+2022-07-27 14:50:20.606348 ; TestPlan       ; Information ; "DALI \ Stroom door de diodes meten LED1 AIN4" started.
+2022-07-27 14:50:29.711181 ; TestPlan       ; Information ; "DALI \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" started.
+2022-07-27 14:50:29.712179 ; TestPlan       ; Information ; "DALI \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" completed with verdict 'Fail'. [487 us]
+2022-07-27 14:50:29.712179 ; Test Step      ; Debug       ; Break issued from 'ChildDAQ' due to verdict Fail. See Break Conditions settings.
+2022-07-27 14:50:29.712179 ; TestPlan       ; Information ; "DALI \ Stroom door de diodes meten LED1 AIN4" completed with verdict 'Fail'. [9.10 s]
+2022-07-27 14:50:29.712179 ; Test Step      ; Debug       ; Break issued from 'Stroom door de diodes meten LED1 AIN4' due to verdict Fail. See Break Conditions settings.
+2022-07-27 14:50:29.712179 ; TestPlan       ; Information ; "DALI" completed with verdict 'Fail'. [9.10 s]
+2022-07-27 14:50:29.712179 ; Test Step      ; Debug       ; Break issued from 'DALI' due to verdict Fail. See Break Conditions settings.
+2022-07-27 14:50:29.712179 ; TestPlan       ; Debug       ; Test step runs finished. [12.8 s]
+2022-07-27 14:50:29.712179 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PostPlanRun completed. [173 us]
+2022-07-27 14:50:29.712179 ; TestPlan       ; Debug       ; "48VMOD \ 500mA OK AIN4" PostPlanRun completed. [8.69 us]
+2022-07-27 14:50:29.712179 ; TestPlan       ; Debug       ; "48VMOD \ DIM nt nr GND EIO6" PostPlanRun completed. [2.60 us]
+2022-07-27 14:50:29.712179 ; TestPlan       ; Debug       ; "48VMOD \ 0mA OK AIN4" PostPlanRun completed. [4.40 us]
+2022-07-27 14:50:29.712179 ; TestPlan       ; Debug       ; "48VMOD \ DIM nr GND EIO6" PostPlanRun completed. [4.20 us]
+2022-07-27 14:50:29.712179 ; TestPlan       ; Debug       ; "48VMOD \ 500mA OK AIN4" PostPlanRun completed. [2.40 us]
+2022-07-27 14:50:29.712179 ; TestPlan       ; Debug       ; "48VMOD \ 48V nr DUT aanleggen FIO2" PostPlanRun completed. [2.80 us]
+2022-07-27 14:50:29.712179 ; TestPlan       ; Debug       ; "DALI \ 48V naar DUT afleggen FIO2" PostPlanRun completed. [2.60 us]
+2022-07-27 14:50:29.712179 ; TestPlan       ; Debug       ; "DALI \ DALI afleggen FIO4" PostPlanRun completed. [6.80 us]
+2022-07-27 14:50:29.712179 ; TestPlan       ; Debug       ; "DALI \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PostPlanRun completed. [8.19 us]
+2022-07-27 14:50:29.713175 ; TestPlan       ; Debug       ; "DALI \ Stroom door de diodes meten LED1 AIN4" PostPlanRun completed. [2.90 us]
+2022-07-27 14:50:29.713175 ; TestPlan       ; Debug       ; "DALI \ DALI aanleggen FIO4" PostPlanRun completed. [8.00 us]
+2022-07-27 14:50:29.713175 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM uitschakelen EIO6" PostPlanRun completed. [3.20 us]
+2022-07-27 14:50:29.713175 ; TestPlan       ; Debug       ; "Stromen controleren \ 200uA Meten AIN12" PostPlanRun completed. [5.80 us]
+2022-07-27 14:50:29.713175 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM inschakelen EIO6" PostPlanRun completed. [3.00 us]
+2022-07-27 14:50:29.713175 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PostPlanRun completed. [4.20 us]
+2022-07-27 14:50:29.713175 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PostPlanRun completed. [6.00 us]
+2022-07-27 14:50:29.713175 ; TestPlan       ; Debug       ; "Spanningen controleren \ 48V Meten AIN8" PostPlanRun completed. [2.40 us]
+2022-07-27 14:50:29.713175 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PostPlanRun completed. [2.29 us]
+2022-07-27 14:50:29.713175 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PostPlanRun completed. [2.40 us]
+2022-07-27 14:50:29.713175 ; TestPlan       ; Debug       ; "DIM uitschakelen EIO6" PostPlanRun completed. [2.40 us]
+2022-07-27 14:50:29.713175 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PostPlanRun completed. [3.60 us]
+2022-07-27 14:50:29.713175 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PostPlanRun completed. [5.90 us]
+2022-07-27 14:50:29.713175 ; Summary        ; Information ; --------- Summary of test plan started 07/27/2022 14:50:14 ---------
+2022-07-27 14:50:29.713175 ; Summary        ; Information ;  48V nr DUT afleggen begin FIO2                       1.12 ms  Pass   
+2022-07-27 14:50:29.713175 ; Summary        ; Information ;  DALI afleggen FIO4                                   1.16 ms  Pass   
+2022-07-27 14:50:29.713175 ; Summary        ; Information ;  DIM uitschakelen EIO6                                1.21 ms  Pass   
+2022-07-27 14:50:29.713175 ; Summary        ; Information ;  48V inschakelen FIO6                                 1.06 ms  Pass   
+2022-07-27 14:50:29.713175 ; Summary        ; Information ;  48V nr DUT aanleggen FIO2                            1.21 ms  Pass   
+2022-07-27 14:50:29.713175 ; Summary        ; Information ;  Delay 100ms                                           100 ms         
+2022-07-27 14:50:29.713175 ; Summary        ; Information ;  Spanningen controleren                               80.3 ms  Pass   
+2022-07-27 14:50:29.713175 ; Summary        ; Information ;    48V Meten AIN8                                     38.0 ms  Pass   
+2022-07-27 14:50:29.713175 ; Summary        ; Information ;    3V3 Meten AIN1                                     41.9 ms  Pass   
+2022-07-27 14:50:29.713175 ; Summary        ; Information ;  Stromen controleren                                  82.7 ms  Pass   
+2022-07-27 14:50:29.713175 ; Summary        ; Information ;    DUT nt kortgesloten AIN0                           40.3 ms  Pass   
+2022-07-27 14:50:29.713175 ; Summary        ; Information ;    DIM inschakelen EIO6                                653 us  Pass   
+2022-07-27 14:50:29.713175 ; Summary        ; Information ;    200uA Meten AIN12                                  40.6 ms  Pass   
+2022-07-27 14:50:29.713175 ; Summary        ; Information ;    DIM uitschakelen EIO6                               711 us  Pass   
+2022-07-27 14:50:29.713175 ; Summary        ; Information ;  Programmeren uC DUT                                  2.47 s   Pass   
+2022-07-27 14:50:29.713175 ; Summary        ; Information ;    Run Program                                        2.47 s   Pass   
+2022-07-27 14:50:29.713175 ; Summary        ; Information ;  Delay 1s                                             1.00 s          
+2022-07-27 14:50:29.713175 ; Summary        ; Information ;  DALI                                                 9.10 s   Fail   
+2022-07-27 14:50:29.713175 ; Summary        ; Information ;    DALI aanleggen FIO4                                1.36 ms  Pass   
+2022-07-27 14:50:29.713175 ; Summary        ; Information ;    Stroom door de diodes meten LED1 AIN4              9.10 s   Fail   
+2022-07-27 14:50:29.713175 ; Summary        ; Information ;      ChildDAQ                                          487 us  Fail   
+2022-07-27 14:50:29.713175 ; Summary        ; Information ; --------------------------------------------------------------------
+2022-07-27 14:50:29.713175 ; Summary        ; Information ; --------- Test plan completed with verdict Fail in 15.7 s ----------
+2022-07-27 14:50:29.719058 ; Labjack        ; Information ; Resource "Labjack" closed. [1.40 us]
+2022-07-27 14:50:32.437613 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-27 14:50:32.438610 ; TestPlan       ; Information ; Starting TestPlan 'TX48ED9' on 07/27/2022 14:50:32, 35 of 36 TestSteps enabled.
+2022-07-27 14:50:32.440190 ; Labjack        ; Information ; Resource "Labjack" opened. [272 us]
+2022-07-27 14:50:32.446177 ; TestPlan       ; Debug       ; Saved Test Plan XML [8.34 ms]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PrePlanRun completed. [78.1 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PrePlanRun completed. [42.9 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "DIM uitschakelen EIO6" PrePlanRun completed. [17.1 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PrePlanRun completed. [17.4 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PrePlanRun completed. [19.2 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "Spanningen controleren \ 48V Meten AIN8" PrePlanRun completed. [14.5 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PrePlanRun completed. [25.4 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PrePlanRun completed. [11.5 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM inschakelen EIO6" PrePlanRun completed. [16.4 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "Stromen controleren \ 200uA Meten AIN12" PrePlanRun completed. [15.2 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM uitschakelen EIO6" PrePlanRun completed. [17.8 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "DALI \ DALI aanleggen FIO4" PrePlanRun completed. [11.6 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "DALI \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PrePlanRun completed. [3.90 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "DALI \ Stroom door de diodes meten LED1 AIN4" PrePlanRun completed. [24.6 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "DALI \ DALI afleggen FIO4" PrePlanRun completed. [14.4 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "DALI \ 48V naar DUT afleggen FIO2" PrePlanRun completed. [22.9 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "48VMOD \ 48V nr DUT aanleggen FIO2" PrePlanRun completed. [18.6 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "48VMOD \ 500mA OK AIN4" PrePlanRun completed. [15.6 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "48VMOD \ DIM nr GND EIO6" PrePlanRun completed. [14.4 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "48VMOD \ 0mA OK AIN4" PrePlanRun completed. [14.7 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "48VMOD \ DIM nt nr GND EIO6" PrePlanRun completed. [16.7 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "48VMOD \ 500mA OK AIN4" PrePlanRun completed. [22.8 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PrePlanRun completed. [317 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [496 us]
+2022-07-27 14:50:32.449169 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" started.
+2022-07-27 14:50:32.451173 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-27 14:50:32.451173 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" completed with verdict 'Pass'. [1.52 ms]
+2022-07-27 14:50:32.451173 ; TestPlan       ; Information ; "DALI afleggen FIO4" started.
+2022-07-27 14:50:32.452161 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-27 14:50:32.452161 ; TestPlan       ; Information ; "DALI afleggen FIO4" completed with verdict 'Pass'. [1.25 ms]
+2022-07-27 14:50:32.452161 ; TestPlan       ; Information ; "DIM uitschakelen EIO6" started.
+2022-07-27 14:50:32.454156 ; TestStep       ; Debug       ; EIO6set to: Low
+2022-07-27 14:50:32.454156 ; TestPlan       ; Information ; "DIM uitschakelen EIO6" completed with verdict 'Pass'. [1.79 ms]
+2022-07-27 14:50:32.454156 ; TestPlan       ; Information ; "48V inschakelen FIO6" started.
+2022-07-27 14:50:32.457147 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-27 14:50:32.457147 ; TestPlan       ; Information ; "48V inschakelen FIO6" completed with verdict 'Pass'. [2.52 ms]
+2022-07-27 14:50:32.457147 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" started.
+2022-07-27 14:50:32.458146 ; TestStep       ; Debug       ; FIO2set to: High
+2022-07-27 14:50:32.458146 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [1.22 ms]
+2022-07-27 14:50:32.458146 ; TestPlan       ; Information ; "Delay 100ms" started.
+2022-07-27 14:50:32.559220 ; TestPlan       ; Information ; "Delay 100ms" completed. [100 ms]
+2022-07-27 14:50:32.559220 ; TestPlan       ; Information ; "Spanningen controleren" started.
+2022-07-27 14:50:32.559220 ; TestPlan       ; Information ; "Spanningen controleren \ 48V Meten AIN8" started.
+2022-07-27 14:50:32.619724 ; TestStep       ; Debug       ; AIN8 measured: 47.9159122681618
+2022-07-27 14:50:32.619724 ; TestPlan       ; Information ; "Spanningen controleren \ 48V Meten AIN8" completed with verdict 'Pass'. [59.8 ms]
+2022-07-27 14:50:32.619724 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" started.
+2022-07-27 14:50:32.654014 ; TestStep       ; Debug       ; AIN1 measured: 3.27056765079498
+2022-07-27 14:50:32.654014 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" completed with verdict 'Pass'. [34.3 ms]
+2022-07-27 14:50:32.654014 ; TestPlan       ; Information ; "Spanningen controleren" completed with verdict 'Pass'. [94.6 ms]
+2022-07-27 14:50:32.654014 ; TestPlan       ; Information ; "Stromen controleren" started.
+2022-07-27 14:50:32.654014 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" started.
+2022-07-27 14:50:32.688892 ; TestStep       ; Debug       ; AIN0 measured: 0.169671023103583
+2022-07-27 14:50:32.688892 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" completed with verdict 'Pass'. [34.8 ms]
+2022-07-27 14:50:32.688892 ; TestPlan       ; Information ; "Stromen controleren \ DIM inschakelen EIO6" started.
+2022-07-27 14:50:32.691793 ; TestStep       ; Debug       ; EIO6set to: High
+2022-07-27 14:50:32.691793 ; TestPlan       ; Information ; "Stromen controleren \ DIM inschakelen EIO6" completed with verdict 'Pass'. [2.73 ms]
+2022-07-27 14:50:32.691793 ; TestPlan       ; Information ; "Stromen controleren \ 200uA Meten AIN12" started.
+2022-07-27 14:50:32.726079 ; TestStep       ; Debug       ; AIN12 measured: 1.07719819307327
+2022-07-27 14:50:32.726079 ; TestPlan       ; Information ; "Stromen controleren \ 200uA Meten AIN12" completed with verdict 'Pass'. [34.1 ms]
+2022-07-27 14:50:32.726079 ; TestPlan       ; Information ; "Stromen controleren \ DIM uitschakelen EIO6" started.
+2022-07-27 14:50:32.728074 ; TestStep       ; Debug       ; EIO6set to: Low
+2022-07-27 14:50:32.728074 ; TestPlan       ; Information ; "Stromen controleren \ DIM uitschakelen EIO6" completed with verdict 'Pass'. [2.04 ms]
+2022-07-27 14:50:32.729071 ; TestPlan       ; Information ; "Stromen controleren" completed with verdict 'Pass'. [74.6 ms]
+2022-07-27 14:50:32.729071 ; TestPlan       ; Information ; "Programmeren uC DUT" started.
+2022-07-27 14:50:32.729071 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" started.
+2022-07-27 14:50:32.729071 ; TestStep       ; Debug       ; Starting process ..\..\..\..\..\..\..\..\Program Files\SEGGER\JLink\JLink.exe with arguments "-commanderscript AppFirmware.jlink"
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; SEGGER J-Link Commander V7.62b (Compiled Mar  8 2022 15:16:51)
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; DLL version V7.62b, compiled Mar  8 2022 15:15:34
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; 
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; 
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; J-Link Command File read successfully.
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; Processing script file...
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; J-Link>device MKL16Z32xxx4
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; J-Link connection not established yet but required for command.
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; Connecting to J-Link via USB...O.K.
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; Firmware: J-Link V11 compiled Mar  3 2022 10:16:14
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; Hardware version: V11.00
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; S/N: 51020380
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; License(s): GDB
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; USB speed mode: High speed (480 MBit/s)
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; VTref=3.283V
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; J-Link>si SWD
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; Selecting SWD as current target interface.
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; J-Link>speed 1000
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; Selecting 1000 kHz as target interface speed
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; J-Link>Sleep 600
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; Sleep(600)
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; J-Link>erase
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; Target connection not established yet but required for command.
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; Device "MKL16Z32XXX4" selected.
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; 
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; 
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; Connecting to target via SWD
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; ConfigTargetSettings() start
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; ConfigTargetSettings() end
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; InitTarget() start
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; InitTarget()
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; InitTarget() end
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; Found SW-DP with ID 0x0BC11477
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; DPIDR: 0x0BC11477
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; CoreSight SoC-400 or earlier
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; AP map detection skipped. Manually configured AP map found.
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; AP[0]: AHB-AP (IDR: Not set)
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; AP[1]: MEM-AP (IDR: Not set)
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; AP[0]: Core found
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; AP[0]: AHB-AP ROM base: 0xF0002000
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; CPUID register: 0x410CC600. Implementer code: 0x41 (ARM)
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; Found Cortex-M0 r0p0, Little endian.
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; FPUnit: 2 code (BP) slots and 0 literal slots
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; CoreSight components:
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; ROMTbl[0] @ F0002000
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; [0][0]: F0000000 CID B105900D PID 000BB932 MTB-M0+
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; [0][1]: F0001000 CID B105900D PID 0008E000 MTBDWT
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; [0][2]: E00FF000 CID B105100D PID 000BB4C0 ROM Table
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; ROMTbl[1] @ E00FF000
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; [1][0]: E000E000 CID B105E00D PID 000BB008 SCS
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; [1][1]: E0001000 CID B105E00D PID 000BB00A DWT
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; [1][2]: E0002000 CID B105E00D PID 000BB00B FPB
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; Cortex-M0 identified.
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; Without any given address range, Erase Chip will be executed
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; Erasing device...
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; J-Link: Flash download: Total time needed: 0.655s (Prepare: 0.039s, Compare: 0.000s, Erase: 0.607s, Program: 0.000s, Verify: 0.000s, Restore: 0.009s)
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; Erasing done.
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; J-Link>loadfile C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\TX48ED9\Tx-DIM9_v1.3.hex, 0x00
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; Downloading file [C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\JLink\TX48ED9\Tx-DIM9_v1.3.hex]...
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; J-Link: Flash download: Bank 0 @ 0x00000000: 2 ranges affected (17408 bytes)
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; J-Link: Flash download: Total: 0.823s (Prepare: 0.087s, Compare: 0.066s, Erase: 0.035s, Program & Verify: 0.574s, Restore: 0.060s)
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; J-Link: Flash download: Program & Verify speed: 29 KB/s
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; O.K.
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; J-Link>r
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; Reset delay: 0 ms
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; Reset type NORMAL: Resets core & peripherals via SYSRESETREQ & VECTRESET bit.
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; Reset: Halt core after reset via DEMCR.VC_CORERESET.
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; Reset: Reset device via AIRCR.SYSRESETREQ.
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; J-Link>g
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; J-Link>qc
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; 
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; Script processing completed.
+2022-07-27 14:50:35.287390 ; TestStep       ; Information ; 
+2022-07-27 14:50:35.301353 ; TestPlan       ; Information ; "Programmeren uC DUT \ Run Program" completed with verdict 'Pass'. [2.57 s]
+2022-07-27 14:50:35.301353 ; TestPlan       ; Information ; "Programmeren uC DUT" completed with verdict 'Pass'. [2.57 s]
+2022-07-27 14:50:35.301353 ; TestPlan       ; Information ; "Delay 1s" started.
+2022-07-27 14:50:36.301986 ; TestPlan       ; Information ; "Delay 1s" completed. [1.00 s]
+2022-07-27 14:50:36.301986 ; TestPlan       ; Information ; "DALI" started.
+2022-07-27 14:50:36.301986 ; TestPlan       ; Information ; "DALI \ DALI aanleggen FIO4" started.
+2022-07-27 14:50:36.304653 ; TestStep       ; Debug       ; FIO4set to: High
+2022-07-27 14:50:36.304653 ; TestPlan       ; Information ; "DALI \ DALI aanleggen FIO4" completed with verdict 'Pass'. [2.91 ms]
+2022-07-27 14:50:36.305665 ; TestPlan       ; Information ; "DALI \ Stroom door de diodes meten LED1 AIN4" started.
+2022-07-27 14:50:45.460613 ; TestPlan       ; Information ; "DALI \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" started.
+2022-07-27 14:50:45.460613 ; TestPlan       ; Information ; "DALI \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" completed with verdict 'Pass'. [322 us]
+2022-07-27 14:50:45.460613 ; TestPlan       ; Information ; "DALI \ Stroom door de diodes meten LED1 AIN4" completed with verdict 'Pass'. [9.15 s]
+2022-07-27 14:50:45.460613 ; TestPlan       ; Information ; "DALI \ DALI afleggen FIO4" started.
+2022-07-27 14:50:45.462608 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-27 14:50:45.462608 ; TestPlan       ; Information ; "DALI \ DALI afleggen FIO4" completed with verdict 'Pass'. [1.88 ms]
+2022-07-27 14:50:45.462608 ; TestPlan       ; Information ; "DALI \ 48V naar DUT afleggen FIO2" started.
+2022-07-27 14:50:45.471901 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-27 14:50:45.471901 ; TestPlan       ; Information ; "DALI \ 48V naar DUT afleggen FIO2" completed with verdict 'Pass'. [9.10 ms]
+2022-07-27 14:50:45.471901 ; TestPlan       ; Information ; "DALI" completed with verdict 'Pass'. [9.17 s]
+2022-07-27 14:50:45.471901 ; TestPlan       ; Information ; "Dialog" started.
+2022-07-27 14:50:49.859388 ; TestPlan       ; Information ; "Dialog" completed with verdict 'Pass'. [4.38 s]
+2022-07-27 14:50:49.859388 ; TestPlan       ; Information ; "48VMOD" started.
+2022-07-27 14:50:49.859388 ; TestPlan       ; Information ; "48VMOD \ 48V nr DUT aanleggen FIO2" started.
+2022-07-27 14:50:49.861854 ; TestStep       ; Debug       ; FIO2set to: High
+2022-07-27 14:50:49.862858 ; TestPlan       ; Information ; "48VMOD \ 48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [2.83 ms]
+2022-07-27 14:50:49.862858 ; TestPlan       ; Information ; "48VMOD \ Delay 800ms" started.
+2022-07-27 14:50:50.663104 ; TestPlan       ; Information ; "48VMOD \ Delay 800ms" completed. [800 ms]
+2022-07-27 14:50:50.663104 ; TestPlan       ; Information ; "48VMOD \ 500mA OK AIN4" started.
+2022-07-27 14:50:50.708712 ; TestStep       ; Debug       ; AIN4 measured: 2.34147564649582
+2022-07-27 14:50:50.709708 ; TestPlan       ; Information ; "48VMOD \ 500mA OK AIN4" completed with verdict 'Pass'. [46.4 ms]
+2022-07-27 14:50:50.709708 ; TestPlan       ; Information ; "48VMOD \ DIM nr GND EIO6" started.
+2022-07-27 14:50:50.711704 ; TestStep       ; Debug       ; EIO6set to: High
+2022-07-27 14:50:50.711704 ; TestPlan       ; Information ; "48VMOD \ DIM nr GND EIO6" completed with verdict 'Pass'. [2.23 ms]
+2022-07-27 14:50:50.711704 ; TestPlan       ; Information ; "48VMOD \ Delay 800ms" started.
+2022-07-27 14:50:51.511961 ; TestPlan       ; Information ; "48VMOD \ Delay 800ms" completed. [800 ms]
+2022-07-27 14:50:51.511961 ; TestPlan       ; Information ; "48VMOD \ 0mA OK AIN4" started.
+2022-07-27 14:50:51.545779 ; TestStep       ; Debug       ; AIN4 measured: 0.000266060669382568
+2022-07-27 14:50:51.545779 ; TestPlan       ; Information ; "48VMOD \ 0mA OK AIN4" completed with verdict 'Pass'. [33.4 ms]
+2022-07-27 14:50:51.545779 ; TestPlan       ; Information ; "48VMOD \ DIM nt nr GND EIO6" started.
+2022-07-27 14:50:51.547617 ; TestStep       ; Debug       ; EIO6set to: Low
+2022-07-27 14:50:51.547617 ; TestPlan       ; Information ; "48VMOD \ DIM nt nr GND EIO6" completed with verdict 'Pass'. [1.65 ms]
+2022-07-27 14:50:51.547617 ; TestPlan       ; Information ; "48VMOD \ Delay 800ms" started.
+2022-07-27 14:50:52.347881 ; TestPlan       ; Information ; "48VMOD \ Delay 800ms" completed. [800 ms]
+2022-07-27 14:50:52.347881 ; TestPlan       ; Information ; "48VMOD \ 500mA OK AIN4" started.
+2022-07-27 14:50:52.398181 ; TestStep       ; Debug       ; AIN4 measured: 2.3616303563118
+2022-07-27 14:50:52.398956 ; TestPlan       ; Information ; "48VMOD \ 500mA OK AIN4" completed with verdict 'Pass'. [50.9 ms]
+2022-07-27 14:50:52.398956 ; TestPlan       ; Information ; "48VMOD" completed with verdict 'Pass'. [2.53 s]
+2022-07-27 14:50:52.398956 ; TestPlan       ; Information ; "48V naar DUT afleggen einde FIO2" started.
+2022-07-27 14:50:52.400583 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-27 14:50:52.400583 ; TestPlan       ; Information ; "48V naar DUT afleggen einde FIO2" completed with verdict 'Pass'. [1.64 ms]
+2022-07-27 14:50:52.400583 ; TestPlan       ; Debug       ; Test step runs finished. [19.9 s]
+2022-07-27 14:50:52.401583 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PostPlanRun completed. [915 us]
+2022-07-27 14:50:52.401583 ; TestPlan       ; Debug       ; "48VMOD \ 500mA OK AIN4" PostPlanRun completed. [16.4 us]
+2022-07-27 14:50:52.401939 ; TestPlan       ; Debug       ; "48VMOD \ DIM nt nr GND EIO6" PostPlanRun completed. [363 us]
+2022-07-27 14:50:52.401939 ; TestPlan       ; Debug       ; "48VMOD \ 0mA OK AIN4" PostPlanRun completed. [11.7 us]
+2022-07-27 14:50:52.401939 ; TestPlan       ; Debug       ; "48VMOD \ DIM nr GND EIO6" PostPlanRun completed. [8.10 us]
+2022-07-27 14:50:52.401939 ; TestPlan       ; Debug       ; "48VMOD \ 500mA OK AIN4" PostPlanRun completed. [7.70 us]
+2022-07-27 14:50:52.401939 ; TestPlan       ; Debug       ; "48VMOD \ 48V nr DUT aanleggen FIO2" PostPlanRun completed. [8.19 us]
+2022-07-27 14:50:52.401939 ; TestPlan       ; Debug       ; "DALI \ 48V naar DUT afleggen FIO2" PostPlanRun completed. [8.40 us]
+2022-07-27 14:50:52.401939 ; TestPlan       ; Debug       ; "DALI \ DALI afleggen FIO4" PostPlanRun completed. [7.80 us]
+2022-07-27 14:50:52.401939 ; TestPlan       ; Debug       ; "DALI \ Stroom door de diodes meten LED1 AIN4 \ ChildDAQ" PostPlanRun completed. [16.4 us]
+2022-07-27 14:50:52.401939 ; TestPlan       ; Debug       ; "DALI \ Stroom door de diodes meten LED1 AIN4" PostPlanRun completed. [9.00 us]
+2022-07-27 14:50:52.401939 ; TestPlan       ; Debug       ; "DALI \ DALI aanleggen FIO4" PostPlanRun completed. [4.50 us]
+2022-07-27 14:50:52.401939 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM uitschakelen EIO6" PostPlanRun completed. [8.19 us]
+2022-07-27 14:50:52.401939 ; TestPlan       ; Debug       ; "Stromen controleren \ 200uA Meten AIN12" PostPlanRun completed. [8.40 us]
+2022-07-27 14:50:52.401939 ; TestPlan       ; Debug       ; "Stromen controleren \ DIM inschakelen EIO6" PostPlanRun completed. [4.70 us]
+2022-07-27 14:50:52.401939 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PostPlanRun completed. [5.90 us]
+2022-07-27 14:50:52.401939 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PostPlanRun completed. [6.50 us]
+2022-07-27 14:50:52.401939 ; TestPlan       ; Debug       ; "Spanningen controleren \ 48V Meten AIN8" PostPlanRun completed. [4.00 us]
+2022-07-27 14:50:52.401939 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PostPlanRun completed. [4.80 us]
+2022-07-27 14:50:52.401939 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PostPlanRun completed. [5.70 us]
+2022-07-27 14:50:52.401939 ; TestPlan       ; Debug       ; "DIM uitschakelen EIO6" PostPlanRun completed. [5.40 us]
+2022-07-27 14:50:52.401939 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PostPlanRun completed. [6.20 us]
+2022-07-27 14:50:52.401939 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PostPlanRun completed. [6.40 us]
+2022-07-27 14:50:52.401939 ; Summary        ; Information ; --------- Summary of test plan started 07/27/2022 14:50:32 ---------
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;  48V nr DUT afleggen begin FIO2                       1.52 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;  DALI afleggen FIO4                                   1.25 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;  DIM uitschakelen EIO6                                1.79 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;  48V inschakelen FIO6                                 2.52 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;  48V nr DUT aanleggen FIO2                            1.22 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;  Delay 100ms                                           100 ms         
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;  Spanningen controleren                               94.6 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;    48V Meten AIN8                                     59.8 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;    3V3 Meten AIN1                                     34.3 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;  Stromen controleren                                  74.6 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;    DUT nt kortgesloten AIN0                           34.8 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;    DIM inschakelen EIO6                               2.73 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;    200uA Meten AIN12                                  34.1 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;    DIM uitschakelen EIO6                              2.04 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;  Programmeren uC DUT                                  2.57 s   Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;    Run Program                                        2.57 s   Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;  Delay 1s                                             1.00 s          
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;  DALI                                                 9.17 s   Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;    DALI aanleggen FIO4                                2.91 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;    Stroom door de diodes meten LED1 AIN4              9.15 s   Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;      ChildDAQ                                          322 us  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;    DALI afleggen FIO4                                 1.88 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;    48V naar DUT afleggen FIO2                         9.10 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;  Dialog                                               4.38 s   Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;  48VMOD                                               2.53 s   Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;    48V nr DUT aanleggen FIO2                          2.83 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;    Delay 800ms                                         800 ms         
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;    500mA OK AIN4                                      46.4 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;    DIM nr GND EIO6                                    2.23 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;    Delay 800ms                                         800 ms         
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;    0mA OK AIN4                                        33.4 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;    DIM nt nr GND EIO6                                 1.65 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;    Delay 800ms                                         800 ms         
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;    500mA OK AIN4                                      50.9 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ;  48V naar DUT afleggen einde FIO2                     1.64 ms  Pass   
+2022-07-27 14:50:52.401939 ; Summary        ; Information ; --------------------------------------------------------------------
+2022-07-27 14:50:52.401939 ; Summary        ; Information ; ------------ Test plan completed successfully in 20.0 s ------------
+2022-07-27 14:50:52.408926 ; Labjack        ; Information ; Resource "Labjack" closed. [2.20 us]
+2022-07-27 14:51:03.752231 ; thread         ; Error       ; Exception unhandled in worker thread.
+2022-07-27 14:51:03.755225 ; thread         ; Debug       ; Exception: LJME_DEVICE_NOT_FOUND
+2022-07-27 14:51:03.757216 ; thread         ; Debug       ;     bij LedsGo.Utilities.LabJackClass.Open(String Identifier) in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Utilities\LabJack.cs:regel 238
+2022-07-27 14:51:03.757216 ; thread         ; Debug       ;     bij LedsGo.Plugin.Knop.EventsTapPlan.run() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Buttons\EventsTapPlan.cs:regel 62
+2022-07-27 14:51:03.757216 ; thread         ; Debug       ;     bij LedsGo.Plugin.Knop.EventsTapPlan.<>c.<Listen>b__16_0() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Buttons\EventsTapPlan.cs:regel 30
+2022-07-27 14:51:03.757216 ; thread         ; Debug       ;     bij OpenTap.TapThread.Process()
+2022-07-27 14:51:03.757216 ; thread         ; Debug       ;     bij OpenTap.ThreadManager.processQueue()
+2022-07-27 14:51:03.757216 ; thread         ; Debug       ; Exception caught at:
+2022-07-27 14:51:03.796553 ; thread         ; Debug       ;     at Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+2022-07-27 14:51:03.796553 ; thread         ; Debug       ;     at Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+2022-07-27 14:51:03.796553 ; thread         ; Debug       ;     at Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+2022-07-27 14:51:03.796553 ; thread         ; Debug       ;     at Void ThreadStart()
+2022-07-27 14:51:17.571762 ; Main           ; Information ; Saved test plan to C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTapPrograms\TX48ED9.TapPlan [7.31 ms]
+2022-07-27 14:51:25.059170 ; Settings       ; Debug       ; Saved GuiControlsSettings to C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [10.3 ms]
+2022-07-27 14:51:25.076088 ; Settings       ; Debug       ; Saved PanelSettings to C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [1.70 ms]
+2022-07-27 14:51:25.078083 ; Settings       ; Debug       ; Saved EditorSettings to C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [2.14 ms]

@@ -1,0 +1,247 @@
+﻿2022-07-26 14:49:26.691576 ; Session        ; Debug       ; Session log loaded as 'C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\editor 2022-07-26 14-49-26.txt'. [13.9 ms]
+2022-07-26 14:49:26.747423 ; Session        ; Debug       ; Running '"C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\editor.exe" ' in 'C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2022-07-26 14:49:26.863113 ; Session        ; Debug       ; Microsoft Windows 10.0.19044 X64
+2022-07-26 14:49:26.863113 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2022-07-26 14:49:26.908994 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2022-07-26 14:49:26.949882 ; AssemblyFinder ; Debug       ; Found 38/93 assembly files. [79.7 ms]
+2022-07-26 14:49:27.035604 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-07-26 14:49:27.162266 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-07-26 14:49:27.445508 ; Searcher       ; Debug       ; Ordered 34 assemblies according to references. [480 ms]
+2022-07-26 14:49:27.839709 ; PluginManager  ; Debug       ; Found 18 plugin assemblies containing 267 plugin types. [877 ms]
+2022-07-26 14:49:27.840453 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2022-07-26 14:49:27.840453 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2022-07-26 14:49:27.840453 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2022-07-26 14:49:27.840453 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2022-07-26 14:49:27.840453 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2022-07-26 14:49:27.840453 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2022-07-26 14:49:27.840453 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2022-07-26 14:49:27.840453 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of OpenTap.Plugins.LedsGo.dll
+2022-07-26 14:49:27.840453 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-07-26 14:49:27.840453 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of ResultsViewer.exe
+2022-07-26 14:49:27.840453 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of RunExplorer.exe
+2022-07-26 14:49:27.840453 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2022-07-26 14:49:27.840453 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-07-26 14:49:27.840453 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2022-07-26 14:49:27.840453 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-07-26 14:49:27.840453 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-07-26 14:49:27.840453 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-07-26 14:49:27.840453 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2022-07-26 14:49:27.840453 ; PluginManager  ; Debug       ; Searched 38 Assemblies. [882 ms]
+2022-07-26 14:49:27.875421 ; PluginManager  ; Debug       ; Loaded OpenTap. [751 us]
+2022-07-26 14:49:27.980080 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [278 us]
+2022-07-26 14:49:28.059865 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [79.9 ms]
+2022-07-26 14:49:28.070837 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [90.9 ms]
+2022-07-26 14:49:28.127691 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [14.0 ms]
+2022-07-26 14:49:28.349291 ; PluginManager  ; Debug       ; Loaded mscorlib. [800 ns]
+2022-07-26 14:49:28.698306 ; Settings       ; Debug       ; EditorSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [1.25 s]
+2022-07-26 14:49:29.206951 ; GUI            ; Debug       ; Loaded Light Theme. [37.4 ms]
+2022-07-26 14:49:29.239859 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2022-07-26 14:49:29.738744 ; Settings       ; Debug       ; GuiControlsSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [280 ms]
+2022-07-26 14:49:29.738744 ; Main           ; Debug       ; Window initial dimensions: 1934px, 1054px.
+2022-07-26 14:49:29.804616 ; Settings       ; Debug       ; EngineSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [62.1 ms]
+2022-07-26 14:49:29.816536 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [2.56 ms]
+2022-07-26 14:49:29.901481 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2022-07-26 14-49-29.txt'. [39.5 ms]
+2022-07-26 14:49:30.563049 ; Main           ; Debug       ; GUI initialized. [822 ms]
+2022-07-26 14:49:30.564059 ; Main           ; Debug       ; Docking manager initialized. [110 us]
+2022-07-26 14:49:30.567043 ; OpenTAP        ; Information ; OpenTAP version '9.17.4+ea67c63a' 64-bit initialized 07/26/2022 [4.43 s]
+2022-07-26 14:49:30.652219 ; PluginManager  ; Debug       ; Loaded PackageManager. [620 us]
+2022-07-26 14:49:30.652219 ; PluginManager  ; Debug       ; Loaded Editor. [39.0 us]
+2022-07-26 14:49:30.667176 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [14.3 ms]
+2022-07-26 14:49:30.683303 ; PluginManager  ; Debug       ; Loaded RunExplorer. [15.8 ms]
+2022-07-26 14:49:30.687157 ; Settings       ; Debug       ; ConnectionSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [2.68 ms]
+2022-07-26 14:49:30.688635 ; Settings       ; Debug       ; DutSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [930 us]
+2022-07-26 14:49:30.715051 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.LedsGo. [20.4 ms]
+2022-07-26 14:49:30.731006 ; Settings       ; Debug       ; InstrumentSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [41.9 ms]
+2022-07-26 14:49:30.735001 ; Settings       ; Debug       ; ResultSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [4.18 ms]
+2022-07-26 14:49:30.944815 ; Main           ; Warning     ; Recovery test plan detected.
+2022-07-26 14:49:31.251531 ; Main           ; Information ; Latest version of 'Keysight Licensing' is 1.2, your version is 1.1. Please consider updating. [682 ms]
+2022-07-26 14:49:31.251531 ; Main           ; Information ; Latest version of 'OpenTAP' is 9.18, your version is 9.17. Please consider updating. [682 ms]
+2022-07-26 14:49:31.251531 ; Main           ; Debug       ; Update check complete. [682 ms]
+2022-07-26 14:49:32.720657 ; Settings       ; Debug       ; PanelSettings loaded from C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [2.07 ms]
+2022-07-26 14:49:34.973174 ; Main           ; Debug       ; Application startup finished. [8.84 s]
+2022-07-26 14:49:39.865760 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-26 14:49:39.935686 ; TestPlan       ; Information ; Starting TestPlan 'SIDDALI' on 07/26/2022 14:49:39, 15 of 22 TestSteps enabled.
+2022-07-26 14:49:40.091115 ; TestPlan       ; Debug       ; Saved Test Plan XML [14.4 ms]
+2022-07-26 14:49:40.098130 ; Settings       ; Debug       ; No settings file exists for TestPlanRunPackageParameterMonitor. A new instance with default values has been created. [282 us]
+2022-07-26 14:49:40.233735 ; Labjack        ; Information ; Resource "Labjack" opened. [3.29 ms]
+2022-07-26 14:49:40.343481 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PrePlanRun completed. [4.51 ms]
+2022-07-26 14:49:40.343481 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PrePlanRun completed. [671 us]
+2022-07-26 14:49:40.343481 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PrePlanRun completed. [38.2 us]
+2022-07-26 14:49:40.343481 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PrePlanRun completed. [45.3 us]
+2022-07-26 14:49:40.343481 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PrePlanRun completed. [30.8 us]
+2022-07-26 14:49:40.343481 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PrePlanRun completed. [40.4 us]
+2022-07-26 14:49:40.343481 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Top EIO3" PrePlanRun completed. [25.1 us]
+2022-07-26 14:49:40.343481 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Mid EIO1" PrePlanRun completed. [29.0 us]
+2022-07-26 14:49:40.343481 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Bot CIO2" PrePlanRun completed. [26.8 us]
+2022-07-26 14:49:40.343481 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PrePlanRun completed. [711 us]
+2022-07-26 14:49:40.343481 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [10.0 ms]
+2022-07-26 14:49:40.362389 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" started.
+2022-07-26 14:49:40.376353 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-26 14:49:40.391350 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" completed with verdict 'Pass'. [25.5 ms]
+2022-07-26 14:49:40.392309 ; TestPlan       ; Information ; "DALI afleggen FIO4" started.
+2022-07-26 14:49:40.394306 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-26 14:49:40.394306 ; TestPlan       ; Information ; "DALI afleggen FIO4" completed with verdict 'Pass'. [1.67 ms]
+2022-07-26 14:49:40.394306 ; TestPlan       ; Information ; "48V inschakelen FIO6" started.
+2022-07-26 14:49:40.396298 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-26 14:49:40.396298 ; TestPlan       ; Information ; "48V inschakelen FIO6" completed with verdict 'Pass'. [1.70 ms]
+2022-07-26 14:49:40.396298 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" started.
+2022-07-26 14:49:40.398294 ; TestStep       ; Debug       ; FIO2set to: High
+2022-07-26 14:49:40.398294 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [1.86 ms]
+2022-07-26 14:49:40.398294 ; TestPlan       ; Information ; "Delay 100ms" started.
+2022-07-26 14:49:40.500273 ; TestPlan       ; Information ; "Delay 100ms" completed. [101 ms]
+2022-07-26 14:49:40.501270 ; TestPlan       ; Information ; "Spanningen controleren" started.
+2022-07-26 14:49:40.509247 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" started.
+2022-07-26 14:49:40.588034 ; TestStep       ; Debug       ; AIN1 measured: 3.30205054044723
+2022-07-26 14:49:40.588034 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" completed with verdict 'Pass'. [78.2 ms]
+2022-07-26 14:49:40.591030 ; TestPlan       ; Information ; "Spanningen controleren" completed with verdict 'Pass'. [89.9 ms]
+2022-07-26 14:49:40.591736 ; TestPlan       ; Information ; "Stromen controleren" started.
+2022-07-26 14:49:40.591736 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" started.
+2022-07-26 14:49:40.647874 ; TestStep       ; Debug       ; AIN0 measured: 0.370514755588956
+2022-07-26 14:49:40.647874 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" completed with verdict 'Pass'. [56.7 ms]
+2022-07-26 14:49:40.649870 ; TestPlan       ; Information ; "Stromen controleren" completed with verdict 'Pass'. [58.4 ms]
+2022-07-26 14:49:40.649870 ; TestPlan       ; Information ; "Soldeerlinken controleren" started.
+2022-07-26 14:49:40.649870 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Top EIO3" started.
+2022-07-26 14:49:40.653857 ; TestStep       ; Debug       ; EIO3read: Low
+2022-07-26 14:49:40.653857 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Top EIO3" completed with verdict 'Pass'. [3.28 ms]
+2022-07-26 14:49:40.653857 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Mid EIO1" started.
+2022-07-26 14:49:40.655851 ; TestStep       ; Debug       ; EIO1read: Low
+2022-07-26 14:49:40.655851 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Mid EIO1" completed with verdict 'Pass'. [1.65 ms]
+2022-07-26 14:49:40.655851 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Bot CIO2" started.
+2022-07-26 14:49:40.663881 ; TestStep       ; Debug       ; CIO2read: Low
+2022-07-26 14:49:40.664832 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Bot CIO2" completed with verdict 'Pass'. [8.36 ms]
+2022-07-26 14:49:40.664832 ; TestPlan       ; Information ; "Soldeerlinken controleren" completed with verdict 'Pass'. [14.6 ms]
+2022-07-26 14:49:40.664832 ; TestPlan       ; Information ; "Delay 1s" started.
+2022-07-26 14:49:41.664840 ; TestPlan       ; Information ; "Delay 1s" completed. [1.00 s]
+2022-07-26 14:49:41.665875 ; TestPlan       ; Information ; "48V naar DUT afleggen einde FIO2" started.
+2022-07-26 14:49:41.667828 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-26 14:49:41.667828 ; TestPlan       ; Information ; "48V naar DUT afleggen einde FIO2" completed with verdict 'Pass'. [2.01 ms]
+2022-07-26 14:49:41.667828 ; TestPlan       ; Debug       ; Test step runs finished. [1.32 s]
+2022-07-26 14:49:41.674811 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PostPlanRun completed. [2.31 ms]
+2022-07-26 14:49:41.674811 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Bot CIO2" PostPlanRun completed. [47.9 us]
+2022-07-26 14:49:41.674811 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Mid EIO1" PostPlanRun completed. [15.8 us]
+2022-07-26 14:49:41.674811 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Top EIO3" PostPlanRun completed. [15.7 us]
+2022-07-26 14:49:41.674811 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PostPlanRun completed. [8.40 us]
+2022-07-26 14:49:41.674811 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PostPlanRun completed. [5.40 us]
+2022-07-26 14:49:41.674811 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PostPlanRun completed. [5.60 us]
+2022-07-26 14:49:41.674811 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PostPlanRun completed. [4.80 us]
+2022-07-26 14:49:41.674811 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PostPlanRun completed. [5.60 us]
+2022-07-26 14:49:41.674811 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PostPlanRun completed. [4.90 us]
+2022-07-26 14:49:41.712709 ; Summary        ; Information ; -------- Summary of test plan started 07/26/2022 14:49:39 --------
+2022-07-26 14:49:41.721682 ; Summary        ; Information ;  48V nr DUT afleggen begin FIO2                     25.5 ms  Pass   
+2022-07-26 14:49:41.721682 ; Summary        ; Information ;  DALI afleggen FIO4                                 1.67 ms  Pass   
+2022-07-26 14:49:41.721682 ; Summary        ; Information ;  48V inschakelen FIO6                               1.70 ms  Pass   
+2022-07-26 14:49:41.721682 ; Summary        ; Information ;  48V nr DUT aanleggen FIO2                          1.86 ms  Pass   
+2022-07-26 14:49:41.721682 ; Summary        ; Information ;  Delay 100ms                                         101 ms         
+2022-07-26 14:49:41.721682 ; Summary        ; Information ;  Spanningen controleren                             89.9 ms  Pass   
+2022-07-26 14:49:41.722682 ; Summary        ; Information ;    3V3 Meten AIN1                                   78.2 ms  Pass   
+2022-07-26 14:49:41.722682 ; Summary        ; Information ;  Stromen controleren                                58.4 ms  Pass   
+2022-07-26 14:49:41.722682 ; Summary        ; Information ;    DUT nt kortgesloten AIN0                         56.7 ms  Pass   
+2022-07-26 14:49:41.722682 ; Summary        ; Information ;  Soldeerlinken controleren                          14.6 ms  Pass   
+2022-07-26 14:49:41.722682 ; Summary        ; Information ;    SL Top EIO3                                      3.28 ms  Pass   
+2022-07-26 14:49:41.722682 ; Summary        ; Information ;    SL Mid EIO1                                      1.65 ms  Pass   
+2022-07-26 14:49:41.722682 ; Summary        ; Information ;    SL Bot CIO2                                      8.36 ms  Pass   
+2022-07-26 14:49:41.722682 ; Summary        ; Information ;  Delay 1s                                           1.00 s          
+2022-07-26 14:49:41.722682 ; Summary        ; Information ;  48V naar DUT afleggen einde FIO2                   2.01 ms  Pass   
+2022-07-26 14:49:41.723678 ; Summary        ; Information ; ------------------------------------------------------------------
+2022-07-26 14:49:41.726103 ; Summary        ; Information ; ----------- Test plan completed successfully in 1.58 s -----------
+2022-07-26 14:49:41.762572 ; Labjack        ; Information ; Resource "Labjack" closed. [11.2 us]
+2022-07-26 14:49:43.306495 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-26 14:49:43.306941 ; TestPlan       ; Information ; Starting TestPlan 'SIDDALI' on 07/26/2022 14:49:43, 15 of 22 TestSteps enabled.
+2022-07-26 14:49:43.310454 ; Labjack        ; Information ; Resource "Labjack" opened. [598 us]
+2022-07-26 14:49:43.323418 ; TestPlan       ; Debug       ; Saved Test Plan XML [16.2 ms]
+2022-07-26 14:49:43.338547 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PrePlanRun completed. [127 us]
+2022-07-26 14:49:43.338547 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PrePlanRun completed. [82.5 us]
+2022-07-26 14:49:43.338547 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PrePlanRun completed. [59.2 us]
+2022-07-26 14:49:43.338547 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PrePlanRun completed. [39.4 us]
+2022-07-26 14:49:43.338547 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PrePlanRun completed. [28.0 us]
+2022-07-26 14:49:43.339376 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PrePlanRun completed. [36.5 us]
+2022-07-26 14:49:43.339376 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Top EIO3" PrePlanRun completed. [39.5 us]
+2022-07-26 14:49:43.339376 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Mid EIO1" PrePlanRun completed. [49.9 us]
+2022-07-26 14:49:43.339376 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Bot CIO2" PrePlanRun completed. [51.4 us]
+2022-07-26 14:49:43.339376 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PrePlanRun completed. [275 us]
+2022-07-26 14:49:43.339376 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [593 us]
+2022-07-26 14:49:43.339376 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" started.
+2022-07-26 14:49:43.341403 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-26 14:49:43.341403 ; TestPlan       ; Information ; "48V nr DUT afleggen begin FIO2" completed with verdict 'Pass'. [2.11 ms]
+2022-07-26 14:49:43.341403 ; TestPlan       ; Information ; "DALI afleggen FIO4" started.
+2022-07-26 14:49:43.343409 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-26 14:49:43.343409 ; TestPlan       ; Information ; "DALI afleggen FIO4" completed with verdict 'Pass'. [1.62 ms]
+2022-07-26 14:49:43.343409 ; TestPlan       ; Information ; "48V inschakelen FIO6" started.
+2022-07-26 14:49:43.345361 ; TestStep       ; Debug       ; FIO6set to: Low
+2022-07-26 14:49:43.345361 ; TestPlan       ; Information ; "48V inschakelen FIO6" completed with verdict 'Pass'. [1.78 ms]
+2022-07-26 14:49:43.345361 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" started.
+2022-07-26 14:49:43.347355 ; TestStep       ; Debug       ; FIO2set to: High
+2022-07-26 14:49:43.347355 ; TestPlan       ; Information ; "48V nr DUT aanleggen FIO2" completed with verdict 'Pass'. [1.72 ms]
+2022-07-26 14:49:43.347355 ; TestPlan       ; Information ; "Delay 100ms" started.
+2022-07-26 14:49:43.447277 ; TestPlan       ; Information ; "Delay 100ms" completed. [100 ms]
+2022-07-26 14:49:43.448274 ; TestPlan       ; Information ; "Spanningen controleren" started.
+2022-07-26 14:49:43.448274 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" started.
+2022-07-26 14:49:43.515624 ; TestStep       ; Debug       ; AIN1 measured: 3.29814198255539
+2022-07-26 14:49:43.516653 ; TestPlan       ; Information ; "Spanningen controleren \ 3V3 Meten AIN1" completed with verdict 'Pass'. [68.2 ms]
+2022-07-26 14:49:43.516653 ; TestPlan       ; Information ; "Spanningen controleren" completed with verdict 'Pass'. [69.0 ms]
+2022-07-26 14:49:43.517653 ; TestPlan       ; Information ; "Stromen controleren" started.
+2022-07-26 14:49:43.517653 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" started.
+2022-07-26 14:49:43.553523 ; TestStep       ; Debug       ; AIN0 measured: 0.358640852426179
+2022-07-26 14:49:43.553523 ; TestPlan       ; Information ; "Stromen controleren \ DUT nt kortgesloten AIN0" completed with verdict 'Pass'. [36.1 ms]
+2022-07-26 14:49:43.553523 ; TestPlan       ; Information ; "Stromen controleren" completed with verdict 'Pass'. [36.7 ms]
+2022-07-26 14:49:43.554520 ; TestPlan       ; Information ; "Soldeerlinken controleren" started.
+2022-07-26 14:49:43.554520 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Top EIO3" started.
+2022-07-26 14:49:43.555517 ; TestStep       ; Debug       ; EIO3read: Low
+2022-07-26 14:49:43.555517 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Top EIO3" completed with verdict 'Pass'. [1.05 ms]
+2022-07-26 14:49:43.555517 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Mid EIO1" started.
+2022-07-26 14:49:43.557509 ; TestStep       ; Debug       ; EIO1read: Low
+2022-07-26 14:49:43.557509 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Mid EIO1" completed with verdict 'Pass'. [1.52 ms]
+2022-07-26 14:49:43.557509 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Bot CIO2" started.
+2022-07-26 14:49:43.558506 ; TestStep       ; Debug       ; CIO2read: Low
+2022-07-26 14:49:43.558506 ; TestPlan       ; Information ; "Soldeerlinken controleren \ SL Bot CIO2" completed with verdict 'Pass'. [1.18 ms]
+2022-07-26 14:49:43.558506 ; TestPlan       ; Information ; "Soldeerlinken controleren" completed with verdict 'Pass'. [4.54 ms]
+2022-07-26 14:49:43.558506 ; TestPlan       ; Information ; "Delay 1s" started.
+2022-07-26 14:49:44.559435 ; TestPlan       ; Information ; "Delay 1s" completed. [1.00 s]
+2022-07-26 14:49:44.559435 ; TestPlan       ; Information ; "48V naar DUT afleggen einde FIO2" started.
+2022-07-26 14:49:44.561377 ; TestStep       ; Debug       ; FIO2set to: Low
+2022-07-26 14:49:44.561377 ; TestPlan       ; Information ; "48V naar DUT afleggen einde FIO2" completed with verdict 'Pass'. [2.08 ms]
+2022-07-26 14:49:44.561377 ; TestPlan       ; Debug       ; Test step runs finished. [1.22 s]
+2022-07-26 14:49:44.562368 ; TestPlan       ; Debug       ; "48V naar DUT afleggen einde FIO2" PostPlanRun completed. [1.08 ms]
+2022-07-26 14:49:44.562368 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Bot CIO2" PostPlanRun completed. [19.6 us]
+2022-07-26 14:49:44.563365 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Mid EIO1" PostPlanRun completed. [263 us]
+2022-07-26 14:49:44.563365 ; TestPlan       ; Debug       ; "Soldeerlinken controleren \ SL Top EIO3" PostPlanRun completed. [109 us]
+2022-07-26 14:49:44.563365 ; TestPlan       ; Debug       ; "Stromen controleren \ DUT nt kortgesloten AIN0" PostPlanRun completed. [23.5 us]
+2022-07-26 14:49:44.563365 ; TestPlan       ; Debug       ; "Spanningen controleren \ 3V3 Meten AIN1" PostPlanRun completed. [7.30 us]
+2022-07-26 14:49:44.563365 ; TestPlan       ; Debug       ; "48V nr DUT aanleggen FIO2" PostPlanRun completed. [6.10 us]
+2022-07-26 14:49:44.563365 ; TestPlan       ; Debug       ; "48V inschakelen FIO6" PostPlanRun completed. [7.60 us]
+2022-07-26 14:49:44.563365 ; TestPlan       ; Debug       ; "DALI afleggen FIO4" PostPlanRun completed. [14.2 us]
+2022-07-26 14:49:44.563365 ; TestPlan       ; Debug       ; "48V nr DUT afleggen begin FIO2" PostPlanRun completed. [17.6 us]
+2022-07-26 14:49:44.563365 ; Summary        ; Information ; -------- Summary of test plan started 07/26/2022 14:49:43 --------
+2022-07-26 14:49:44.563365 ; Summary        ; Information ;  48V nr DUT afleggen begin FIO2                     2.11 ms  Pass   
+2022-07-26 14:49:44.563365 ; Summary        ; Information ;  DALI afleggen FIO4                                 1.62 ms  Pass   
+2022-07-26 14:49:44.563365 ; Summary        ; Information ;  48V inschakelen FIO6                               1.78 ms  Pass   
+2022-07-26 14:49:44.563365 ; Summary        ; Information ;  48V nr DUT aanleggen FIO2                          1.72 ms  Pass   
+2022-07-26 14:49:44.563365 ; Summary        ; Information ;  Delay 100ms                                         100 ms         
+2022-07-26 14:49:44.563365 ; Summary        ; Information ;  Spanningen controleren                             69.0 ms  Pass   
+2022-07-26 14:49:44.563365 ; Summary        ; Information ;    3V3 Meten AIN1                                   68.2 ms  Pass   
+2022-07-26 14:49:44.563365 ; Summary        ; Information ;  Stromen controleren                                36.7 ms  Pass   
+2022-07-26 14:49:44.563365 ; Summary        ; Information ;    DUT nt kortgesloten AIN0                         36.1 ms  Pass   
+2022-07-26 14:49:44.563365 ; Summary        ; Information ;  Soldeerlinken controleren                          4.54 ms  Pass   
+2022-07-26 14:49:44.563365 ; Summary        ; Information ;    SL Top EIO3                                      1.05 ms  Pass   
+2022-07-26 14:49:44.563365 ; Summary        ; Information ;    SL Mid EIO1                                      1.52 ms  Pass   
+2022-07-26 14:49:44.563365 ; Summary        ; Information ;    SL Bot CIO2                                      1.18 ms  Pass   
+2022-07-26 14:49:44.563365 ; Summary        ; Information ;  Delay 1s                                           1.00 s          
+2022-07-26 14:49:44.563365 ; Summary        ; Information ;  48V naar DUT afleggen einde FIO2                   2.08 ms  Pass   
+2022-07-26 14:49:44.563365 ; Summary        ; Information ; ------------------------------------------------------------------
+2022-07-26 14:49:44.563365 ; Summary        ; Information ; ----------- Test plan completed successfully in 1.25 s -----------
+2022-07-26 14:49:44.570371 ; Labjack        ; Information ; Resource "Labjack" closed. [1.80 us]
+2022-07-26 14:49:56.591112 ; thread         ; Error       ; Exception unhandled in worker thread.
+2022-07-26 14:49:56.595051 ; thread         ; Debug       ; Exception: LJME_DEVICE_NOT_FOUND
+2022-07-26 14:49:56.599079 ; thread         ; Debug       ;     bij LedsGo.Utilities.LabJackClass.Open(String Identifier) in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Utilities\LabJack.cs:regel 238
+2022-07-26 14:49:56.599079 ; thread         ; Debug       ;     bij LedsGo.Plugin.Knop.EventsTapPlan.run() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Buttons\EventsTapPlan.cs:regel 48
+2022-07-26 14:49:56.599079 ; thread         ; Debug       ;     bij LedsGo.Plugin.Knop.EventsTapPlan.<>c.<Listen>b__16_0() in C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\Buttons\EventsTapPlan.cs:regel 30
+2022-07-26 14:49:56.599079 ; thread         ; Debug       ;     bij OpenTap.TapThread.Process()
+2022-07-26 14:49:56.599079 ; thread         ; Debug       ;     bij OpenTap.ThreadManager.processQueue()
+2022-07-26 14:49:56.599079 ; thread         ; Debug       ; Exception caught at:
+2022-07-26 14:49:56.620578 ; thread         ; Debug       ;     at Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+2022-07-26 14:49:56.620578 ; thread         ; Debug       ;     at Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+2022-07-26 14:49:56.620578 ; thread         ; Debug       ;     at Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+2022-07-26 14:49:56.620578 ; thread         ; Debug       ;     at Void ThreadStart()
+2022-07-26 14:50:03.743262 ; Settings       ; Debug       ; Saved GuiControlsSettings to C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [29.6 ms]
+2022-07-26 14:50:03.811752 ; Settings       ; Debug       ; Saved PanelSettings to C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [1.62 ms]
+2022-07-26 14:50:03.814837 ; Settings       ; Debug       ; Saved EditorSettings to C:\Engineering\Projecten\LedsGo\versie5Knop\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [2.97 ms]

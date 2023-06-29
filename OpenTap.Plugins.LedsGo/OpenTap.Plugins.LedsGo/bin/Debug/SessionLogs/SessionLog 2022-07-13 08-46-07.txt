@@ -1,0 +1,32 @@
+﻿2022-07-13 08:46:07.602416 ; Session        ; Debug       ; Session log loaded as 'D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\tap 2022-07-13 08-46-07.txt'. [4.49 ms]
+2022-07-13 08:46:07.617378 ; Session        ; Debug       ; Running '"bin\Debug\tap.exe" sdk vs-integration --install --verbose ' in 'D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2022-07-13 08:46:07.644306 ; Session        ; Debug       ; Microsoft Windows 10.0.19043 X64
+2022-07-13 08:46:07.645304 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2022-07-13 08:46:07.656273 ; AssemblyFinder ; Debug       ; Found 18/58 assembly files. [9.94 ms]
+2022-07-13 08:46:07.667244 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2022-07-13 08:46:07.796903 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-07-13 08:46:07.817841 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-07-13 08:46:07.937521 ; Searcher       ; Debug       ; Ordered 16 assemblies according to references. [277 ms]
+2022-07-13 08:46:08.018364 ; PluginManager  ; Debug       ; Found 11 plugin assemblies containing 195 plugin types. [358 ms]
+2022-07-13 08:46:08.018364 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2022-07-13 08:46:08.018364 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2022-07-13 08:46:08.018364 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2022-07-13 08:46:08.018364 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-07-13 08:46:08.018364 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2022-07-13 08:46:08.018364 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-07-13 08:46:08.018364 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2022-07-13 08:46:08.018364 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-07-13 08:46:08.018364 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-07-13 08:46:08.018364 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-07-13 08:46:08.018364 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2022-07-13 08:46:08.018364 ; PluginManager  ; Debug       ; Searched 18 Assemblies. [359 ms]
+2022-07-13 08:46:08.045234 ; PluginManager  ; Debug       ; Loaded OpenTap. [642 us]
+2022-07-13 08:46:08.068208 ; Settings       ; Debug       ; No settings file exists for EngineSettings. A new instance with default values has been created. [5.45 ms]
+2022-07-13 08:46:08.089121 ; Session        ; Debug       ; Session log loaded as 'D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\SessionLog 2022-07-13 08-46-07.txt'. [2.70 ms]
+2022-07-13 08:46:08.098133 ; PluginManager  ; Debug       ; Loaded OpenTap.VSSdk.Installer. [2.40 ms]
+2022-07-13 08:46:08.117043 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [1.92 ms]
+2022-07-13 08:46:08.160930 ; PluginManager  ; Debug       ; Loaded mscorlib. [600 ns]
+2022-07-13 08:46:08.164955 ; CLI            ; Debug       ; Executing CLI action: sdk \ vs-integration
+2022-07-13 08:46:08.168941 ; VsixInstaller  ; Debug       ; Atempting to uninstall Tap.Sdk.Microsoft.fff380f5-35e0-4709-b260-2b539681f475
+2022-07-13 08:46:08.241709 ; VsixInstaller  ; Information ; VSIX already installed in C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\ [20.6 ms]
+2022-07-13 08:46:08.241709 ; CLI            ; Debug       ; CLI action returned exit code: 0 [76.4 ms]

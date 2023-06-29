@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstrumentSettings type="OpenTap.InstrumentSettings">
+  <LabJackInstrument type="LedsGo.Instruments.LabJackInstrument" Source="">
+    <LabJackList />
+    <ConnectionType>Ethernet</ConnectionType>
+    <DeviceSerial>192.168.1.106</DeviceSerial>
+    <IpUsb>192.168.1.106</IpUsb>
+    <IpEthernet>192.168.1.106</IpEthernet>
+    <Subnet>255.255.255.0</Subnet>
+    <Gateway>192.168.1.1</Gateway>
+    <Name>Labjack</Name>
+  </LabJackInstrument>
+  <SshInstrument type="emb:OpenTap.Plugins.Ssh.SshInstrument" Source="">
+    <LazyConnectSsh>false</LazyConnectSsh>
+    <LazyConnectScp>false</LazyConnectScp>
+    <Name>Ssh</Name>
+    <Connection.Host>192.168.7.2</Connection.Host>
+    <Connection.Port>22</Connection.Port>
+    <Connection.Username>ubuntu</Connection.Username>
+    <Connection.AuthMethod>Password</Connection.AuthMethod>
+    <Connection.Password>SDKFhv9GnqfXpE+3IJV5+w==</Connection.Password>
+    <Connection.PrivateKey />
+  </SshInstrument>
+  <Package.Dependencies>
+    <Package Name="OpenTAP" Version="^9.17.4+ea67c63a" />
+  </Package.Dependencies>
+</InstrumentSettings>

@@ -1,0 +1,105 @@
+﻿2022-07-20 16:06:11.709809 ; Session        ; Debug       ; Session log loaded as 'D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\editor 2022-07-20 16-06-11.txt'. [7.87 ms]
+2022-07-20 16:06:11.761676 ; Session        ; Debug       ; Running '"D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\editor.exe" ' in 'D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2022-07-20 16:06:11.891332 ; Session        ; Debug       ; Microsoft Windows 10.0.19043 X64
+2022-07-20 16:06:11.891332 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2022-07-20 16:06:11.947182 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2022-07-20 16:06:11.964136 ; AssemblyFinder ; Debug       ; Found 30/85 assembly files. [32.4 ms]
+2022-07-20 16:06:12.064268 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-07-20 16:06:12.072249 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Wpf, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\WPF Controls\Keysight.OpenTap.Wpf.dll
+2022-07-20 16:06:12.102173 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-07-20 16:06:12.277701 ; Searcher       ; Debug       ; Ordered 28 assemblies according to references. [305 ms]
+2022-07-20 16:06:12.593858 ; PluginManager  ; Debug       ; Found 18 plugin assemblies containing 265 plugin types. [623 ms]
+2022-07-20 16:06:12.593858 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2022-07-20 16:06:12.593858 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2022-07-20 16:06:12.593858 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2022-07-20 16:06:12.593858 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2022-07-20 16:06:12.593858 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2022-07-20 16:06:12.593858 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2022-07-20 16:06:12.593858 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2022-07-20 16:06:12.593858 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of OpenTap.Plugins.LedsGo.dll
+2022-07-20 16:06:12.593858 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-07-20 16:06:12.593858 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of ResultsViewer.exe
+2022-07-20 16:06:12.593858 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of RunExplorer.exe
+2022-07-20 16:06:12.593858 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2022-07-20 16:06:12.593858 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-07-20 16:06:12.593858 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2022-07-20 16:06:12.593858 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-07-20 16:06:12.593858 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-07-20 16:06:12.593858 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-07-20 16:06:12.593858 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2022-07-20 16:06:12.593858 ; PluginManager  ; Debug       ; Searched 30 Assemblies. [624 ms]
+2022-07-20 16:06:12.613805 ; PluginManager  ; Debug       ; Loaded OpenTap. [840 us]
+2022-07-20 16:06:12.648719 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [13.0 ms]
+2022-07-20 16:06:12.651704 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [15.7 ms]
+2022-07-20 16:06:12.653700 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [708 us]
+2022-07-20 16:06:12.761414 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [64.6 ms]
+2022-07-20 16:06:12.972221 ; PluginManager  ; Debug       ; Loaded mscorlib. [1.40 us]
+2022-07-20 16:06:13.372398 ; Settings       ; Debug       ; EditorSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [964 ms]
+2022-07-20 16:06:13.385362 ; Resolver       ; Debug       ; Found match for MahApps.Metro, Version=1.3.0.0, Culture=neutral, PublicKeyToken=f4fb5a3c4d1e5b4f in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\MahApps.Metro.1.3.0.0\MahApps.Metro.dll
+2022-07-20 16:06:13.774327 ; GUI            ; Debug       ; Loaded Light Theme. [41.8 ms]
+2022-07-20 16:06:13.814223 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2022-07-20 16:06:14.292947 ; Settings       ; Debug       ; GuiControlsSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [269 ms]
+2022-07-20 16:06:14.293944 ; Main           ; Debug       ; Window initial dimensions: 1934px, 1054px.
+2022-07-20 16:06:14.358772 ; Settings       ; Debug       ; EngineSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [61.6 ms]
+2022-07-20 16:06:14.384702 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Licensing, Version=1.1.1.0, Culture=neutral, PublicKeyToken=null in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Packages\Keysight Licensing\Keysight.OpenTap.Licensing.dll
+2022-07-20 16:06:14.435579 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2022-07-20 16-06-14.txt'. [7.48 ms]
+2022-07-20 16:06:14.518348 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [1.83 ms]
+2022-07-20 16:06:15.185545 ; Main           ; Debug       ; GUI initialized. [888 ms]
+2022-07-20 16:06:15.185545 ; Main           ; Debug       ; Docking manager initialized. [181 us]
+2022-07-20 16:06:15.188535 ; OpenTAP        ; Information ; OpenTAP version '9.17.4+ea67c63a' 64-bit initialized 07/20/2022 [3.96 s]
+2022-07-20 16:06:15.243388 ; PluginManager  ; Debug       ; Loaded PackageManager. [541 us]
+2022-07-20 16:06:15.243388 ; PluginManager  ; Debug       ; Loaded Editor. [41.8 us]
+2022-07-20 16:06:15.253362 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [9.25 ms]
+2022-07-20 16:06:15.261341 ; PluginManager  ; Debug       ; Loaded RunExplorer. [8.24 ms]
+2022-07-20 16:06:15.264333 ; Settings       ; Debug       ; ConnectionSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [1.62 ms]
+2022-07-20 16:06:15.265332 ; Settings       ; Debug       ; DutSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [707 us]
+2022-07-20 16:06:15.289266 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.LedsGo. [19.5 ms]
+2022-07-20 16:06:15.296248 ; Settings       ; Debug       ; InstrumentSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [31.4 ms]
+2022-07-20 16:06:15.298242 ; Settings       ; Debug       ; ResultSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [1.49 ms]
+2022-07-20 16:06:15.758019 ; Main           ; Information ; Latest version of 'Keysight Licensing' is 1.2, your version is 1.1. Please consider updating. [567 ms]
+2022-07-20 16:06:15.758019 ; Main           ; Information ; Latest version of 'PathWave License Manager' is 2.5, your version is 2.4. Please consider updating. [567 ms]
+2022-07-20 16:06:15.758019 ; Main           ; Information ; Latest version of 'OpenTAP' is 9.18, your version is 9.17. Please consider updating. [567 ms]
+2022-07-20 16:06:15.758019 ; Main           ; Debug       ; Update check complete. [567 ms]
+2022-07-20 16:06:16.249711 ; Resolver       ; Debug       ; Found match for Keysight.Kal.Licensing.Api, Version=4.0.0.0, Culture=neutral, PublicKeyToken=55333af07c70062e in D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\Keysight.Kal.Licensing.Api.4.0.0\Keysight.Kal.Licensing.Api.dll
+2022-07-20 16:06:16.373379 ; KAL            ; Debug       ; KAL signature verified. [105 ms]
+2022-07-20 16:06:16.410284 ; KAL            ; Debug       ; Initialized [145 ms]
+2022-07-20 16:06:16.420257 ; KAL Process    ; Debug       ; Initialized [155 ms]
+2022-07-20 16:06:17.429158 ; Settings       ; Debug       ; PanelSettings loaded from D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [17.8 ms]
+2022-07-20 16:06:18.222768 ; Main           ; Debug       ; Application startup finished. [7.00 s]
+2022-07-20 16:06:22.584276 ; Main           ; Debug       ; Loaded Test plan D:\OneDrive - Page Computers\Engineering\Projecten\Opentap_LedsGo\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\testLabJack.TapPlan [632 ms]
+2022-07-20 16:06:23.653936 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-07-20 16:06:23.692833 ; TestPlan       ; Information ; Starting TestPlan 'testLabJack' on 07/20/2022 16:06:23, 4 of 6 TestSteps enabled.
+2022-07-20 16:06:23.758657 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.57 ms]
+2022-07-20 16:06:23.766639 ; Settings       ; Debug       ; No settings file exists for TestPlanRunPackageParameterMonitor. A new instance with default values has been created. [236 us]
+2022-07-20 16:06:23.978586 ; Labjack        ; Information ; Resource "Labjack" opened. [93.9 ms]
+2022-07-20 16:06:24.007509 ; TestPlan       ; Debug       ; "48V meten via AIN8" PrePlanRun completed. [5.07 ms]
+2022-07-20 16:06:24.007509 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PrePlanRun completed. [845 us]
+2022-07-20 16:06:24.007509 ; TestPlan       ; Debug       ; "3V3 meten" PrePlanRun completed. [76.5 us]
+2022-07-20 16:06:24.007509 ; TestPlan       ; Debug       ; "LabJackStep" PrePlanRun completed. [40.7 us]
+2022-07-20 16:06:24.007509 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [9.18 ms]
+2022-07-20 16:06:24.025462 ; TestPlan       ; Information ; "48V meten via AIN8" started.
+2022-07-20 16:06:24.038429 ; TestStep       ; Debug       ; AIN8 measured: 47.8761788606644
+2022-07-20 16:06:24.049400 ; TestPlan       ; Information ; "48V meten via AIN8" completed with verdict 'Pass'. [21.1 ms]
+2022-07-20 16:06:24.051392 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " started.
+2022-07-20 16:06:24.059374 ; TestStep       ; Debug       ; FIO4set to: Low
+2022-07-20 16:06:24.059374 ; TestPlan       ; Information ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " completed with verdict 'Pass'. [7.79 ms]
+2022-07-20 16:06:24.059374 ; TestPlan       ; Information ; "3V3 meten" started.
+2022-07-20 16:06:24.063364 ; TestStep       ; Debug       ; AIN1 measured: 3.26428365707397
+2022-07-20 16:06:24.063364 ; TestPlan       ; Information ; "3V3 meten" completed with verdict 'Pass'. [3.79 ms]
+2022-07-20 16:06:24.063364 ; TestPlan       ; Information ; "LabJackStep" started.
+2022-07-20 16:06:38.235015 ; TestStep       ; Debug       ; FIO2read: High
+2022-07-20 16:06:38.235015 ; TestPlan       ; Information ; "LabJackStep" completed with verdict 'Pass'. [14.1 s]
+2022-07-20 16:06:38.236013 ; TestPlan       ; Debug       ; Test step runs finished. [14.2 s]
+2022-07-20 16:06:38.243008 ; TestPlan       ; Debug       ; "LabJackStep" PostPlanRun completed. [2.98 ms]
+2022-07-20 16:06:38.243008 ; TestPlan       ; Debug       ; "3V3 meten" PostPlanRun completed. [26.5 us]
+2022-07-20 16:06:38.243008 ; TestPlan       ; Debug       ; "3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF) " PostPlanRun completed. [9.69 us]
+2022-07-20 16:06:38.243008 ; TestPlan       ; Debug       ; "48V meten via AIN8" PostPlanRun completed. [6.10 us]
+2022-07-20 16:06:38.263989 ; Summary        ; Information ; ------- Summary of test plan started 07/20/2022 16:06:23 -------
+2022-07-20 16:06:38.267983 ; Summary        ; Information ;  48V meten via AIN8                               21.1 ms  Pass   
+2022-07-20 16:06:38.267983 ; Summary        ; Information ;  3V3 inschakelen (FIO4 = ? => ON en FIO4 = ? => OFF)       7.79 ms  Pass   
+2022-07-20 16:06:38.267983 ; Summary        ; Information ;  3V3 meten                                        3.79 ms  Pass   
+2022-07-20 16:06:38.267983 ; Summary        ; Information ;  LabJackStep                                      14.1 s   Pass   
+2022-07-20 16:06:38.269003 ; Summary        ; Information ; ----------------------------------------------------------------
+2022-07-20 16:06:38.269976 ; Summary        ; Information ; ---------- Test plan completed successfully in 14.5 s ----------
+2022-07-20 16:06:38.292913 ; Labjack        ; Information ; Resource "Labjack" closed. [9.50 us]
+2022-07-20 16:06:45.229330 ; TestPlan       ; Information ; -----------------------------------------------------------------

@@ -1,0 +1,616 @@
+﻿2022-08-04 10:58:45.993639 ; Session        ; Debug       ; Session log loaded as 'C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\SessionLogs\editor 2022-08-04 10-58-45.txt'. [6.00 ms]
+2022-08-04 10:58:46.028882 ; Session        ; Debug       ; Running '"C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\editor.exe" ' in 'C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug'.
+2022-08-04 10:58:46.133571 ; Session        ; Debug       ; Microsoft Windows 10.0.19044 X64
+2022-08-04 10:58:46.133571 ; Session        ; Debug       ; .NET Framework 4.8.4515.0
+2022-08-04 10:58:46.149194 ; Session        ; Debug       ; OpenTAP Engine 9.17.4+ea67c63a X64
+2022-08-04 10:58:46.149194 ; AssemblyFinder ; Debug       ; Found 38/93 assembly files. [25.1 ms]
+2022-08-04 10:58:46.204290 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-08-04 10:58:46.294248 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-08-04 10:58:46.461608 ; Searcher       ; Debug       ; Ordered 34 assemblies according to references. [294 ms]
+2022-08-04 10:58:46.662475 ; PluginManager  ; Debug       ; Found 18 plugin assemblies containing 267 plugin types. [494 ms]
+2022-08-04 10:58:46.663473 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.dll
+2022-08-04 10:58:46.663473 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Package.dll
+2022-08-04 10:58:46.663473 ; PluginManager  ; Debug       ; Found version 1.1.1.0          of Keysight.OpenTap.Licensing.dll
+2022-08-04 10:58:46.663473 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Plugins.BasicSteps.dll
+2022-08-04 10:58:46.663473 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.Wpf.dll
+2022-08-04 10:58:46.663473 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of PackageManager.exe
+2022-08-04 10:58:46.663473 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Editor.exe
+2022-08-04 10:58:46.663473 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of OpenTap.Plugins.LedsGo.dll
+2022-08-04 10:58:46.663473 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-08-04 10:58:46.663473 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of ResultsViewer.exe
+2022-08-04 10:58:46.663473 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of RunExplorer.exe
+2022-08-04 10:58:46.663473 ; PluginManager  ; Debug       ; Found version 9.17.4+5e508f08  of Keysight.OpenTap.CommunityEditionPopup.exe
+2022-08-04 10:58:46.663473 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-08-04 10:58:46.663473 ; PluginManager  ; Debug       ; Found version 9.17.4+ea67c63a  of OpenTap.Sdk.New.dll
+2022-08-04 10:58:46.663473 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-08-04 10:58:46.663473 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-08-04 10:58:46.663473 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-08-04 10:58:46.663473 ; PluginManager  ; Debug       ; Found version 1.2.6+ef0ad804   of OpenTap.VSSdk.Installer.dll
+2022-08-04 10:58:46.663473 ; PluginManager  ; Debug       ; Searched 38 Assemblies. [496 ms]
+2022-08-04 10:58:46.679508 ; PluginManager  ; Debug       ; Loaded OpenTap. [2.53 ms]
+2022-08-04 10:58:46.788858 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [14.1 ms]
+2022-08-04 10:58:46.888813 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [65.9 ms]
+2022-08-04 10:58:46.914815 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [80.8 ms]
+2022-08-04 10:58:46.953712 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [13.6 ms]
+2022-08-04 10:58:47.103313 ; PluginManager  ; Debug       ; Loaded mscorlib. [1.00 us]
+2022-08-04 10:58:47.361622 ; Settings       ; Debug       ; EditorSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [912 ms]
+2022-08-04 10:58:47.589014 ; GUI            ; Debug       ; Loaded Light Theme. [21.3 ms]
+2022-08-04 10:58:47.610954 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2022-08-04 10:58:47.935282 ; Settings       ; Debug       ; GuiControlsSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [168 ms]
+2022-08-04 10:58:47.935282 ; Main           ; Debug       ; Window initial dimensions: 1934px, 1054px.
+2022-08-04 10:58:47.976655 ; Settings       ; Debug       ; EngineSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Engine.xml [39.0 ms]
+2022-08-04 10:58:47.983641 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [1.86 ms]
+2022-08-04 10:58:48.036057 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2022-08-04 10-58-47.txt'. [31.4 ms]
+2022-08-04 10:58:48.465631 ; Main           ; Debug       ; GUI initialized. [536 ms]
+2022-08-04 10:58:48.465631 ; Main           ; Debug       ; Docking manager initialized. [60.7 us]
+2022-08-04 10:58:48.465631 ; OpenTAP        ; Information ; OpenTAP version '9.17.4+ea67c63a' 64-bit initialized 08/04/2022 [2.87 s]
+2022-08-04 10:58:48.511662 ; PluginManager  ; Debug       ; Loaded PackageManager. [368 us]
+2022-08-04 10:58:48.511662 ; PluginManager  ; Debug       ; Loaded Editor. [26.1 us]
+2022-08-04 10:58:48.527286 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [7.91 ms]
+2022-08-04 10:58:48.542907 ; PluginManager  ; Debug       ; Loaded RunExplorer. [8.46 ms]
+2022-08-04 10:58:48.542907 ; Settings       ; Debug       ; ConnectionSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Connections.xml [1.30 ms]
+2022-08-04 10:58:48.542907 ; Settings       ; Debug       ; DutSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\DUTs.xml [567 us]
+2022-08-04 10:58:48.558526 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.LedsGo. [10.6 ms]
+2022-08-04 10:58:48.558526 ; Settings       ; Debug       ; InstrumentSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Bench\Default\Instruments.xml [23.1 ms]
+2022-08-04 10:58:48.558526 ; Settings       ; Debug       ; ResultSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Results.xml [650 us]
+2022-08-04 10:58:49.006076 ; Main           ; Information ; Latest version of 'Keysight Licensing' is 1.2, your version is 1.1. Please consider updating. [528 ms]
+2022-08-04 10:58:49.006076 ; Main           ; Information ; Latest version of 'OpenTAP' is 9.18, your version is 9.17. Please consider updating. [528 ms]
+2022-08-04 10:58:49.006076 ; Main           ; Debug       ; Update check complete. [528 ms]
+2022-08-04 10:58:49.979037 ; Settings       ; Debug       ; PanelSettings loaded from C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [1.90 ms]
+2022-08-04 10:58:51.037933 ; Main           ; Debug       ; Application startup finished. [5.44 s]
+2022-08-04 10:58:54.937439 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:54.942426 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:54, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.015231 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.49 ms]
+2022-08-04 10:58:55.026202 ; Settings       ; Debug       ; No settings file exists for TestPlanRunPackageParameterMonitor. A new instance with default values has been created. [186 us]
+2022-08-04 10:58:55.140895 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.22 ms]
+2022-08-04 10:58:55.140895 ; TestPlan       ; Debug       ; Test step runs finished. [11.8 us]
+2022-08-04 10:58:55.156851 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:54 ----
+2022-08-04 10:58:55.156851 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.157848 ; Summary        ; Information ; ------- Test plan completed successfully in 119 ms -------
+2022-08-04 10:58:55.173806 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.173806 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.176799 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.34 ms]
+2022-08-04 10:58:55.180792 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [3.50 us]
+2022-08-04 10:58:55.180792 ; TestPlan       ; Debug       ; Test step runs finished. [600 ns]
+2022-08-04 10:58:55.180792 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.180792 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.180792 ; Summary        ; Information ; ------ Test plan completed successfully in 6.69 ms -------
+2022-08-04 10:58:55.204724 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.204724 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.207717 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.78 ms]
+2022-08-04 10:58:55.208714 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.29 us]
+2022-08-04 10:58:55.208714 ; TestPlan       ; Debug       ; Test step runs finished. [700 ns]
+2022-08-04 10:58:55.208714 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.208714 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.208714 ; Summary        ; Information ; ------ Test plan completed successfully in 3.79 ms -------
+2022-08-04 10:58:55.219685 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.219685 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.222675 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.16 ms]
+2022-08-04 10:58:55.225670 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.80 us]
+2022-08-04 10:58:55.225670 ; TestPlan       ; Debug       ; Test step runs finished. [700 ns]
+2022-08-04 10:58:55.225670 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.225670 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.225670 ; Summary        ; Information ; ------ Test plan completed successfully in 5.12 ms -------
+2022-08-04 10:58:55.242624 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.242624 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.245615 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.22 ms]
+2022-08-04 10:58:55.247609 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [3.50 us]
+2022-08-04 10:58:55.247609 ; TestPlan       ; Debug       ; Test step runs finished. [700 ns]
+2022-08-04 10:58:55.247609 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.247609 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.247609 ; Summary        ; Information ; ------ Test plan completed successfully in 4.90 ms -------
+2022-08-04 10:58:55.258580 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.258580 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.261572 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.19 ms]
+2022-08-04 10:58:55.262571 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.90 us]
+2022-08-04 10:58:55.262571 ; TestPlan       ; Debug       ; Test step runs finished. [600 ns]
+2022-08-04 10:58:55.262571 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.262571 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.262571 ; Summary        ; Information ; ------ Test plan completed successfully in 3.12 ms -------
+2022-08-04 10:58:55.273541 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.274538 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.276532 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.35 ms]
+2022-08-04 10:58:55.284511 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.10 us]
+2022-08-04 10:58:55.284511 ; TestPlan       ; Debug       ; Test step runs finished. [500 ns]
+2022-08-04 10:58:55.284511 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.284511 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.284511 ; Summary        ; Information ; ------ Test plan completed successfully in 10.4 ms -------
+2022-08-04 10:58:55.294136 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.295134 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.298125 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.66 ms]
+2022-08-04 10:58:55.298125 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [73.7 us]
+2022-08-04 10:58:55.298125 ; TestPlan       ; Debug       ; Test step runs finished. [600 ns]
+2022-08-04 10:58:55.298125 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.298125 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.298125 ; Summary        ; Information ; ------ Test plan completed successfully in 3.25 ms -------
+2022-08-04 10:58:55.329043 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.330039 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.332035 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.43 ms]
+2022-08-04 10:58:55.348990 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.10 us]
+2022-08-04 10:58:55.348990 ; TestPlan       ; Debug       ; Test step runs finished. [600 ns]
+2022-08-04 10:58:55.348990 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.348990 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.348990 ; Summary        ; Information ; ------ Test plan completed successfully in 18.6 ms -------
+2022-08-04 10:58:55.358963 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.358963 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.360957 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.76 ms]
+2022-08-04 10:58:55.364949 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [6.20 us]
+2022-08-04 10:58:55.364949 ; TestPlan       ; Debug       ; Test step runs finished. [1.60 us]
+2022-08-04 10:58:55.364949 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.364949 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.364949 ; Summary        ; Information ; ------ Test plan completed successfully in 5.50 ms -------
+2022-08-04 10:58:55.373923 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.374919 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.376915 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.00 ms]
+2022-08-04 10:58:55.377911 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.40 us]
+2022-08-04 10:58:55.377911 ; TestPlan       ; Debug       ; Test step runs finished. [700 ns]
+2022-08-04 10:58:55.377911 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.377911 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.377911 ; Summary        ; Information ; ------ Test plan completed successfully in 2.74 ms -------
+2022-08-04 10:58:55.388884 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.388884 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.390879 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.08 ms]
+2022-08-04 10:58:55.394868 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.40 us]
+2022-08-04 10:58:55.394868 ; TestPlan       ; Debug       ; Test step runs finished. [600 ns]
+2022-08-04 10:58:55.394868 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.394868 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.394868 ; Summary        ; Information ; ------ Test plan completed successfully in 5.57 ms -------
+2022-08-04 10:58:55.404840 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.404840 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.406835 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.02 ms]
+2022-08-04 10:58:55.407831 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [1.80 us]
+2022-08-04 10:58:55.407831 ; TestPlan       ; Debug       ; Test step runs finished. [600 ns]
+2022-08-04 10:58:55.407831 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.407831 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.407831 ; Summary        ; Information ; ------ Test plan completed successfully in 2.67 ms -------
+2022-08-04 10:58:55.417805 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.417805 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.419800 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.85 ms]
+2022-08-04 10:58:55.420796 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [1.50 us]
+2022-08-04 10:58:55.420796 ; TestPlan       ; Debug       ; Test step runs finished. [400 ns]
+2022-08-04 10:58:55.420796 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.420796 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.420796 ; Summary        ; Information ; ------ Test plan completed successfully in 2.88 ms -------
+2022-08-04 10:58:55.448724 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.448724 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.450719 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.97 ms]
+2022-08-04 10:58:55.459694 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.60 us]
+2022-08-04 10:58:55.459694 ; TestPlan       ; Debug       ; Test step runs finished. [600 ns]
+2022-08-04 10:58:55.459694 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.459694 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.459694 ; Summary        ; Information ; ------ Test plan completed successfully in 11.0 ms -------
+2022-08-04 10:58:55.473657 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.473657 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.476648 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.07 ms]
+2022-08-04 10:58:55.486620 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.20 us]
+2022-08-04 10:58:55.486620 ; TestPlan       ; Debug       ; Test step runs finished. [600 ns]
+2022-08-04 10:58:55.486620 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.486620 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.486620 ; Summary        ; Information ; ------ Test plan completed successfully in 12.5 ms -------
+2022-08-04 10:58:55.496598 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.497591 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.499586 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.95 ms]
+2022-08-04 10:58:55.500583 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [3.70 us]
+2022-08-04 10:58:55.500583 ; TestPlan       ; Debug       ; Test step runs finished. [400 ns]
+2022-08-04 10:58:55.500583 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.500583 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.500583 ; Summary        ; Information ; ------ Test plan completed successfully in 2.82 ms -------
+2022-08-04 10:58:55.509560 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.510556 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.513553 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.70 ms]
+2022-08-04 10:58:55.517544 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.70 us]
+2022-08-04 10:58:55.517544 ; TestPlan       ; Debug       ; Test step runs finished. [600 ns]
+2022-08-04 10:58:55.517544 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.517544 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.517544 ; Summary        ; Information ; ------ Test plan completed successfully in 7.47 ms -------
+2022-08-04 10:58:55.530504 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.531514 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.533497 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.31 ms]
+2022-08-04 10:58:55.536488 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [3.00 us]
+2022-08-04 10:58:55.536488 ; TestPlan       ; Debug       ; Test step runs finished. [700 ns]
+2022-08-04 10:58:55.536488 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.536488 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.536488 ; Summary        ; Information ; ------ Test plan completed successfully in 4.74 ms -------
+2022-08-04 10:58:55.549464 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.549464 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.551447 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.12 ms]
+2022-08-04 10:58:55.552446 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [1.90 us]
+2022-08-04 10:58:55.552446 ; TestPlan       ; Debug       ; Test step runs finished. [500 ns]
+2022-08-04 10:58:55.552446 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.552446 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.552446 ; Summary        ; Information ; ------ Test plan completed successfully in 2.99 ms -------
+2022-08-04 10:58:55.564415 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.564415 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.567407 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.80 ms]
+2022-08-04 10:58:55.568403 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [7.70 us]
+2022-08-04 10:58:55.568403 ; TestPlan       ; Debug       ; Test step runs finished. [600 ns]
+2022-08-04 10:58:55.568403 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.568403 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.568403 ; Summary        ; Information ; ------ Test plan completed successfully in 3.26 ms -------
+2022-08-04 10:58:55.580375 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.580375 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.582365 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.77 ms]
+2022-08-04 10:58:55.583362 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.40 us]
+2022-08-04 10:58:55.583362 ; TestPlan       ; Debug       ; Test step runs finished. [700 ns]
+2022-08-04 10:58:55.583362 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.583362 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.583362 ; Summary        ; Information ; ------ Test plan completed successfully in 2.59 ms -------
+2022-08-04 10:58:55.593336 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.594334 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.596328 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.09 ms]
+2022-08-04 10:58:55.598322 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.20 us]
+2022-08-04 10:58:55.598322 ; TestPlan       ; Debug       ; Test step runs finished. [500 ns]
+2022-08-04 10:58:55.598322 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.598322 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.598322 ; Summary        ; Information ; ------ Test plan completed successfully in 3.82 ms -------
+2022-08-04 10:58:55.609293 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.609293 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.656481 ; TestPlan       ; Debug       ; Saved Test Plan XML [47.0 ms]
+2022-08-04 10:58:55.659473 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.50 us]
+2022-08-04 10:58:55.659473 ; TestPlan       ; Debug       ; Test step runs finished. [600 ns]
+2022-08-04 10:58:55.660470 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.660470 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.660470 ; Summary        ; Information ; ------ Test plan completed successfully in 50.3 ms -------
+2022-08-04 10:58:55.671441 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.671441 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.673437 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.57 ms]
+2022-08-04 10:58:55.680417 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.90 us]
+2022-08-04 10:58:55.681414 ; TestPlan       ; Debug       ; Test step runs finished. [600 ns]
+2022-08-04 10:58:55.681414 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.681414 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.681414 ; Summary        ; Information ; ------ Test plan completed successfully in 9.00 ms -------
+2022-08-04 10:58:55.692388 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.693383 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.695378 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.49 ms]
+2022-08-04 10:58:55.699367 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [4.90 us]
+2022-08-04 10:58:55.699367 ; TestPlan       ; Debug       ; Test step runs finished. [900 ns]
+2022-08-04 10:58:55.699367 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.699367 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.699367 ; Summary        ; Information ; ------ Test plan completed successfully in 5.86 ms -------
+2022-08-04 10:58:55.722309 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.723303 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.725297 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.97 ms]
+2022-08-04 10:58:55.738262 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.29 us]
+2022-08-04 10:58:55.738262 ; TestPlan       ; Debug       ; Test step runs finished. [900 ns]
+2022-08-04 10:58:55.738262 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.738262 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.738262 ; Summary        ; Information ; ------ Test plan completed successfully in 15.3 ms -------
+2022-08-04 10:58:55.751229 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.751229 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.753223 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.19 ms]
+2022-08-04 10:58:55.755218 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.60 us]
+2022-08-04 10:58:55.755218 ; TestPlan       ; Debug       ; Test step runs finished. [1.30 us]
+2022-08-04 10:58:55.755218 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.755218 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.755218 ; Summary        ; Information ; ------ Test plan completed successfully in 3.95 ms -------
+2022-08-04 10:58:55.767185 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.768183 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.770179 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.41 ms]
+2022-08-04 10:58:55.772172 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.20 us]
+2022-08-04 10:58:55.772172 ; TestPlan       ; Debug       ; Test step runs finished. [500 ns]
+2022-08-04 10:58:55.772172 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.772172 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.772172 ; Summary        ; Information ; ------ Test plan completed successfully in 4.22 ms -------
+2022-08-04 10:58:55.786134 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.786134 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.788135 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.84 ms]
+2022-08-04 10:58:55.789127 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.40 us]
+2022-08-04 10:58:55.789127 ; TestPlan       ; Debug       ; Test step runs finished. [900 ns]
+2022-08-04 10:58:55.789127 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.789127 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.789127 ; Summary        ; Information ; ------ Test plan completed successfully in 2.79 ms -------
+2022-08-04 10:58:55.799099 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.799099 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.801094 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.97 ms]
+2022-08-04 10:58:55.805084 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [10.4 us]
+2022-08-04 10:58:55.805084 ; TestPlan       ; Debug       ; Test step runs finished. [600 ns]
+2022-08-04 10:58:55.805084 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.805084 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.805084 ; Summary        ; Information ; ------ Test plan completed successfully in 5.78 ms -------
+2022-08-04 10:58:55.816055 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.816055 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.819046 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.09 ms]
+2022-08-04 10:58:55.820044 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.00 us]
+2022-08-04 10:58:55.820044 ; TestPlan       ; Debug       ; Test step runs finished. [500 ns]
+2022-08-04 10:58:55.820044 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.820044 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.820044 ; Summary        ; Information ; ------ Test plan completed successfully in 3.21 ms -------
+2022-08-04 10:58:55.830017 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.830017 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.833009 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.01 ms]
+2022-08-04 10:58:55.834007 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.20 us]
+2022-08-04 10:58:55.834007 ; TestPlan       ; Debug       ; Test step runs finished. [700 ns]
+2022-08-04 10:58:55.834007 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.834007 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.834007 ; Summary        ; Information ; ------ Test plan completed successfully in 3.69 ms -------
+2022-08-04 10:58:55.844977 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.844977 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.848973 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.01 ms]
+2022-08-04 10:58:55.864924 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.80 us]
+2022-08-04 10:58:55.864924 ; TestPlan       ; Debug       ; Test step runs finished. [700 ns]
+2022-08-04 10:58:55.864924 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.864924 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.864924 ; Summary        ; Information ; ------ Test plan completed successfully in 19.4 ms -------
+2022-08-04 10:58:55.874898 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.874898 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.876892 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.88 ms]
+2022-08-04 10:58:55.882877 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [4.20 us]
+2022-08-04 10:58:55.882877 ; TestPlan       ; Debug       ; Test step runs finished. [700 ns]
+2022-08-04 10:58:55.882877 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.882877 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.882877 ; Summary        ; Information ; ------ Test plan completed successfully in 7.35 ms -------
+2022-08-04 10:58:55.895840 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.895840 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.898833 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.54 ms]
+2022-08-04 10:58:55.899831 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.00 us]
+2022-08-04 10:58:55.899831 ; TestPlan       ; Debug       ; Test step runs finished. [500 ns]
+2022-08-04 10:58:55.899831 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.899831 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.899831 ; Summary        ; Information ; ------ Test plan completed successfully in 3.18 ms -------
+2022-08-04 10:58:55.909809 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.909809 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.911798 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.11 ms]
+2022-08-04 10:58:55.914797 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [5.40 us]
+2022-08-04 10:58:55.914797 ; TestPlan       ; Debug       ; Test step runs finished. [900 ns]
+2022-08-04 10:58:55.914797 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.914797 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.914797 ; Summary        ; Information ; ------ Test plan completed successfully in 5.04 ms -------
+2022-08-04 10:58:55.924764 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.924764 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.927756 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.19 ms]
+2022-08-04 10:58:55.928753 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.10 us]
+2022-08-04 10:58:55.928753 ; TestPlan       ; Debug       ; Test step runs finished. [700 ns]
+2022-08-04 10:58:55.928753 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.928753 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.928753 ; Summary        ; Information ; ------ Test plan completed successfully in 3.49 ms -------
+2022-08-04 10:58:55.977241 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:55.978240 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:55, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:55.982229 ; TestPlan       ; Debug       ; Saved Test Plan XML [3.57 ms]
+2022-08-04 10:58:55.992201 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.00 us]
+2022-08-04 10:58:55.992201 ; TestPlan       ; Debug       ; Test step runs finished. [3.20 us]
+2022-08-04 10:58:55.992201 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:55 ----
+2022-08-04 10:58:55.992201 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:55.992201 ; Summary        ; Information ; ------ Test plan completed successfully in 14.2 ms -------
+2022-08-04 10:58:56.006165 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.006165 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.008158 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.89 ms]
+2022-08-04 10:58:56.017135 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.10 us]
+2022-08-04 10:58:56.017135 ; TestPlan       ; Debug       ; Test step runs finished. [500 ns]
+2022-08-04 10:58:56.017135 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.017135 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.017135 ; Summary        ; Information ; ------ Test plan completed successfully in 11.5 ms -------
+2022-08-04 10:58:56.027108 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.027108 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.038080 ; TestPlan       ; Debug       ; Saved Test Plan XML [10.4 ms]
+2022-08-04 10:58:56.039076 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [1.60 us]
+2022-08-04 10:58:56.039076 ; TestPlan       ; Debug       ; Test step runs finished. [1.00 us]
+2022-08-04 10:58:56.039076 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.039076 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.039076 ; Summary        ; Information ; ------ Test plan completed successfully in 11.6 ms -------
+2022-08-04 10:58:56.050047 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.050047 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.052042 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.91 ms]
+2022-08-04 10:58:56.053043 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.00 us]
+2022-08-04 10:58:56.053043 ; TestPlan       ; Debug       ; Test step runs finished. [600 ns]
+2022-08-04 10:58:56.053043 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.053043 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.053043 ; Summary        ; Information ; ------ Test plan completed successfully in 2.68 ms -------
+2022-08-04 10:58:56.064009 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.064009 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.066003 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.86 ms]
+2022-08-04 10:58:56.067000 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [1.80 us]
+2022-08-04 10:58:56.067000 ; TestPlan       ; Debug       ; Test step runs finished. [700 ns]
+2022-08-04 10:58:56.067000 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.067000 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.067000 ; Summary        ; Information ; ------ Test plan completed successfully in 2.87 ms -------
+2022-08-04 10:58:56.076975 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.076975 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.078970 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.38 ms]
+2022-08-04 10:58:56.080966 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.20 us]
+2022-08-04 10:58:56.080966 ; TestPlan       ; Debug       ; Test step runs finished. [500 ns]
+2022-08-04 10:58:56.080966 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.080966 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.080966 ; Summary        ; Information ; ------ Test plan completed successfully in 3.99 ms -------
+2022-08-04 10:58:56.090939 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.090939 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.092933 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.04 ms]
+2022-08-04 10:58:56.093928 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [1.50 us]
+2022-08-04 10:58:56.093928 ; TestPlan       ; Debug       ; Test step runs finished. [400 ns]
+2022-08-04 10:58:56.093928 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.093928 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.093928 ; Summary        ; Information ; ------ Test plan completed successfully in 3.01 ms -------
+2022-08-04 10:58:56.103905 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.103905 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.105897 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.97 ms]
+2022-08-04 10:58:56.106895 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.40 us]
+2022-08-04 10:58:56.106895 ; TestPlan       ; Debug       ; Test step runs finished. [1.00 us]
+2022-08-04 10:58:56.106895 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.106895 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.106895 ; Summary        ; Information ; ------ Test plan completed successfully in 2.78 ms -------
+2022-08-04 10:58:56.120858 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.120858 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.122852 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.24 ms]
+2022-08-04 10:58:56.123858 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.40 us]
+2022-08-04 10:58:56.123858 ; TestPlan       ; Debug       ; Test step runs finished. [900 ns]
+2022-08-04 10:58:56.123858 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.123858 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.124846 ; Summary        ; Information ; ------ Test plan completed successfully in 3.17 ms -------
+2022-08-04 10:58:56.135819 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.135819 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.137813 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.11 ms]
+2022-08-04 10:58:56.139808 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [3.90 us]
+2022-08-04 10:58:56.139808 ; TestPlan       ; Debug       ; Test step runs finished. [500 ns]
+2022-08-04 10:58:56.139808 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.139808 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.139808 ; Summary        ; Information ; ------ Test plan completed successfully in 3.56 ms -------
+2022-08-04 10:58:56.149779 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.150778 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.152772 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.18 ms]
+2022-08-04 10:58:56.153769 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.40 us]
+2022-08-04 10:58:56.153769 ; TestPlan       ; Debug       ; Test step runs finished. [1.00 us]
+2022-08-04 10:58:56.153769 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.153769 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.153769 ; Summary        ; Information ; ------ Test plan completed successfully in 3.27 ms -------
+2022-08-04 10:58:56.164739 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.164739 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.166735 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.01 ms]
+2022-08-04 10:58:56.167733 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [1.80 us]
+2022-08-04 10:58:56.167733 ; TestPlan       ; Debug       ; Test step runs finished. [500 ns]
+2022-08-04 10:58:56.167733 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.167733 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.167733 ; Summary        ; Information ; ------ Test plan completed successfully in 2.99 ms -------
+2022-08-04 10:58:56.178703 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.178703 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.183689 ; TestPlan       ; Debug       ; Saved Test Plan XML [4.62 ms]
+2022-08-04 10:58:56.185685 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [6.20 us]
+2022-08-04 10:58:56.185685 ; TestPlan       ; Debug       ; Test step runs finished. [1.10 us]
+2022-08-04 10:58:56.185685 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.185685 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.185685 ; Summary        ; Information ; ------ Test plan completed successfully in 6.85 ms -------
+2022-08-04 10:58:56.199646 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.199646 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.214627 ; TestPlan       ; Debug       ; Saved Test Plan XML [14.7 ms]
+2022-08-04 10:58:56.216611 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [3.80 us]
+2022-08-04 10:58:56.216611 ; TestPlan       ; Debug       ; Test step runs finished. [700 ns]
+2022-08-04 10:58:56.216611 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.216611 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.216611 ; Summary        ; Information ; ------ Test plan completed successfully in 16.4 ms -------
+2022-08-04 10:58:56.227572 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.227572 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.230565 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.23 ms]
+2022-08-04 10:58:56.232559 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.60 us]
+2022-08-04 10:58:56.232559 ; TestPlan       ; Debug       ; Test step runs finished. [700 ns]
+2022-08-04 10:58:56.232559 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.232559 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.232559 ; Summary        ; Information ; ------ Test plan completed successfully in 4.85 ms -------
+2022-08-04 10:58:56.242532 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.243529 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.245525 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.23 ms]
+2022-08-04 10:58:56.248521 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [3.10 us]
+2022-08-04 10:58:56.248521 ; TestPlan       ; Debug       ; Test step runs finished. [600 ns]
+2022-08-04 10:58:56.248521 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.248521 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.248521 ; Summary        ; Information ; ------ Test plan completed successfully in 5.05 ms -------
+2022-08-04 10:58:56.292169 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.292169 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.294162 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.83 ms]
+2022-08-04 10:58:56.307132 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.60 us]
+2022-08-04 10:58:56.307132 ; TestPlan       ; Debug       ; Test step runs finished. [700 ns]
+2022-08-04 10:58:56.307132 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.307132 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.307132 ; Summary        ; Information ; ------ Test plan completed successfully in 14.5 ms -------
+2022-08-04 10:58:56.318097 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.319094 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.321090 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.07 ms]
+2022-08-04 10:58:56.322087 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [1.70 us]
+2022-08-04 10:58:56.322087 ; TestPlan       ; Debug       ; Test step runs finished. [500 ns]
+2022-08-04 10:58:56.322087 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.322087 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.322087 ; Summary        ; Information ; ------ Test plan completed successfully in 2.84 ms -------
+2022-08-04 10:58:56.333058 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.333058 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.335052 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.12 ms]
+2022-08-04 10:58:56.336050 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [1.90 us]
+2022-08-04 10:58:56.336050 ; TestPlan       ; Debug       ; Test step runs finished. [500 ns]
+2022-08-04 10:58:56.336050 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.336050 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.337047 ; Summary        ; Information ; ------ Test plan completed successfully in 3.18 ms -------
+2022-08-04 10:58:56.346025 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.346025 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.349015 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.07 ms]
+2022-08-04 10:58:56.350012 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [1.70 us]
+2022-08-04 10:58:56.350012 ; TestPlan       ; Debug       ; Test step runs finished. [400 ns]
+2022-08-04 10:58:56.350012 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.350012 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.350012 ; Summary        ; Information ; ------ Test plan completed successfully in 3.59 ms -------
+2022-08-04 10:58:56.359985 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.359985 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.362978 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.54 ms]
+2022-08-04 10:58:56.366970 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [8.10 us]
+2022-08-04 10:58:56.366970 ; TestPlan       ; Debug       ; Test step runs finished. [700 ns]
+2022-08-04 10:58:56.366970 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.366970 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.366970 ; Summary        ; Information ; ------ Test plan completed successfully in 6.40 ms -------
+2022-08-04 10:58:56.376940 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.376940 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.378934 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.05 ms]
+2022-08-04 10:58:56.380930 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.10 us]
+2022-08-04 10:58:56.380930 ; TestPlan       ; Debug       ; Test step runs finished. [700 ns]
+2022-08-04 10:58:56.380930 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.380930 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.380930 ; Summary        ; Information ; ------ Test plan completed successfully in 3.12 ms -------
+2022-08-04 10:58:56.389905 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.390903 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.392897 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.26 ms]
+2022-08-04 10:58:56.394895 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.29 us]
+2022-08-04 10:58:56.394895 ; TestPlan       ; Debug       ; Test step runs finished. [700 ns]
+2022-08-04 10:58:56.394895 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.394895 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.394895 ; Summary        ; Information ; ------ Test plan completed successfully in 4.17 ms -------
+2022-08-04 10:58:56.406861 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.406861 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.408856 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.30 ms]
+2022-08-04 10:58:56.410850 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.40 us]
+2022-08-04 10:58:56.410850 ; TestPlan       ; Debug       ; Test step runs finished. [900 ns]
+2022-08-04 10:58:56.410850 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.410850 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.410850 ; Summary        ; Information ; ------ Test plan completed successfully in 3.65 ms -------
+2022-08-04 10:58:56.422818 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.422818 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.425811 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.60 ms]
+2022-08-04 10:58:56.428802 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [3.30 us]
+2022-08-04 10:58:56.428802 ; TestPlan       ; Debug       ; Test step runs finished. [1.10 us]
+2022-08-04 10:58:56.428802 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.428802 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.428802 ; Summary        ; Information ; ------ Test plan completed successfully in 5.47 ms -------
+2022-08-04 10:58:56.440769 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.441768 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.443761 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.06 ms]
+2022-08-04 10:58:56.444759 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [3.40 us]
+2022-08-04 10:58:56.444759 ; TestPlan       ; Debug       ; Test step runs finished. [1.10 us]
+2022-08-04 10:58:56.444759 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.444759 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.444759 ; Summary        ; Information ; ------ Test plan completed successfully in 3.49 ms -------
+2022-08-04 10:58:56.456726 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.456726 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.458721 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.04 ms]
+2022-08-04 10:58:56.459719 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.10 us]
+2022-08-04 10:58:56.459719 ; TestPlan       ; Debug       ; Test step runs finished. [500 ns]
+2022-08-04 10:58:56.459719 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.459719 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.459719 ; Summary        ; Information ; ------ Test plan completed successfully in 3.04 ms -------
+2022-08-04 10:58:56.471688 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.471688 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.473681 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.25 ms]
+2022-08-04 10:58:56.478670 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.40 us]
+2022-08-04 10:58:56.478670 ; TestPlan       ; Debug       ; Test step runs finished. [1.30 us]
+2022-08-04 10:58:56.478670 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.478670 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.478670 ; Summary        ; Information ; ------ Test plan completed successfully in 6.49 ms -------
+2022-08-04 10:58:56.491633 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.491633 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.494626 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.40 ms]
+2022-08-04 10:58:56.511579 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [3.40 us]
+2022-08-04 10:58:56.511579 ; TestPlan       ; Debug       ; Test step runs finished. [700 ns]
+2022-08-04 10:58:56.511579 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.511579 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.511579 ; Summary        ; Information ; ------ Test plan completed successfully in 19.5 ms -------
+2022-08-04 10:58:56.522551 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.523548 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.525543 ; TestPlan       ; Debug       ; Saved Test Plan XML [2.04 ms]
+2022-08-04 10:58:56.526540 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [2.10 us]
+2022-08-04 10:58:56.526540 ; TestPlan       ; Debug       ; Test step runs finished. [3.20 us]
+2022-08-04 10:58:56.526540 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.526540 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.526540 ; Summary        ; Information ; ------ Test plan completed successfully in 3.18 ms -------
+2022-08-04 10:58:56.536513 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-08-04 10:58:56.536513 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 08/04/2022 10:58:56, 0 of 0 TestSteps enabled.
+2022-08-04 10:58:56.538507 ; TestPlan       ; Debug       ; Saved Test Plan XML [1.93 ms]
+2022-08-04 10:58:56.539505 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [3.70 us]
+2022-08-04 10:58:56.539505 ; TestPlan       ; Debug       ; Test step runs finished. [600 ns]
+2022-08-04 10:58:56.539505 ; Summary        ; Information ; ---- Summary of test plan started 08/04/2022 10:58:56 ----
+2022-08-04 10:58:56.539505 ; Summary        ; Information ; ----------------------------------------------------------
+2022-08-04 10:58:56.539505 ; Summary        ; Information ; ------ Test plan completed successfully in 2.95 ms -------
+2022-08-04 10:59:09.337150 ; Settings       ; Debug       ; Saved GuiControlsSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Controls.xml [10.1 ms]
+2022-08-04 10:59:09.349118 ; Settings       ; Debug       ; Saved PanelSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\GUI Panels.xml [1.07 ms]
+2022-08-04 10:59:09.351114 ; Settings       ; Debug       ; Saved EditorSettings to C:\Engineering\Projecten\LedsGo\versie6Stroom\OpenTap.Plugins.LedsGo\OpenTap.Plugins.LedsGo\bin\Debug\Settings\Editor.xml [1.87 ms]
